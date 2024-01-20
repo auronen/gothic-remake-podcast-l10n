@@ -1,0 +1,871 @@
+1
+00:00:25,210 --> 00:00:30,270
+Xardas: Rozdział 1
+
+2
+00:00:30,270 --> 00:00:38,000
+Kai: Gdzie on jest? Mieliśmy się spotkać w miejscu wymiany, a jego nie ma.
+
+3
+00:00:40,000 --> 00:00:44,070
+Kai: Reinhard? REINHARD?
+
+4
+00:00:46,100 --> 00:00:49,000
+Kai: No nic. Cześć wszystkim, zapraszam na…
+
+5
+00:00:49,000 --> 00:00:50,180
+Kai: Co jest?!
+
+6
+00:00:52,090 --> 00:00:58,090
+Reinhard: Już jestem.
+
+7
+00:00:58,090 --> 00:01:02,170
+Kai: Na Khorinis, czemu wskoczyłeś do wody? Mogłeś wejść drzwiami służbowymi.
+
+8
+00:01:03,060 --> 00:01:05,230
+Reinhard: Wiem, ale uwielbiam ten skok.
+
+9
+00:01:07,010 --> 00:01:10,100
+Kai: I co teraz? Może jeszcze powiesz, że masz list dla Magów Ognia?
+
+10
+00:01:10,100 --> 00:01:14,260
+Reinhard: Blisko. Tak, mam list, ale dla kogoś innego.
+
+11
+00:01:15,090 --> 00:01:19,280
+Kai: Okej. Skoro już tu jesteś, zacznijmy od początku.
+
+12
+00:01:20,150 --> 00:01:21,130
+Reinhard: Ty pierwszy.
+
+13
+00:01:22,110 --> 00:01:26,130
+Kai: Cześć wszystkim. Zapraszamy na „Podcast o kulisach powstawania Gothic Remake”.
+
+14
+00:01:26,250 --> 00:01:29,010
+Reinhard: Trochę przydługa ta nazwa. Trzeba ją skrócić.
+
+15
+00:01:29,280 --> 00:01:34,060
+Kai: No to „Zakulisowy podcast Gothic Remake”.
+
+16
+00:01:34,060 --> 00:01:35,100
+Reinhard: Okej, już krócej.
+
+17
+00:01:36,210 --> 00:01:41,130
+Kai: Patrz, jest Diego. Nie mogłem się doczekać spotkania z nim. Hej, Diego. Jestem…
+
+18
+00:01:42,000 --> 00:01:50,230
+Diego: Nie interesuje mnie to. [Ale ja…] Jesteś tu nowy, a do mnie należy dbanie o nowych. Na razie to tyle.
+
+19
+00:01:51,040 --> 00:01:55,000
+Reinhard: Dzięki, Diego. Ja się nim zajmę. To Kai Rosenkranz, nasz kompozytor.
+
+20
+00:01:56,000 --> 00:02:03,010
+Reinhard: Ponad 20 lat temu napisał ścieżkę dźwiękową do oryginalnej gry, a teraz wrócił, żeby to powtórzyć przy okazji remake’u Gothica 1.
+
+21
+00:02:03,100 --> 00:02:04,260
+Diego: To bardzo dobrze.
+
+22
+00:02:04,270 --> 00:02:08,170
+Reinhard: No, ma przepustkę personelu. Oprowadzę go.
+
+23
+00:02:08,260 --> 00:02:11,150
+Kai: Właśnie, najwyższy czas, żebym zobaczył nowe plany.
+
+24
+00:02:11,190 --> 00:02:15,020
+Diego: No dobrze… Wydajesz się naprawdę w porządku.
+
+25
+00:02:16,020 --> 00:02:18,160
+Kai: Dziękuję. Chyba… [przerwa]
+
+26
+00:02:18,170 --> 00:02:20,100
+Diego: Idź już! Spotkamy się w Starym Obozie.
+
+27
+00:02:20,250 --> 00:02:21,280
+Kai: Dobrze.
+
+28
+00:02:24,160 --> 00:02:30,070
+Kai: Świetny z niego gość. Dzięki, że mnie przedstawiłeś, Reinhard. Teraz przywitaj się ze słuchaczami.
+
+29
+00:02:31,020 --> 00:02:38,120
+Reinhard: Nazywam się Reinhard Pollice. Jestem reżyserem gry i kierownikiem studia Alkimia Interactive, które odpowiada za remake Gothica 1.
+
+30
+00:02:38,250 --> 00:02:43,190
+Kai: Jesteś też megafanem Gothica i przez wiele lat pracowałeś nad całą serią.
+
+31
+00:02:44,120 --> 00:02:45,230
+Reinhard: Zgadza się.
+
+32
+00:02:46,070 --> 00:02:53,160
+Kai: Wrócimy do tego później. Najpierw skupmy się jeszcze na krótszej nazwie dla podcastu. Co powiesz na „Gothic Remake Podcast”?
+
+33
+00:02:53,260 --> 00:03:01,000
+Reinhard: GRP. Brzmi nieźle. A więc witamy w pierwszym odcinku „Gothic Remake Podcast”.
+
+34
+00:03:09,000 --> 00:03:13,230
+Kai: Tak! Ale super. Ile my się już znamy – jakieś 15 lat?
+
+35
+00:03:14,020 --> 00:03:20,170
+Reinhard: Nawet dłużej. Naszym pierwszym wspólnym projektem był Gothic 3 w 2006 roku. A może zaczęliśmy jeszcze wcześniej?
+
+36
+00:03:20,290 --> 00:03:23,010
+Kai: Pracowałeś wtedy w JoWooD, prawda?
+
+37
+00:03:23,020 --> 00:03:26,130
+Reinhard: Tak! [To…] Wiem.
+
+38
+00:03:27,020 --> 00:03:40,160
+Kai: Jeśli dobrze pamiętam, to ty zorganizowałeś ten fantastyczny kemping dla fanów podczas Games Convention. Swego czasu co roku biwakowałem z fanami Gothica, a ty przekształciłeś te wypady w kemping społecznościowy tuż obok centrum kongresowego.
+
+39
+00:03:41,040 --> 00:03:48,110
+Reinhard: Trochę tak. Ale koniec końców udało się to dzięki JoWooD, a zwłaszcza dzięki Ivanowi Ertlovowi. Specjalne pozdrowienia dla niego.
+
+40
+00:03:48,180 --> 00:03:53,010
+Kai: Znam Ivana! Swój chłop. Czym dokładnie się wtedy zajmowałeś?
+
+41
+00:03:53,130 --> 00:04:01,000
+Reinhard: Właściwie to nie była prawdziwa praca, bo chodziłem jeszcze wtedy do szkoły. W JoWooD pomagałem przy społecznościach, testach beta i wspieraniu gier.
+
+42
+00:04:01,000 --> 00:04:06,270
+Reinhard: Zespół Gothica ds. społeczności był już wtedy dość spory i aktywny, więc pracowałem głównie przy serii Spellforce.
+
+43
+00:04:07,230 --> 00:04:13,040
+Kai: Fajnie. A teraz, ponad dwadzieścia lat po premierze Gothica 1, nagrywamy razem podcast.
+
+44
+00:04:14,100 --> 00:04:15,210
+Reinhard: Czekaj chwilę. [odgłos miażdżenia]
+
+45
+00:04:18,110 --> 00:04:20,000
+Kai: Czy ty właśnie zmiażdżyłeś chrząszcza?
+
+46
+00:04:20,110 --> 00:04:21,100
+Reinhard: Na to wygląda.
+
+47
+00:04:21,250 --> 00:04:25,180
+Kai: Klasyka. Ale dlaczego nagrywamy podcast?
+
+48
+00:04:26,040 --> 00:04:40,000
+Reinhard: Chyba dlatego, że dzięki temu jesteśmy niezależni. Możemy się przechadzać po tym pięknym świecie, gdy ten wciąż powstaje, i rozmawiać o dowolnym aspekcie prac nad grą, nie przejmując się efektami wizualnymi – bo nagrywamy tylko dźwięk.
+
+49
+00:04:40,000 --> 00:04:46,120
+Reinhard: Nie trzeba mieć gotowych zasobów wizualnych. Świat może być jeszcze niedokończony. To wszystko bez znaczenia.
+
+50
+00:04:47,070 --> 00:04:50,090
+Kai: Może nasi słuchacze chcieliby zobaczyć jakieś niegotowe materiały.
+
+51
+00:04:50,090 --> 00:05:00,150
+Reinhard: Na pewno. Będziemy je publikować na YouTubie, naszym kanale na Discordzie, stronie na Steamie… Ale na razie cieszmy się wolnością.
+
+52
+00:05:00,270 --> 00:05:07,020
+Kai: Super. Możemy sobie chodzić, rozmawiać, poznawać ludzi… [odgłos miażdżenia] … miażdżyć chrząszcze.
+
+53
+00:05:08,120 --> 00:05:17,120
+Reinhard: Właśnie. W tym odcinku opowiemy o tym, na czym, naszym zdaniem, polega dobry remake – które aspekty wiernie odzwierciedlić, a gdzie dodać nową zawartość.
+
+54
+00:05:18,110 --> 00:05:19,260
+Kai: Czyli będzie jakaś nowa zawartość?
+
+55
+00:05:20,030 --> 00:05:24,190
+Reinhard: Tak. Chyba już to wiesz, skoro napisałeś nową muzykę.
+
+56
+00:05:24,270 --> 00:05:28,150
+Kai: A tak. Nadmieniam tylko, że teraz już oficjalnie to potwierdziłeś.
+
+57
+00:05:29,040 --> 00:05:39,000
+Reinhard: Ten remake będzie bardzo wiernym odzwierciedleniem oryginalnej gry. Ten sam świat, te same ukochane postacie, ta sama fabuła – w zasadzie wszystko to samo.
+
+58
+00:05:39,000 --> 00:05:42,210
+Reinhard: A jednak tu i tam dodajemy nowe rzeczy, o ile mają uzasadnienie.
+
+59
+00:05:43,150 --> 00:05:44,040
+Kai: Na przykład?
+
+60
+00:05:45,000 --> 00:05:48,000
+Reinhard: Sam zobaczysz. Ale dam ci kilka przykładów.
+
+61
+00:05:48,000 --> 00:05:58,170
+Reinhard: W oryginalnym Gothicu było trochę dziur fabularnych, otwartych wątków, niewykorzystanych kontekstów, a nawet większych niedociągnięć logicznych, które teraz uzupełniamy nowymi pomysłami.
+
+62
+00:05:58,230 --> 00:06:01,170
+Kai: Chwila, chwila. Jakich znowu „niedociągnięć logicznych”?
+
+63
+00:06:01,230 --> 00:06:06,140
+Reinhard: Zaraz, ty nie brałeś udziału w tworzeniu oryginalnej fabuły, prawda?
+
+64
+00:06:07,000 --> 00:06:11,020
+Kai: Nie, nie. Stworzyłem tylko muzykę, efekty dźwiękowe i wizualne. Luzik. Kontynuuj.
+
+65
+00:06:11,250 --> 00:06:20,090
+Reinhard: Okej. W każdym razie jest miejsce na nowe pomysły, które nie zmieniają pierwowzoru. Poczekaj, a zobaczysz. [I usłyszę!] Racja.
+
+66
+00:06:21,090 --> 00:06:26,200
+Kai: A jaki jest twój stosunek do Gothica? Innymi słowy: jak dużym fanem jesteś?
+
+67
+00:06:27,030 --> 00:06:36,270
+Reinhard: Mnóstwo razy grałem w oryginalne gry i urzekła mnie ich surowa atmosfera. Później poświęciłem wiele czasu na pracę nad modyfikacjami i w ten sposób uczyłem się tworzyć gry.
+
+68
+00:06:37,100 --> 00:06:37,240
+Kai: Fajnie.
+
+69
+00:06:38,210 --> 00:06:39,180
+Reinhard: A ty?
+
+70
+00:06:40,060 --> 00:06:45,300
+Kai: W 1998 roku, gdy miałem 18 lat, dołączyłem do Piranha Bytes. Wtedy chodziłem jeszcze do szkoły.
+
+71
+00:06:45,300 --> 00:06:55,000
+Kai: Postanowiłem, że spróbuję swoich sił w tworzeniu gier. Szukałem w okolicy firm z branży, które mógłbym odwiedzić, żeby w ogóle zobaczyć, jak to jest pracować nad grami.
+
+72
+00:06:55,000 --> 00:07:01,000
+Kai: Później się dowiedziałem, że siedziba Piranha Bytes znajduje się w moim mieście rodzinnym, więc tam poszedłem.
+
+73
+00:07:01,100 --> 00:07:03,040
+Reinhard: Byłeś w odpowiednim miejscu w odpowiednim czasie.
+
+74
+00:07:03,050 --> 00:07:12,000
+Kai: Zdecydowanie. I miałem szczęście. Wtedy studio składało się z zaledwie garstki ludzi, którzy pracowali w malutkim pomieszczeniu biurowym, i kilku zewnętrznych programistów.
+
+75
+00:07:12,000 --> 00:07:19,080
+Kai: Parę tygodni później zacząłem pracować nad muzyką do gry i zostałem w Piranha Bytes na 12 lat, pełniąc funkcję kompozytora i projektanta dźwięku.
+
+76
+00:07:20,130 --> 00:07:23,030
+Reinhard: Jaka była ostatnia gra Piranha Bytes, przy której pracowałeś?
+
+77
+00:07:23,120 --> 00:07:24,040
+Kai: Risen 1.
+
+78
+00:07:25,050 --> 00:07:28,060
+Reinhard: A kiedy po raz ostatni grałeś w Gothica 1?
+
+79
+00:07:28,060 --> 00:07:37,200
+Kai: Grałem na żywo na Twitchu jakieś 3-4 lata temu, ale szczerze mówiąc, większą część gry musiałem poznać od nowa. Przez ostatnie 20 lat prawie wszystko zapomniałem.
+
+80
+00:07:37,200 --> 00:07:49,090
+Reinhard: Nie dziwię się. A gdybyś miał wymienić najważniejsze aspekty Gothica – definiujące go cechy – to co byś wybrał? Co jest największą siłą, duszą tej gry?
+
+81
+00:07:49,150 --> 00:08:04,150
+Kai: To poważne pytanie. Po pierwsze: oprawa i klimat. Świat gry jest surowy, brutalny, bezlitosny. Podoba mi się sposób, w jaki zaprezentowano męską kolonię więzienną, z której testosteron aż się wylewa.
+
+82
+00:08:04,150 --> 00:08:12,000
+Kai: Ta gra ma naprawdę surowy, niepowtarzalny charakter, który jest dla mnie ważny. Tu nie ma miejsca na błędy.
+
+83
+00:08:12,000 --> 00:08:13,090
+Reinhard: O tak.
+
+84
+00:08:13,090 --> 00:08:15,070
+Kai: Udźwiękowienie postaci też odgrywa wielką rolę.
+
+85
+00:08:15,090 --> 00:08:16,040
+Reinhard: Na pewno.
+
+86
+00:08:17,140 --> 00:08:26,200
+Kai: Po drugie: żyjący własnym życiem świat, który nie jest tylko sceną gracza. Wszystkie potwory i postacie niezależne muszą się zachowywać wiarygodnie.
+
+87
+00:08:26,200 --> 00:08:38,060
+Kai: Muszą odpowiednio reagować na działania gracza i na to, co się dzieje wokół nich samych. Ten żywy organizm, którym jest świat, trzeba przedstawić w jak najbardziej wiarygodny sposób.
+
+88
+00:08:38,210 --> 00:08:43,280
+Kai: Tak było już w oryginalnym Gothicu, ale my chcemy pójść o krok dalej.
+
+89
+00:08:44,080 --> 00:08:44,230
+Reinhard: Tak.
+
+90
+00:08:46,060 --> 00:08:53,200
+Kai: Po trzecie: poczucie rozwoju i sposób jego przedstawienia. Zaczynasz jako nic nieznacząca osoba, ale twoja postać wcale nie jest słaba.
+
+91
+00:08:53,200 --> 00:09:05,000
+Kai: Bezimienny od samego początku jest takim typem faceta, który potrafi dogryźć i przywalić. A jednak im bardziej rośnie w siłę, tym większe poczucie satysfakcji i spełnienia towarzyszy graczowi.
+
+92
+00:09:05,070 --> 00:09:12,070
+Kai: Widać to po sposobie, w jaki postać trzyma miecz i walczy. Dla mnie poczucie spełnienia ma bardzo duże znaczenie.
+
+93
+00:09:12,240 --> 00:09:15,130
+Reinhard: Ciekawe.
+
+94
+00:09:15,170 --> 00:09:19,040
+Kai: Twoja kolej. Który aspekt jest dla ciebie najważniejszy?
+
+95
+00:09:19,110 --> 00:09:29,000
+Reinhard: Najbardziej lubię żyjący świat i porządek dnia nie tylko postaci niezależnych, ale i potworów. Czuć, że otoczenie żyje i reaguje.
+
+96
+00:09:29,000 --> 00:09:45,110
+Reinhard: Podoba mi się też brak barier. Cały świat stoi przed nami otworem, o ile jesteśmy w stanie się uporać z groźnymi potworami. No i oczywiście ja też lubię ten surowy klimat, te dialogi, te reakcje Bezimiennego i pozostałych postaci… To wszystko jest naprawdę dobrze przemyślane!
+
+97
+00:09:45,210 --> 00:09:46,240
+Kai: Zgadzam się.
+
+98
+00:09:48,090 --> 00:09:51,240
+Reinhard: A teraz wróciliśmy do tego świata i idziemy do Starego Obozu.
+
+99
+00:09:52,220 --> 00:10:01,060
+Kai: I muszę przyznać, że wygląda fenomenalnie – znajomo, trzyma się blisko oryginału, ale jest super! Jakość wizualna powala.
+
+100
+00:10:01,120 --> 00:10:03,210
+Reinhard: Kai, to jest podcast. Nie widać obrazu!
+
+101
+00:10:03,270 --> 00:10:09,070
+Kai: Wiem – ale szkoda, że słuchacze tego nie widzą. Jest i brama, a przed nią Orry.
+
+102
+00:10:09,180 --> 00:10:12,080
+Reinhard: Tak. Ta część świata jest już niemal gotowa.
+
+103
+00:10:12,220 --> 00:10:18,250
+Kai: Jest super. Jak myślisz, ile procent lokacji ze świata gry jest gotowych lub prawie gotowych?
+
+104
+00:10:19,120 --> 00:10:28,200
+Reinhard: Trudno powiedzieć. To wciąż pierwsza iteracja świata, może z wyjątkiem mniejszych lokacji. Przy tym stopniu detali powiedziałbym, że gotowych jest około 50%.
+
+105
+00:10:29,130 --> 00:10:30,270
+Kai: To jeszcze sporo zostało.
+
+106
+00:10:31,070 --> 00:10:36,180
+Reinhard: Tak, ale prace przyspieszą, gdy już ustalimy organizację zadań i aspekty techniczne.
+
+107
+00:10:36,270 --> 00:10:39,140
+Kai: Czy zachowaliście jakieś elementy z grywalnej zapowiedzi?
+
+108
+00:10:39,250 --> 00:10:46,060
+Reinhard: Nie, żadnego – z wyjątkiem kilku surowych zasobów graficznych. Rozpoczęliśmy projekt od zera na Unrealu.
+
+109
+00:10:46,220 --> 00:10:54,250
+Kai: Okej, zanim o tym porozmawiamy, wróćmy do samego początku projektu Gothic Remake. To ty starałeś się przekonać THQ Nordic do tego pomysłu, prawda?
+
+110
+00:10:55,050 --> 00:10:56,130
+Reinhard: Tak, byłem w to zaangażowany.
+
+111
+00:10:57,020 --> 00:11:02,020
+Kai: Czyli można powiedzieć, że wszystko dzięki tobie. Bez ciebie ten projekt by nie istniał.
+
+112
+00:11:02,070 --> 00:11:03,110
+Reinhard: Nie, nie, nie. Ja tylko…
+
+113
+00:11:03,110 --> 00:11:10,260
+Kai: Tak, tak, tak. Wiem, że projekt zrodził się z twojej pasji i że planowałeś się nim zająć od bardzo, bardzo dawna, czekając na dobrą okazję.
+
+114
+00:11:10,260 --> 00:11:16,140
+Kai: Chcę ci podziękować za to, że to umożliwiłeś. [Reinhard burczy.] Nie musisz nic mówić. W porządku.
+
+115
+00:11:17,030 --> 00:11:24,090
+Reinhard: W cały proces było zaangażowanych kilka osób. Ostatecznie remake wydał się nam naturalnym krokiem, biorąc pod uwagę to, że seria była uśpiona przez ponad dziesięć lat.
+
+116
+00:11:24,270 --> 00:11:28,060
+Kai: Jak to wszystko się zaczęło? Kogo musiałeś przekonać i w jaki sposób?
+
+117
+00:11:28,240 --> 00:11:37,200
+Reinhard: W przypadku każdego nowego projektu THQ Nordic obowiązują pewne procedury, ale ponieważ to my wydaliśmy stare gry z serii Gothic, dobrze wiedzieliśmy, jaki drzemie w nich potencjał.
+
+118
+00:11:37,200 --> 00:11:45,230
+Reinhard: Potem jeden krok prowadził do kolejnego i potrzebowaliśmy jakiejś weryfikacji koncepcji dla zespołu – tak powstała grywalna zapowiedź.
+
+119
+00:11:47,000 --> 00:11:53,180
+Kai: Czy od początku planowaliście zaangażować społeczność w proces projektowania i dzielenia się opiniami?
+
+120
+00:11:54,150 --> 00:12:02,150
+Reinhard: Nie w przypadku grywalnej zapowiedzi, ale wiedzieliśmy, że fani Gothica tworzą silną i upartą społeczność, dlatego chcieliśmy, aby byli częścią przedsięwzięcia.
+
+121
+00:12:03,030 --> 00:12:11,230
+Kai: Fajnie. Czym, twoim zdaniem, remake różni się od remastera albo reboota? I co sprawia, że remake jest dobry?
+
+122
+00:12:12,130 --> 00:12:28,050
+Reinhard: To proste. Remake to stworzenie od nowa czegoś, co już istnieje, bez odchodzenia za bardzo od pierwowzoru. Remaster polega na dostosowaniu kodu tak, aby działał na nowoczesnych systemach, i wprowadzeniu do niego wybiórczych zmian.
+
+123
+00:12:28,150 --> 00:12:30,090
+Kai: Czasem też usprawnień wizualnych, prawda?
+
+124
+00:12:30,190 --> 00:12:40,200
+Reinhard: Właśnie. Natomiast przykładem reboota jest to, co zrobiliśmy z grywalną zapowiedzią. Bazuje się na pierwotnym pomyśle, ale podąża się z nim w innych kierunkach.
+
+125
+00:12:40,200 --> 00:12:48,250
+Reinhard: Ten remake stanowi szansę na unowocześnienie gry i rozszerzenie jej tam, gdzie taki zabieg może dodać jakąś wartość.
+
+126
+00:12:49,060 --> 00:12:52,020
+Kai: No to tak dla jasności – robimy remake, prawda?
+
+127
+00:12:52,030 --> 00:12:53,290
+Reinhard: Tak, robimy remake.
+
+128
+00:12:54,290 --> 00:13:04,190
+Kai: Czekaj. Jest i ten zablokowany tunel kopalni z oryginalnej gry. A tu mamy… [odgłos podnoszenia] Tadaa! Naszą pierwszą broń – kilof.
+
+129
+00:13:05,040 --> 00:13:06,180
+Reinhard: Leży tam, gdzie leżał.
+
+130
+00:13:06,230 --> 00:13:13,230
+Kai: Ekstra. Wejście do tunelu jest nadal zablokowane. Planujecie coś tu umieścić czy tak już zostanie?
+
+131
+00:13:14,050 --> 00:13:15,100
+Reinhard: Zobaczymy.
+
+132
+00:13:17,080 --> 00:13:23,000
+Kai: Wspominałeś o grywalnej zapowiedzi. Możesz wyjaśnić, jak wpadliście na ten pomysł i dlaczego wyszło to tak, a nie inaczej?
+
+133
+00:13:23,000 --> 00:13:31,000
+Reinhard: Na początku wcale nie chcieliśmy tego publikować. Chcieliśmy po prostu udowodnić, że ten zespół jest w stanie pracować nad tak dużym projektem.
+
+134
+00:13:31,000 --> 00:13:43,000
+Reinhard: Ale potem sporo nad nim myśleliśmy, aż stał się bardziej rebootem, więc musieliśmy albo sprawdzić, czy to w ogóle ma sens, albo wrócić w bezpieczne rejony.
+
+135
+00:13:43,000 --> 00:13:46,300
+Reinhard: Koniec końców THQ Nordic zasugerowało opublikowanie grywalnej zapowiedzi i poproszenie o opinie.
+
+136
+00:13:47,270 --> 00:13:49,180
+Kai: A te zaczęły wkrótce spływać od fanów.
+
+137
+00:13:50,060 --> 00:13:50,200
+Reinhard: Tak.
+
+138
+00:13:50,210 --> 00:13:54,070
+Kai: W jaki sposób je analizowaliście i czy wyciągnęliście z nich jakieś wnioski?
+
+139
+00:13:54,260 --> 00:14:06,200
+Reinhard: Dostaliśmy jeden wielki arkusz kalkulacyjny z opiniami i przejrzeliśmy go od deski do deski. Najbardziej ciekawe dla mnie było to, jak bardzo opinie na temat niektórych szczegółów się różniły.
+
+140
+00:14:06,200 --> 00:14:11,130
+Reinhard: Fajnie jednak, że w wielu kwestiach społeczność Gothica była zgodna.
+
+141
+00:14:13,010 --> 00:14:14,240
+Kai: Więc postanowiliście zacząć od nowa?
+
+142
+00:14:15,070 --> 00:14:24,080
+Reinhard: Właśnie tak. Przygotowując się do opublikowania grywalnej zapowiedzi, często chodziliśmy na skróty i nie zaprojektowaliśmy jej jako coś trwałego.
+
+143
+00:14:24,080 --> 00:14:36,080
+Reinhard: Jako zespół nigdy wcześniej nie używaliśmy Unreala. Popełniliśmy trochę błędów dotyczących konfiguracji, dlatego przed rozpoczęciem pełnej produkcji chcieliśmy mieć czystą kartę zamiast zgłębiać mnóstwo tajników technologicznych.
+
+144
+00:14:37,130 --> 00:14:42,180
+Kai: Nieźle. Dla jasności – mówiąc „Unreal”, masz na myśli silnik Unreal Engine, tak?
+
+145
+00:14:42,240 --> 00:14:45,040
+Reinhard: Tak, korzystamy z silnika Unreal Engine.
+
+146
+00:14:45,290 --> 00:14:52,020
+Kai: A jak odpowiedziałbyś na takie pytanie: dlaczego mamy zaufać zespołowi odpowiedzialnemu za grywalną zapowiedź?
+
+147
+00:14:53,040 --> 00:15:01,290
+Reinhard: Ponieważ zapoznaliśmy się ze wszystkimi opiniami i na ich podstawie stworzyliśmy dobre rzeczy. Stworzyliśmy wizję zgodną z tym, czego oczekuje społeczność.
+
+148
+00:15:02,290 --> 00:15:03,220
+Kai: Mhm.
+
+149
+00:15:03,260 --> 00:15:06,070
+Reinhard: Sekundkę! Widzisz tamtego kretoszczura?
+
+150
+00:15:06,160 --> 00:15:08,000
+Kai: Jest tam, gdzie zawsze.
+
+151
+00:15:08,000 --> 00:15:22,220
+Reinhard: Patrz. [odgłosy walki i piski]
+
+152
+00:15:23,000 --> 00:15:28,170
+Kai: Nieźle! To wyglądało naprawdę płynnie. Ekstra. To nowy system walki?
+
+153
+00:15:29,030 --> 00:15:39,100
+Reinhard: Tak. Bazuje na systemie z Gothica 1 i przypomina go pod względem natychmiastowych reakcji, różnych ataków, kombinacji. Ma podobny rytm.
+
+154
+00:15:39,100 --> 00:15:46,120
+Reinhard: W pewnym stopniu zmodernizowaliśmy sterowanie i rozgrywkę, ale poszliśmy w zupełnie innym kierunku niż w przypadku grywalnej zapowiedzi.
+
+155
+00:15:46,120 --> 00:15:48,040
+Kai: To bardzo dobrze.
+
+156
+00:15:49,010 --> 00:15:55,010
+Reinhard: Zmodernizowanie sterowania jest najtrudniejsze, ale myślę, że wdrożyliśmy dobre rozwiązania we wszystkich aspektach rozgrywki.
+
+157
+00:15:55,140 --> 00:16:03,020
+Kai: Tak, jestem tego bardzo ciekaw, ale też trochę się tym martwię. Choć muszę przyznać, że wszystko, co dotychczas widziałem, wygląda świetnie.
+
+158
+00:16:04,130 --> 00:16:13,060
+Reinhard: Dobrze, zostawmy tę część podcastu wyobraźni słuchaczy, a porozmawiajmy o innym aspekcie, który pasuje tutaj wręcz idealnie.
+
+159
+00:16:13,170 --> 00:16:14,200
+Kai: Poczytamy kod źródłowy?
+
+160
+00:16:14,260 --> 00:16:18,050
+Reinhard: O tak. Znaczy nie, chodziło mi o twoją muzykę!
+
+161
+00:16:18,130 --> 00:16:24,000
+Kai: A tak. Dotąd napisałem już ponad godzinę nowej muzyki do remake’u Gothica.
+
+162
+00:16:24,100 --> 00:16:25,230
+Reinhard: Posłuchamy trochę?
+
+163
+00:16:26,050 --> 00:16:34,000
+Kai: Pewnie. Jesteśmy teraz na odludziu, na trasie do Starego Obozu. Posłuchajmy fragmentów muzyki, która się tu pojawi.
+
+164
+00:16:34,000 --> 00:17:23,160
+Music: [Muzyka odtwarzana na trasie z miejsca wymiany do Starego Obozu]
+
+165
+00:17:24,120 --> 00:17:28,080
+Reinhard: Super. Słychać, że podstawą jest oryginalna ścieżka dźwiękowa.
+
+166
+00:17:28,150 --> 00:17:31,080
+Kai: Tak. Przyjąłem sobie zasadę trzech części składowych.
+
+167
+00:17:31,220 --> 00:17:33,010
+Reinhard: Na czym ona polega?
+
+168
+00:17:33,200 --> 00:17:41,200
+Kai: W Gothicu 1 nie było wiele muzyki, a jeśli już, to powtarzała się i zapętlała. Więc oryginalną ścieżkę dźwiękową uważam za jedną z trzech części składowych.
+
+169
+00:17:41,200 --> 00:17:51,020
+Kai: Pierwszą częścią są wszystkie melodie i motywy, które były obecne w oryginalnej grze. Zremasterowałem je tylko i zmodernizowałem, aby dobrze brzmiały we współczesnej wersji gry.
+
+170
+00:17:51,180 --> 00:18:02,250
+Kai: Drugą częścią składową są wariacje tych motywów. Da się rozpoznać daną melodię, ale można zauważyć drobne zmiany. Część oryginalnego materiału przearanżowałem, a część nieco wydłużyłem.
+
+171
+00:18:02,250 --> 00:18:12,040
+Kai: Trzecią częścią składową jest zupełnie nowa muzyka. Dodałem między innymi utwory w miejscach w świecie gry, które w oryginale nie miały własnej muzyki.
+
+172
+00:18:12,210 --> 00:18:16,100
+Reinhard: Ma to sens. Może jakaś demonstracja?
+
+173
+00:18:17,030 --> 00:18:21,300
+Kai: Jasne. Teraz posłuchamy nocnej wersji muzyki tego obszaru.
+
+174
+00:18:22,000 --> 00:18:30,000
+Kai: [Odtwarzanie nocnej muzyki]
+
+175
+00:18:31,070 --> 00:18:35,300
+Kai: To zremasterowana wersja oryginalnego motywu – pierwsza część składowa.
+
+176
+00:19:08,000 --> 00:19:11,000
+Kai: A ten fragment jest całkowicie nowy.
+
+177
+00:19:35,230 --> 00:19:40,000
+Kai: To jest druga część składowa, bazująca na tym samym motywie.
+
+178
+00:20:03,050 --> 00:20:05,270
+Reinhard: Wow. Dziękuję, Kai. To bardzo ciekawe.
+
+179
+00:20:06,100 --> 00:20:17,080
+Kai: Dziękuję. Czy do całości gry też macie podobne wytyczne? To znaczy czy planujecie, jak wiele elementów chcecie wiernie odwzorować, a jak wiele dodać lub zmodyfikować?
+
+180
+00:20:17,230 --> 00:20:27,260
+Reinhard: Nie określę tego w procentach, ale plan jest taki, aby trzymać się jak najbliżej tego, czym wyróżniał się pierwowzór. Dotyczy to np. projektu świata, ogólnej mechaniki i fabuły.
+
+181
+00:20:28,130 --> 00:20:36,190
+Kai: Super. Możemy chwilę porozmawiać o tobie? [Okej.] Jaka dokładnie jest twoja rola w tworzeniu remake’u?
+
+182
+00:20:37,050 --> 00:20:40,130
+Reinhard: Jestem reżyserem gry i dyrektorem zarządzającym studia Alkimia.
+
+183
+00:20:41,040 --> 00:20:43,140
+Kai: Jak duży jest twój wpływ kreatywny?
+
+184
+00:20:43,280 --> 00:20:56,090
+Reinhard: Stworzyłem wizję remake’u Gothica i wszystkich jego ważnych funkcji. Teraz skupiamy się na szczegółach dotyczących implementacji, więc nadzoruję prace nad ważnymi funkcjami i zadaniami, np. nad rytmem dnia postaci.
+
+185
+00:20:57,010 --> 00:21:00,090
+Kai: Co jest twoją największą osobistą inspiracją związaną z remakiem?
+
+186
+00:21:00,140 --> 00:21:03,060
+Reinhard: Trudno powiedzieć, jest tego zbyt dużo.
+
+187
+00:21:04,230 --> 00:21:06,240
+Kai: Pochodzisz z Austrii, tak?
+
+188
+00:21:07,100 --> 00:21:12,050
+Reinhard: Zgadza się. Czyli mówię w języku, w którym stworzono Gothica.
+
+189
+00:21:12,150 --> 00:21:17,160
+Kai: A teraz masz własne studio w Barcelonie. Jak się tam znalazłeś? Dlaczego akurat to miasto?
+
+190
+00:21:17,230 --> 00:21:28,170
+Reinhard: Mieszkałem tu przez kilka lat, ale nigdy nie planowałem zakładać tu studia. Odkryłem jednak, że mieszka tutaj mnóstwo zdolnych twórców gier, którzy pracują głównie dla studiów zajmujących się grami mobilnymi.
+
+191
+00:21:29,150 --> 00:21:32,180
+Kai: Jak to się stało, że założyłeś nowe studio w nowym mieście?
+
+192
+00:21:32,230 --> 00:21:42,200
+Reinhard: To było spore wyzwanie, bo rzecz działa się podczas pandemii. Alkimia powstała w marcu 2020 roku. Dowiedziałem się wtedy, że w mieście mieszka wielu utalentowanych twórców.
+
+193
+00:21:42,200 --> 00:21:55,240
+Reinhard: Poznałem pięć osób, które stanowiły główny zespół i które uważałem za bardzo zdolne. W dodatku ci ludzie pracowali już ze sobą w przeszłości. Wymienialiśmy się pomysłami na projekty, którymi moglibyśmy się razem zająć.
+
+194
+00:21:55,280 --> 00:22:07,060
+Reinhard: Postanowiliśmy zabrać się za stworzenie gry RPG o średniowieczu, która potem przerodziła się w Gothica. A później założyliśmy studio. Jak mówiłem, przez pandemię było trudno.
+
+195
+00:22:07,230 --> 00:22:13,240
+Kai: Najpierw nazywaliście się THQ Nordic Barcelona, a dopiero później zmieniliście nazwę na Alkimia Interactive, prawda?
+
+196
+00:22:14,060 --> 00:22:25,060
+Reinhard: Tak. Nigdy nie chcieliśmy zostawać przy nazwie THQ Nordic Barcelona. Po prostu nasz zespół nazywał się tak na potrzeby publikacji grywalnej zapowiedzi.
+
+197
+00:22:23,150 --> 00:22:27,190
+Kai: Alkimia Interactive. „Alkimia” to po hiszpańsku alchemia, prawda?
+
+198
+00:22:27,270 --> 00:22:37,200
+Reinhard: Sí, señor. Ale to nie wszystko. Słowo „alkimia” pochodzi z języka baskijskiego, którym posługują się mieszkańcy Kraju Basków leżącego na północy Hiszpanii.
+
+199
+00:22:37,200 --> 00:22:41,110
+Kai: Aha! Ile osób liczy teraz Alkimia?
+
+200
+00:22:41,200 --> 00:22:43,130
+Reinhard: Jest nas około 40.
+
+201
+00:22:43,200 --> 00:22:45,130
+Kai: A skąd wzięła się ta nazwa?
+
+202
+00:22:45,200 --> 00:23:03,180
+Reinhard: Opublikowaliśmy grywalną zapowiedź jako THQ Nordic Barcelona, ale potem chcieliśmy wymyślić dla siebie jakąś wyjątkową nazwę, aby nadać sobie tożsamość. Przerzucaliśmy się pomysłami, aż zostały nam dwie nazwy. Wybraliśmy Alkimia Interactive, czyli w skrócie: A.I.
+
+203
+00:23:03,180 --> 00:23:07,280
+Kai: Sprytnie. Planujesz jeszcze powiększyć zespół?
+
+204
+00:23:08,110 --> 00:23:10,240
+Reinhard: Tak, zawsze szukamy utalentowanych osób.
+
+205
+00:23:12,010 --> 00:23:14,260
+Kai: Łatwo znaleźć nowych ludzi do pracy w Barcelonie?
+
+206
+00:23:15,160 --> 00:23:29,060
+Reinhard: W Barcelonie i ogólnie w Hiszpanii jest na szczęście wielu pełnych pasji, zdolnych twórców gier wideo. Co więcej, spora część z nich tylko czeka, aż trafi się jakiś duży projekt. Jesteśmy na miejscu – przed nami Stary Obóz.
+
+207
+00:23:29,060 --> 00:23:31,040
+Kai: Wow. Po prostu wow.
+
+208
+00:23:31,090 --> 00:23:32,130
+Reinhard: Fajnie, co?
+
+209
+00:23:32,250 --> 00:23:35,070
+Kai: Tak. Aż mnie korci, żeby poeksplorować.
+
+210
+00:23:35,100 --> 00:23:38,260
+Gate Guard: A wy dokąd się wybieracie? Chyba nie chcecie narozrabiać, co?
+
+211
+00:23:39,090 --> 00:23:44,240
+Kai: Nie, nie, nie. Jestem gościem od muzyki i przyszedłem pomóc zbudować scenę na koncert. Podobno będziesz jodłował.
+
+212
+00:23:45,020 --> 00:23:50,180
+Gate Guard: Patrzcie no, jaki zabawny. Nie lubię takich. [dobywa miecza]
+
+213
+00:23:51,010 --> 00:23:57,100
+Reinhard: Czekaj. Tu jest nasza przepustka. Poza tym mam też list, który muszę zanieść… pewnej osobie.
+
+214
+00:23:57,200 --> 00:23:59,110
+Gate Guard: Dobra, możesz przejść.
+
+215
+00:23:59,190 --> 00:24:00,170
+Kai: A ja?
+
+216
+00:24:01,020 --> 00:24:04,250
+Gate Guard: Dla ciebie zrobię wyjątek, bo jesteś tu nowy.
+
+217
+00:24:05,090 --> 00:24:10,120
+Kai: Dzięki. Reinhard, wspomniałeś o liście. Dla kogo on jest?
+
+218
+00:24:10,270 --> 00:24:28,190
+Reinhard: Zobaczysz… w kolejnym odcinku GRP.

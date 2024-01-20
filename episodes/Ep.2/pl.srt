@@ -1,0 +1,671 @@
+1
+00:00:21,200 --> 00:00:24,000
+Xardas: Rozdział 2
+
+2
+00:00:29,250 --> 00:00:35,230
+Kai: Cześć wszystkim. Zapraszamy na „Gothic Remake Podcast”. Witają was Kai Rosenkranz, kompozytor i projektant dźwięku…
+
+3
+00:00:36,090 --> 00:00:42,180
+Reinhard: I Reinhard Pollice, kierownik studia i reżyser gry. Witamy w Starym Obozie. Przejdźmy się na arenę.
+
+4
+00:00:42,290 --> 00:00:44,000
+Kai: Dobra.
+
+5
+00:00:46,000 --> 00:00:49,150
+Reinhard: Diego! Wow, jak on się tu tak szybko dostał?
+
+6
+00:00:50,010 --> 00:00:54,040
+Kai: Hej, Diego. [Cześć.] Podoba ci się nowa muzyka w twoim obozie?
+
+7
+00:00:54,100 --> 00:00:57,040
+Sprecher 1: Dobra robota. Nieźle jak na nowicjusza.
+
+8
+00:00:57,210 --> 00:01:05,010
+Kai: Dziękuję, Diego. Uwielbiam ten obóz. Ten klimat, ta nostalgia… ten smrodek.
+
+9
+00:01:05,210 --> 00:01:09,010
+Reinhard: To chyba zapach sali konferencyjnej, w której nagrywamy ten odcinek.
+
+10
+00:01:09,270 --> 00:01:14,000
+Kai: No, może. Ale cicho, zaburzasz immersję.
+
+11
+00:01:14,000 --> 00:01:18,220
+Reinhard: Mniejsza o to… Przed nami odcinek drugi – o zasadach projektowania.
+
+12
+00:01:19,120 --> 00:01:21,150
+Kai: Czym są zasady projektowania?
+
+13
+00:01:22,080 --> 00:01:31,110
+Reinhard: To zasady, które stanowią fundament wszystkich naszych decyzji i pomysłów. To nasza wielka wizja, dziesięć przykazań, którymi zawsze się kierujemy.
+
+14
+00:01:31,260 --> 00:01:36,050
+Kai: Ooo, wow. Fundament. Poważna sprawa.
+
+15
+00:01:36,170 --> 00:01:37,220
+Reinhard: Sam pytałeś.
+
+16
+00:01:38,000 --> 00:01:45,200
+Kai: A propos fundamentów… czy tamci goście budują scenę? [Tak.] Czyli koncert jest potwierdzony?
+
+17
+00:01:46,260 --> 00:01:51,170
+Reinhard: Nie możemy teraz o tym mówić. Ale dobrze by było jakiś zorganizować.
+
+18
+00:01:52,090 --> 00:02:03,120
+Kai: Zdecydowanie. Cały motyw Starego Obozu bazował na starej ludowej pieśni „Herr Mannelig” w wykonaniu zespołu In Extremo. Byłoby świetnie znów usłyszeć ją na scenie.
+
+19
+00:02:03,280 --> 00:02:07,050
+Reinhard: O tak. Ale o tym pogadamy innym razem.
+
+20
+00:02:07,260 --> 00:02:08,090
+Kai: Okej.
+
+21
+00:02:10,090 --> 00:02:14,020
+Kai: Dlaczego idziemy tędy? Arena jest po drugiej stronie zewnętrznego pierścienia.
+
+22
+00:02:14,140 --> 00:02:21,290
+Reinhard: Masz rację, ale musimy jeszcze kogoś zgarnąć spod południowego wejścia. Przy okazji zanim tam dojdziemy, będziemy mogli jeszcze trochę pogadać.
+
+23
+00:02:22,160 --> 00:02:26,120
+Kai: Fajnie. Spotkamy się z osobą, której chcesz dać list?
+
+24
+00:02:26,240 --> 00:02:34,000
+Reinhard: Nie teraz. Przy południowym wejściu czeka na nas Javi Untoria, nasz główny projektant gry, ale to nie dla niego jest list.
+
+25
+00:02:34,090 --> 00:02:46,150
+Kai: Rozumiem. Ludzie w zewnętrznym pierścieniu są już dość mocno zajęci. Opowiesz coś o ich porządku dnia i o tym, jak dajemy nowe życie temu miejscu i jego mieszkańcom? Czy może wolisz, żeby Javi o tym opowiedział?
+
+26
+00:02:46,240 --> 00:02:56,050
+Reinhard: Nie, nie, w porządku. Możemy o tym porozmawiać. Chcemy stworzyć naprawdę wiarygodny porządek dnia postaci. Chcemy, żeby wykonywały różne czynności w zależności od pory dnia.
+
+27
+00:02:56,160 --> 00:02:59,120
+Kyle: Ile razy mam wam powtarzać, żebyście nie przebiegali przez moją chatę?
+
+28
+00:02:59,280 --> 00:03:01,090
+Reinhard: Wybacz, Kyle. My tylko…
+
+29
+00:03:01,090 --> 00:03:15,190
+Kyle: Zostawcie mnie w spokoju. [Dobrze, my tylko…] Wszyscy mówili: nie buduj chaty tak blisko rowu. Ale nikt nie powiedział, co się może stać, jeśli ją tu jednak wybuduję. Jak wróciłem z kopalni kilka dni temu, miałem dodatkowe drzwi.
+
+30
+00:03:15,240 --> 00:03:18,000
+Reinhard: Właśnie chcemy przez nie przejść.
+
+31
+00:03:18,020 --> 00:03:22,160
+Kyle: Banda wieprzy. Nienawidzę ich. Nawet nie wiecie, jak ja ich nienawidzę.
+
+32
+00:03:23,030 --> 00:03:24,230
+Kai: Yyy… pa, Kyle. Do zobaczenia.
+
+33
+00:03:25,020 --> 00:03:27,030
+Sprecher 1: Teraz wszyscy przebiegają przez moją chatę.
+
+34
+00:03:27,120 --> 00:03:32,240
+Kai: Biedak. [Idioci.] Nie powinniśmy w remake’u przenieść jego chaty z dala od ścieżki?
+
+35
+00:03:33,170 --> 00:03:36,130
+Reinhard: Ha! Pewnie, że nie.
+
+36
+00:03:36,270 --> 00:03:38,150
+Kai: Obyśmy tylko nie spotkali…
+
+37
+00:03:38,150 --> 00:03:41,160
+Mud: Hej, jesteście tu nowi? Nie widziałem was wcześniej.
+
+38
+00:03:41,260 --> 00:03:42,180
+Kai: O nie.
+
+39
+00:03:43,000 --> 00:03:47,090
+Mud: Przyłączę się na chwilę, jeśli można. Przyda się wam przyjaciel.
+
+40
+00:03:47,180 --> 00:03:52,000
+Kai: Hej, Wrzodzie. Wybacz, ale się spieszymy. Idziemy…
+
+41
+00:03:52,000 --> 00:03:57,260
+Mud: Dokąd? Ja z wami! Powiedzcie! A może to niespodzianka? He, he, lubię niespodzianki.
+
+42
+00:03:58,000 --> 00:04:07,000
+Reinhard: Wrzodzie, musisz iść na plac budowy i pomóc chłopakom postawić scenę. Mówili, że bez ciebie nie dadzą rady skończyć jej na czas.
+
+43
+00:04:07,000 --> 00:04:15,050
+Mud: A więc w końcu zrozumieli, że się co do mnie mylili. Fajnie będzie. Inni ciągle tylko chcą się mnie pozbyć.
+
+44
+00:04:15,060 --> 00:04:17,080
+Reinhard: Yyy… tak. Musimy iść, kolego.
+
+45
+00:04:17,110 --> 00:04:22,060
+Mud: Teraz im coś powiem. Obmyślę plan.
+
+46
+00:04:22,120 --> 00:04:24,210
+Kai: O, to bardzo miło z twojej strony.
+
+47
+00:04:24,290 --> 00:04:28,150
+Reinhard: Chyba będę musiał dać budowniczym sceny sporą podwyżkę.
+
+48
+00:04:29,010 --> 00:04:47,270
+Kai: Chyba tak. Mówiłeś, że spotkamy się z Javim przy południowym wejściu? [Tak.] Okej. Mamy jeszcze parę minut. Kilka zrzutów ekranu przedstawiających Stary Obóz zostało już opublikowanych i spotkały się z ciepłym przyjęciem. Mogę potwierdzić, że teraz, gdy tu spacerujemy, obóz wygląda jeszcze lepiej. Mam jednak pytanie o oświetlenie i kolory. [Jasne.]
+
+49
+00:04:48,120 --> 00:05:05,150
+Kai: Dobrze jest widzieć, że wszystko jest mniej kolorowe i żywe w porównaniu z grywalną zapowiedzią. Zauważyłem też, że oświetlenie nie jest aż tak jasne jak na zrzutach ekranu. Gdy przeglądałem je w zeszłym roku, światło było zbyt mocne i wybielało większość innych kolorów. Ale teraz kolorystyka jest bardziej zrównoważona.
+
+50
+00:05:05,260 --> 00:05:13,060
+Kai: Oświetlenie jest o wiele płynniejsze i zachowuje niektóre kolory obecne w oryginalnym Starym Obozie, a z drugiej strony utrzymuje tę brązowawą, pylistą aurę.
+
+51
+00:05:13,190 --> 00:05:17,080
+Reinhard: Tak, chcemy, aby atmosfera była naprawdę surowa i mroczna.
+
+52
+00:05:17,180 --> 00:05:18,090
+Kai: Rozumiem.
+
+53
+00:05:19,150 --> 00:05:20,270
+Reinhard: Jest i on. Cześć, Javi.
+
+54
+00:05:21,160 --> 00:05:23,110
+Javi: Cześć, Reinhard. Cześć, Kai.
+
+55
+00:05:24,050 --> 00:05:25,200
+Kai: Javi, miło cię widzieć.
+
+56
+00:05:25,200 --> 00:05:28,000
+Javi: Wzajemnie. Idziemy na arenę?
+
+57
+00:05:28,130 --> 00:05:29,090
+Reinhard: Tak, chętnie.
+
+58
+00:05:29,210 --> 00:05:32,020
+Kai: To ty jesteś głównym projektantem w Alkimii?
+
+59
+00:05:32,060 --> 00:05:32,170
+Javi: Tak.
+
+60
+00:05:33,020 --> 00:05:35,210
+Kai: Wow. Dzięki za spotkanie. Czym dokładnie się zajmujesz?
+
+61
+00:05:36,000 --> 00:05:47,090
+Javi: Zarządzam zespołem projektantów, w tym projektantów poziomów. Pomagam w utrzymaniu spójnej wizji i nadzoruję prace. Poza tym sam też projektuję zaawansowane systemy i koordynuję pracę z innymi zespołami.
+
+62
+00:05:47,250 --> 00:05:55,170
+Kai: Fajnie. Dostajesz jakieś wskazówki albo wytyczne od kogoś z góry? Czy może to ty masz ostatnie słowo w kwestii decyzji projektowych?
+
+63
+00:05:55,230 --> 00:06:04,030
+Javi: Mamy jasne wytyczne dotyczące tego, czym jest, a czym nie jest Gothic, choć w przypadku większości kontrowersyjnych problemów ostatnie słowo należy do reżysera gry.
+
+64
+00:06:04,170 --> 00:06:06,170
+Kai: A reżyserem jest Reinhard, prawda?
+
+65
+00:06:06,260 --> 00:06:08,200
+Javi: Zgadza się.
+
+66
+00:06:10,000 --> 00:06:17,150
+Javi: Patrzcie, tam jest kowal Huno. Przygotowuje kuźnię do remake’u. Chcecie się czegoś dowiedzieć o wytwarzaniu broni?
+
+67
+00:06:17,270 --> 00:06:18,240
+Kai: No pewnie.
+
+68
+00:06:19,020 --> 00:06:25,120
+Reinhard: Hej, Huno, mógłbyś nam szybko zaprezentować, na czym polega wytwarzanie broni w remake’u? Czy może potrwa to zbyt długo?
+
+69
+00:06:25,220 --> 00:06:29,100
+Huno: To zależy. Proste miecze wykuwam w mgnieniu oka.
+
+70
+00:06:29,210 --> 00:06:36,190
+Reinhard: Fajnie. Prosty miecz wystarczy, dzięki. Rób swoje, a Javi opowie nam o nowej mechanice wytwarzania broni.
+
+71
+00:06:37,240 --> 00:06:51,260
+Javi: Fantastyczne w Gothicu było to, że mogliśmy tworzyć własne miecze, przechodząc krok po kroku przez proces ich wykuwania. To na pewno zostanie w grze! Ale chcemy pójść o krok dalej, aby gracze mogli wytwarzać też inne rodzaje broni, nie tylko proste miecze.
+
+72
+00:06:52,090 --> 00:06:57,180
+Kai: Dzięki za komentarz, Javi. I tobie też, Huno, za poświęcony czas. Mam nadzieję, że nie zawracaliśmy ci głowy.
+
+73
+00:06:57,270 --> 00:06:59,230
+Huno: Nie, wręcz przeciwnie.
+
+74
+00:07:00,160 --> 00:07:14,110
+Kai: Uprzejmy jak zawsze. Właśnie takim go zapamiętałem. [śmiech] Wow! Arena jest ogromna. Już na zrzutach ekranu było widać, że ją powiększono, ale z bliska wygląda na jeszcze większą.
+
+75
+00:07:14,220 --> 00:07:17,180
+Javi: Tak. Większa jest nie tylko arena, ale również jej rola.
+
+76
+00:07:18,120 --> 00:07:20,030
+Kai: Jak to?
+
+77
+00:07:20,170 --> 00:07:40,110
+Javi: Arena to jedyne miejsce, w którym mieszkańcy kolonii mogą się zabawić. Chcemy, aby odgrywała większą rolę – aby nawet magnaci wychodzili z zamku i oglądali walki. [Mhm.] Chcielibyśmy dodać też więcej zadań i zawartości wokół areny zamiast ograniczać się tylko do znanych z pierwowzoru walk 1 na 1.
+
+78
+00:07:40,280 --> 00:07:53,030
+Javi: W tym celu musimy powiększyć arenę i skupić się na obozie. To nadal ruiny budynku, w którym toczą się walki, ale teraz może w nich wziąć udział więcej osób, a nie tylko garstka wojowników.
+
+79
+00:07:53,170 --> 00:07:56,190
+Kai: Ciekawe. Kto będzie walczył na arenie?
+
+80
+00:07:56,260 --> 00:08:04,110
+Javi: W kolonii jest wielu wojowników chcących się sprawdzić. Z kolei magnaci z chęcią pooglądaliby walki przerażających bestii.
+
+81
+00:08:04,290 --> 00:08:08,170
+Kai: Wow. Zdradziłeś sporo szczegółów. Wielkie dzięki.
+
+82
+00:08:09,000 --> 00:08:09,200
+Javi: Nie ma za co.
+
+83
+00:08:10,240 --> 00:08:13,240
+Reinhard: Jesteście może głodni? Stołówka Snafa powinna być otwarta.
+
+84
+00:08:14,030 --> 00:08:15,010
+Kai: Starego, dobrego Snafa?
+
+85
+00:08:15,130 --> 00:08:16,010
+Javi: Brzmi nieźle.
+
+86
+00:08:16,120 --> 00:08:19,290
+Kai: Jeszcze jak. Poda nam swoją oryginalną potrawkę z chrząszcza?
+
+87
+00:08:20,260 --> 00:08:26,130
+Reinhard: W remake’u – tak! Ale teraz pichci dla nas wielką paellę. W końcu studio mieści się w Hiszpanii.
+
+88
+00:08:27,040 --> 00:08:29,300
+Javi: Czekajcie. Snaf rozmawia z Wrzodem.
+
+89
+00:08:29,300 --> 00:08:33,210
+Reinhard: Z Wrzodem? Czy on nie powinien pomagać w budowie sceny po drugiej stronie obozu?
+
+90
+00:08:34,030 --> 00:08:36,230
+Kai: Nie wiem. Coś mi mówi, że go stamtąd odesłali.
+
+91
+00:08:36,250 --> 00:08:39,180
+Mud: Masz dla mnie coś do jedzenia? [Trzymaj.] Świetnie.
+
+92
+00:08:41,000 --> 00:08:41,160
+Reinhard: Hej, Snaf.
+
+93
+00:08:41,220 --> 00:08:43,110
+Snaf: Hej. Co podać?
+
+94
+00:08:44,040 --> 00:08:47,120
+Reinhard: Poprosimy trzy porcje twojej paelli.
+
+95
+00:08:46,200 --> 00:08:50,200
+Snaf: Dobrze. Proszę! Jedną porcję mogę podać od razu.
+
+96
+00:08:50,200 --> 00:08:54,200
+Kai: Ja ją wezmę. Dziękuję. Mmmmm.
+
+97
+00:08:54,200 --> 00:08:57,220
+Snaf: Co myślisz? [Bardzo dobre.] Wybornie.
+
+98
+00:08:59,040 --> 00:09:01,100
+Reinhard: Dzięki.
+
+99
+00:09:02,150 --> 00:09:09,200
+Javi: Dla jasności – Snaf, w remake’u będziesz podawał swoją popisową potrawkę z chrząszcza, a nie paellę, prawda? [Zgadza się.]
+
+100
+00:09:10,000 --> 00:09:16,000
+Kai: Czyli pod tym względem bez zmian. Tylko grzyby i chrząszcze? [Tego nie powiedziałem.] Hmm.
+
+101
+00:09:18,000 --> 00:09:22,180
+Kai: Reinhard mówił, że ten odcinek będzie o zasadach projektowania.
+
+102
+00:09:22,180 --> 00:09:24,180
+Javi: Tak, też to słyszałem.
+
+103
+00:09:26,010 --> 00:09:29,080
+Kai: Zdaje się, że to temat w sam raz dla ciebie, Javi.
+
+104
+00:09:30,050 --> 00:09:32,100
+Javi: Tak, trochę się na tym znam.
+
+105
+00:09:32,260 --> 00:09:38,110
+Kai: Świetnie. Powiedz, proszę, jakimi zasadami projektowania kierujesz się podczas pracy nad remakiem?
+
+106
+00:09:39,000 --> 00:09:44,210
+Javi: Mamy bardzo jasne założenia dotyczące gry. Opowiem o trzech głównych koncepcjach.
+
+107
+00:09:45,140 --> 00:09:45,210
+Kai: Dobrze.
+
+108
+00:09:46,110 --> 00:09:51,270
+Javi: Po pierwsze, gracz może wybrać własny styl gry. Musimy zadbać o odpowiednią różnorodność.
+
+109
+00:09:52,050 --> 00:09:52,190
+Reinhard: Okej.
+
+110
+00:09:52,250 --> 00:09:53,230
+Kai: Brzmi obiecująco.
+
+111
+00:09:54,140 --> 00:10:01,080
+Javi: Po drugie, świat żyje. Nie chcemy polegać tylko na skryptach. Chcemy czegoś systemowego, z czym gracz może wejść w interakcję.
+
+112
+00:10:01,200 --> 00:10:03,030
+Kai: O tak, to bardzo ważne.
+
+113
+00:10:03,170 --> 00:10:20,120
+Javi: Tak. Po trzecie – immersja ma kluczowe znaczenie. Nie chcemy prowadzić graczy za rękę za pomocą obowiązkowych samouczków, tylko nagradzać ich za eksplorowanie świata. Wiemy, że na początku może być trochę trudno, ale Gothic taki już jest.
+
+114
+00:10:20,220 --> 00:10:28,220
+Kai: Otóż to. Bardzo ciekawe. W jaki sposób oceniacie nowe pomysły? Jak dbacie o to, aby były spójne z tymi zasadami?
+
+115
+00:10:29,070 --> 00:10:42,180
+Javi: Gdy coś projektujemy lub przeprojektowujemy, zawsze weryfikujemy to względem zasad, aby sprawdzić, czy idziemy w dobrą stronę. Właściwie to często zamykamy różne sprawy, mówiąc, że coś jest bardzo „gothicowe”.
+
+116
+00:10:43,130 --> 00:11:05,200
+Kai: Okej, mam pytanie dotyczące zasad projektowania. W pierwowzorze gracze mogli przeglądać swoje statystyki i umiejętności, a żeby ocenić siłę głównego bohatera, wystarczyło spojrzeć na jego postawę. Wiem, że Mike Hoge, twórca oryginalnego Gothica, był z tego rozwiązania projektowego bardzo dumny. Co ty o tym myślisz?
+
+117
+00:11:06,190 --> 00:11:21,250
+Javi: To jest coś naprawdę ciekawego. Wszyscy to zauważyliśmy, grając w Gothica, a zwłaszcza przyglądając się bohaterowi. Używa coraz lepszych rodzajów broni i podczas gdy na początku ledwo potrafi trzymać miecz, później włada nim jak prawdziwy mistrz.
+
+118
+00:11:22,050 --> 00:11:28,280
+Kai: Tak, „ledwo potrafi trzymać miecz”… Pamiętam ten tekst. [Tak.] [śmiech] Okej, mów dalej.
+
+119
+00:11:29,240 --> 00:11:35,030
+Javi: Chcielibyśmy zatrzymać to w grze i dać graczowi poczucie mocy i rozwoju.
+
+120
+00:11:35,190 --> 00:11:46,240
+Kai: Brzmi naprawdę dobrze. A skoro już mowa o rozwoju – on również, przynajmniej dla mnie, jest niezwykle ważnym aspektem gry. Mówiąc ściślej, chodzi mi o rozwój w sensie nabierania siły.
+
+121
+00:11:46,260 --> 00:11:47,080
+Javi: Tak.
+
+122
+00:11:47,140 --> 00:11:51,270
+Kai: Przybieranie na sile i jego skutki. [Tak.] Jak to wygląda w remake’u?
+
+123
+00:11:51,280 --> 00:12:13,070
+Javi: To niesamowicie ważna kwestia. Możliwości rozwoju postaci w oryginalnym Gothicu były świetne. Chcemy dać graczowi to samo uczucie rozwoju, co w pierwowzorze, ale ulepszamy sposób, w jaki można uzyskać dostęp do lepszych przedmiotów i broni – zwłaszcza na środkowym etapie gry. W oryginalnej grze bardzo łatwo można było zniszczyć gospodarkę i zdobyć najlepszy sprzęt, jaki tylko dało się kupić.
+
+124
+00:12:13,240 --> 00:12:20,190
+Kai: O tak, to prawda. Ekstra, dziękuję. Mogę ci zadać jeszcze dwa pytania na różne tematy?
+
+125
+00:12:21,040 --> 00:12:23,200
+Javi: [Okej.] Tak. Zobaczymy, czy dam radę odpowiedzieć.
+
+126
+00:12:24,000 --> 00:12:27,230
+Kai: Na pewno. Javi, skąd czerpiesz inspirację?
+
+127
+00:12:28,060 --> 00:12:42,100
+Javi: Inspiracją może być wszystko, nie tylko gry wideo. Czasami biorę ją z książek, filmów, seriali, a nawet planszówek i gier RPG. Najlepsze pomysły można często znaleźć tam, gdzie najmniej się ich spodziewamy.
+
+128
+00:12:42,270 --> 00:12:49,160
+Kai: Tak. A jakie gry lubisz najbardziej? Czy zamierzasz wykorzystać w remake’u któreś z ulubionych rozwiązań z innych gier?
+
+129
+00:12:50,030 --> 00:13:12,030
+Javi: Uwielbiam RPG akcji, ale gram w przeróżne gry. W trakcie grania nie mogę przestać myśleć jak projektant i ciągle analizuję detale i rozwiązania, które wymyślili inni twórcy. Gdy podczas pracy mierzę się z jakimś nowym wyzwaniem, przypominam sobie wszystkie ograne tytuły i myślę: „W tych grach fajnie to rozwiązano. Moglibyśmy zrobić coś podobnego”.
+
+130
+00:13:12,090 --> 00:13:17,030
+Kai: Fajnie. Otwarty umysł na pewno pomaga. Nie zawsze trzeba wymyślać koło na nowo.
+
+131
+00:13:17,040 --> 00:13:17,160
+Javi: Tak.
+
+132
+00:13:18,220 --> 00:13:22,290
+Kai: Teraz pora na pytania od społeczności, które pojawiły się na Discordzie.
+
+133
+00:13:23,080 --> 00:13:24,000
+Javi: Fajnie.
+
+134
+00:13:24,160 --> 00:13:32,060
+Reinhard: Przy okazji zapraszamy wszystkich słuchaczy na nasz serwer na Discordzie. Link z zaproszeniem to: discord.gg/gothic.
+
+135
+00:13:32,210 --> 00:13:38,010
+Kai: Do zobaczenia na serwerze! Okej… Porozmawialiśmy o broni. A co z wytwarzaniem strzał?
+
+136
+00:13:38,200 --> 00:13:46,060
+Javi: Teraz będzie można wytwarzać strzały w warsztatach przy użyciu odpowiednich materiałów. Chcemy wdrożyć system tworzenia przedmiotów, żeby materiały były przydatne.
+
+137
+00:13:46,170 --> 00:13:58,280
+Kai: Mhm. A propos przydatnych rzeczy, w oryginalnej grze były beczki, w tym również tu, w Starym Obozie, w których można było się ukrywać. Czy w remake’u też pojawi się ta mechanika?
+
+138
+00:13:59,150 --> 00:14:12,280
+Javi: Akurat ona jest jedną z tych, które usprawniamy. W pierwowzorze nie miała zbyt wiele sensu i była zbyt zabawna w porównaniu z ogólnym klimatem gry. Chcemy trochę bardziej rozwinąć system skradania się, ale nie wiem, czy chowanie się w beczce to najlepszy wybór.
+
+139
+00:14:13,100 --> 00:14:22,260
+Kai: Ooo [wzdycha], okej. Byliśmy na arenie, więc to pytanie będzie pasować idealnie. Pojawiało się dość często: czy w grze będą hełmy i tarcze?
+
+140
+00:14:23,050 --> 00:14:33,270
+Javi: Nie! Pod tym względem trzymamy się oryginału. Walka w kolonii jest bezpośrednia i brutalna. Nie podoba się nam wizja systemu obrony, przez który starcia straciłyby na dynamice.
+
+141
+00:14:34,220 --> 00:14:43,080
+Kai: Tak, zgadzam się. Następne pytanie raczej nie dotyczy projektowania, ale pojawiło się niedawno. Będą nowe zadania?
+
+142
+00:14:43,290 --> 00:14:56,030
+Javi: Owszem. Chcemy stworzyć zadania, które będą przeciwwagą dla bardziej linearnych fragmentów gry. Jak wiecie, począwszy od rozdziału trzeciego, w grze dostępna jest w zasadzie tylko główna ścieżka fabularna.
+
+143
+00:14:56,040 --> 00:14:56,180
+Kai: Zgadza się.
+
+144
+00:14:56,180 --> 00:15:06,290
+Javi: My natomiast chcemy dać graczom więcej zawartości. Oprócz tego niektóre zadania główne zostaną lekko zmodyfikowane – chcemy w ten sposób wypełnić dziury fabularne, które są z nami od dwudziestu lat.
+
+145
+00:15:07,090 --> 00:15:08,050
+Kai: Bardzo ciekawe.
+
+146
+00:15:08,210 --> 00:15:14,000
+Reinhard: Do któregoś z przyszłych odcinków zaprosimy kogoś z zespołu odpowiedzialnego za fabułę i porozmawiamy więcej na ten temat.
+
+147
+00:15:14,100 --> 00:15:25,250
+Kai: Tak, byłoby ekstra. Okej, następne pytanie. Trochę ogólne, ale chcę ci dać okazję do swobodnej odpowiedzi. Co możesz nam powiedzieć o interfejsie użytkownika w remake’u, a zwłaszcza o ekwipunku?
+
+148
+00:15:26,240 --> 00:15:47,040
+Javi: Interfejs będzie bardziej przypominał oryginalnego Gothica niż grywalną zapowiedź. [Tak!] Stawiamy na minimalizm, aby zwiększyć uczucie immersji. Ekran ekwipunku jest zgodny z zasadami pierwowzoru. Gra nie jest wstrzymywana, więc podczas zarządzania ekwipunkiem można oglądać, co się dzieje w tle. Informacji na ekranie jest sporo, więc trudno pokazać wszystko naraz.
+
+149
+00:15:47,290 --> 00:16:00,240
+Kai: Właśnie! Okej, a teraz coś zupełnie innego. W tym odcinku słyszeliśmy kilka postaci, a każda z wypowiedzi pochodziła z plików dźwiękowych z oryginalnej gry. Reinhard, w remake’u ich nie wykorzystamy, prawda?
+
+150
+00:16:01,060 --> 00:16:07,240
+Reinhard: Nie! Początkowo tak właśnie chcieliśmy zrobić, ale stwierdziliśmy, że wtedy nie moglibyśmy niczego zmienić ani dodać.
+
+151
+00:16:08,110 --> 00:16:14,030
+Kai: Co oznacza, że w miarę możliwości nagramy wszystkie kwestie ponownie z udziałem oryginalnych aktorów, mam rację?
+
+152
+00:16:14,190 --> 00:16:15,050
+Reinhard: Tak.
+
+153
+00:16:15,270 --> 00:16:22,200
+Kai: Okej. To dobra wiadomość! A jakie nowe funkcje rozgrywki i mechaniki będziemy mogli zobaczyć w grze?
+
+154
+00:16:23,160 --> 00:16:37,060
+Javi: Pracujemy nad kilkoma nowymi funkcjami. Zdradzę na przykład, że będzie można się wspinać na ściany. Dzięki temu możemy nagradzać graczy lubiących eksplorację i projektować poziomy o bardziej pionowym układzie.
+
+155
+00:16:37,170 --> 00:16:39,180
+Kai: Ooo… wspinaczka – fajnie!
+
+156
+00:16:40,150 --> 00:16:51,080
+Javi: Przeprojektowaliśmy też mechanizm kradzieży, otwierania zamków, niektóre systemy wytwarzania… Niespodzianek jest więcej, ale nie będziemy teraz ujawniać wszystkich.
+
+157
+00:16:51,230 --> 00:16:55,000
+Kai: Tak, ma to sens. Zostawmy trochę na następne odcinki.
+
+158
+00:16:55,120 --> 00:17:05,080
+Reinhard: Robi się ciemno, rozmawiamy już całkiem długo. [O tak.] Kai, może na koniec odcinka posłuchamy muzyki? Co powiesz na noc w Starym Obozie?
+
+159
+00:17:06,040 --> 00:17:10,020
+Kai: Już myślałem, że nie spytasz. Tak, chętnie coś puszczę.
+
+160
+00:17:10,150 --> 00:17:14,000
+Reinhard: No dobrze. Masz jeszcze jakieś pytania, zanim zakończymy?
+
+161
+00:17:14,010 --> 00:17:18,220
+Kai: Tak. Co do tego listu… Dla kogo on jest? Robisz z tego jakąś wielką tajemnicę.
+
+162
+00:17:19,060 --> 00:17:24,240
+Reinhard: A tak, zupełnie o nim zapomniałem. [Jasne.] Wyjaśnimy to w następnym odcinku.
+
+163
+00:17:25,040 --> 00:17:30,160
+Kai: Trzymasz nas wszystkich w napięciu. Tak czy inaczej – dzięki, że do nas dołączyłeś, Javi.
+
+164
+00:17:30,250 --> 00:17:36,080
+Javi: To ja dziękuję za zaproszenie. Chętnie do was wrócę na kolejną pogawędkę o remake’u Gothica.
+
+165
+00:17:36,180 --> 00:17:43,100
+Kai: Byłoby super. No dobrze, posłuchajmy nocnej muzyki ze Starego Obozu. Do zobaczenia w następnym odcinku.
+
+166
+00:17:43,160 --> 00:17:44,160
+Javi: Na razie!
+
+167
+00:17:44,190 --> 00:17:46,150
+Reinhard: Trzymaj się. Na razie.
+
+168
+00:20:16,010 --> 00:20:22,000
+Kai: Dzięki, że nas słuchaliście. To był… rozdział 2.

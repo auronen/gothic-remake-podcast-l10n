@@ -1,0 +1,1291 @@
+1
+00:00:27,000 --> 00:00:30,060
+Xardas: Rozdział 3
+
+2
+00:00:30,060 --> 00:00:33,060
+Reinhard: Witamy w podcaście Gothic 1 Remake
+
+3
+00:00:33,060 --> 00:00:37,240
+Reinhard: Jesteśmy tuż poza Starym Obozem w dziczy, siedzimy przy ognisku.
+
+4
+00:00:37,240 --> 00:00:43,240
+Reinhard: I jesteśmy tu by rozmawiać o tym co się działo w Sierpniu z Remakiem Gothica 1
+
+5
+00:00:44,000 --> 00:00:46,260
+Reinhard: Mieliśmy dwa naprawdę ważne dla nas momenty
+
+6
+00:00:46,260 --> 00:00:55,110
+Reinhard: Pierwsza była premiera trailera Starego Obozu który pokazał atmosferę Starego obozu i jego środowisko
+
+7
+00:00:55,110 --> 00:01:03,240
+Reinhard: I po drugie, mieliśmy sekretne demo ze sobą i zabraliśmy je na Gamescom by pokazać je wybranym dziennikarzom i streamerom.
+
+8
+00:01:03,270 --> 00:01:09,210
+Reinhard: I jesteśmy by przekazać wam trochę detali i wyjaśnień w kwestii tego co tam pokazaliśmy
+
+9
+00:01:09,210 --> 00:01:18,250
+Reinhard: Jestem Reinhard Pollice, Jestem dyrektorem Alkimia Interactive. I są ze mną dzisiaj moi wspaniali towarzysze z którymi pracujemy nad Remakiem Gothic 1
+
+10
+00:01:18,270 --> 00:01:20,260
+Reinhard: Proszę przedstawcie się.
+
+11
+00:01:20,260 --> 00:01:26,190
+Joan: Wporządku, Witajcie nazywam się Joan. Jestem Cinematic Designerem tutaj w Alkimi
+
+12
+00:01:26,190 --> 00:01:31,240
+Joan: Moja rola to w zasadzie zajmowanie się wszystkimi cinematikami które będziemy mieć w grze
+
+13
+00:01:31,240 --> 00:01:36,010
+Joan: Jak i również trailerów które są potrzebne w celach marketingowych
+
+14
+00:01:36,010 --> 00:01:43,260
+Dani: Ok, Jetem Dani. Dani Candil. Jestem Art Directorem Gothic Remake
+
+15
+00:01:43,260 --> 00:01:48,160
+Kai: Hey, Nazywam się Kai Rosenkranz i jestem kompozytorem i sound designerem.
+
+16
+00:01:48,180 --> 00:01:49,280
+Kai: Javi, chcesz być następny?
+
+17
+00:01:49,280 --> 00:01:59,090
+Javi: Tak. wspaniale jest być tutaj. Dziękuję wam wszystkim - społeczności - za wszelkie informacje zwrotne jakie nam przekazaliście. Jest to bardzo miłe.
+
+18
+00:01:59,090 --> 00:02:07,120
+Timur: A więc moja kolej. Nazywam się Timur (T-Moor) i jestem wielkim fanem Gothica i community managerem w Alkimia Interactive
+
+19
+00:02:07,120 --> 00:02:16,010
+Reinhard: Dzięki. Zatem najpierw porozmawiajmy o trailerze Starego Obozu. (Joan: Okej.) Co dla ciebie znaczy Stary Obóz, Joan?
+
+20
+00:02:16,010 --> 00:02:29,020
+Joan: Dla mnie Stary Obóz jest najbardziej wyrazistym wspomnieniem jakie ma się z oryginalnej gry, ponieważ jest pierwszym miejscem do którego trafiasz, gdy zaczynasz grać.
+
+21
+00:02:29,040 --> 00:02:36,140
+Joan: A postacie mają tak silne osobowości i wszystko, są tak szorstkie dla ciebie.
+
+22
+00:02:36,140 --> 00:02:44,070
+Joan: Naprawdę czujesz się małym kiedy grasz i uważam, że każda pamięta to z nostalgią
+
+23
+00:02:44,070 --> 00:02:53,000
+Joan: te losowe rozmowy, które prowadzili NPC, kopacze próbujący cały czas naprawiać swoje chaty
+
+24
+00:02:53,000 --> 00:02:58,110
+Joan: Nie wiem... to trochę, tak, to wydaje mi się dźwiękiem Starego Obozu
+
+25
+00:02:58,110 --> 00:03:01,060
+Kai: Czy ktoś powiedział dźwięk? (Joan: Tak, z pewnością)
+
+26
+00:03:01,060 --> 00:03:04,160
+Kai: Dzięki, Joan. Bardzo miło z twojej strony. (Joan: Taa)
+
+27
+00:03:04,160 --> 00:03:07,150
+Reinhard: A więc, co dla ciebie oznacza Stary Obóz, Dani?
+
+28
+00:03:07,150 --> 00:03:12,100
+Dani: Dla mnie Stary Obóz jest najważniejszą częścią Kolonii.
+
+29
+00:03:12,100 --> 00:03:21,160
+Dani: W końcu jest to najbardziej rozpoznawalny punkt geograficzny w całym Gothiku w kwestii wizualnego kształtu i znajomości
+
+30
+00:03:21,180 --> 00:03:27,220
+Dani: Jest to jedna z najbardziej podchwytliwych części gry, z którymi się pracuje. Jest to złożony labirynt chat
+
+31
+00:03:27,220 --> 00:03:36,090
+Dani: Jest jak... To interesujące, ponieważ to scenariusz, który jest wykorzystywany ponownie. Mam na myśli, początkowo było to więzienie, później stało się zamkiem Gomeza.
+
+32
+00:03:36,090 --> 00:03:43,290
+Dani: Dla mnie jest to interesujące, bo oferuje mi jako artyście możliwość pracy z wysokim poziomem szczegółowości
+
+33
+00:03:43,290 --> 00:03:50,080
+Dani: i wysokim poziomem narracji, wiesz, środowisko, które mówi bardzo wiele o danym miejscu
+
+34
+00:03:50,120 --> 00:03:58,110
+Dani: Do tego dla mnie, patrząc z dystansu, wieża Starego Obozu jest pierwszą rzeczą, którą się widzi.
+
+35
+00:03:58,110 --> 00:04:01,060
+Dani: Zatem jest to jedna z rzeczy, które najbardziej zapadają w pamięć
+
+36
+00:04:01,060 --> 00:04:04,100
+Reinhard: W jaki sposób podeszliście do trailera Starego Obozu?
+
+37
+00:04:04,100 --> 00:04:12,290
+Joan: Wiedzieliśmy od początku, że chcieliśmy coś podobnego do naszego ostatniego trailera
+
+38
+00:04:13,010 --> 00:04:20,040
+Joan: Trailer Starej Kopalni, w którym kamera przelatywała przez otoczenie i pokazywała życie pod ziemią
+
+39
+00:04:20,040 --> 00:04:26,240
+Joan: Więc chcieliśmy zrobić to samo: pokazać żyjący świat w środku Starego Obozu, ale poszliśmy o krok dalej
+
+40
+00:04:26,270 --> 00:04:37,240
+Joan: Dlatego myśleliśmy o nowych sposobach patrzenia na to, nie? Jak wszyscy - a zwłaszcza ja (śmiech) - kochamy kino.
+
+41
+00:04:37,240 --> 00:04:44,110
+Joan: I patrzyliśmy tam na odniesienia. Powiedzieliśmy żeby próbować podążać kamerą za głównym bohaterem.
+
+42
+00:04:44,110 --> 00:04:54,010
+Joan: Przyszło nam do głowy jednoujęciowe podejście takie jak w Chłopakach z ferajny albo w Birdman.
+
+43
+00:04:54,010 --> 00:05:00,180
+Joan: Ale chcieliśmy zachować ducha Gothica. Dlatego nie chcieliśmy za bardzo z tym szaleć.
+
+44
+00:05:00,180 --> 00:05:07,110
+Joan: Więc tak, To był nasz pierwszy pomysł, próba stworzenia jednego ujęcia podążająć za główną protagonistą.
+
+45
+00:05:07,140 --> 00:05:16,200
+Joan: Musieliśmy zdecydować którą ściężkę chcemy wybrać - Które części obozu chcemy pokazać, i końcowo zdecydowaliśmy by pokazać pierwsze wejście
+
+46
+00:05:16,200 --> 00:05:23,020
+Joan: następnie niektóre chaty przy których w oryginalnej grze spotykasz strażnika proszącego cię o pieniądze
+
+47
+00:05:23,040 --> 00:05:29,150
+Joan: a potem Snafa, i jedzenie ,i następnie arene.
+
+48
+00:05:29,170 --> 00:05:35,110
+Joan: Ale tak się złożyło, że ta ścieżka była tak długa pod względem czasu.
+
+49
+00:05:35,110 --> 00:05:40,280
+Joan: Zajeło to 3 albo 4 minuty żeby postać przeszła cały ten obszar.
+
+50
+00:05:40,280 --> 00:05:45,270
+Joan: A więc jednoujęciowe podejście musiało być jeszcze podrasowane. (śmiech)
+
+51
+00:05:45,270 --> 00:05:53,050
+Joan: I na końcu mamy kilka cięć podczas przejścia ,ale wydaje mi się że pasują całkiem dobrze.
+
+52
+00:05:53,070 --> 00:05:57,210
+Reinhard: Jak przekształcacie skrypt w faktyczny obraz?
+
+53
+00:05:57,210 --> 00:06:05,030
+Joan: Po tym jak mieliśmy pomysł (zdecydowaliśmy się na pierwszo podejściową taktykę),
+
+54
+00:06:05,050 --> 00:06:10,210
+Joan: Potrzebowaliśmy jeszcze jednej rzeczy, a tą rzeczą jest historia, głowny bohater.
+
+55
+00:06:10,210 --> 00:06:13,210
+Joan: Potrzebujemy kogoś do prowadzenia tej kamery.
+
+56
+00:06:13,210 --> 00:06:20,040
+Joan: Więc jak już mieliśmy ten pomysł, stworzyliśmy skrypt który jest w zasadzie o kopaczu
+
+57
+00:06:20,040 --> 00:06:26,190
+Joan: który ukradł pieniądze od Bloodwyna, jednego ze strażników który go potem złapał.
+
+58
+00:06:26,210 --> 00:06:28,100
+Reinhard: I co stało się później?
+
+59
+00:06:28,100 --> 00:06:38,040
+Joan: Kolejnym krokiem był scenopis, albo: to co faktycznie zrobiliśmy następne, stworzyliśmy animatic - wstępną wizualizację.
+
+60
+00:06:38,040 --> 00:06:45,080
+Joan: Z racji że pracowaliśmy z Unrealem, mogliśmy pracować z""Sekwencerem"" bezpośrednio w silniku
+
+61
+00:06:45,080 --> 00:06:51,120
+Joan: co pozwoliło nam na wykorzystanie animacji do innych celów
+
+62
+00:06:51,190 --> 00:07:00,090
+Joan: składanie ich razem i używanie Control Rig które pozwalało nam na modyfikowanie tych animacji
+
+63
+00:07:00,090 --> 00:07:12,170
+Joan: w prosty sposób. W ten sposób stworzyliśmy nasz animowany scenopis. Ponieważ środowisko Starego Obozu było już gotowe kiedy trailer był tworzony.
+
+64
+00:07:12,170 --> 00:07:16,120
+Joan: To pozwoliło nam na, cóż, mieliśmy wszystko gotowe.
+
+65
+00:07:16,120 --> 00:07:23,200
+Joan: Musieliśmy tylko zmonotwać ten animatic i pokazać go animatorom.
+
+66
+00:07:23,220 --> 00:07:26,210
+Joan: To było wszystko co potrzebowaliśmy do tego.
+
+67
+00:07:26,210 --> 00:07:31,170
+Kai: Aha. Czy to znaczy że wszystko co widzieliśmy w trailerze również wydarzy się w grze?
+
+68
+00:07:31,170 --> 00:07:38,060
+Reinhard: Stary Obóz który widzimy w trailerze wygląda dokładnie tak samo jak w grze.
+
+69
+00:07:38,080 --> 00:07:46,040
+Reinhard: Wydarzenia również mogą się potoczyć w taki sposób, ale w grze będzie to bardziej dynamiczne. W trailerze,
+
+70
+00:07:46,040 --> 00:07:54,000
+Reinhard: Oczywiście, ustawiliśmy je w sekwencji jedna po drugiej, zatem wydarzyły się wtedy kiedy ich potrzebowaliśmy
+
+71
+00:07:54,000 --> 00:08:01,220
+Reinhard: Inną sprawą jest, że w grze nie ma sekwencji ruchu kamery, to było tylko na potrzeby trailera
+
+72
+00:08:01,220 --> 00:08:04,060
+Kai: Okej, rozumiem. Dzięki
+
+73
+00:08:04,060 --> 00:08:06,250
+Reinhard: Które sceny były waszymi ulubionymi z trailera?
+
+74
+00:08:06,250 --> 00:08:15,240
+Joan: Mimo, że sceny walki były bardzo fajne, moja ulubiona scena przedstawiała Snafa z kociołkiem
+
+75
+00:08:15,240 --> 00:08:23,240
+Joan: Gra aktorska jest zabawna, mamy też walkę pod koniec, więc sądzę, że jest to bardzo kompletne
+
+76
+00:08:23,260 --> 00:08:33,000
+Dani: Okej, Wiesz, gdy zaczęliśmy omawiać trailer, zdecydowaliśmy się pokazać ducha Gothica
+
+77
+00:08:33,000 --> 00:08:38,160
+Dani: Uczucie bycia tam w starym obozie. Jak ciężo jest tam być, jak bardzo wszyscy są szorstcy i niemili
+
+78
+00:08:38,160 --> 00:08:44,220
+Dani: Ale dla mnie najlepszy moment to ten w którym pojawia się Bloodwyn, no wiesz, uderzający jakiegoś faceta
+
+79
+00:08:44,240 --> 00:08:55,030
+Dani: i mówiący""Okej, masz spłacić dług, Gomez potrzebuje twojej rudy!"" dla mnie to jest moment w któym dostrzegasz że to niebezpieczne miejsce.
+
+80
+00:08:55,030 --> 00:09:03,280
+Dani: Powinieneś zadbać o własne życie. Więc myślę że dla mnie to najlepszy moment w którym możesz zobaczyć że inne postacie poruszają się i wchodzą w skomplikowane interakcje między sobą.
+
+81
+00:09:03,280 --> 00:09:08,150
+Dani: Więc dla mnie jest to najbardziej pamiętny moment w zwiastunie.
+
+82
+00:09:08,150 --> 00:09:12,250
+Reinhard: (smiech) Czy nie jest trudno stworzyć lokacje z TYLOMA podobnymi do siebie chatami kopaczy?
+
+83
+00:09:12,270 --> 00:09:15,090
+Dani: To zabawne pytanie jeśli wiesz o co mi chodzi
+
+84
+00:09:15,090 --> 00:09:21,160
+Dani: Gothic oferuje nam tak wiele możliwości pracy w każdej z tych chat.
+
+85
+00:09:21,180 --> 00:09:29,130
+Dani: Tak, mamy tuziny chat i mogę cię zapewnić że każda z nich jest unikalna, specyficzna i specjalna.
+
+86
+00:09:29,150 --> 00:09:37,010
+Dani: Więc tak, to jest wyzwanie ponieważ powinieneś zaoferować coś innego do każdej jednej z nich, ale jednocześnie chaty muszą być jedną całością.
+
+87
+00:09:37,010 --> 00:09:40,160
+Dani: Wszystkie powinny być zintegrowane w tym samym języku wizualnym.
+
+88
+00:09:40,160 --> 00:09:44,210
+Dani: I ... To jest bardzo trudna część projektowania przestrzeni.
+
+89
+00:09:44,210 --> 00:09:51,200
+Dani: Powinny być hałaśliwe, labiryntowe, zawiłe i brudne.
+
+90
+00:09:51,200 --> 00:09:58,060
+Dani: To interesująca możliwość by uczynić obszar jak labirynt i jednocześnie robić go unikalnym.
+
+91
+00:09:58,060 --> 00:10:01,150
+Reinhard: W temacie unikalności, każda twarz będzie unikalna prawda?
+
+92
+00:10:01,150 --> 00:10:07,240
+Dani: Tak, To jedno z największych wyzwań wszystkich gier. To my musimy stworzyć każdą jedną twarz.
+
+93
+00:10:07,240 --> 00:10:12,110
+Dani: Pracę nad tym zaczęliśmy jakieś w lata temu.
+
+94
+00:10:12,130 --> 00:10:18,230
+Dani: Zaczęliśmy od ręcznego projektowania każdej z postaci,
+
+95
+00:10:18,260 --> 00:10:25,270
+Dani: mogę powiedzieć że spędziliśmy wiele godzin z naszymi braćmi i siostrami z Gate 21. Bardzo nam z tym pomogli.
+
+96
+00:10:25,270 --> 00:10:34,220
+Dani: I tworzymy, próbujemy, celujmy w tworzenie .... Nie wiem ile postaci mamy, może 600 albo coś koło tego, (Joan: Tak!) unikalnych postaci.
+
+97
+00:10:34,220 --> 00:10:41,080
+Dani: Więc możemy stworzyć unikalne postacie i potem mieszać je i tworzyć nowe postacie.
+
+98
+00:10:41,110 --> 00:10:48,030
+Dani: Mamy także nadzieje i bardzo mocno próbujemy aby uczynić z tego doświadczenie na które fani Gothica zasłużyli.
+
+99
+00:10:48,030 --> 00:10:57,280
+Dani: Pamiętam granie w oryginalnego Gothica gdzie każda postać była unikalna. I my celujemy w taki sam efekt.
+
+100
+00:10:57,280 --> 00:11:00,080
+Reinhard: To świetnie. Dziękuję za wgląd (Dani: Dziękuje)
+
+101
+00:11:00,080 --> 00:11:06,040
+Reinhard: Czy jest cokolwiek co chciałbyś zmienić w trailerze?
+
+102
+00:11:06,070 --> 00:11:19,150
+Joan: Jeśli miałbym szanse cofnąc się w czasie, myślę że spróbowałbym zmienić pierwszą część trailera. Wiele rzeczy dzieje się w tym samym czasie. (Reinhard: Yeah.)
+
+103
+00:11:19,210 --> 00:11:27,050
+Joan: Moglibyśmy spróbować lepszego sposobu na wprowadzenie traileru ale ogólnie myślę że wszystko wyszło dobrze.
+
+104
+00:11:27,080 --> 00:11:29,090
+Kai: O tak, Uwżam że tak było
+
+105
+00:11:29,090 --> 00:11:36,120
+Kai: Chociaż myslę że powiniśmy porozmawiać o fakcie że wszyscy w zwiastunie mówili z Londyńskim akcentem (Cockney British). Czemu tak było?
+
+106
+00:11:36,120 --> 00:11:43,290
+Reinhard: Zdecydowaliśmy się na bardziej szorstką atmosfere, użylismy brytyjskiego akcentu, ale nie każdy ma ten sam akcent.
+
+107
+00:11:43,290 --> 00:11:54,020
+Reinhard: Niektórzy ludzie pochodzą z różnych części Myrtany więc mówią inaczej, na przykład Diego ma inny akcent i nie jest to szorstki brytyjski.
+
+108
+00:11:54,020 --> 00:12:05,230
+Reinhard: Więc powiedziałbym: Tak, Stary obóz będzie brzmieć szorstko i będzie brzmieć Brytyjsko, ale całościowo nie będzie to więcej niż 50%. (Kai: Okej, fajnie.)
+
+109
+00:12:05,230 --> 00:12:08,050
+Kai: Dzięki za wyjaśnienie tego.
+
+110
+00:12:08,070 --> 00:12:14,030
+Reinhard: Wporządku. Skoro już siedzimy przy ognisku to musimy coś zjeść
+
+111
+00:12:14,030 --> 00:12:19,260
+Reinhard: Ja zjem Poke z węża błotnego. Co mogę wam podać?
+
+112
+00:12:19,260 --> 00:12:20,220
+Timur: Dziękuję, Reinhard.
+
+113
+00:12:20,220 --> 00:12:27,170
+Kai: Tak, dziękuję. Ale w zasadzie, możecie kontynuować rozmowę a ja zajmę się przyjmowaniem zamówień i robieniem posiłków. (Reinhard: dziękuję.)
+
+114
+00:12:27,170 --> 00:12:28,180
+Kai: Timur, co byś chciał?
+
+115
+00:12:28,180 --> 00:12:34,090
+Timur: Chyba wybiorę Smażony Stek ze Ścierwojada Bartholo z sosem barbecue.
+
+116
+00:12:34,090 --> 00:12:38,130
+Timur: A do picia, chciałbym wódkę Ryżowego księcia.
+
+117
+00:12:38,130 --> 00:12:43,180
+Kai: Ok, wódka Ryżowego Księcia. Wporządku! Javi, co dla ciebie?
+
+118
+00:12:43,180 --> 00:12:47,250
+Javi: Wezmę pieczonego ścierwojada i butelkę piwa.
+
+119
+00:12:47,250 --> 00:12:50,220
+Kai: Dobrze, to samo dla mnie! Dani?
+
+120
+00:12:50,220 --> 00:12:56,020
+Dani: Cóż, Paella z Chrząszczy ze specjałem Ryżowego Księcia. To by było dobre.
+
+121
+00:12:56,020 --> 00:12:59,090
+Kai: Jeszcze jedno od Ryżowego Księcia. Ok! Joan, twoja kolej.
+
+122
+00:12:59,090 --> 00:13:04,120
+Joan: A może grilowany filet z węża błotnego? S'il vous plaît (proszę).
+
+123
+00:13:04,120 --> 00:13:07,060
+Kai:  Mais oui, bien sûr!(Ależ tak, oczywiście!) A co do picia?
+
+124
+00:13:07,060 --> 00:13:12,060
+Joan: Do picia może jakiś sok warzywny z tego co możemy tutaj znaleźć.
+
+125
+00:13:12,060 --> 00:13:13,240
+Kai: Ok. Się robi.
+
+126
+00:13:13,240 --> 00:13:18,290
+Reinhard: To może teraz porozmawiamy o Prologu Nyrasa, który był demem które pokazaliśmy prasie i streamerom na Gamescomie.
+
+127
+00:13:18,290 --> 00:13:23,230
+Kai: Tak, w zasadzie wydaje mi się że to potrzebuje trochę większego wstępu. (Reinhard: tak.)Więc czym było... Chwila co to jest?
+
+128
+00:13:23,230 --> 00:13:35,070
+Reinhard: Więc, Prolog Nyrasa jest wycinkiem gry którego prawie wszystkie elementy są bliskie finalnej wesji, nie zawiera w sobie Bezimiennego Bohatera tylko postać zwaną Nyras.
+
+129
+00:13:35,070 --> 00:13:46,210
+Reinhard: Zdecydowaliśmy się na to ponieważ początek gry nie ma za bardzo zauważalnej progresji, bo oczekuje że pójdziesz do starego obozu i będziesz rozmawiać tam.
+
+130
+00:13:46,210 --> 00:13:55,010
+Reinhard: Chcieliśmy żeby w 30 minut możnabyło zobaczyć każdy element gry co mogliśmy osiągnąć dzięki tej zmianie (Kai: Tak, to ma sens)
+
+131
+00:13:55,010 --> 00:13:59,140
+Kai: Pierwsze jedzenie gotowe. Eeee, Paella była dla ciebie Dani? (Dani: Tak, dokładnie!)
+
+132
+00:13:59,140 --> 00:14:04,060
+Kai: Proszę. (Dani: Dziękuję.) Reinhard, dlaczego wybraliśmy Nyrasa do prologu?
+
+133
+00:14:04,060 --> 00:14:12,200
+Reinhard: Mieliśmy wiele opcji bo zanim Bezimnienny Bohater trafi do koloni, oczywiście inne postacie tam trafiają.
+
+134
+00:14:12,220 --> 00:14:21,010
+Reinhard: (Kai rozmawia z innymi w tle, rozdając jedzenie i picie.) Reinhard: Więc to gość imieniem Nyras który później zwróci swoją uwagę na bagno i będzie grał dość ważną rolę w grze.
+
+135
+00:14:21,050 --> 00:14:25,130
+Kai: Świetnie. Dziękuję. Tutaj jest twój posiłek. (Reinhard: dziękuję.) To by było wszystko.
+
+136
+00:14:25,130 --> 00:14:29,110
+Reinhard: Więc co było głównym celem Prologu Nyrasa i jak z nim zaczęliśmy?
+
+137
+00:14:29,110 --> 00:14:40,130
+Javi: Cóż, Wydaje mi się że naszym głównym celem było pokazania rozwoju w grze i trochę jak gra się zmieniła względem PT - Grywalnego Teasera.
+
+138
+00:14:40,150 --> 00:14:57,150
+Javi: Więc mamy dużo rzeczy do pokazania i jedna z najważniejszych które chcieliśmy pokazać to Plac wymian na końcu, ponieważ zmienił się bardzo względem poprzedniej wersji jaką mieliśmy. To limitowało poziom, przestrzeń i tworzyliśmy wszystko od tego.
+
+139
+00:14:57,170 --> 00:14:59,140
+Javi: Jest wiele rzeczy które chcieliśmy tam pokazać.
+
+140
+00:14:59,140 --> 00:15:05,030
+Javi: Cóż, możemy porozmawiać o mechanikach i sytemach.
+
+141
+00:15:05,030 --> 00:15:08,150
+Javi: Nie wiem, o której chciałbyś zacząć rozmawiać?
+
+142
+00:15:08,150 --> 00:15:12,000
+Reinhard: Myślę że powinniśmy zacząć o samym Placu Wymian.
+
+143
+00:15:12,000 --> 00:15:14,300
+Reinhard: Więc jest to kompletnie nowy Plac Wymian?
+
+144
+00:15:14,300 --> 00:15:17,000
+Javi: Cóż, jest w zasadzie taki sam.
+
+145
+00:15:17,000 --> 00:15:24,180
+Javi: Wydaje mi się że wszyscy gracze go poznają. Jest tak jak go sobie wyobrażają, jak nowa wersja tego samego miejsca
+
+146
+00:15:24,230 --> 00:15:39,120
+Javi: (Dani: Tak.) Chcemy bydować z oryginału. Stworzyliśmy ten Plac Wymian na którym w prologu są Diego i Świstak. I utrzymaliśmy większość rytmu poziomu.
+
+147
+00:15:39,140 --> 00:15:43,140
+Javi: Zachowaliśmy wejście do opuszczonej kopalni, most...
+
+148
+00:15:43,140 --> 00:15:47,250
+Javi: Cóz, wydaje mi się że gracze rozpoznają to bez problemu. (Dani: oj tak tak tak.)
+
+149
+00:15:47,250 --> 00:15:57,090
+Javi: Tak, mamy te, te różne obszary z którymi pracujemy. Ponieważ mamy jeszcze obszar u góry - wiesz - wszyscy gracze pamiętają że były tam gobliny.
+
+150
+00:15:57,090 --> 00:16:01,210
+Javi: Mamy jeszcze to drzewo ze Ścierwojadami i... Tak!
+
+151
+00:16:01,210 --> 00:16:10,280
+Javi: Z naszej perspektywy nic się nie zmienia i chcemy to pokazać i stworzyć historię dla początków każdego skazańca gdy schodzą do kolonii.
+
+152
+00:16:11,040 --> 00:16:13,210
+Reinhard: Dobrze. Więc jaki był proces ?
+
+153
+00:16:13,210 --> 00:16:27,150
+Javi: Cóż, z perspektywy poziomu, to co tworzymy jest wzięcie oryginału i tworzenie""blockoutu"" podczas którego próbujemy zachować jak nawięcej zgodności z oryginałem.
+
+154
+00:16:27,150 --> 00:16:35,170
+Javi: Ale chcemy również go poprawić, dodać tym obszarom więcej... głębi i smaku dla tego czym są .
+
+155
+00:16:35,200 --> 00:16:46,080
+Javi: I wtedy zaczęliśmy rozmawiać o tym z projektantam, gdy mieliśmy gotowy blockout do rozpoczęcia pracy - ok - dekoracji, oprawiania rzeczy w wizualnej formie.
+
+156
+00:16:46,100 --> 00:16:51,020
+Javi: Jeszcze podczas tworzenia tych blockoutów, myśleliśmy o
+
+157
+00:16:51,020 --> 00:16:53,110
+Javi: Stworzeniach które tam są. Ponieważ jest to dla na s bardzo ważne
+
+158
+00:16:53,110 --> 00:16:59,240
+Javi: by stworzyć środowisko dla tych stworzeń. Gdzie żyją, gdzie śpią, gdzie jedzą,
+
+159
+00:16:59,260 --> 00:17:03,010
+Javi: jakie są ich dzienne rutyny ? ponieważ koniec końców
+
+160
+00:17:03,010 --> 00:17:09,150
+Javi: to też są żywe stworzenia. I tak, inną ważną rzeczą dla tego
+
+161
+00:17:09,150 --> 00:17:23,270
+Javi: prologu było stworzenie odpowiedniego tempa dla questów. Jest dla nas również ważne by podczas tworzenia przestrzeni pamiętać o questach które tam będą... tak, to jest nasz proces.
+
+162
+00:17:23,270 --> 00:17:32,090
+Javi: Tworzymy to, umieszczamy ludzi, próbujemy, powielamy, i rozmawiamy z art teamem, oni tworzą wspaniałe wizualia dla tych przestrzeni.
+
+163
+00:17:32,090 --> 00:17:39,070
+Javi: I tak, to jest coś co... Zaczynamy of Blockoutu i od tego idziemy dalej z wszystkim.
+
+164
+00:17:39,140 --> 00:17:43,240
+Dani: Tak. Najfajniejszą częścią jest to gdy zaczynamy przygotowywać fazę blockoutu,
+
+165
+00:17:43,240 --> 00:17:49,020
+Dani: Mam na myśli to że wtedy spotykamy się z projektantami, z projektantami poziomów, więc możemy dzielić się wizją
+
+166
+00:17:49,020 --> 00:17:55,020
+Dani: tego jak myślimy że to powinno być eksplorowane, jak ta przestrzeń powinna wyglądać i czuć.
+
+167
+00:17:55,050 --> 00:17:59,260
+Dani: Więc kiedy dają nam blockout, pracujemy dokładnie na tym samym.
+
+168
+00:17:59,260 --> 00:18:04,130
+Dani: Więc zaczynamy nasz proces szukania wiarygodnych środowisk.
+
+169
+00:18:04,130 --> 00:18:11,020
+Dani: Chodzi mi o to że musimy przekształcić ten blockout w wiarygodne środowisko, wiarygodny konstrukt.
+
+170
+00:18:11,040 --> 00:18:16,190
+Dani: Więc zaczynamy od rysowania, szkicowania i szukania odniesień.
+
+171
+00:18:16,190 --> 00:18:20,290
+Dani: To niesamowicie ważne by zawsze szukać realistycznych punktów odniesienia.
+
+172
+00:18:20,290 --> 00:18:26,210
+Dani: Wtedy zaczynamy pracować z materiałami i próbujemy tworzyć właściwe doznania, właściwą atmosferę, odpowiednie struktury.
+
+173
+00:18:26,210 --> 00:18:30,130
+Dani: I czasami przesadzimy trochę z detalami.
+
+174
+00:18:30,130 --> 00:18:36,190
+Dani: Ale ogólnie, najlepszym elementem jest to że pracujemy razem jako świetny zespół. Dzielimy te samą wizję.
+
+175
+00:18:36,190 --> 00:18:42,150
+Dani: Więc jak już zaczynamy dekorować, wiemy jak to powinno wyglądać na końcu.
+
+176
+00:18:42,150 --> 00:18:44,140
+Reinhard: Świetnie, dziękuję za wgląd na proces twórczy.
+
+177
+00:18:44,140 --> 00:18:48,180
+Reinhard: Zmieniony Plac Wymian ma nowe ognisko prawda? (Javi: tak)
+
+178
+00:18:48,180 --> 00:18:56,020
+Javi: To ognisko na Placu Wymian umieściliśmy tam żeby gracze mogli sprawdzić różne przepisy.
+
+179
+00:18:56,030 --> 00:19:00,120
+Javi: Jest wiele stworzeń w okolicy Placu Wymian które dają mięso.
+
+180
+00:19:00,120 --> 00:19:03,250
+Javi: Jak Ścierwojady i Kretoszczury.
+
+181
+00:19:03,250 --> 00:19:11,050
+Javi: Jest to jedna z naszych baz. Ponieważ chcemy żeby gracz zebrał mięso i przygotował potrawy według przepisów.
+
+182
+00:19:11,050 --> 00:19:13,120
+Javi: Jest to sposób na przetrwanie w dziczy.
+
+183
+00:19:13,120 --> 00:19:20,230
+Javi: Bardzo nas interestuje rozwijanie umiejętności myśliwskich bo jest to coś
+
+184
+00:19:20,230 --> 00:19:24,290
+Javi: co uważamy za ważne dla gry bo koniec końców jesteś w dziczy i musisz przetrwać.
+
+185
+00:19:24,290 --> 00:19:27,130
+Javi: Musisz zdobyć te materiały ze stworzeń
+
+186
+00:19:27,130 --> 00:19:33,130
+Javi: I dla nas jest to bardzo ważne by nadać temu to uczucie przygody... Dobrze, musimy się do tego przygotować.
+
+187
+00:19:33,150 --> 00:19:42,070
+Javi: I będziemy używać tych materiałów dla wielu różnych rodzajów craftowania, nie tylko gotowania.
+
+188
+00:19:42,070 --> 00:19:47,250
+Javi: Tak, to bardzo dla nas ważne i chcemy zrobić tutaj trochę więcej i żeby to wyszło
+
+189
+00:19:47,250 --> 00:19:52,030
+Javi: bo koniec końców możesz tworzyć różne dania z użyciem różnych materiałów.
+
+190
+00:19:52,060 --> 00:19:58,160
+Kai: I muszę powiedzieć: to  w jaki sposób było to wykonane w Prologu Nyrasa, mechanika gotowania, działa bardzo dobrze (Javi: tak)
+
+191
+00:19:58,160 --> 00:20:01,280
+Kai: Dlaczego wybraliśmy Plac Wymian jako teren dla dema?
+
+192
+00:20:01,280 --> 00:20:07,160
+Reinhard: Użycie Placu Wymian jako scenerii było naturalnym wyborem do prologu ponieważ jest
+
+193
+00:20:07,160 --> 00:20:13,070
+Reinhard: wyjątkowo dobrze oddzielone od reszty świata i nie wymaga stawiania dodatkowych granic wszędzie.
+
+194
+00:20:13,070 --> 00:20:18,010
+Reinhard: Już ma bardzo naturalne granice, prawie wszędzie za wyjątkiem górskiej ścieżki.
+
+195
+00:20:18,010 --> 00:20:24,130
+Reinhard: Więc jedyne co musieliśmy zrobić to wymyśleć dlaczego ta ścieżka jest zablokowana. (Kai: I jakie to było wyjaśnienie?)
+
+196
+00:20:24,190 --> 00:20:31,210
+Reinhard: Więc naszym rozwiązaniem było osuwisko skalne i skały po prostu blokowały ścieżkę w dół
+
+197
+00:20:31,240 --> 00:20:38,280
+Reinhard: I ponieważ byli ludzie są tm tak jakby zjęci pewnymi rzeczami, są teraz tam zamknięci w tym środowisku.
+
+198
+00:20:38,280 --> 00:20:41,120
+Kai: Tak, wydaje mi się że to działa
+
+199
+00:20:41,120 --> 00:20:43,250
+Reinhard: Joan, byłeś tego ważną częścią.
+
+200
+00:20:43,250 --> 00:20:48,050
+Reinhard: Przyczyniłeś się do powstania koncepcji kinowego systemu kamer.
+
+201
+00:20:48,050 --> 00:20:55,210
+Joan: Tak, Myślę że wyzwaniem dla kinowych dialogów było to że chcieliśmy .... Normalnie w kinach
+
+202
+00:20:55,240 --> 00:21:01,010
+Joan: kiedy jest ujęcie po ujęciu jest też edytowanie prawda?
+
+203
+00:21:01,010 --> 00:21:10,040
+Joan: (Kai: Tak.) Edytowanie które ma swoje powody i sens w zasadach kina które wszyscy znamy.
+
+204
+00:21:10,060 --> 00:21:16,120
+Joan: Dla nas to byo największym wyzwaniem ponieważ chcieliśmy mieć
+
+205
+00:21:16,140 --> 00:21:22,020
+Joan: wiele różnych kamer które możesz doświadczyć w kinie, a nie tylko dwie albo trzy.
+
+206
+00:21:22,020 --> 00:21:29,020
+Joan: I końcowo okazało się to trudne do osiągnięcia, mimo że chcemy to w grze
+
+207
+00:21:29,040 --> 00:21:36,070
+Joan: Ale dla Demo zrobiliśmy kilka testów i ostatecznie aby osiągnąć jakość którą chcieliśmy osiągnąć
+
+208
+00:21:36,140 --> 00:21:42,010
+Joan: potrzebowaliśmy ograniczyć pomysł i mieliśmy dwie albo trzy kamery.
+
+209
+00:21:42,010 --> 00:21:51,160
+Joan: jednakże gdy robiliśmy nasze poszukiwania, czerpaliśmy inspiracje z innych gier RPG które korzystają z perspektywy trzeciej osoby
+
+210
+00:21:51,180 --> 00:22:00,110
+Joan: zauważyliśmy że najważniejszą rzeczą dla sceny dialogowej żeby wyglądała kinowo było oświetlenie
+
+211
+00:22:00,130 --> 00:22:01,020
+Dani: Dokładnie tak!
+
+212
+00:22:01,020 --> 00:22:07,090
+Joan: Odkryliśmy ze w większość tych gier dodaje nowe światło przy rozpoczęciu dialogu.
+
+213
+00:22:07,110 --> 00:22:12,090
+Joan: I właśnie to było dla nas kluczowe. Mieliśmy kolejną rzecz którą musieliśmy dodać.
+
+214
+00:22:12,090 --> 00:22:18,090
+Joan: Dodatkowo kamery które pomagają osiągnąć klimatyczną scenę dialogową
+
+215
+00:22:18,160 --> 00:22:21,010
+Joan: Dlatego teraz ciężko nad tym pracujemy.
+
+216
+00:22:21,010 --> 00:22:30,280
+Joan: Projektujemy nasze systemy, aby to osiągnąć. I tak, mam nadzieję że spodoba wam się to w pełnej wersji gry.
+
+217
+00:22:31,000 --> 00:22:35,210
+Reinhard: Tak! Demo Nyras posiada cząstkę wszystkiego, po raz pierwszy zaimplementowali UI prawda?
+
+218
+00:22:35,210 --> 00:22:44,030
+Javi: Dokładnie! I dla nas bardzo ważne jest, aby to pokazać. Ponieważ jest to jedna z najważniejszych rzeczy
+
+219
+00:22:44,030 --> 00:22:47,220
+Javi: Z immersji Gothica, a my chcemy żeby ta immersja była przejrzysta
+
+220
+00:22:47,220 --> 00:22:53,220
+Javi: Nie chcemy mieć pełnoekranowych menu, które nie pozwalają kontynuować rozgrywkę.
+
+221
+00:22:53,220 --> 00:22:56,010
+Javi: Zamiast tego sprawdzanie swojego ekwipunku jest niezastąpioną częścią gry
+
+222
+00:22:56,010 --> 00:23:01,040
+Javi: Nie możesz po prostu zatrzymać grę i sprawdzić co masz przy sobie. Jest to w środku gry. Możesz to zrobić blisko wroga.
+
+223
+00:23:01,040 --> 00:23:06,200
+Javi: ale robisz to na własne ryzyko. A także, cóż  - ocenimy to.
+
+224
+00:23:06,200 --> 00:23:10,120
+Javi: Ale tak mamy to na uwadze, To coś bardzo ważnego w stosunku do oryginału.
+
+225
+00:23:10,120 --> 00:23:16,160
+Javi: Na przykład nie chcemy mieć wiele liczb, tekstu czy też pasku zdrowia na środku ekranu.
+
+226
+00:23:16,160 --> 00:23:20,090
+Javi: Chcemy utrzymać to tak czysto jak jest to tylko możliwe jest to coś, co chcę pokazać w prologu
+
+227
+00:23:20,090 --> 00:23:26,290
+Kai: To wspaniałe. Jedną rzeczą o której jeszcze nie rozmawialiśmy jest walka!
+
+228
+00:23:26,290 --> 00:23:32,130
+Kai: Prolog Nyrasa miał - jakby - pierwszą wersję nowego systemu walki (Javi: Tak, Dokładnie)
+
+229
+00:23:32,130 --> 00:23:35,000
+Reinhard: Więc jak udało ci się sprawić by walka zadziałała?
+
+230
+00:23:35,000 --> 00:23:40,180
+Javi: Tak. Jeśli chodzi o walkę, jest to coś bardzo ważnego, co chcemy pokazać publiczności.
+
+231
+00:23:40,210 --> 00:23:45,180
+Javi: gesty, postura do walki, postawa.
+
+232
+00:23:45,180 --> 00:23:50,090
+Javi: To znaczy... chcemy, żeby gracz wiedział, że na początku będzie ciężko!
+
+233
+00:23:50,090 --> 00:23:54,000
+Javi: Nie będziesz mistrzem walki mieczem ani kilofem,
+
+234
+00:23:54,000 --> 00:23:58,070
+Javi: ponieważ jedną z pierwszych broni którą znajdziesz w placu wymiany jest kilof.
+
+235
+00:23:58,070 --> 00:24:02,000
+Javi: Więc dla nas będzie to wyzwanie, ale myślę że nam się to uda
+
+236
+00:24:02,000 --> 00:24:04,150
+Javi: Ponieważ gdy gracz rozpocznie walkę
+
+237
+00:24:04,150 --> 00:24:09,110
+Javi: ich poruszanie się nie jest tak dobre jak możesz myśleć ponieważ obserwujesz żółtodzioba.
+
+238
+00:24:09,110 --> 00:24:12,280
+Javi: Oglądasz... zwykłego więźnia w kolonii karnej. A także w prologu
+
+239
+00:24:12,280 --> 00:24:21,000
+Javi: pracujemy nad tym, aby zawalczyć przeciw Kirgowi i możesz się od niego nauczyć walki
+
+240
+00:24:21,000 --> 00:24:27,270
+Javi: Okej, w ten sposób możesz użyć broni jednoręcznej, a potem możesz ewoluować jako wojownik.
+
+241
+00:24:27,290 --> 00:24:32,240
+Javi: I tak, jest wiele rzeczy, ponieważ mamy specjalne zestawy ruchów dla różnych rodzajów broni.
+
+242
+00:24:32,240 --> 00:24:37,070
+Javi: To nie to samo w przypadku buławy, miecza czy też topora.
+
+243
+00:24:37,070 --> 00:24:40,170
+Javi: I oczywiście dla wszystkich (dwóch broni)... broni dwuręcznych
+
+244
+00:24:40,170 --> 00:24:44,010
+Javi: Chcieliśmy więc pokazać wszystkie te ewolucje dla wszystkich rodzajów broni.
+
+245
+00:24:44,010 --> 00:24:47,220
+Javi: Jest to wyzwanie, ale myślę, że naprawdę dobrze leży w rękach
+
+246
+00:24:47,220 --> 00:24:50,210
+Javi: kiedy jesteś początkujący w posługiwaniu się bronią i...
+
+247
+00:24:50,210 --> 00:24:54,120
+Javi: i zaczynasz wiedzieć, jak walczyć. Ponieważ chcemy utrzymać grę
+
+248
+00:24:54,120 --> 00:24:58,250
+Javi: polegającą na umiejętnościach gracza, ale także jako grę RPG.
+
+249
+00:24:58,250 --> 00:25:02,030
+Javi: Musisz więc nauczyć się posługiwać bronią. (Kai: Tak.)
+
+250
+00:25:02,030 --> 00:25:07,150
+Kai: Wielu ludzi chciało zobaczyć nowy system walki w akcji.
+
+251
+00:25:07,150 --> 00:25:10,270
+Kai: Dlaczego nie pokazaliśmy jeszcze żadnej rozgrywki publiczności?
+
+252
+00:25:10,270 --> 00:25:13,250
+Reinhard: Pokazaliśmy więc kilka zrzutów ekranu tego, co zaprezentowaliśmy.
+
+253
+00:25:13,250 --> 00:25:16,130
+Reinhard: były one jeden do jednego z tego prologu.
+
+254
+00:25:16,130 --> 00:25:22,240
+Reinhard: Są pewne rzeczy, w których nie osiągnęliśmy jakości, którą chcieliśmy osiągnąć
+
+255
+00:25:22,240 --> 00:25:29,050
+Reinhard: zawierały pewne bugi albo niedopracowane rzeczy i nie chcemy przyćmić tym opinii publicznej.
+
+256
+00:25:29,070 --> 00:25:35,290
+Reinhard: Dlatego zdecydowaliśmy się nie publikować żadnego materiału dla publiczności. Ale później będziemy mieli okazję ujawnić prawdziwą rozgrywkę
+
+257
+00:25:36,010 --> 00:25:39,270
+Reinhard: gdzie ludzie będą mieli okazję zobaczyć nieedytowaną rozgrywkę z remake'u Gothica 1
+
+258
+00:25:39,270 --> 00:25:42,150
+Dani: A więc, Reinhard, co stanie się z Prologiem Nyras?
+
+259
+00:25:42,150 --> 00:25:47,150
+Reinhard: Nie zdecydowaliśmy jeszcze co się stanie z Prologiem Nyrasa.
+
+260
+00:25:47,150 --> 00:25:48,280
+Reinhard: Mamy to już gotowe.
+
+261
+00:25:48,280 --> 00:25:54,230
+Reinhard: Dalej pracujemy nad tym, zawsze są jakieś rzeczy które można poprawić dla gry.
+
+262
+00:25:54,230 --> 00:26:00,230
+Reinhard: Jest wiele opcji. Możemy je publicznie udostępnić, i możnaby też... no cóż...
+
+263
+00:26:01,000 --> 00:26:09,090
+Reinhard: umieścić je jako swego rodzaju ukryty element który istnieje w grze który może zostać odblokowany w jakiś sposób.
+
+264
+00:26:09,110 --> 00:26:11,230
+Kai: Ok, czyli robisz z tego wielki sekret.
+
+265
+00:26:11,230 --> 00:26:18,100
+Reinhard: Tak, i jest to fajne. Nie lubię składać wielkich obietnic, znasz mnie! (Kai: w porządku.)
+
+266
+00:26:18,100 --> 00:26:21,080
+Kai: Lepiej w te stronę niż inną.
+
+267
+00:26:21,080 --> 00:26:26,220
+Reinhard: Tak. Przez historię serii Gothic wiem y jak kończą się wielkie obietnice, czyż nie?
+
+268
+00:26:26,220 --> 00:26:29,190
+Everyone: Oj tak tak, prawda.
+
+269
+00:26:29,190 --> 00:26:33,180
+Kai: Dobrze... , już prawie pół godziny. Więc o czym jeszcze musimy porozmawiać?
+
+270
+00:26:33,180 --> 00:26:38,240
+Timur: Mam kilka pytań od naszej społeczności. (Kai: O tak tak, świetnie!) Popatrzmy na część z nich.
+
+271
+00:26:38,240 --> 00:26:40,240
+Kai: Ok. Brzmi dobrze.
+
+272
+00:26:40,240 --> 00:26:46,230
+Timur: A więc, pytanie z największą ilością lików było od użytkownika z nickiem Shaolyn:
+
+273
+00:26:46,230 --> 00:26:56,190
+Timur: ""Czy gra będzie miała wsparcie dla modów dla społeczności moderskiej by tworzyć je łatwo i żeby twory społeczności były dodawane przez lata? I czy będzie marvin mode?"" (Zadane przez Shaolyn)
+
+274
+00:26:56,190 --> 00:27:00,130
+Reinhard: Wsparcie dla modów jest czymś bardzo dla nas ważnym.
+
+275
+00:27:00,130 --> 00:27:05,140
+Reinhard: Jesteśmy świadomi wielkści społeczności tworzącej mody od wielu wielu lat.
+
+276
+00:27:05,140 --> 00:27:14,080
+Reinhard: Prawdę mówiąc, około 20 lat temu sam tworzyłem swoje własne mody do gothica, walcząc z pewnymi ograniczeniami.
+
+277
+00:27:14,110 --> 00:27:18,220
+Reinhard: Pracujemy z Unreal Engine a Unreal nie jest najlepszym silnikiem do modowania.
+
+278
+00:27:18,220 --> 00:27:25,100
+Reinhard: Ale  tak czy siak, znaleźliśmy naprawdę dobre rozwiązanie by pokazać rzeczy jak skrypty dla graczy.
+
+279
+00:27:25,100 --> 00:27:28,060
+Reinhard: i mogą się z tym bawić.
+
+280
+00:27:28,080 --> 00:27:35,180
+Reinhard: A w kwestii Marvina: tak, są swego rodzaju komendy. Zobaczymy.
+
+281
+00:27:35,180 --> 00:27:37,150
+Timur: Tak. Dziękuję Shaolyn za twoje pytanie.
+
+282
+00:27:37,150 --> 00:27:43,100
+Timur: Drugie pytanie jest od bardzo aktywnego członka naszego Discorda: Asnen.
+
+283
+00:27:43,100 --> 00:27:56,260
+Timur: A pytaniem jest:""co motywowało znaczne zmiany w wyglądzie potworów w Remaku względem oryginalnego Gothica pod kątem ogólnego kierunku artystycznego?"". Dziękuję za pytanie Asnen.
+
+284
+00:27:56,290 --> 00:28:00,080
+Timur: To chyba pytanie dla ciebie Dani.
+
+285
+00:28:00,080 --> 00:28:04,230
+Dani: Cóż, to jest skomplikowane pytanie. Na które nie ma prostej odpowiedzi.
+
+286
+00:28:04,230 --> 00:28:10,150
+Dani: Kiedy tworzysz na nowo design stworzeń, potworów zaprojektowanych ponad 20 lat temu,
+
+287
+00:28:10,150 --> 00:28:16,040
+Dani: stoją przed tobą pewne estetyczne decyzje które wtedy były dobre i techniczne limitacje które wtedy miały wpływ,
+
+288
+00:28:16,040 --> 00:28:20,010
+Dani: ale mogą się wydawać przestarzałe teraz.
+
+289
+00:28:20,010 --> 00:28:24,040
+Dani: To jest jedna część odpowiedzi: ewolucja estetyk i techniki,
+
+290
+00:28:24,040 --> 00:28:27,180
+Dani: sposób w jaki możemy renderować stworzenia teraz, zarówno technicznie jak i artystycznie
+
+291
+00:28:27,180 --> 00:28:30,140
+Dani: nie było to wtedy możliwe i daje nam możliwość
+
+292
+00:28:30,140 --> 00:28:35,010
+Dani: by popatrzeć głębiej w oryginalne designy i ewoluować je, idąc dalej niż wtedy.
+
+293
+00:28:35,010 --> 00:28:41,240
+Dani: Powiedziawszy to, projektując potwory próbowaliśmy znaleźć złoty środek między trzema głównymi elementami:
+
+294
+00:28:41,270 --> 00:28:47,120
+Dani: 1. Zasadami biologi ewolucyjnej, szczególnie myśląc o adaptacji.
+
+295
+00:28:47,120 --> 00:28:51,200
+Dani: Przez""adaptację"" mam na myśli te elementy które wytworzyły się w poszczególnych stworzeniach
+
+296
+00:28:51,200 --> 00:28:55,060
+Dani: w odpowiedzi na konkretną presję ze strony środowiska
+
+297
+00:28:55,060 --> 00:29:02,190
+Dani: które zapewniają pewną funkcjonalną przewagę dla niech. 2: Dodawanie kontrolowanej ilości mieszanki fantazy.
+
+298
+00:29:02,210 --> 00:29:05,260
+Dani: Żeby te stworzenia były wiarygodne,
+
+299
+00:29:05,260 --> 00:29:11,000
+Dani: wiarygodne w świecie Gothic, który jest mroczną średniowieczną opowieścią.
+
+300
+00:29:11,000 --> 00:29:18,110
+Dani: I 3: Te dwa poprzednie punkty powinny iść razem z ideą za oryginalnymi projektami.
+
+301
+00:29:18,130 --> 00:29:20,140
+Dani: Więc możemy trochę zmieniać wygląd stworzeń,
+
+302
+00:29:20,140 --> 00:29:27,030
+Dani: ale jak zobaczycie jak się ruszają i zachowują w świecei, jesteśmy przekonani że je od razu rozpoznacie.
+
+303
+00:29:27,050 --> 00:29:28,240
+Timur: Dziękuję Dani.
+
+304
+00:29:28,240 --> 00:29:31,060
+Timur: Pytanie numer 3 jest od Jasoon'a
+
+305
+00:29:31,060 --> 00:29:43,280
+Timur: ""Jak bardzo planujecie rozwinąć historię czterech przyjaciół Bezimiennego Bohatera: Diego, Miltena, Gorna i Lestera? na przykład, ich przeszłość, ich własne side questy, większą rolę w historii."" (zadane przez Jasoon)
+
+306
+00:29:43,280 --> 00:29:45,090
+Reinhard: To naprawdę dobre pytanie.
+
+307
+00:29:45,090 --> 00:29:51,070
+Reinhard: Dla nas, Czterej Przyjaciele to jedno z najważniejszych wspomnień z serii Gothic, tak myślę.
+
+308
+00:29:51,070 --> 00:29:55,160
+Reinhard: Ale co prawda ten wątek nie dostał właściwego wprowadzenia.
+
+309
+00:29:55,160 --> 00:29:59,060
+Reinhard: Więc jest to coś co zdecydowanie chcemy zapewnić w lepszej formie.
+
+310
+00:29:59,060 --> 00:30:05,200
+Reinhard: I dobrego momentu gdy wszyscy cztere są razem z bohaterem i coś rozwiązują.
+
+311
+00:30:05,220 --> 00:30:12,200
+Reinhard: A poza tym to tak, będzie więcej rozwiniętego tła dla tych czterech przyjaciół.
+
+312
+00:30:12,220 --> 00:30:16,150
+Timur: Dziękuję Reinhard, i dziękuję Jasoon za twoje pytanie.
+
+313
+00:30:16,150 --> 00:30:20,000
+Timur: I ostatnie pytanie jest od użytkownika Xardosh
+
+314
+00:30:20,000 --> 00:30:27,290
+Timur: ""Czy będzie możliwość customizowania Bezimiennego Bohatera jak ogolenie głowy albo tatuaże, na przykład po dołączeniu do obozu sekty?"" (zadane przez Xardosh)
+
+315
+00:30:28,010 --> 00:30:33,050
+Kai: Myślę że ja mogę odpowiedzieć na to. (Timur: Xaradosh, dziękujemy za twoje pytanie!) Tak, dziękujemy
+
+316
+00:30:33,050 --> 00:30:36,270
+Kai: To jest bardzo proste bo odpowiedź to nie.
+
+317
+00:30:36,270 --> 00:30:41,190
+Kai: Nie ma żadnego rodzaju customizacji dla Bezimiennego Bohatera w planach.
+
+318
+00:30:41,190 --> 00:30:44,030
+Timur: Tak. Dziękuję wszyscy, za wysyłanie tych pytań.
+
+319
+00:30:44,030 --> 00:30:47,000
+Timur: Spróbujemy odpowiedzieć na nie w późniejszych epizodach.
+
+320
+00:30:47,000 --> 00:30:50,020
+Reinhard: Ok, to kończmy już. To tyle.
+
+321
+00:30:50,020 --> 00:30:53,020
+Reinhard: Dziękuję za dołączenie do naszej rozmowy przy ognisku.
+
+322
+00:30:53,020 --> 00:31:01,220
+Reinhard: Mamy nadzieję że daliśmy wam trochę dodatkowego wglądu do tego jak stworzyliśmy Prolog Nyrasa i Trailer Starego Obozu.
+
+323
+00:31:01,240 --> 00:31:09,210
+Reinhard: Z niecierpliwością czekamy by towarzyszyć wam na kolejnym odcinku Podcastu Gothic 1 Remake i dostarczyć wam trochę informacji o Gothic.
