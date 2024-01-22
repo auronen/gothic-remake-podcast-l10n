@@ -40,91 +40,91 @@
 
 11
 00:01:15,090 --> 00:01:19,280
-Kai: Mmh, fine. So now that you're here, let's start over.
+Ммм, добре. Тепер, коли ти тут, почнімо спочатку.
 
 12
 00:01:20,150 --> 00:01:21,130
-Reinhard: Ready when you are.
+Рейнгард: Готовий, якщо ти також.
 
 13
 00:01:22,110 --> 00:01:26,130
-Kai: Hi, everyone. And welcome to the""Gothic Remake Behind the Scenes Podcast"".
+Кай: Привіт усім. Ласкаво просимо на подкаст "За лаштунками Gothic Remake".
 
 14
 00:01:26,250 --> 00:01:29,010
-Reinhard: That's a mouthful. We need a shorter name.
+Рейнгард: Ця назва трохи задовга. Її треба скоротити.
 
 15
 00:01:29,280 --> 00:01:34,060
-Kai: ""Behind the Gothic Remake Podcast ... thingy"".
+Кай: Ну, тоді: "Подкаст залаштункам Gothic Remake".
 
 16
 00:01:34,060 --> 00:01:35,100
-Reinhard: That's shorter.
+Рейнгард: Так коротше.
 
 17
 00:01:36,210 --> 00:01:41,130
-Kai: Oh, look, there's Diego. I was so looking forward to meeting him. Hey, Diego. I'm...
+Кай: О, дивись, це Дієґо. Я так хотів з ним познайомитися. Привіт, Дієґо. Я...
 
 18
 00:01:42,000 --> 00:01:50,230
-Diego: I'm not interested in who you are. [Well, I...] You've just arrived. I look after the new arrivals. That's all for now.
+Дієґо: Мене не цікавить, хто ти. [Ну, я..]. Ти щойно прибув. Я доглядаю за новачками. Наразі це все.
 
 19
 00:01:51,040 --> 00:01:55,000
-Reinhard: Thanks, Diego. I'll take care of him. This is Kai Rosenkranz, our composer.
+Рейнгард: Дякую, Дієґо. Я подбаю про нього. Це Кай Розенкранц, наш композитор.
 
 20
 00:01:56,000 --> 00:02:03,010
-Reinhard: He wrote the soundtrack to the original game more than 20 years ago. Now he's back to do it again for the Gothic 1 remake.
+Рейнгард: Він написав саундтрек до оригінальної гри понад 20 років тому, а тепер повернувся, щоб зробити це знову для ремейку Gothic 1.
 
 21
 00:02:03,100 --> 00:02:04,260
-Diego: That's very good for you.
+Дієґо: Це дуже добре.
 
 22
 00:02:04,270 --> 00:02:08,170
-Reinhard: Yeah, He has a crew access pass. I'll show him around.
+Райнгард: Так, у нього є перепустка. Я покажу йому тут все.
 
 23
 00:02:08,260 --> 00:02:11,150
-Kai: Yes, It was about time I get to see the new sets.
+Кай: Точно, саме час показати нові задуми.
 
 24
 00:02:11,190 --> 00:02:15,020
-Diego: Well then ... you really seem to be an alright guy.
+Дієґо: Ну, тоді ... ти, схоже, справді хороший хлопець.
 
 25
 00:02:16,020 --> 00:02:18,160
-Kai: Thank you. I think I'm... (interrupted)
+Кай: Дякую. Думаю, я... (перебиваючи)
 
 26
 00:02:18,170 --> 00:02:20,100
-Diego: Go now! We'll meet in the old camp.
+Дієґо: Іди! Зустрінемося в старому таборі.
 
 27
 00:02:20,250 --> 00:02:21,280
-Kai: Yes. Okay.
+Кай: Так. Добре.
 
 28
 00:02:24,160 --> 00:02:30,070
-Kai: Aww, he's such a great guy. And thanks for the introduction, Reinhard. Now, tell everyone who you are.
+Кай: Ааа, він чудовий хлопчина. І дякую за знайомство, Рейнгарде. А тепер розкажи всім, хто ти такий.
 
 29
 00:02:31,020 --> 00:02:38,120
-Reinhard: I am Reinhard Pollice, studio manager and game director at Alkimia Interactive, the studio behind the Gothic 1 remake.
+Рейнгард: Я Рейнгард Полліс, студійний менеджер і гейм директор Alkimia Interactive, студії, що займається ремейком Gothic 1.
 
 30
 00:02:38,250 --> 00:02:43,190
-Kai: And you're a diehard Gothic fan and involved in the series for a very long time.
+Кай: І ти є затятим фанатом ґотики та захоплюєшся серією вже дуже давно.
 
 31
 00:02:44,120 --> 00:02:45,230
-Reinhard: Yes, that's true.
+Рейнгард: Так, це правда.
 
 32
 00:02:46,070 --> 00:02:53,160
-Kai: We'll get back to that. But first, about that shorter name for this podcast. Why don't we just call it the""Gothic Remake Podcast""?
+Кай: Ми ще повернемося до цього. Але спочатку про коротку назву для цього подкасту. Чому б нам просто не назвати його "Gothic Remake подкаст"?
 
 33
 00:02:53,260 --> 00:03:01,000
