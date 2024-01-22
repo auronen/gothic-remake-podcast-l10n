@@ -1,10 +1,10 @@
 1
 00:00:25,210 --> 00:00:30,270
-Xardas: Chapter one
+Xardas: Capitolul unu
 
 2
 00:00:30,270 --> 00:00:38,000
-Kai: Where is he? I'm pretty sure we said exchange zone, but he's not here.
+Kai: Unde e? Sunt destul de sigur că am zis „zona de schimb”, dar nu e aici.
 
 3
 00:00:40,000 --> 00:00:44,070
@@ -12,179 +12,179 @@ Kai: Reinhard? REINHARD?
 
 4
 00:00:46,100 --> 00:00:49,000
-Kai: Anyways. Hi, everyone, and welcome to...
+Kai: În fine. Salutare tuturor și bine ați venit la...
 
 5
 00:00:49,000 --> 00:00:50,180
-Kai: What the hell?!
+Kai: Ce naiba?!
 
 6
 00:00:52,090 --> 00:00:58,090
-Reinhard: I'm here.
+Reinhard: Sunt aici.
 
 7
 00:00:58,090 --> 00:01:02,170
-Kai: Why on Khorinis did you jump in the water? You could have just taken the crew entrance.
+Kai: De ce, pe Khorinis, ai sărit în apă? Ai fi putut pur și simplu să folosești intrarea echipajului.
 
 8
 00:01:03,060 --> 00:01:05,230
-Reinhard: I know, but I love this jump.
+Reinhard: Știu, dar îmi place săritura asta.
 
 9
 00:01:07,010 --> 00:01:10,100
-Kai: And what now? Are you going to tell me that you have a letter for the fire mages?
+Kai: Și acum ce? O să-mi spui că ai o scrisoare pentru magicienii focului?
 
 10
 00:01:10,100 --> 00:01:14,260
-Reinhard: Close. I do have a letter on me, but it's for someone else.
+Reinhard: Pe aproape. Am la mine o scrisoare, dar e pentru altcineva.
 
 11
 00:01:15,090 --> 00:01:19,280
-Kai: Mmh, fine. So now that you're here, let's start over.
+Kai: Mmm, bine. Acum că ești aici, hai să o luăm de la început.
 
 12
 00:01:20,150 --> 00:01:21,130
-Reinhard: Ready when you are.
+Reinhard: Gata când ești și tu.
 
 13
 00:01:22,110 --> 00:01:26,130
-Kai: Hi, everyone. And welcome to the""Gothic Remake Behind the Scenes Podcast"".
+Kai: Salutare tuturor. Și bine ați venit la „Podcastul Gothic Remake din Spatele Scenei”.
 
 14
 00:01:26,250 --> 00:01:29,010
-Reinhard: That's a mouthful. We need a shorter name.
+Reinhard: Aia e cam greu de zis. Avem nevoie de un nume mai scurt.
 
 15
 00:01:29,280 --> 00:01:34,060
-Kai: ""Behind the Gothic Remake Podcast ... thingy"".
+Kai: ""Din spatele Gothic Remake Podcast ... ceva"".
 
 16
 00:01:34,060 --> 00:01:35,100
-Reinhard: That's shorter.
+Reinhard: E mai scurt.
 
 17
 00:01:36,210 --> 00:01:41,130
-Kai: Oh, look, there's Diego. I was so looking forward to meeting him. Hey, Diego. I'm...
+Kai: Uite, e Diego. Așa mult am așteptat să-l văd. Bună, Diego, eu sunt...
 
 18
 00:01:42,000 --> 00:01:50,230
-Diego: I'm not interested in who you are. [Well, I...] You've just arrived. I look after the new arrivals. That's all for now.
+Diego: Nu mă interesează cine ești. [Ei bine, eu...] Tocmai ai sosit. Eu mă ocup de noii veniți. Asta-i tot pentru moment.
 
 19
 00:01:51,040 --> 00:01:55,000
-Reinhard: Thanks, Diego. I'll take care of him. This is Kai Rosenkranz, our composer.
+Reinhard: Mulțumesc, Diego. Mă ocup eu de el. Acesta e Kai Rosenkranz, compozitorul nostru.
 
 20
 00:01:56,000 --> 00:02:03,010
-Reinhard: He wrote the soundtrack to the original game more than 20 years ago. Now he's back to do it again for the Gothic 1 remake.
+Reinhard: El a scris coloana sonoră a jocului original acum mai bine de 20 de ani. Acum s-a întors să o facă din nou pentru Gothic 1 remake.
 
 21
 00:02:03,100 --> 00:02:04,260
-Diego: That's very good for you.
+Diego: Asta e foarte bine pentru tine.
 
 22
 00:02:04,270 --> 00:02:08,170
-Reinhard: Yeah, He has a crew access pass. I'll show him around.
+Reinhard: Da, are un permis de acces pentru echipaj. Îi voi arăta împrejurimile.
 
 23
 00:02:08,260 --> 00:02:11,150
-Kai: Yes, It was about time I get to see the new sets.
+Kai: Da, era și timpul să văd noile decoruri.
 
 24
 00:02:11,190 --> 00:02:15,020
-Diego: Well then ... you really seem to be an alright guy.
+Diego: Ei bine, atunci... chiar pari a fi un tip de treabă.
 
 25
 00:02:16,020 --> 00:02:18,160
-Kai: Thank you. I think I'm... (interrupted)
+Kai: Mulțumesc. Cred că sunt... (întrerupt)
 
 26
 00:02:18,170 --> 00:02:20,100
-Diego: Go now! We'll meet in the old camp.
+Diego: Pleacă acum. Ne întâlnim în tabăra veche.
 
 27
 00:02:20,250 --> 00:02:21,280
-Kai: Yes. Okay.
+Kai: Da. Bine.
 
 28
 00:02:24,160 --> 00:02:30,070
-Kai: Aww, he's such a great guy. And thanks for the introduction, Reinhard. Now, tell everyone who you are.
+Kai: Aww, e un tip așa grozav. Și mulțumesc pentru introducere, Reinhard. Acum, spune-le tuturor cine ești.
 
 29
 00:02:31,020 --> 00:02:38,120
-Reinhard: I am Reinhard Pollice, studio manager and game director at Alkimia Interactive, the studio behind the Gothic 1 remake.
+Reinhard: Eu sunt Reinhard Pollice, manager de studio și director de joc la Alkimia Interactive, studioul din spatele Gothic 1 remake.
 
 30
 00:02:38,250 --> 00:02:43,190
-Kai: And you're a diehard Gothic fan and involved in the series for a very long time.
+Kai: Și ești un fan înrăit Gothic și implicat în serie de foarte mult timp.
 
 31
 00:02:44,120 --> 00:02:45,230
-Reinhard: Yes, that's true.
+Reinhard: Da, e adevărat.
 
 32
 00:02:46,070 --> 00:02:53,160
-Kai: We'll get back to that. But first, about that shorter name for this podcast. Why don't we just call it the""Gothic Remake Podcast""?
+Kai: O să revenim la asta. Dar înainte, despre numele mai scurt al acestui podcast. De ce nu-l numim pur și simplu „Gothic Remake Podcast”?
 
 33
 00:02:53,260 --> 00:03:01,000
-Reinhard: GRP. Sounds good. So welcome to the first episode of the""Gothic Remake Podcast"".
+Reinhard: GRP. Sună bine. Deci, bine ați venit la primul episod al „Gothic Remake Podcast”.
 
 34
 00:03:09,000 --> 00:03:13,230
-Kai: Yay! Exciting times. We've known each other for what, 15 years now?
+Kai: Yay! Vremuri interesante. Ne cunoaștem de cât, 15 ani acum?
 
 35
 00:03:14,020 --> 00:03:20,170
-Reinhard: Even longer. We first worked together around the launch of Gothic 3 in 2006. Or even earlier than that?
+Reinhard: Chiar mai mult. Prima oară am lucrat împreună prin perioada lansării Gothic 3 în 2006. Sau chiar mai devreme de atât?
 
 36
 00:03:20,290 --> 00:03:23,010
-Kai: You worked for JoWooD at that time, right?
+Kai: Lucrai pentru JoWood atunci, nu-i așa?
 
 37
 00:03:23,020 --> 00:03:26,130
-Reinhard: Yes!  [ That's... ] I know!
+Reinhard: Da!  [ Asta-i... ] Știu!
 
 38
 00:03:27,020 --> 00:03:40,160
-Kai: If I remember correctly, it was you who made this fantastic fan camping during the Games Convention possible. I used to go camping with Gothic fans every year and you helped turning it into a community camping right next to the actually convention center?
+Kai: Dacă îmi amintesc bine, tu ai fost cel care ai făcut posibil acel fantastic camping al fanilor din timpul Games Convention. Obișnuiam să merg cu cortul cu fanii Gothic în fiecare an și tu ai ajutat la a transforma asta într-un camping al comunității chiar lângă centrul convenției?
 
 39
 00:03:41,040 --> 00:03:48,110
-Reinhard: Kind of true. But in the end, JoWooD and especially a guy named Ivan Ertlov made it possible. Special shout out to him here.
+Reinhard: Cam așa ceva. Dar până la urmă, JoWood și în special un tip numit Ivan Ertlov a făcut asta posibil. Îl salut în mod special aici.
 
 40
 00:03:48,180 --> 00:03:53,010
-Kai: Ivan! Yo, my man. What was your job exactly around that time?
+Kai: Ivan! Hei, omule. Care era jobul tău în perioada aceea?
 
 41
 00:03:53,130 --> 00:04:01,000
-Reinhard: It wasn't actually a real job because I was still going to school, but I helped JoWooD with communities, beta tests and supporting games.
+Reinhard: Nu era un job adevărat, pentru că încă mergeam la școală, dar am ajutat JoWood cu comunitățile, testele beta și suportul pentru jocuri.
 
 42
 00:04:01,000 --> 00:04:06,270
-Reinhard: Gothic had a sizable and active community team already, so I was mostly working on Spellforce at that time.
+Reinhard: Gothic avea deja o comunitate considerabilă și activă, așa că lucram mai mult la Spellforce în acea vreme.
 
 43
 00:04:07,230 --> 00:04:13,040
-Kai: Cool. So now, more than two decades after the release of Gothic 1, we're making a podcast together.
+Kai: Cool. Deci acum, la mai mult de două decade de la lansarea Gothic 1, facem un podcast împreună.
 
 44
 00:04:14,100 --> 00:04:15,210
-Reinhard: Hold on. (squishy sound)
+Reinhard: Stai puțin. (sunet de strivire)
 
 45
 00:04:18,110 --> 00:04:20,000
-Kai: Did you just smash a meatbug?
+Kai: Tocmai ai zdrobit un gândac?
 
 46
 00:04:20,110 --> 00:04:21,100
-Reinhard: I guess I did.
+Reinhard: Bănuiesc că da.
 
 47
 00:04:21,250 --> 00:04:25,180
-Kai: Classic. But why are we doing a podcast?
+Kai: Clasic. Dar de ce facem un podcast?
 
 48
 00:04:26,040 --> 00:04:40,000
