@@ -12,295 +12,295 @@ Kai: Reinhard? REINHARD?
 
 4
 00:00:46,100 --> 00:00:49,000
-Kai: Anyways. Hi, everyone, and welcome to...
+Kai: Comunque. Salve a tutti, e benvenuti al...
 
 5
 00:00:49,000 --> 00:00:50,180
-Kai: What the hell?!
+Kai: Ma che diavolo?!
 
 6
 00:00:52,090 --> 00:00:58,090
-Reinhard: I'm here.
+Reinhard: Sono qui.
 
 7
 00:00:58,090 --> 00:01:02,170
-Kai: Why on Khorinis did you jump in the water? You could have just taken the crew entrance.
+Kai: In nome di Khorinis perché sei saltato in acqua? Avresti potuto prendere l'entrata della ciurma.
 
 8
 00:01:03,060 --> 00:01:05,230
-Reinhard: I know, but I love this jump.
+Reinhard: Lo so, ma amo questo salto.
 
 9
 00:01:07,010 --> 00:01:10,100
-Kai: And what now? Are you going to tell me that you have a letter for the fire mages?
+Kai: E ora? Mi dirai che hai una lettera per i maghi del fuoco?
 
 10
 00:01:10,100 --> 00:01:14,260
-Reinhard: Close. I do have a letter on me, but it's for someone else.
+Reinhard: Quasi. Ho una lettere con me, ma è per qualcun altro.
 
 11
 00:01:15,090 --> 00:01:19,280
-Kai: Mmh, fine. So now that you're here, let's start over.
+Kai: Mmh, d'accordo. Ora che sei qua, ricominciamo.
 
 12
 00:01:20,150 --> 00:01:21,130
-Reinhard: Ready when you are.
+Reinhard: Pronto quando lo sei tu.
 
 13
 00:01:22,110 --> 00:01:26,130
-Kai: Hi, everyone. And welcome to the""Gothic Remake Behind the Scenes Podcast"".
+Kai: Ciao a tutti. E benvenuti al ""Gothic Remake Behind the Scenes Podcast"".
 
 14
 00:01:26,250 --> 00:01:29,010
-Reinhard: That's a mouthful. We need a shorter name.
+Reinhard: Troppo lungo. Ci serve un nome più corto.
 
 15
 00:01:29,280 --> 00:01:34,060
-Kai: ""Behind the Gothic Remake Podcast ... thingy"".
+Kai: Qualcosa tipo....""Behind the Gothic Remake Podcast"".
 
 16
 00:01:34,060 --> 00:01:35,100
-Reinhard: That's shorter.
+Reinhard: Questo è più corto.
 
 17
 00:01:36,210 --> 00:01:41,130
-Kai: Oh, look, there's Diego. I was so looking forward to meeting him. Hey, Diego. I'm...
+Kai: Oh, guarda, c'è Diego. Speravo d'incontrarlo. Hei, Diego, sono...
 
 18
 00:01:42,000 --> 00:01:50,230
-Diego: I'm not interested in who you are. [Well, I...] You've just arrived. I look after the new arrivals. That's all for now.
+Diego: Non mi interessa chi sei. [Beh, io...] Sei appena arrivato. Tengo d'occhio io i nuovi arrivati. Questo è quanto.
 
 19
 00:01:51,040 --> 00:01:55,000
-Reinhard: Thanks, Diego. I'll take care of him. This is Kai Rosenkranz, our composer.
+Reinhard: Grazie, Diego. Ci penso io a lui. Questo è Kai Rosenkranz, il nostro compositore.
 
 20
 00:01:56,000 --> 00:02:03,010
-Reinhard: He wrote the soundtrack to the original game more than 20 years ago. Now he's back to do it again for the Gothic 1 remake.
+Reinhard: Ha scritto la soundtrack del gioco originale più di 20 anni fa. Ora è tornato per farlo nuovamente con Gothic 1 remake.
 
 21
 00:02:03,100 --> 00:02:04,260
-Diego: That's very good for you.
+Diego: Molto bene per te.
 
 22
 00:02:04,270 --> 00:02:08,170
-Reinhard: Yeah, He has a crew access pass. I'll show him around.
+Reinhard: Si, ha un pass di accesso. Gli farò fare un giro.
 
 23
 00:02:08,260 --> 00:02:11,150
-Kai: Yes, It was about time I get to see the new sets.
+Kai: Si, era ora che vedessi i nuovi set.
 
 24
 00:02:11,190 --> 00:02:15,020
-Diego: Well then ... you really seem to be an alright guy.
+Diego: Molto bene ... sembri proprio un tipo apposto.
 
 25
 00:02:16,020 --> 00:02:18,160
-Kai: Thank you. I think I'm... (interrupted)
+Kai: Grazie. Credo che... (interrotto)
 
 26
 00:02:18,170 --> 00:02:20,100
-Diego: Go now! We'll meet in the old camp.
+Diego: Ora và! Ci incontreremo a campo vecchio.
 
 27
 00:02:20,250 --> 00:02:21,280
-Kai: Yes. Okay.
+Kai: Si. Va bene.
 
 28
 00:02:24,160 --> 00:02:30,070
-Kai: Aww, he's such a great guy. And thanks for the introduction, Reinhard. Now, tell everyone who you are.
+Kai: Aww, è proprio una brava persona. E grazie per l'introduzione, Reinhard. Ora, di a tutti chi sei.
 
 29
 00:02:31,020 --> 00:02:38,120
-Reinhard: I am Reinhard Pollice, studio manager and game director at Alkimia Interactive, the studio behind the Gothic 1 remake.
+Reinhard: Sono Reinhard Pollice, studio manager e game director in Alkimia Interactive, lo studio dietro a Gothic 1 remake.
 
 30
 00:02:38,250 --> 00:02:43,190
-Kai: And you're a diehard Gothic fan and involved in the series for a very long time.
+Kai: E sei un fan incallito di Gothic e sei involto nella serie da molto tempo.
 
 31
 00:02:44,120 --> 00:02:45,230
-Reinhard: Yes, that's true.
+Reinhard: Si, vero.
 
 32
 00:02:46,070 --> 00:02:53,160
-Kai: We'll get back to that. But first, about that shorter name for this podcast. Why don't we just call it the""Gothic Remake Podcast""?
+Kai: Torneremo su questo. Ma prima, a proposito del nome più corto per questo podcast. Perché non lo chiamiamo semplicemente""Gothic Remake Podcast""?
 
 33
 00:02:53,260 --> 00:03:01,000
-Reinhard: GRP. Sounds good. So welcome to the first episode of the""Gothic Remake Podcast"".
+Reinhard: GRP. Suona bene. Allora benvenuti al primo episodio del ""Gothic Remake Podcast"".
 
 34
 00:03:09,000 --> 00:03:13,230
-Kai: Yay! Exciting times. We've known each other for what, 15 years now?
+Kai: Si! È bellissimo. Ci conosciamo da quanto, 15 anni?
 
 35
 00:03:14,020 --> 00:03:20,170
-Reinhard: Even longer. We first worked together around the launch of Gothic 3 in 2006. Or even earlier than that?
+Reinhard: Anche di più. Abbiamo lavorato assieme per la prima volta circa al lancio di Gothic 3 nel 2006. O anche prima?
 
 36
 00:03:20,290 --> 00:03:23,010
-Kai: You worked for JoWooD at that time, right?
+Kai: Lavoravi per JoWooD a quel tempo, vero?
 
 37
 00:03:23,020 --> 00:03:26,130
-Reinhard: Yes!  [ That's... ] I know!
+Reinhard: Si! [Ecco...] Lo so!
 
 38
 00:03:27,020 --> 00:03:40,160
-Kai: If I remember correctly, it was you who made this fantastic fan camping during the Games Convention possible. I used to go camping with Gothic fans every year and you helped turning it into a community camping right next to the actually convention center?
+Kai: Se ricordo bene, eri tu che resi possibile quel fantastico campeggio tra fan durante la Games Convention. Andavo ogni anno a campeggio con i fan di Gothic e tu hai aiutato a trasformarlo in un campeggio per la community proprio accanto al centro della convention?
 
 39
 00:03:41,040 --> 00:03:48,110
-Reinhard: Kind of true. But in the end, JoWooD and especially a guy named Ivan Ertlov made it possible. Special shout out to him here.
+Reinhard: Più o meno. Ma alla fine, JoWooD e in particolare un ragazzo di nome Ivan Ertlov lo ha reso possibile. Un ringraziamento speciale per lui.
 
 40
 00:03:48,180 --> 00:03:53,010
-Kai: Ivan! Yo, my man. What was your job exactly around that time?
+Kai: Ivan! Un grande. Qual era il tuo lavoro nello specifico a quel tempo?
 
 41
 00:03:53,130 --> 00:04:01,000
-Reinhard: It wasn't actually a real job because I was still going to school, but I helped JoWooD with communities, beta tests and supporting games.
+Reinhard: Non era esattamente un lavoro perché andavo ancora a scuola, ma ho aiutato JoWooD con le comunità, beta test e al supporto dei giochi.
 
 42
 00:04:01,000 --> 00:04:06,270
-Reinhard: Gothic had a sizable and active community team already, so I was mostly working on Spellforce at that time.
+Reinhard: Gothic aveva già un buon team per la comunità, quindi ai tempi ero per la maggio parte del tempo su Spellforce.
 
 43
 00:04:07,230 --> 00:04:13,040
-Kai: Cool. So now, more than two decades after the release of Gothic 1, we're making a podcast together.
+Kai: Figo. Quindi, dopo più di due decadi dal rilascio di Gothic 1, stiamo facendo un podcast assieme.
 
 44
 00:04:14,100 --> 00:04:15,210
-Reinhard: Hold on. (squishy sound)
+Reinhard: Aspetta. (suono di schiacciamento)
 
 45
 00:04:18,110 --> 00:04:20,000
-Kai: Did you just smash a meatbug?
+Kai: Hai appena ucciso un insetto della carne?
 
 46
 00:04:20,110 --> 00:04:21,100
-Reinhard: I guess I did.
+Reinhard: Immagino di si.
 
 47
 00:04:21,250 --> 00:04:25,180
-Kai: Classic. But why are we doing a podcast?
+Kai: Un classico. Ma perché stiamo facendo questo podcast?
 
 48
 00:04:26,040 --> 00:04:40,000
-Reinhard: I guess because it makes us two independent. We can just walk around in this beautiful world as it's being built and talk about any aspect of the development process of the game without having to worry about visuals - since this is audio only.
+Reinhard: Immagino perché ci rende indipendenti. Possiamo camminare di questo bellissimo mondo mentre viene costruito e parlare di qualunque aspetto del processo di sviluppo senza preoccuparci del video - dato che c'è solo l'audio.
 
 49
 00:04:40,000 --> 00:04:46,120
-Reinhard: No visual assets need to be finished. Parts of the world can still be under construction. It just doesn't matter.
+Reinhard: Non è necessario finire parti della grafica. Parti del mondo potrebbero ancora essere in costruzione. Non importa.
 
 50
 00:04:47,070 --> 00:04:50,090
-Kai: Maybe our audience would love to see some work in progress assets.
+Kai: Forse il nostro pubblico vorrebbe vedere qualche cosa in work in progress.
 
 51
 00:04:50,090 --> 00:05:00,150
-Reinhard: Oh yeah, absolutely. We'll have those as well: on YouTube, our Discord channel, the Steam page... But for now, this gives us a bit more freedom.
+Reinhard: Oh si, assolutamente. Avremo anche quelle: su YouTube, il nostro canale Discord, la pagina Steam... Ma per ora, questo ci rende più liberi.
 
 52
 00:05:00,270 --> 00:05:07,020
-Kai: I love it. We can just walk around, talk, meet people ... [squishy sound] ... crush meatbugs...
+Kai: Lo adoro. Possiamo camminare, parlare, incontrare persone ... [rumore di schiacciamento] ... schiacciare insetti della carne...
 
 53
 00:05:08,120 --> 00:05:17,120
-Reinhard: Exactly. This episode is about what we think is a good remake. Which aspects we are recreating accurately and where we are adding new content.
+Reinhard: Esattamente. Questo episodio si focalizza sul come noi pensiamo sia un buon remake. Quale aspetti stiamo ricreando accuratamente e dove stiamo aggiungendo del nuovo contenuto.
 
 54
 00:05:18,110 --> 00:05:19,260
-Kai: So there will be new content?
+Kai: Quindi ci sarà qualcosa di nuovo?
 
 55
 00:05:20,030 --> 00:05:24,190
-Reinhard: Yes. I'm pretty sure you know that since you've already written some new music.
+Reinhard: Si. Sono abbastanza sicuro tu lo sappia dato che hai già scritto alcune nuove musiche.
 
 56
 00:05:24,270 --> 00:05:28,150
-Kai: Oh, yeah. I'm just pointing out that now you officially confirmed it.
+Kai: Oh, già. Lo stavo giusto sottolineando dato che ora lo hai ufficialmente confermato.
 
 57
 00:05:29,040 --> 00:05:39,000
-Reinhard: It's going to be a very faithful recreation of the original game. The same world, the same beloved characters, the same story, pretty much the same everything.
+Reinhard: Sarà una ricreazione molto fedele del gioco originale. Stesso mondo, gli stessi amati personaggi, stessa storia, e praticamente stesso tutto.
 
 58
 00:05:39,000 --> 00:05:42,210
-Reinhard: But we are adding a few things here and there where it just makes sense.
+Reinhard: Ma stiamo aggiungendo alcune cose qui e là dove ha senso.
 
 59
 00:05:43,150 --> 00:05:44,040
-Kai: Like what?
+Kai: Del tipo?
 
 60
 00:05:45,000 --> 00:05:48,000
-Reinhard: Just wait and see. But I'll give you some good examples.
+Reinhard: Aspetta e vedrai. Ma ti darò dei buoni esempi.
 
 61
 00:05:48,000 --> 00:05:58,170
-Reinhard: For example, the original Gothic had some plot holes, open ends, unexplained backgrounds, or even some bigger logic flaws, and we are using those to tie in a few new ideas.
+Reinhard: Per esempio, il gioco originale ha alcuni buchi di trama, finali aperti, storie non spiegate, o anche alcune grosse falle logiche, e stiamo usando queste per legare alcune nuove idee.
 
 62
 00:05:58,230 --> 00:06:01,170
-Kai: Whoa, whoa, whoa. What do you mean by""logic flaws""?
+Kai: Whoa, whoa, whoa. Cosa intendi con ""falle logiche""?
 
 63
 00:06:01,230 --> 00:06:06,140
-Reinhard: Wait, have you been involved in writing of the original story?
+Reinhard: Aspetta, sei stato coinvolto nella scrittura originale della storia?
 
 64
 00:06:07,000 --> 00:06:11,020
-Kai: No. No. Only music, sound effects and visual effects. No worries. Go ahead.
+Kai: No. No. Solo musica, effetti sonori e effetti visivi. Non ti preoccupare. Va avanti.
 
 65
 00:06:11,250 --> 00:06:20,090
-Reinhard: Okay. Anyways, there's room for new ideas without changing the original. Just wait and see. [And hear!] Right.
+Reinhard: D'accordo. Comunque, c'è spazio per nuove idee e senza cambiare l'originale. Aspetta e vedrai. [E ascolta!] Giusto.
 
 66
 00:06:21,090 --> 00:06:26,200
-Kai: What's your personal relationship with Gothic? Or in other words, how much of a fan are you?
+Kai: Qual è la tua relazione personale con Gothic? In altre parole, quanto sei fan?
 
 67
 00:06:27,030 --> 00:06:36,270
-Reinhard: I played a ton of the original games and I got hooked because of the rough tone. Later, I spent a lot of my time working on mods and learning game development. This way.
+Reinhard: Ho giocato un sacco ai giochi originali e me ne sono innamorato per via del tono cupo. In seguito, ho speso molto del mio tempo lavorando alle mod e imparando in questo modo lo sviluppo dei videogiochi.
 
 68
 00:06:37,100 --> 00:06:37,240
-Kai: Nice.
+Kai: Figo.
 
 69
 00:06:38,210 --> 00:06:39,180
-Reinhard: And what about you?
+Reinhard: Tu invece?
 
 70
 00:06:40,060 --> 00:06:45,300
-Kai: I joined Piranha Bytes when I was 18 in 1998, and I was still at school at that time.
+Kai: Mi sono unito ai Piranha Bytes quando avevo 18 anni nel 1998, andavo ancora a scuola.
 
 71
 00:06:45,300 --> 00:06:55,000
-Kai: I had made the decision to try to become a game developer and I was looking for some studios in my area that I could visit and just get an idea of what it's like to be a game developer.
+Kai: Avevo preso la decisione di provare a diventare uno sviluppatore di videogiochi e stavo cercando degli studi nella mia zona che potessi visitare per avere l'idea di cosa volesse dire essere uno sviluppatore.
 
 72
 00:06:55,000 --> 00:07:01,000
-Kai: And then I realized that Piranha Bytes was actually located in my hometown. So I went there and paid them a visit.
+Kai: Poi mi sono ricordato che Piranha Bytes si trovasse nella mia città. Quindi sono andato a fargli una visita.
 
 73
 00:07:01,100 --> 00:07:03,040
-Reinhard: The right place at the right time.
+Reinhard: Il posto giusto al momento giusto.
 
 74
 00:07:03,050 --> 00:07:12,000
-Kai: Oh, absolutely. I was so lucky. I visited them at the time when they were still just a handful of people in a tiny office room and some external programmers.
+Kai: Oh, assolutamente! Sono stato molto fortunato. Feci visita quando erano ancora una manciata di persone in un piccolo ufficio e qualche programmatore esterno.
 
 75
 00:07:12,000 --> 00:07:19,080
-Kai: A few weeks later, I started working on the music for the game and I stayed with Piranha Bytes for 12 years as a composer and sound designer.
+Kai: Qualche settimana dopo, iniziai a lavorare sulla musica per il gioco e rimasi con Piranha Bytes per 12 anni come compositore e sound designer.
 
 76
 00:07:20,130 --> 00:07:23,030
-Reinhard: Which was the last Piranha Bytes game that you've worked on?
+Reinhard: Qual è stato l'ultimo gioco Piranha Bytes su cui hai lavorato?
 
 77
 00:07:23,120 --> 00:07:24,040
