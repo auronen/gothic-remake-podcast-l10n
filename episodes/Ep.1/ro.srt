@@ -24,11 +24,11 @@ Reinhard: Sunt aici.
 
 7
 00:00:58,090 --> 00:01:02,170
-Kai: De ce, pe Khorinis, ai sărit în apă? Ai fi putut pur și simplu să folosești intrarea echipajului.
+Kai: De ce, în numele Khorinisului, ai sărit în apă? Puteai să folosești intrarea echipajului.
 
 8
 00:01:03,060 --> 00:01:05,230
-Reinhard: Știu, dar îmi place săritura asta.
+Reinhard: Știu, dar ador săritura asta.
 
 9
 00:01:07,010 --> 00:01:10,100
@@ -40,7 +40,7 @@ Reinhard: Pe aproape. Am la mine o scrisoare, dar e pentru altcineva.
 
 11
 00:01:15,090 --> 00:01:19,280
-Kai: Mmm, bine. Acum că ești aici, hai să o luăm de la început.
+Kai: Mmm, bine. Acum că ești aici, hai să o luăm de la capăt.
 
 12
 00:01:20,150 --> 00:01:21,130
@@ -52,7 +52,7 @@ Kai: Salutare tuturor. Și bine ați venit la „Podcastul Gothic Remake din Spa
 
 14
 00:01:26,250 --> 00:01:29,010
-Reinhard: Aia e cam greu de zis. Avem nevoie de un nume mai scurt.
+Reinhard: Asta e cam mult de zis. Avem nevoie de un nume mai scurt.
 
 15
 00:01:29,280 --> 00:01:34,060
@@ -60,19 +60,19 @@ Kai: ""Din spatele Gothic Remake Podcast ... ceva"".
 
 16
 00:01:34,060 --> 00:01:35,100
-Reinhard: E mai scurt.
+Reinhard: Asta e mai scurt.
 
 17
 00:01:36,210 --> 00:01:41,130
-Kai: Uite, e Diego. Așa mult am așteptat să-l văd. Bună, Diego, eu sunt...
+Kai: O, uite, iată-l pe Diego. Așa mult am așteptat să-l văd. Bună, Diego, eu sunt...
 
 18
 00:01:42,000 --> 00:01:50,230
-Diego: Nu mă interesează cine ești. [Ei bine, eu...] Tocmai ai sosit. Eu mă ocup de noii veniți. Asta-i tot pentru moment.
+Diego: Nu mă interesează cine ești. [Ei bine, eu...] Tocmai ai sosit. Eu mă ocup de noii veniți. Asta-i tot deocamdată.
 
 19
 00:01:51,040 --> 00:01:55,000
-Reinhard: Mulțumesc, Diego. Mă ocup eu de el. Acesta e Kai Rosenkranz, compozitorul nostru.
+Reinhard: Mulțumesc, Diego. Mă ocup eu de el. Acesta este Kai Rosenkranz, compozitorul nostru.
 
 20
 00:01:56,000 --> 00:02:03,010
@@ -100,7 +100,7 @@ Kai: Mulțumesc. Cred că sunt... (întrerupt)
 
 26
 00:02:18,170 --> 00:02:20,100
-Diego: Pleacă acum. Ne întâlnim în tabăra veche.
+Diego: Du-te acum! Ne întâlnim în tabăra veche.
 
 27
 00:02:20,250 --> 00:02:21,280
@@ -132,11 +132,11 @@ Reinhard: GRP. Sună bine. Deci, bine ați venit la primul episod al „Gothic R
 
 34
 00:03:09,000 --> 00:03:13,230
-Kai: Yay! Vremuri interesante. Ne cunoaștem de cât, 15 ani acum?
+Kai: Yay! Vremuri interesante. Ne cunoaștem de cât timp, 15 ani?
 
 35
 00:03:14,020 --> 00:03:20,170
-Reinhard: Chiar mai mult. Prima oară am lucrat împreună prin perioada lansării Gothic 3 în 2006. Sau chiar mai devreme de atât?
+Reinhard: Chiar mai mult. Am lucrat pentru prima dată împreună prin perioada lansării Gothic 3 în 2006. Sau chiar mai devreme de atât?
 
 36
 00:03:20,290 --> 00:03:23,010
@@ -144,7 +144,7 @@ Kai: Lucrai pentru JoWood atunci, nu-i așa?
 
 37
 00:03:23,020 --> 00:03:26,130
-Reinhard: Da!  [ Asta-i... ] Știu!
+Reinhard: Da! [ Asta-i... ] Știu!
 
 38
 00:03:27,020 --> 00:03:40,160
@@ -160,7 +160,7 @@ Kai: Ivan! Hei, omule. Care era jobul tău în perioada aceea?
 
 41
 00:03:53,130 --> 00:04:01,000
-Reinhard: Nu era un job adevărat, pentru că încă mergeam la școală, dar am ajutat JoWood cu comunitățile, testele beta și suportul pentru jocuri.
+Reinhard: Nu era un job adevărat, pentru că încă mergeam la școală, dar i-am ajutat pe JoWood cu comunitățile, testele beta și suportul pentru jocuri.
 
 42
 00:04:01,000 --> 00:04:06,270
@@ -168,7 +168,7 @@ Reinhard: Gothic avea deja o comunitate considerabilă și activă, așa că luc
 
 43
 00:04:07,230 --> 00:04:13,040
-Kai: Cool. Deci acum, la mai mult de două decenii de la lansarea Gothic 1, facem un podcast împreună.
+Kai: Mișto. Deci acum, la mai mult de două decenii de la lansarea Gothic 1, facem un podcast împreună.
 
 44
 00:04:14,100 --> 00:04:15,210
@@ -180,7 +180,7 @@ Kai: Tocmai ai zdrobit un gândac?
 
 46
 00:04:20,110 --> 00:04:21,100
-Reinhard: Bănuiesc că da.
+Reinhard: Se pare că da.
 
 47
 00:04:21,250 --> 00:04:25,180
@@ -188,11 +188,11 @@ Kai: Clasic. Dar de ce facem un podcast?
 
 48
 00:04:26,040 --> 00:04:40,000
-Reinhard: Cred că pentru că ne face pe noi doi independenți. Putem pur și simplu să ne plimbăm prin lumea asta frumoasă în timp ce e construită și să vorbim despre orice aspect al procesului de dezvoltare al jocului fără să ne preocupăm de imagini - din moment ce e doar audio.
+Reinhard: Cred că pentru că ne face pe amândoi independenți. Putem să ne plimbăm prin lumea asta frumoasă în timp ce e construită și să vorbim despre orice aspect al procesului de dezvoltare al jocului fără să ne face griji cu privire la aspectul vizual - din moment ce e doar audio.
 
 49
 00:04:40,000 --> 00:04:46,120
-Reinhard: Niciun element vizual nu e nevoie să fie finalizat. Părți ale lumii pot fi în continuare în construcție. Pur și simplu nu contează.
+Reinhard: Nu e nevoie să fie finalizat niciun material vizual. Părți ale lumii pot fi în continuare în construcție. Pur și simplu nu contează.
 
 50
 00:04:47,070 --> 00:04:50,090
@@ -204,7 +204,7 @@ Reinhard: O da, absolut. Le vom avea și pe acelea: pe YouTube, pe canalul nostr
 
 52
 00:05:00,270 --> 00:05:07,020
-Kai: Îmi place foarte mult. Putem să ne plimbăm, să vorbim, să întâlnim oameni ... [sunet de strivire] ... strivi gândaci...
+Kai: Îmi place foarte mult. Putem să ne plimbăm, să vorbim, să întâlnim oameni ... [sunet de strivire] ... să strivim gândaci...
 
 53
 00:05:08,120 --> 00:05:17,120
@@ -212,7 +212,7 @@ Reinhard: Exact. Acest episod este despre ce credem noi că este un remake bun. 
 
 54
 00:05:18,110 --> 00:05:19,260
-Kai: Deci va fi conținut nou?
+Kai: Deci va exista conținut nou?
 
 55
 00:05:20,030 --> 00:05:24,190
@@ -224,7 +224,7 @@ Kai: O, da. Doar am subliniat că acum ai confirmat-o oficial.
 
 57
 00:05:29,040 --> 00:05:39,000
-Reinhard: O să fie o recreare foarte fidelă a jocului original. Aceeași lume, aceleași pesonaje îndrăgite, aceeași poveste, în mare cam același lucru.
+Reinhard: O să fie o recreare foarte fidelă a jocului original. Aceeași lume, aceleași pesonaje îndrăgite, aceeași poveste, în mare parte același lucru.
 
 58
 00:05:39,000 --> 00:05:42,210
@@ -240,7 +240,7 @@ Reinhard: Așteaptă și o să vezi. Dar o să-ți dau niște exemple foarte bun
 
 61
 00:05:48,000 --> 00:05:58,170
-Reinhard: De exemplu, Gothic originalul avea niște inconsistențe în poveste, finaluri deschise, trecuturi neexplicate, și chiar și mai mari erori de logică, și ne folosim de acestea pentru a lega idei noi.
+Reinhard: De exemplu, originalul Gothic avea niște inconsistențe în poveste, finaluri deschise, origini neexplicate, și chiar și mai mari erori de logică, și ne folosim de acestea pentru a lega câteva idei noi.
 
 62
 00:05:58,230 --> 00:06:01,170
@@ -256,7 +256,7 @@ Kai: Nu. Nu. Doar muzică, efecte sonore și efecte vizuale. Fără grijă. Dă-
 
 65
 00:06:11,250 --> 00:06:20,090
-Reinhard: Bine. Oricum, e loc pentru idei noi fără a schimba originalul. Așteaptă și vezi. [Și auzi!] Da.
+Reinhard: Bine. Oricum, e loc pentru idei noi fără a schimba originalul. Așteaptă și o să vezi. [Și auzi!] Da.
 
 66
 00:06:21,090 --> 00:06:26,200
@@ -316,7 +316,7 @@ Kai: L-am jucat live pe Twitch acum 3 sau 4 ani. Dar, să fiu sincer, a trebuit 
 
 80
 00:07:37,200 --> 00:07:49,090
-Reinhard: De înțeles. Și dacă ar trebui să numești cele mai importante aspecte ale Gothic, calitățile definitorii. Pe care le-ai alege? Care este sufletul, spiritul - oricum vrei să-l numești - al Gothic?
+Reinhard: De înțeles. Și dacă ar trebui să numești cele mai importante aspecte ale Gothic, calitățile definitorii. Pe care le-ai alege? Care este sufletul, spiritul - oricum vrei să-l numești - lui Gothic?
 
 81
 00:07:49,150 --> 00:08:04,150
@@ -324,7 +324,7 @@ Kai: Uau, asta e o întrebare dificilă. Numărul unu, cadrul și tonul. E crud,
 
 82
 00:08:04,150 --> 00:08:12,000
-Kai: Tonul e aspru și are un fler foarte distinctiv care e foarte important pentru mine. Partea asta trebuie s-o facem impecabil.
+Kai: Tonul e aspru și are un aer foarte deosebit care e foarte important pentru mine. Partea asta trebuie s-o facem impecabil.
 
 83
 00:08:12,000 --> 00:08:13,090
@@ -348,7 +348,7 @@ Kai: Ele trebuie să reacționeze în funcție de ceea ce face jucătorul. Și, 
 
 88
 00:08:38,210 --> 00:08:43,280
-Kai: Și Gothic originalul  avea asta deja. Așa că noi trebuie să încercăm să ducem asta și mai departe.
+Kai: Și Gothic originalul deja avea asta. Așa că noi trebuie să încercăm să ducem asta și mai departe.
 
 89
 00:08:44,080 --> 00:08:44,230
@@ -376,11 +376,11 @@ Kai: Acum e rândul tău. Care aspect crezi că e cel mai important?
 
 95
 00:09:19,110 --> 00:09:29,000
-Reinhard: Cel mai mult îmi place lumea vie cu rutinele ei zilnice pe care le au nu numai NPC-urile, ci și creaturile. Chiar se simte că e vie și reacționează.
+Reinhard: Cel mai mult îmi place lumea vie cu rutinele ei zilnice pe care le au nu numai NPC-urile, ci și creaturile. Se simte cu adevărat că e vie și reactivă.
 
 96
 00:09:29,000 --> 00:09:45,110
-Reinhard: Îmi mai place foarte mult și experiența neîngrădită. Toată lumea îți este literalmente deschisă dacă ai abilitatea de a învinge niște monștrii dificili. Și, desigur, îmi place și tonul aspru, dialogurile, reacțiile eroului fără nume și ale NPC-urilor... Totul e bine gândit!
+Reinhard: Îmi mai place foarte mult și experiența neîngrădită. Toată lumea îți este literalmente deschisă dacă ești capabil să învingi niște monștrii puternici. Și, desigur, îmi place și tonul aspru, dialogurile, reacțiile eroului fără nume și ale NPC-urilor... Totul e bine gândit!
 
 97
 00:09:45,210 --> 00:09:46,240
@@ -400,11 +400,11 @@ Reinhard: E un podcast, Kai. Doar audio!
 
 101
 00:10:03,270 --> 00:10:09,070
-Kai: Știu, dar totuși, dacă ați putea vedea toți asta. Uite, acolo e poarta cu Orry.
+Kai: Știu, dar totuși, dacă ați putea vedea asta. Uite, acolo e poarta cu Orry.
 
 102
 00:10:09,180 --> 00:10:12,080
-Reinhard: Da. Partea asta a lumii e practic gata.
+Reinhard: Da. Partea asta din lume e practic gata.
 
 103
 00:10:12,220 --> 00:10:18,250
@@ -468,7 +468,7 @@ Reinhard: Ei bine, în mod evident, avem un proces la THQ Nordic pentru proiecte
 
 118
 00:11:37,200 --> 00:11:45,230
-Reinhard: Și apoi, una peste alta, am avut nevoie de un „proof of concept” pentru echipa care va realiza o astfel de producție. Și așa am făcut Playable Teaser.
+Reinhard: Și apoi, una peste alta, am avut nevoie de un „proof of concept” pentru echipa care urma să fie resposabilă de o astfel de producție. Și așa am făcut Playable Teaser.
 
 119
 00:11:47,000 --> 00:11:53,180
@@ -476,7 +476,7 @@ Kai: Ați avut de la bun început intenția să implicați comunitatea în, să 
 
 120
 00:11:54,150 --> 00:12:02,150
-Reinhard: Nu pentru Playable Teaser, dar știam că Gothic a avut întotdeauna o comunitate foarte puternică și cu opinii foarte clare, și am vrut să ne asigurăm că se simt parte din asta.
+Reinhard: Nu pentru Playable Teaser, dar știam că Gothic a avut întotdeauna o comunitate foarte puternică și cu opinii foarte clare, și am vrut să ne asigurăm că simt că fac parte din asta.
 
 121
 00:12:03,030 --> 00:12:11,230
@@ -484,7 +484,7 @@ Kai: Frumos. După părerea ta, ce este un remake în comparație cu o remasteri
 
 122
 00:12:12,130 --> 00:12:28,050
-Reinhard: Asta e ușor de explicat. Un remake e o recreare completă a ceva existent, fără a se abate prea mult de la original. O remasterizare înseamnă literalmente a lua o bucată veche de cod și a o face să funcționeze pe sistemele moderne cu modificări selective.
+Reinhard: Asta e ușor de explicat. Un remake e o recreare completă a ceva existent, fără a se abate prea mult de la original. O remasterizare înseamnă literalmente a lua o bucată veche de cod și a o face să funcționeze pe sistemele moderne cu modificări punctuale.
 
 123
 00:12:28,150 --> 00:12:30,090
@@ -504,7 +504,7 @@ Kai: Deci, ca să fie clar, facem un remake, nu?
 
 127
 00:12:52,030 --> 00:12:53,290
-Reinhard: Da, acum facem un remake.
+Reinhard: Da, facem un remake.
 
 128
 00:12:54,290 --> 00:13:04,190
@@ -528,344 +528,344 @@ Kai: Hmm, ai menționat teaserul jucabil. Poți să ne explici cum a fost gândi
 
 133
 00:13:23,000 --> 00:13:31,000
-Reinhard: Planul inițial a fost să nu-l lansăm niciodată. Inițial, am vrut să creăm un „proof of concept” că această echipă poate lucra la un proiect atât de mare.
+Reinhard: Planul inițial a fost să nu-l lansăm niciodată. Inițial, am vrut să creăm un „proof of concept” care să arate că echipa poate lucra la un proiect atât de mare.
 
 134
 00:13:31,000 --> 00:13:43,000
-Reinhard: But then, so much of our own thoughts went into it and it was more a reboot, and we felt the need to either sanity-check it or - like - go back to a safe ground.
+Reinhard: Dar apoi, așa multe din ideile noastre au ajuns în el încât era mai degrabă un reboot, și am simțit nevoia fie să-l revizuim, fie - gen - să ne întoarcem într-un punct sigur.
 
 135
 00:13:43,000 --> 00:13:46,300
-Reinhard: In the end, THQ Nordic suggested to release the playable teaser and ask for feedback.
+Reinhard: Până la urmă, THQ Nordic a sugerat să lansăm Playable Teaser și să cerem feedback.
 
 136
 00:13:47,270 --> 00:13:49,180
-Kai: And then the fan feedback came in.
+Kai: Și apoi feedback-ul fanilor a venit.
 
 137
 00:13:50,060 --> 00:13:50,200
-Reinhard: Yes.
+Reinhard: Da.
 
 138
 00:13:50,210 --> 00:13:54,070
-Kai: What was your process of evaluating it and what did you learn from it?
+Kai: Care a fost procesul prin care l-ați evaluat și ce ați învățat din el?
 
 139
 00:13:54,260 --> 00:14:06,200
-Reinhard: Well, all the feedback came in in a gigantic spreadsheet and we went through all of it. And the most interesting thing was really to see how much different opinions were there about certain details.
+Reinhard: Ei bine, tot feedbackul a venit într-o foaie de calcul gigantică și l-am analizat în întregime. Și cel mai interesant a fost să vedem cât de multe opinii diferite au existat cu privire la anumite detalii.
 
 140
 00:14:06,200 --> 00:14:11,130
-Reinhard: But in the end, the good thing was that there was a lot of common ground among the Gothic community.
+Reinhard: Dar până la urmă, partea bună era că existau multe puncte comune prin comunitatea Gothic.
 
 141
 00:14:13,010 --> 00:14:14,240
-Kai: So you decided to start from scratch?
+Kai: Deci ați decis să începeți de la zero?
 
 142
 00:14:15,070 --> 00:14:24,080
-Reinhard: Yes, exactly. In the process of making the playable teaser shippable, we took a lot of shortcuts and it just wasn't architected from the start to live on.
+Reinhard: Da, exact. În încercarea de a face Playable Teaser gata de lansare, am luat o mulțime de scurtături și pur și simplu nu a fost proiectat de la început să rămână.
 
 143
 00:14:24,080 --> 00:14:36,080
-Reinhard: We as a team, we never used Unreal before. So we also made some mistakes on how we set up certain things and we just wanted to have a clean slate for the full production and not live with actually a lot of tech depth.
+Reinhard: Noi, ca echipă, nu mai folosiserăm niciodată Unreal. Așa că am făcut și unele greșeli în modul în care am configurat anumite lucruri și voiam doar să avem o bază clară pentru întreaga producție și să nu ne confruntăm cu multe detalii tehnice.
 
 144
 00:14:37,130 --> 00:14:42,180
-Kai: That's crazy. And just to be clear, when you say Unreal, you mean the Unreal Engine, right?
+Kai: Asta e o nebunie. Și ca să fie clar, când spui Unreal, te referi la Unreal Engine, nu?
 
 145
 00:14:42,240 --> 00:14:45,040
-Reinhard: Yes. We're using the Unreal Engine.
+Reinhard: Da. Folosim Unreal Engine.
 
 146
 00:14:45,290 --> 00:14:52,020
-Kai: So how would you answer the following question?""Why should we trust the team that did the playable teaser?""
+Kai: Deci, cum ai răspunde la următoarea întrebare? „De ce ar trebui să avem încredere în echipa care a făcut Playable Teaser?”
 
 147
 00:14:53,040 --> 00:15:01,290
-Reinhard: Because we went through all the feedback and created good action items based on that. We created a vision that is very much in line with what the community wants.
+Reinhard: Pentru că am analizat tot feedbackul și am creat puncte de acțiune bune pe baza acestuia. Am creat o viziune care e foarte mult în ton cu ceea ce vrea comunitatea.
 
 148
 00:15:02,290 --> 00:15:03,220
-Kai: M-hm.
+Kai: Îhî.
 
 149
 00:15:03,260 --> 00:15:06,070
-Reinhard: One second! See that molerat over there?
+Reinhard: O secundă! Vezi șobolanul-cârtiță de acolo?
 
 150
 00:15:06,160 --> 00:15:08,000
-Kai: Right where it used to be.
+Kai: Chiar acolo unde era înainte.
 
 151
 00:15:08,000 --> 00:15:22,220
-Reinhard: Watch. [fighting and squeaking sounds]
+Reinhard: Privește. [sunete de luptă și guițat]
 
 152
 00:15:23,000 --> 00:15:28,170
-Kai: Nice! That looked extremely smooth. Very cool. Is that the new combat system?
+Kai: Frumos! A părut extrem de fluid. Foarte tare. Ăsta e noul sistem de luptă?
 
 153
 00:15:29,030 --> 00:15:39,100
-Reinhard: Yes. It's based on the Gothic 1 system and it has the same feel to it with instant reactions, different attacks, combos, and kind of the same rhythm.
+Reinhard: Da. E bazat pe sistemul din Gothic 1 și se simte la fel, cu reacții instantanee, atacuri diferite, combo-uri, și cam același ritm.
 
 154
 00:15:39,100 --> 00:15:46,120
-Reinhard: We've modernized the controls and gameplay to a certain degree, but decided to go a completely different route than in the playable teaser.
+Reinhard: Am modernizat comenzile și gameplay-ul până la un anumit punct, dar am decis să mergem pe o cale complet diferită față de Playable Teaser.
 
 155
 00:15:46,120 --> 00:15:48,040
-Kai: That's very good.
+Kai: Asta e foarte bine.
 
 156
 00:15:49,010 --> 00:15:55,010
-Reinhard: Modernizing the gameplay is the trickiest part, but I think we've got good solutions for all gameplay aspects now.
+Reinhard: Modernizarea gameplay-ului e cea mai complicată parte, dar cred că acum avem soluții bune pentru toate aspectele gameplay-ului.
 
 157
 00:15:55,140 --> 00:16:03,020
-Kai: Yeah, I'm very curious about this one and also a little worried. But I got to say, everything that I saw so far looks very, very good.
+Kai: Da, sunt foarte curios în legătură cu asta, dar și puțin îngrijorat. Dar, trebuie să spun, tot ce-am văzut până acum arată foarte, foarte bine.
 
 158
 00:16:04,130 --> 00:16:13,060
-Reinhard: Now we have to leave this part of the podcast to the listeners imagination. But let's talk about an aspect that lends itself perfectly to a podcast.
+Reinhard: Acum, trebuie să lăsăm această parte a podcastului la imaginația ascultătorilor. Dar hai să vorbim despre un aspect care se potrivește perfect pentru un podcast.
 
 159
 00:16:13,170 --> 00:16:14,200
-Kai: Read some source code?
+Kai: Să citim niște cod sursă?
 
 160
 00:16:14,260 --> 00:16:18,050
-Reinhard: Oh, yeah. No, I mean your music!
+Reinhard: O, da. Nu, vreau să spun muzica ta!
 
 161
 00:16:18,130 --> 00:16:24,000
-Kai: Oh, yeah. As of now, I've already written more than one hour of new music for the Gothic Remake.
+Kai: O, da. Până acum, am scris deja mai mult de o oră de muzică nouă pentru Gothic Remake.
 
 162
 00:16:24,100 --> 00:16:25,230
-Reinhard: Shall we listen to some of it?
+Reinhard: Să ascultăm o parte din ea?
 
 163
 00:16:26,050 --> 00:16:34,000
-Kai: Sure. We're in the middle of nowhere on the path that leads down to the old camp. Let me play some snippets of the music that plays here.
+Kai: Sigur. Suntem în mijlocul pustietății, pe drumul care duce la tabăra veche. Lasă-mă să redau câteva fragmente din muzica care se aude aici.
 
 164
 00:16:34,000 --> 00:17:23,160
-Music: [Music for the path from exchange zone to old camp]
+Music: [Muzică pentru drumul de la zona de schimb la tabăra veche]
 
 165
 00:17:24,120 --> 00:17:28,080
-Reinhard: Sweet. So this is definitely based on the original soundtrack.
+Reinhard: Frumos. Deci, asta cu siguranță se bazează pe coloana sonoră originală.
 
 166
 00:17:28,150 --> 00:17:31,080
-Kai: Yes. My plan is to follow a""three thirds rule"".
+Kai: Da. Planul meu e să urmez o „regulă a trei treimi”.
 
 167
 00:17:31,220 --> 00:17:33,010
-Reinhard: What's that?
+Reinhard: Ce-i aia?
 
 168
 00:17:33,200 --> 00:17:41,200
-Kai: There wasn't a lot of music in Gothic one, and it was repeating and looping a lot. So I am considering this original soundtrack the first of three thirds.
+Kai: Nu era multă muzică în Gothic 1 și se repeta și se reda în buclă într-una. Așadar, consider această coloană sonoră originală prima din cele trei treimi.
 
 169
 00:17:41,200 --> 00:17:51,020
-Kai: So the first third is all the original melodies, all the original themes that were in the original game but remastered and modernized so that they sound good in a modern game.
+Kai: Deci, prima treime e formată din toate melodiile originale, toate temele originale care erau în jocul original, dar remasterizate și modernizate asftel încât să sune bine într-un joc modern.
 
 170
 00:17:51,180 --> 00:18:02,250
-Kai: Then the second set would be variations on these themes. You recognize the material, but there are slight modifications. There are rearrangements and maybe extensions to the original material.
+Kai: Apoi, al doilea set ar fi variații pe aceste teme. Recunoști materialul, dar există mici modificări. Există rearanjări și poate extensii ale materialului original.
 
 171
 00:18:02,250 --> 00:18:12,040
-Kai: And then the third third would be completely new music. So there will be tracks for places in the world that didn't have their own music in the original game, and some other things.
+Kai: Și apoi a treia treime ar fi muzică complet nouă. Deci, vor fi piese pentru locuri din lume care nu aveau muzică proprie în jocul original, și alte lucruri.
 
 172
 00:18:12,210 --> 00:18:16,100
-Reinhard: That make sense. Can you play a piece to demonstrate that?
+Reinhard: Asta are sens. Poți reda o piesă pentru a ne demonstra asta?
 
 173
 00:18:17,030 --> 00:18:21,300
-Kai: Absolutely. Here's the night version for the music for this area.
+Kai: Absolut. Asta e versiunea nocturnă a muzicii din această zonă.
 
 174
 00:18:22,000 --> 00:18:30,000
-Kai: [Night music plays]
+Kai: [Muzica nocturnă cântă]
 
 175
 00:18:31,070 --> 00:18:35,300
-Kai: It's the remastered version of the original theme. So the first third.
+Kai: E versiunea remasterizată a temei originale. Deci, prima treime.
 
 176
 00:19:08,000 --> 00:19:11,000
-Kai: And this part is completely new.
+Kai: Și partea asta e complet nouă.
 
 177
 00:19:35,230 --> 00:19:40,000
-Kai: Now, this is the second third based on the same motif.
+Kai: Acum, asta e a doua treime bazată pe același motiv.
 
 178
 00:20:03,050 --> 00:20:05,270
-Reinhard: Oh, wow. Thank you, Kai. That's very interesting.
+Reinhard: O, uau. Mulțumesc, Kai. E foarte interesant.
 
 179
 00:20:06,100 --> 00:20:17,080
-Kai: Thank you. Is there a similar guideline for the entire game? I mean, do you have a plan as to how much you want to keep 100% accurate and how much you want to add or modify?
+Kai: Mulțumesc. Există o indicație similară pentru întregul joc? Adică, aveți un plan cu privire la cât de mult vreți să păstrați 100% fidel și cât de mult vreți să adăugați sau să modificați?
 
 180
 00:20:17,230 --> 00:20:27,260
-Reinhard: I can't come up with a percentage, but the plan is to stay very close where the original shined. So, like the world design, the general mechanics and also the story.
+Reinhard: Nu pot să dau un procent, dar planul e să rămânem foarte aproape acolo unde originalul a strălucit. Deci, cum ar fi designul lumii, mecanica generală și, de asemenea, povestea.
 
 181
 00:20:28,130 --> 00:20:36,190
-Kai: Very cool. Can we talk a little bit about yourself? [Okay.] Like, what exactly is your role in the Remake's development?
+Kai: Foarte tare. Putem vorbi puțin despre tine? [Bine.] Cum ar fi, care e mai exact rolul tău în dezvoltarea Remake-ului?
 
 182
 00:20:37,050 --> 00:20:40,130
-Reinhard: I am the game director and managing director for Alkimia.
+Reinhard: Sunt director de joc și manager de studio la Alkimia.
 
 183
 00:20:41,040 --> 00:20:43,140
-Kai: So how much creative influence do you have?
+Kai: Deci, cât de multă influență ai pe partea creativă?
 
 184
 00:20:43,280 --> 00:20:56,090
-Reinhard: I created the vision for the Gothic remake and all its important features. Now that we are focusing on the implementation details, I make sure to supervise important features and workflows, like, for example, the daily routines.
+Reinhard: Eu am creat viziunea pentru Gothic Remake și toate caracteristicile sale importante. Acum, din moment ce ne concentrăm pe detaliile de implementare, mă asigur că supervizez funcționalitățile și procesele importante, cum ar fi, de exemplu, rutinele zilnice.
 
 185
 00:20:57,010 --> 00:21:00,090
-Kai: What would you say has been your biggest personal influence on the remake?
+Kai: Care ai spune că a fost cea mai mare influență personală asupra remake-ului?
 
 186
 00:21:00,140 --> 00:21:03,060
-Reinhard: It's hard to name a few. There's just so many.
+Reinhard: E greu să numesc doar câteva. Sunt atât de multe.
 
 187
 00:21:04,230 --> 00:21:06,240
-Kai: You are originally from Austria, right?
+Kai: Ești originar din Austria, nu-i așa?
 
 188
 00:21:07,100 --> 00:21:12,050
-Reinhard: Yes, that's right. So I also speak the original language Gothic was created in.
+Reinhard: Da, așa este. Așadar, vorbesc și limba originală în care Gothic a fost creat.
 
 189
 00:21:12,150 --> 00:21:17,160
-Kai: And now you're heading a studio in Barcelona. How did you get there? Why Barcelona?
+Kai: Și acum conduci un studio în Barcelona. Cum ai ajuns acolo? De ce Barcelona?
 
 190
 00:21:17,230 --> 00:21:28,170
-Reinhard: I lived here for a few years and never really had the plan to run a studio here. But then I discovered that there are so many talented game developers here and mostly were just stuck with mobile game studios.
+Reinhard: Am trăit aici câțiva ani și n-am avut niciodată un plan să conduc un studio aici. Dar apoi am descoperit că există atât de mulți dezvoltatori de jocuri talentați aici și că majoritatea au rămas blocați la studiourile de jocuri pe mobil.
 
 191
 00:21:29,150 --> 00:21:32,180
-Kai: How did you go about founding a new studio and a new city?
+Kai: Cum ai procedat cu crearea unui nou studio într-un nou oraș?
 
 192
 00:21:32,230 --> 00:21:42,200
-Reinhard: It was an extra challenge because of the pandemic. We started Alkimia in March 2020. I got to know that there are a lot of talented game developers in the city.
+Reinhard: A fost o provocare în plus din cauza pandemiei. Am început Alkimia în Martie 2020. Am ajuns să aflu că există mulți dezvoltatori de jocuri talentați în oraș.
 
 193
 00:21:42,200 --> 00:21:55,240
-Reinhard: So I got to know a core team of five people who I thought were really talented and they were - like - already working together in the past. And so we - just like - throw around ideas what we could work on together.
+Reinhard: Așa că am ajuns să cunosc o echipă de bază de cinci oameni pe care i-am considerat foarte talentați și care deja lucraseră împreună în trecut. Așa că, pur și simplu, am aruncat cu idei despre ce am putea face împreună.
 
 194
 00:21:55,280 --> 00:22:07,060
-Reinhard: And so we settled on""let's just start to work on the medieval RPG"", which later became Gothic, and then actually founding the studio was an extra challenge because of the pandemic.
+Reinhard: Așa că ne-am hotărât să începem să lucrăm la un RPG medieval, care mai târziu a devenit Gothic, iar apoi înființarea studioului a fost o provocare în plus din cauza pandemiei.
 
 195
 00:22:07,230 --> 00:22:13,240
-Kai: At that time it was THQ Nordic Barcelona Studio, which then later became Alkimia Interactive, right?
+Kai: La cea vreme se chema THQ Nordic Barcelona Studio, care mai apoi a devenit Alkimia Interactive, nu?
 
 196
 00:22:14,060 --> 00:22:25,060
-Reinhard: Yes. The plan was never really to stay THQ Nordic Barcelona. It was just our team's name when we needed a team's name for the release of the playable teaser.
+Reinhard: Da. Planul nu a fost niciodată să rămânem THQ Nordic Barcelona. A fost doar numele nostru atunci când aveam nevoie de un nume pentru lansarea Playable Teaser.
 
 197
 00:22:23,150 --> 00:22:27,190
-Kai: Alkimia Interactive: That's Spanish for alchemy, I guess, right?
+Kai: Alkimia Interactive: Asta în spaniolă e alchimie, cred, nu-i așa?
 
 198
 00:22:27,270 --> 00:22:37,200
-Reinhard: Sí señor. But it's actually even cooler. Alkimia is a Basque word, which is a language spoken in the Basque country, which is situated in the north of Spain.
+Reinhard: Sí señor. Dar de fapt e chiar mai mișto. Alkimia e un cuvânt în bască, care e o limbă vorbită în Țara Bascilor, care e situată în nordul Spaniei.
 
 199
 00:22:37,200 --> 00:22:41,110
-Kai: Aha! How many people are working at Alkimia right now?
+Kai: Aha! Cât de mulți oameni lucrează acum la Alkimia?
 
 200
 00:22:41,200 --> 00:22:43,130
-Reinhard: We are around 40 people now.
+Reinhard: Suntem în jur de 40 de oameni acum.
 
 201
 00:22:43,200 --> 00:22:45,130
-Kai: And how did you come up with that name?
+Kai: Și cum ați venit cu numele ăsta?
 
 202
 00:22:45,200 --> 00:23:03,180
-Reinhard: We released the playable teaser as THQ Nordic Barcelona, but after this there was a need to create a unique name - an own identity. So we started to gather names among the team, and in the end it was between two names. And so we chose Alkimia Interactive. And the short form is A.I.
+Reinhard: Am lansat Playable Teaser sub numele de THQ Nordic Barcelona, dar după aceea a fost nevoie să creăm un nume unic, o identitate proprie. Așa că am început să adunăm nume în rândul echipei, iar în final s-a ajuns între două nume. Și astfel am ales Alkimia Interactive. Iar forma scurtă e A.I.
 
 203
 00:23:03,180 --> 00:23:07,280
-Kai: Uhh, fancy. Is the team going to grow even more?
+Kai: Frumos. Echipa se va mări și mai mult?
 
 204
 00:23:08,110 --> 00:23:10,240
-Reinhard: Yes, we are always looking for talented people.
+Reinhard: Da, suntem mereu în căutare de oameni talentați.
 
 205
 00:23:12,010 --> 00:23:14,260
-Kai: And is it easy to get new staff in Barcelona?
+Kai: Și e ușor să găsești angajați noi în Barcelona?
 
 206
 00:23:15,160 --> 00:23:29,060
-Reinhard: Barcelona and Spain, fortunately, has a lot of passionate and talented video game developers. And even better, a lot of them are waiting to work on such a big project for a long time. Here we are, the old camp.
+Reinhard: Barcelona și Spania, din fericire, au mulți dezvoltatori de jocuri video talentați și pasionați. Ba chiar mai mult, mulți dintre ei așteaptă să lucreze la un proiect așa de mare de foarte multă vreme.
 
 207
 00:23:29,060 --> 00:23:31,040
-Kai: Wow. Just wow.
+Kai: Uau. Pur și simplu uimitor.
 
 208
 00:23:31,090 --> 00:23:32,130
-Reinhard: Pretty cool, huh?
+Reinhard: Destul de tare, nu?
 
 209
 00:23:32,250 --> 00:23:35,070
-Kai: Yes. I ... I can't wait to explore it.
+Kai: Da. Eu... abia aștept să-l explorez.
 
 210
 00:23:35,100 --> 00:23:38,260
-Gate Guard: Where do you think you're going? You ain't come to make trouble, have ya?
+Gardă de la intrare: Unde crezi că te duci? N-ai venit să faci probleme, nu-i așa?
 
 211
 00:23:39,090 --> 00:23:44,240
-Kai: No, no, no. I'm a music guy, and I'm going to help build the stage for the concert. I heard you'll be yodeling?
+Kai: Nu, nu, nu. Eu sunt cu muzica, și o să ajut la construirea scenei pentru concert. Am auzit că o să cânți yodel?
 
 212
 00:23:45,020 --> 00:23:50,180
-Gate Guard: Hey, this guy's funny. I don't like funny guys. [draws sword]
+Gardă de la intrare: Hei, tipul ăsta e amuzant. Nu-mi plac tipii amuzanți. [scoate sabia]
 
 213
 00:23:51,010 --> 00:23:57,100
-Reinhard: Wait. Actually, here's our access pass. Also, I have this letter that I have to bring to ... someone!
+Reinhard: Stai. De fapt, uite permisul nostru de acces. De asemenea, am și o scrisoare pe care trebuie să o duc la ... cineva!
 
 214
 00:23:57,200 --> 00:23:59,110
-Gate Guard: Okay. In you go, then.
+Gardă de la intrare: Bine. Intrați, atunci.
 
 215
 00:23:59,190 --> 00:24:00,170
-Kai: And what about me?
+Kai: Și cum rămâne cu mine?
 
 216
 00:24:01,020 --> 00:24:04,250
-Gate Guard: I'll make an exception just this once, 'cause you're new here.
+Gardă de la intrare: Voi face o excepție de data asta, că ești nou aici.
 
 217
 00:24:05,090 --> 00:24:10,120
-Kai: Thanks, I guess. Oh, Reinhard, you you mentioned a letter. Who is it for?
+Kai: Mulțumesc, cred. Oh, Reinhard, ai menționat o scrisoare. Pentru cine e?
 
 218
 00:24:10,270 --> 00:24:28,190
-Reinhard: You will see! ... In another episode of the""GRP"".
+Reinhard: Vei vedea! ... În alt episod din „GRP”.
