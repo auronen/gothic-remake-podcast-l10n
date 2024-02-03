@@ -8,7 +8,7 @@
 
 3
 00:00:40,000 --> 00:00:44,070
-Кай: Райнхард? РАЙНХАРДЕ?
+Кай: Рейнгард? РЕЙНГАРДЕ?
 
 4
 00:00:46,100 --> 00:00:49,000
@@ -20,15 +20,15 @@
 
 6
 00:00:52,090 --> 00:00:58,090
-Райнхард: Я вже тут.
+Рейнгард: Я вже тут.
 
 7
 00:00:58,090 --> 00:01:02,170
-Кай: Нащо, на ім'я Хорініса, ти стрибнув у воду? Ти міг просто зайти через вхід для працівників.
+Кай: На Хорініса, ти стрибнув у воду? Ти міг просто увійти через службові двері.
 
 8
 00:01:03,060 --> 00:01:05,230
-Райнхард: Я знаю, але я люблю цей стрибок.
+Рейнгард: Я знаю, але я люблю цей стрибок.
 
 9
 00:01:07,010 --> 00:01:10,100
@@ -36,7 +36,7 @@
 
 10
 00:01:10,100 --> 00:01:14,260
-Рейнхард: Майже. У мене є лист, але він для когось іншого.
+Рейнгард: Майже. У мене є лист, але він для когось іншого.
 
 11
 00:01:15,090 --> 00:01:19,280
@@ -76,7 +76,7 @@
 
 20
 00:01:56,000 --> 00:02:03,010
-Рейнгард: Він написав саундтрек до оригінальної гри понад 20 років тому, а тепер повернувся, щоб зробити це знову для ремейку Gothic 1.
+Рейнгард: Він написав саундтрек до оригінальної гри понад 20 років тому, а тепер повернувся, щоб зробити це знову для рімейку Gothic 1.
 
 21
 00:02:03,100 --> 00:02:04,260
@@ -84,7 +84,7 @@
 
 22
 00:02:04,270 --> 00:02:08,170
-Райнгард: Так, у нього є перепустка. Я покажу йому тут все.
+Рейнгард: Так, у нього є перепустка. Я покажу йому тут все.
 
 23
 00:02:08,260 --> 00:02:11,150
@@ -100,7 +100,7 @@
 
 26
 00:02:18,170 --> 00:02:20,100
-Дієґо: Іди! Зустрінемося в старому таборі.
+Дієґо: Тепер іди! Зустрінемося в старому таборі.
 
 27
 00:02:20,250 --> 00:02:21,280
@@ -112,7 +112,7 @@
 
 29
 00:02:31,020 --> 00:02:38,120
-Рейнгард: Я Рейнгард Полліс, студійний менеджер і гейм директор Alkimia Interactive, студії, що займається ремейком Gothic 1.
+Рейнгард: Я Рейнгард Полліс, студійний менеджер і гейм директор Alkimia Interactive, студії, що займається рімейком Gothic 1.
 
 30
 00:02:38,250 --> 00:02:43,190
@@ -128,744 +128,744 @@
 
 33
 00:02:53,260 --> 00:03:01,000
-Reinhard: GRP. Sounds good. So welcome to the first episode of the""Gothic Remake Podcast"".
+Рейнгард: ҐРП. Звучить добре. Вітаємо у першому епізоді подкасту "Ґотика Ремейк Подкаст".
 
 34
 00:03:09,000 --> 00:03:13,230
-Kai: Yay! Exciting times. We've known each other for what, 15 years now?
+Кай: Ура! Захопливі часи. Ми знаємо один одного вже скільки, 15 років?
 
 35
 00:03:14,020 --> 00:03:20,170
-Reinhard: Even longer. We first worked together around the launch of Gothic 3 in 2006. Or even earlier than that?
+Рейнгард: Навіть довше. Вперше ми працювали разом над запуском Gothic 3 у 2006 році. Чи навіть раніше?
 
 36
 00:03:20,290 --> 00:03:23,010
-Kai: You worked for JoWooD at that time, right?
+Кай: Ти тоді працював на JoWooD, так?
 
 37
 00:03:23,020 --> 00:03:26,130
-Reinhard: Yes!  [ That's... ] I know!
+Рейнгард: Так! [Це...] Я знаю!
 
 38
 00:03:27,020 --> 00:03:40,160
-Kai: If I remember correctly, it was you who made this fantastic fan camping during the Games Convention possible. I used to go camping with Gothic fans every year and you helped turning it into a community camping right next to the actually convention center?
+Кай: Якщо я правильно пам'ятаю, саме ви зробили можливим цей фантастичний фан-кемпінг під час Games Convention. Я щороку ходив у похід із фанатами ґотики, а ви допомогли перетворити його на кемпінг для спільноти прямо поруч із конференц-центром?
 
 39
 00:03:41,040 --> 00:03:48,110
-Reinhard: Kind of true. But in the end, JoWooD and especially a guy named Ivan Ertlov made it possible. Special shout out to him here.
+Рейнгард: Частково, це правда. Але, зрештою, JoWooD і особливо хлопець, на ім'я Іван Ертлов зробили це можливим. Йому окремий респект.
 
 40
 00:03:48,180 --> 00:03:53,010
-Kai: Ivan! Yo, my man. What was your job exactly around that time?
+Кай: Іван! Йоу, мій хлопчик. Що саме ви тоді робили?
 
 41
 00:03:53,130 --> 00:04:01,000
-Reinhard: It wasn't actually a real job because I was still going to school, but I helped JoWooD with communities, beta tests and supporting games.
+Рейнгард: Насправді це не була справжня робота, бо ще ходив до школи, але я допомагав JoWooD зі спільнотами, бета-тестами та підтримкою ігор.
 
 42
 00:04:01,000 --> 00:04:06,270
-Reinhard: Gothic had a sizable and active community team already, so I was mostly working on Spellforce at that time.
+Рейнгард: У Gothic вже була чимала й активна команда ком'юніті, тож на той час я в основному працював над Spellforce.
 
 43
 00:04:07,230 --> 00:04:13,040
-Kai: Cool. So now, more than two decades after the release of Gothic 1, we're making a podcast together.
+Кай: Круто. І зараз, через понад двадцять років після виходу Gothic 1, ми записуємо подкаст разом.
 
 44
 00:04:14,100 --> 00:04:15,210
-Reinhard: Hold on. (squishy sound)
+Рейнгард: Почекай. (хрусткі звуки)
 
 45
 00:04:18,110 --> 00:04:20,000
-Kai: Did you just smash a meatbug?
+Кай: Ти щойно розбив м'ясного жука?
 
 46
 00:04:20,110 --> 00:04:21,100
-Reinhard: I guess I did.
+Рейнгард: Мабуть, так.
 
 47
 00:04:21,250 --> 00:04:25,180
-Kai: Classic. But why are we doing a podcast?
+Кай: Класика. Але чому ми робимо подкаст?
 
 48
 00:04:26,040 --> 00:04:40,000
-Reinhard: I guess because it makes us two independent. We can just walk around in this beautiful world as it's being built and talk about any aspect of the development process of the game without having to worry about visuals - since this is audio only.
+Рейнгард: Гадаю, тому що це робить нас обох незалежними. Ми можемо просто гуляти в цьому прекрасному світі, поки він будується, і говорити про будь-який аспект процесу розробки гри, не турбуючись про візуальні ефекти - адже це лише аудіо.
 
 49
 00:04:40,000 --> 00:04:46,120
-Reinhard: No visual assets need to be finished. Parts of the world can still be under construction. It just doesn't matter.
+Рейнгард: Не обов'язково мати готові візуальні матеріали. Світ може бути ще незавершеним. Це все не має сенсу.
 
 50
 00:04:47,070 --> 00:04:50,090
-Kai: Maybe our audience would love to see some work in progress assets.
+Кай: Можливо, нашій аудиторії хотілося б побачити деякий незавершений матеріал.
 
 51
 00:04:50,090 --> 00:05:00,150
-Reinhard: Oh yeah, absolutely. We'll have those as well: on YouTube, our Discord channel, the Steam page... But for now, this gives us a bit more freedom.
+Рейнгард: О так, звичайно. У нас вони будуть: на YouTube, на каналі Discord, на сторінці в Steam... Але зараз ми маємо трохи більше свободи.
 
 52
 00:05:00,270 --> 00:05:07,020
-Kai: I love it. We can just walk around, talk, meet people ... [squishy sound] ... crush meatbugs...
+Кай: Мені подобається. Ми можемо просто гуляти, розмовляти, зустрічатися з людьми... [звуки хрускоту] ... чавити м'ясних жуків...
 
 53
 00:05:08,120 --> 00:05:17,120
-Reinhard: Exactly. This episode is about what we think is a good remake. Which aspects we are recreating accurately and where we are adding new content.
+Рейнгард: Саме так. Цей епізод про те, що ми вважаємо хорошим ремейком. Які аспекти ми точно відтворюємо, а де додаємо нового змісту.
 
 54
 00:05:18,110 --> 00:05:19,260
-Kai: So there will be new content?
+Кай: Тобто буде новий контент?
 
 55
 00:05:20,030 --> 00:05:24,190
-Reinhard: Yes. I'm pretty sure you know that since you've already written some new music.
+Рейнгард: Так. Впевнений, ти знаєш про це, оскільки вже написав кілька нових композицій.
 
 56
 00:05:24,270 --> 00:05:28,150
-Kai: Oh, yeah. I'm just pointing out that now you officially confirmed it.
+Кай: О, так. Просто хочу зазначити, що тепер ти це офіційно підтвердив.
 
 57
 00:05:29,040 --> 00:05:39,000
-Reinhard: It's going to be a very faithful recreation of the original game. The same world, the same beloved characters, the same story, pretty much the same everything.
+Рейнгард: Це буде дуже точне відтворення оригінальної гри. Той самий світ, ті самі улюблені персонажі, та сама історія, майже все те саме.
 
 58
 00:05:39,000 --> 00:05:42,210
-Reinhard: But we are adding a few things here and there where it just makes sense.
+Рейнгард: Але ми додаємо кілька речей тут і там, де це має сенс.
 
 59
 00:05:43,150 --> 00:05:44,040
-Kai: Like what?
+Кай: Наприклад?
 
 60
 00:05:45,000 --> 00:05:48,000
-Reinhard: Just wait and see. But I'll give you some good examples.
+Рейнгард: Почекай і побачиш. Але наведу кілька хороших прикладів.
 
 61
 00:05:48,000 --> 00:05:58,170
-Reinhard: For example, the original Gothic had some plot holes, open ends, unexplained backgrounds, or even some bigger logic flaws, and we are using those to tie in a few new ideas.
+Рейнгард: Наприклад, в оригінальній "Ґотиці" були сюжетні дірки, відкриті кінцівки, непояснені передісторії або навіть більші логічні недоліки, і ми використовуємо їх, щоб прив'язати до них кілька нових ідей.
 
 62
 00:05:58,230 --> 00:06:01,170
-Kai: Whoa, whoa, whoa. What do you mean by""logic flaws""?
+Кай: Хвилинку, хвилинку. Які ще "логічні недоліки"?
 
 63
 00:06:01,230 --> 00:06:06,140
-Reinhard: Wait, have you been involved in writing of the original story?
+Рейнгард: Чекай, ти брав участь у написанні оригінальної історії?
 
 64
 00:06:07,000 --> 00:06:11,020
-Kai: No. No. Only music, sound effects and visual effects. No worries. Go ahead.
+Кай: Ні. Ні. Тільки музика, звукові та візуальні ефекти. Нічого страшного. Продовжуй.
 
 65
 00:06:11,250 --> 00:06:20,090
-Reinhard: Okay. Anyways, there's room for new ideas without changing the original. Just wait and see. [And hear!] Right.
+Рейнгард: Добре. У будь-якому випадку, є простір для нових ідей, не змінюючи оригінал. Просто зачекай і побачиш. [Та почуєш!] Добре.
 
 66
 00:06:21,090 --> 00:06:26,200
-Kai: What's your personal relationship with Gothic? Or in other words, how much of a fan are you?
+Кай: Які твої особисті стосунки з ґотикою? Або іншими словами, наскільки ти її фанат?
 
 67
 00:06:27,030 --> 00:06:36,270
-Reinhard: I played a ton of the original games and I got hooked because of the rough tone. Later, I spent a lot of my time working on mods and learning game development. This way.
+Рейнгард: Я зіграв багато оригінальних ігор, і мене зачепило їх жорстке сприйняття. Пізніше я витратив багато часу на роботу над модами та вивчення розробки ігор. Сюди.
 
 68
 00:06:37,100 --> 00:06:37,240
-Kai: Nice.
+Кай: Круто.
 
 69
 00:06:38,210 --> 00:06:39,180
-Reinhard: And what about you?
+Рейнгард: А як щодо тебе?
 
 70
 00:06:40,060 --> 00:06:45,300
-Kai: I joined Piranha Bytes when I was 18 in 1998, and I was still at school at that time.
+Кай: Я приєднався до Piranha Bytes, коли мені було 18 років у 1998 році, і тоді я ще навчався в школі.
 
 71
 00:06:45,300 --> 00:06:55,000
-Kai: I had made the decision to try to become a game developer and I was looking for some studios in my area that I could visit and just get an idea of what it's like to be a game developer.
+Кай: Я прийняв рішення спробувати стати розробником ігор і шукав студії у своєму регіоні, які я міг би відвідати та просто отримати уявлення про те, як це - бути розробником ігор.
 
 72
 00:06:55,000 --> 00:07:01,000
-Kai: And then I realized that Piranha Bytes was actually located in my hometown. So I went there and paid them a visit.
+Кай: А потім я зрозумів, що Piranha Bytes насправді знаходиться в моєму рідному місті. Тож я поїхав туди та відвідав їх.
 
 73
 00:07:01,100 --> 00:07:03,040
-Reinhard: The right place at the right time.
+Рейнгард: У потрібному місці в потрібний час.
 
 74
 00:07:03,050 --> 00:07:12,000
-Kai: Oh, absolutely. I was so lucky. I visited them at the time when they were still just a handful of people in a tiny office room and some external programmers.
+Кай: Безумовно. І мені пощастило. Тоді студія складалася лише з кількох людей, які працювали в крихітному офісному приміщенні, та кількох зовнішніх програмістів.
 
 75
 00:07:12,000 --> 00:07:19,080
-Kai: A few weeks later, I started working on the music for the game and I stayed with Piranha Bytes for 12 years as a composer and sound designer.
+Кай: Через кілька тижнів я почав працювати над музикою до гри та залишився в Piranha Bytes на 12 років, як композитор і саунд-дизайнер.
 
 76
 00:07:20,130 --> 00:07:23,030
-Reinhard: Which was the last Piranha Bytes game that you've worked on?
+Рейнгард: Якою була остання гра Piranha Bytes, над якою ти працював?
 
 77
 00:07:23,120 --> 00:07:24,040
-Kai: Risen 1.
+Кай: Різен 1.
 
 78
 00:07:25,050 --> 00:07:28,060
-Reinhard: And when was the last time you've played actually Gothic one?
+Рейнгард: А коли ти востаннє грав у справжню ґотику?
 
 79
 00:07:28,060 --> 00:07:37,200
-Kai: I played it live on Twitch 3 or 4 years ago. But to be honest, I had to rediscover most of the game. There was so much I had forgotten over those past two decades.
+Кай: Я грав наживо на Twitch близько 3-4 років тому, але, чесно кажучи, більшу частину гри мені довелося вивчити з нуля. Я майже все забув за останні 20 років.
 
 80
 00:07:37,200 --> 00:07:49,090
-Reinhard: Understandably. And if you had to name the most important aspects of Gothic, the defining qualities. Which would you pick? What is the soul, the spirit - whatever you want to call it - of Gothic?
+Рейнгард: Зрозуміло. А якби тобі довелося назвати найважливіші аспекти ґотики, її визначальні якості. Що б ти вибрав? У чому душа, дух - називайте як завгодно - ґотики?
 
 81
 00:07:49,150 --> 00:08:04,150
-Kai: Wow, that's a big question. Number one, the setting and tone. It's stark, It's gritty, it's violent, it's relentless. And the way it presents a male kind of testosterone filled prison colony really fits for me.
+Кай: Це серйозне питання. По-перше: сеттінг і атмосфера. Світ гри суворий, жорстокий, невблаганний. Мені подобається, як представлена чоловіча тюремна колонія, з якої так і сочиться тестостерон.
 
 82
 00:08:04,150 --> 00:08:12,000
-Kai: The tone is harsh and it has a very distinctive flair that is really super important for me. We have to nail this part.
+Кай: Ця гра має справді сирий, унікальний характер, що для мене важливо. Тут немає місця для помилок.
 
 83
 00:08:12,000 --> 00:08:13,090
-Reinhard: Oh, yeah.
+Рейнгард: О, так.
 
 84
 00:08:13,090 --> 00:08:15,070
-Kai: Voiceovers play a huge role, too.
+Кай: Голоси за кадром теж відіграють величезну роль.
 
 85
 00:08:15,090 --> 00:08:16,040
-Reinhard: Definitely.
+Рейнгард: Безумовно.
 
 86
 00:08:17,140 --> 00:08:26,200
-Kai: Number #2: The living world. The world isn't just a stage for the player. All the creatures and all the NPCs, they just have to behave believably.
+Кай: Номер 2: Живий світ. Світ - це не просто сцена для гравця. Всі істоти, всі NPC, вони просто повинні поводитися правдоподібно.
 
 87
 00:08:26,200 --> 00:08:38,060
-Kai: They have to react accordingly to what the player does. And also to what's happening around them. So this whole living, breathing organism of a world, this has to be presented in a in a super believable way.
+Кай: Вони повинні реагувати відповідно до того, що робить гравець. А також на те, що відбувається навколо. Тож весь цей живий, дихаючий організм світу має бути представлений у надзвичайно правдоподібний спосіб.
 
 88
 00:08:38,210 --> 00:08:43,280
-Kai: And the original Gothic already had that. So we have to try to push it even further.
+Кай: І в оригінальній Ґотиці це вже було. Тому ми повинні спробувати просунути її ще далі.
 
 89
 00:08:44,080 --> 00:08:44,230
-Reinhard: Yes.
+Рейнгард: Так.
 
 90
 00:08:46,060 --> 00:08:53,200
-Kai: And the third aspect would be the sense of progression and how it is presented. You start as a nobody, but that doesn't mean that you're a weak character.
+Кай: І третій аспект - це відчуття прогресу і те, як він представлений. Ви починаєте як ніхто, але це не означає, що ви слабкий персонаж.
 
 91
 00:08:53,200 --> 00:09:05,000
-Kai: Right from the beginning, the nameless hero is the kind of guy to deal out some soundbites and punches, but still there is this very rewarding sense of progression and the sense of achievement when you get stronger.
+Кай: З самого початку безіменний герой - це такий хлопець, який видає кілька саундбітів і ударів, але все ж є це дуже корисне відчуття прогресу і відчуття досягнення, коли ти стаєш сильнішим.
 
 92
 00:09:05,070 --> 00:09:12,070
-Kai: You can even see it in the way you hold your sword and the way you fight. The sense of achievement really matters a lot to me.
+Кай: Це навіть видно по тому, як ти тримаєш меч і як ти б'єшся. Почуття досягнення дійсно має для мене велике значення.
 
 93
 00:09:12,240 --> 00:09:15,130
-Reinhard: Interesting.
+Рейнгард: Цікаво.
 
 94
 00:09:15,170 --> 00:09:19,040
-Kai: Now your turn. Which aspect would you think are the most important?
+Кай: Тепер твоя черга. Який аспект ти вважаєш найважливішим?
 
 95
 00:09:19,110 --> 00:09:29,000
-Reinhard: I mostly like the living world with its daily routines that not only NPCs have, but also creatures, it really feels alive and reacting.
+Рейнгард: Мені найбільше подобається живий світ з його повсякденними справами, які мають не лише NPC, але й істоти, він справді відчувається живим і реагує на події.
 
 96
 00:09:29,000 --> 00:09:45,110
-Reinhard: I also like a lot the ungated experience. The whole world is literally open to you if you have the skill to beat some tough monsters. And of course, I also like the rough tone, the dialogs, the reactions of the nameless hero and the NPCs... It's all well thought out!
+Рейнгард: Мені також дуже подобається незамкнений досвід. Весь світ буквально відкритий для вас, якщо у вас є навички, щоб перемогти сильних монстрів. І звичайно, мені також подобається грубуватий тон, діалоги, реакції безіменного героя і NPC... Все це добре продумано!
 
 97
 00:09:45,210 --> 00:09:46,240
-Kai: Yeah, I agree.
+Кай: Так, згоден.
 
 98
 00:09:48,090 --> 00:09:51,240
-Reinhard: And now here we are back in this world, walking to the old camp.
+Рейнгард: І ось ми знову в цьому світі, йдемо до старого табору.
 
 99
 00:09:52,220 --> 00:10:01,060
-Kai: And I got to say, it looks phenomenal. So familiar and so true to the original, but so good! The visual quality is amazing.
+Кай: І мушу сказати, що це виглядає феноменально. Такий знайомий і такий вірний оригіналу, але такий гарний! Візуальна якість вражає.
 
 100
 00:10:01,120 --> 00:10:03,210
-Reinhard: It's a podcast, Kai. Audio only!
+Рейнгард: Це подкаст, Каю. Лише звук!
 
 101
 00:10:03,270 --> 00:10:09,070
-Kai: I know, but still, if only you all could see this. Look, there's the gate with Orry.
+Кай: Я знаю, але все ж, якби ви всі могли це побачити. Подивіться, ось ворота з Оррі.
 
 102
 00:10:09,180 --> 00:10:12,080
-Reinhard: Yes. This part of the world is pretty much complete.
+Рейнгард: Так. Ця частина світу майже завершена.
 
 103
 00:10:12,220 --> 00:10:18,250
-Kai: I love it. What would you say, what percentage of the world is already finished or almost finished?
+Кай: Мені подобається. Як би ти оцінив, скільки відсотків світу вже закінчено або майже закінчено?
 
 104
 00:10:19,120 --> 00:10:28,200
-Reinhard: That's hard to say. There's like a first iteration of everything, except maybe some minor locations. But at this level of detail, I'd say around 50%.
+Рейнгард: Важко сказати. Це все ще перша ітерація світу, за винятком, можливо, невеликих локацій. З таким рівнем деталізації я б сказав, що готово близько 50%.
 
 105
 00:10:29,130 --> 00:10:30,270
-Kai: So still a long way to go.
+Кай: Отже, попереду ще довгий шлях.
 
 106
 00:10:31,070 --> 00:10:36,180
-Reinhard: Yes, but once the workflows and technical aspects are established, it gets a lot faster.
+Рейнгард: Так, але коли робочі процеси та технічні аспекти налагоджені, все йде набагато швидше.
 
 107
 00:10:36,270 --> 00:10:39,140
-Kai: Did you keep anything from the playable teaser version?
+Кай: Чи залишили ви щось з тизерної версії для гри?
 
 108
 00:10:39,250 --> 00:10:46,060
-Reinhard: Nothing, except a few raw art assets. We even completely started from a blank Unreal project.
+Рейнгард: Нічого, окрім кількох сирих матеріалів. Ми навіть починали з чистого проекту Unreal.
 
 109
 00:10:46,220 --> 00:10:54,250
-Kai: Okay, before we talk about that, let's go back to the very beginning of the Gothic remake project. It was you who pushed it internally at THQ Nordic, right?
+Кай: Гаразд, перш ніж ми поговоримо про це, повернімося до самого початку проєкту рімейку Gothic. Це ж ти був тим, хто просував його всередині THQ Nordic, так?
 
 110
 00:10:55,050 --> 00:10:56,130
-Reinhard: Yes, I was part of this.
+Рейнгард: Так, я був частиною цього.
 
 111
 00:10:57,020 --> 00:11:02,020
-Kai: So it is fair to say that we owe this to you, right? Without you, this project wouldn't exist.
+Кай: Тож справедливо буде сказати, що ми завдячуємо тобі, чи не так? Без тебе цей проєкт не існував би.
 
 112
 00:11:02,070 --> 00:11:03,110
-Reinhard: No, no, no. I was just...
+Рейнгард: Ні, ні, ні. Я просто...
 
 113
 00:11:03,110 --> 00:11:10,260
-Kai: Yes, yes, yes. I know this was your passion project, and you were planning to do it for a very long time, waiting for the right opportunity.
+Кай: Так, так, так. Я знаю, що це був проєкт твоєї пристрасті, і ти планував зробити його дуже довго, чекаючи на слушну нагоду.
 
 114
 00:11:10,260 --> 00:11:16,140
-Kai: And I just want to say thank you for making this possible. [Reinhard grumbles.] You don't have to respond. That's okay.
+Кай: І я просто хочу подякувати тобі за те, що ти зробив це можливим. [Рейнгард бурчить.]Можеш не відповідати. Все в порядку.
 
 115
 00:11:17,030 --> 00:11:24,090
-Reinhard: There was a few people involved in that process. In the end, a remake felt like a natural step with a series that was dormant for more than ten years.
+Рейнгард: У цьому процесі брало участь кілька людей. Зрештою, рімейк здавався природним кроком для серіалу, який не виходив понад десять років.
 
 116
 00:11:24,270 --> 00:11:28,060
-Kai: How did it all start? Who did you have to convince and how?
+Кай: Як все починалося? Кого і як доводилося переконувати?
 
 117
 00:11:28,240 --> 00:11:37,200
-Reinhard: Well, we obviously have a process of THQ Nordic about new project, but since we distributed the old Gothic games, we knew very well the potential of those games.
+Рейнгард: Для кожного нового проєкту THQ Nordic існують певні процедури, але оскільки ми були тими, хто випускав старі ігри серії Gothic, ми дуже добре знали, який потенціал у них є.
 
 118
 00:11:37,200 --> 00:11:45,230
-Reinhard: And then one thing led to the other, and we needed a proof of concept for the team making such a production. And so we did the playable teaser.
+Рейнгард: А потім одне потягнуло за собою інше, і нам потрібен був доказ концепції для команди, яка робила таку постановку. Так ми створили тізер, який можна відтворювати.
 
 119
 00:11:47,000 --> 00:11:53,180
-Kai: Was it your plan from the very beginning to involve the community in the, let's say, design and feedback process?
+Кай: Чи планували ви від самого початку залучити спільноту до, скажімо так, процесу проєктування та зворотного зв'язку?
 
 120
 00:11:54,150 --> 00:12:02,150
-Reinhard: Not for the playable teaser, but we knew Gothic always had a very strong and opinionated community, and we wanted to make sure they feel part of it.
+Рейнгард: Не для ігрового тізеру, але ми знали, що у ґотики завжди була дуже сильна і самовпевнена спільнота, і ми хотіли переконатися, що вони відчувають себе її частиною.
 
 121
 00:12:03,030 --> 00:12:11,230
-Kai: Nice. In your opinion, what is a remake in comparison to a remaster or reboot, and what do you think makes a good remake?
+Кай: Чудово. На твою думку, що таке рімейк у порівнянні з ремастером або перезапуском, і що, на твою думку, робить рімейк гарним?
 
 122
 00:12:12,130 --> 00:12:28,050
-Reinhard: That's easily explained. A remake is a full recreation of something existing without deviating too much from the original. A remaster is literally taking the old piece of code and just getting it running on modern systems and doing selective changes.
+Рейнгард: Це легко пояснити. Рімейк - це повне відтворення чогось, що вже існує, без надмірних відхилень від оригіналу. Ремастер буквально бере старий шматок коду і просто запускає його на сучасних системах, вносячи вибіркові зміни.
 
 123
 00:12:28,150 --> 00:12:30,090
-Kai: And sometimes visual updates. Right?
+Кай: І іноді візуальні оновлення. Так?
 
 124
 00:12:30,190 --> 00:12:40,200
-Reinhard: Exactly. And a reboot is essentially what we did with the playable teaser. So taking the original ideas and just running with it in different directions.
+Райнхард: Саме так. Прикладом перезавантаження є те, що ми зробили з тізером, який можна відтворювати. Він спирається на оригінальну ідею, але йде в різних напрямках.
 
 125
 00:12:40,200 --> 00:12:48,250
-Reinhard: The remake is really a chance to do everything in a modern and future proof way and also extend it where it will provide a lot of value to the game.
+Рейнгард: Рімейк - це дійсно шанс зробити все сучасним і перспективним способом, а також розширити його там, де це додасть грі велику цінність.
 
 126
 00:12:49,060 --> 00:12:52,020
-Kai: So just to be clear, we're making a remake, right?
+Кай: Щоб прояснити, ми робимо рімейк, так?
 
 127
 00:12:52,030 --> 00:12:53,290
-Reinhard: Yes, we're making a remake now.
+Рейнгард: Так, ми зараз робимо рімейк.
 
 128
 00:12:54,290 --> 00:13:04,190
-Kai: Oh, hold on. There's that blocked mining tunnel from the original game. And here's... [pickup sound] Tadaa! Our first weapon, A pickaxe.
+Кай: О, стривай. Це той заблокований гірничий тунель з оригінальної гри. І ось... [звук підняття] Тадам! Наша перша зброя, кирка.
 
 129
 00:13:05,040 --> 00:13:06,180
-Reinhard: Right where it used to be.
+Рейнгард: Там, де і була.
 
 130
 00:13:06,230 --> 00:13:13,230
-Kai: Very cool. The tunnel entrance is still blocked. Are you planning to put anything in there or will it stay blocked?
+Кай: Дуже круто. Вхід до тунелю все ще заблокований. Чи плануєте ви щось туди помістити, чи він так і залишиться заблокованим?
 
 131
 00:13:14,050 --> 00:13:15,100
-Reinhard: We will all see.
+Рейнгард: Побачимо.
 
 132
 00:13:17,080 --> 00:13:23,000
-Kai: Ehm, you've mentioned the playable teaser. Can you explain which thoughts went into it and why it turned out the way it did?
+Кай: Гм, ти згадав ігровий тізер. Чи можеш пояснити, як у вас виникла ця ідея і чому вона вийшла саме такою?
 
 133
 00:13:23,000 --> 00:13:31,000
-Reinhard: The original plan was never to release it. Initially, we wanted to create a proof of concept that this team can work on such a big project.
+Рейнгард: Початковий план не передбачав його видання. Спочатку ми хотіли створити доказ концепції, що ця команда може працювати над таким великим проєктом.
 
 134
 00:13:31,000 --> 00:13:43,000
-Reinhard: But then, so much of our own thoughts went into it and it was more a reboot, and we felt the need to either sanity-check it or - like - go back to a safe ground.
+Рейнгард: Але потім ми багато думали про це, поки це не стало більше схоже на перезавантаження, тому нам довелося або зрозуміти, чи є в цьому сенс, або повернутися в безпечне місце.
 
 135
 00:13:43,000 --> 00:13:46,300
-Reinhard: In the end, THQ Nordic suggested to release the playable teaser and ask for feedback.
+Рейнгард: Зрештою, THQ Nordic запропонували випустити ігровий тізер і попросити про відгуки.
 
 136
 00:13:47,270 --> 00:13:49,180
-Kai: And then the fan feedback came in.
+Кай: А потім почали надходити відгуки від фанатів.
 
 137
 00:13:50,060 --> 00:13:50,200
-Reinhard: Yes.
+Рейнгард: Так.
 
 138
 00:13:50,210 --> 00:13:54,070
-Kai: What was your process of evaluating it and what did you learn from it?
+Кай: Як ви їх аналізували та чи зробили з них якісь висновки?
 
 139
 00:13:54,260 --> 00:14:06,200
-Reinhard: Well, all the feedback came in in a gigantic spreadsheet and we went through all of it. And the most interesting thing was really to see how much different opinions were there about certain details.
+Рейнгард: Ну, всі відгуки надійшли у величезній електронній таблиці, і ми все це проаналізували. І найцікавіше було побачити, наскільки різними були думки щодо певних деталей.
 
 140
 00:14:06,200 --> 00:14:11,130
-Reinhard: But in the end, the good thing was that there was a lot of common ground among the Gothic community.
+Рейнгард: Але, зрештою, добре те, що у ґотичній спільноті було багато спільних позицій.
 
 141
 00:14:13,010 --> 00:14:14,240
-Kai: So you decided to start from scratch?
+Кай: Тож ви вирішили почати з нуля?
 
 142
 00:14:15,070 --> 00:14:24,080
-Reinhard: Yes, exactly. In the process of making the playable teaser shippable, we took a lot of shortcuts and it just wasn't architected from the start to live on.
+Рейнгард: Саме так. Готуючись до публікації ігрового тізера, ми часто обирали короткі шляхи та не розробляли його, як щось стале.
 
 143
 00:14:24,080 --> 00:14:36,080
-Reinhard: We as a team, we never used Unreal before. So we also made some mistakes on how we set up certain things and we just wanted to have a clean slate for the full production and not live with actually a lot of tech depth.
+Рейнгард: Як команда ми ніколи раніше не використовували Unreal. Ми зробили кілька помилок щодо конфігурації, тому хотіли мати чистий аркуш перед запуском у виробництво, замість того, щоб вивчати багато технологічних секретів.
 
 144
 00:14:37,130 --> 00:14:42,180
-Kai: That's crazy. And just to be clear, when you say Unreal, you mean the Unreal Engine, right?
+Кай: Це божевільно. І для ясності, коли ти кажеш Unreal, ти маєш на увазі рушій Unreal Engine, чи не так?
 
 145
 00:14:42,240 --> 00:14:45,040
-Reinhard: Yes. We're using the Unreal Engine.
+Рейнгард: Так. Ми використовуємо рушій Unreal Engine.
 
 146
 00:14:45,290 --> 00:14:52,020
-Kai: So how would you answer the following question?""Why should we trust the team that did the playable teaser?""
+Кай: Як би ти відповів на наступне запитання: "Чому ми повинні довіряти команді, яка зробила ігровий тізер?"
 
 147
 00:14:53,040 --> 00:15:01,290
-Reinhard: Because we went through all the feedback and created good action items based on that. We created a vision that is very much in line with what the community wants.
+Рейнгард: Тому, що ми проаналізували всі відгуки та на їх основі створили хороші плани дій. Ми створили бачення, яке дуже відповідає тому, чого хоче спільнота.
 
 148
 00:15:02,290 --> 00:15:03,220
-Kai: M-hm.
+Кай: У-гм.
 
 149
 00:15:03,260 --> 00:15:06,070
-Reinhard: One second! See that molerat over there?
+Рейнгард: Секундочку! Бачиш того кротощура?
 
 150
 00:15:06,160 --> 00:15:08,000
-Kai: Right where it used to be.
+Кай: Там, де він був раніше.
 
 151
 00:15:08,000 --> 00:15:22,220
-Reinhard: Watch. [fighting and squeaking sounds]
+Рейнгард: Дивися. [звуки бійки та писку]
 
 152
 00:15:23,000 --> 00:15:28,170
-Kai: Nice! That looked extremely smooth. Very cool. Is that the new combat system?
+Кай: Класно! Це виглядало надзвичайно гладко. Дуже круто. Це нова бойова система?
 
 153
 00:15:29,030 --> 00:15:39,100
-Reinhard: Yes. It's based on the Gothic 1 system and it has the same feel to it with instant reactions, different attacks, combos, and kind of the same rhythm.
+Рейнгард: Так. Вона заснована на системі Gothic 1 і має ті ж самі відчуття з миттєвими реакціями, різними атаками, комбо і приблизно таким же ритмом.
 
 154
 00:15:39,100 --> 00:15:46,120
-Reinhard: We've modernized the controls and gameplay to a certain degree, but decided to go a completely different route than in the playable teaser.
+Рейнгард: Ми дещо модернізували управління та геймплей, але вирішили піти зовсім іншим шляхом, ніж в ігровому тизері.
 
 155
 00:15:46,120 --> 00:15:48,040
-Kai: That's very good.
+Кай: Дуже добре.
 
 156
 00:15:49,010 --> 00:15:55,010
-Reinhard: Modernizing the gameplay is the trickiest part, but I think we've got good solutions for all gameplay aspects now.
+Рейнгард: Модернізація ігрового процесу - найскладніша частина, але я думаю, що зараз у нас є хороші рішення для всіх ігрових аспектів.
 
 157
 00:15:55,140 --> 00:16:03,020
-Kai: Yeah, I'm very curious about this one and also a little worried. But I got to say, everything that I saw so far looks very, very good.
+Кай: Так, мені дуже цікаво, і я трохи хвилююся. Але мушу сказати, що все, що я бачив до цього часу, виглядає дуже і дуже добре.
 
 158
 00:16:04,130 --> 00:16:13,060
-Reinhard: Now we have to leave this part of the podcast to the listeners imagination. But let's talk about an aspect that lends itself perfectly to a podcast.
+Рейнгард: Тепер ми маємо залишити цю частину подкасту для уяви слухачів. Але поговорімо про аспект, який ідеально підходить для подкасту.
 
 159
 00:16:13,170 --> 00:16:14,200
-Kai: Read some source code?
+Кай: Почитаємо вихідний код?
 
 160
 00:16:14,260 --> 00:16:18,050
-Reinhard: Oh, yeah. No, I mean your music!
+Рейнгард: О, так. Ні, я маю на увазі твою музику!
 
 161
 00:16:18,130 --> 00:16:24,000
-Kai: Oh, yeah. As of now, I've already written more than one hour of new music for the Gothic Remake.
+Кай: О, так. На цей час я вже написав понад годину нової музики для Gothic Remake.
 
 162
 00:16:24,100 --> 00:16:25,230
-Reinhard: Shall we listen to some of it?
+Райнгард: Може, послухаємо щось із цього?
 
 163
 00:16:26,050 --> 00:16:34,000
-Kai: Sure. We're in the middle of nowhere on the path that leads down to the old camp. Let me play some snippets of the music that plays here.
+Кай: Звісно. Ми в глушині, на стежці, що веде до старого табору. Дозвольте мені увімкнути кілька уривків музики, яка тут грає.
 
 164
 00:16:34,000 --> 00:17:23,160
-Music: [Music for the path from exchange zone to old camp]
+Музика: [Музика для шляху від зони обміну до старого табору]
 
 165
 00:17:24,120 --> 00:17:28,080
-Reinhard: Sweet. So this is definitely based on the original soundtrack.
+Рейнгард: Мило. Так що це, безумовно, базується на оригінальному саундтреку.
 
 166
 00:17:28,150 --> 00:17:31,080
-Kai: Yes. My plan is to follow a""three thirds rule"".
+Кай: Так. Я планую дотримуватися правила "трьох третин".
 
 167
 00:17:31,220 --> 00:17:33,010
-Reinhard: What's that?
+Рейнгард: Що це?
 
 168
 00:17:33,200 --> 00:17:41,200
-Kai: There wasn't a lot of music in Gothic one, and it was repeating and looping a lot. So I am considering this original soundtrack the first of three thirds.
+Кай: У "Gothic" було не так багато музики, і вона часто повторювалася і зациклювалася. Тому я вважаю цей оригінальний саундтрек першою з трьох третин.
 
 169
 00:17:41,200 --> 00:17:51,020
-Kai: So the first third is all the original melodies, all the original themes that were in the original game but remastered and modernized so that they sound good in a modern game.
+Кай: Отже, перша третина - це всі оригінальні мелодії, всі оригінальні теми, які були в оригінальній грі, але ремастеризовані та модернізовані так, щоб вони добре звучали в сучасній грі.
 
 170
 00:17:51,180 --> 00:18:02,250
-Kai: Then the second set would be variations on these themes. You recognize the material, but there are slight modifications. There are rearrangements and maybe extensions to the original material.
+Кай: Тоді друга частина - це варіації на ці теми. Ви впізнаєте матеріал, але є невеликі зміни. Є перегрупування і, можливо, розширення оригінального матеріалу.
 
 171
 00:18:02,250 --> 00:18:12,040
-Kai: And then the third third would be completely new music. So there will be tracks for places in the world that didn't have their own music in the original game, and some other things.
+Кай: А третя третина буде повністю новою музикою. Тож там будуть треки для місць у світі, які не мали власної музики в оригінальній грі, і деякі інші речі.
 
 172
 00:18:12,210 --> 00:18:16,100
-Reinhard: That make sense. Can you play a piece to demonstrate that?
+Рейнгард: У цьому є сенс. Можеш зіграти щось, щоб продемонструвати це?
 
 173
 00:18:17,030 --> 00:18:21,300
-Kai: Absolutely. Here's the night version for the music for this area.
+Кай: Безумовно. Ось нічна версія музики для цієї зони.
 
 174
 00:18:22,000 --> 00:18:30,000
-Kai: [Night music plays]
+Кай: [Грає нічна музика]
 
 175
 00:18:31,070 --> 00:18:35,300
-Kai: It's the remastered version of the original theme. So the first third.
+Кай: Це ремастерингова версія оригінальної теми. Отже, перша третина.
 
 176
 00:19:08,000 --> 00:19:11,000
-Kai: And this part is completely new.
+Кай: А ця частина абсолютно нова.
 
 177
 00:19:35,230 --> 00:19:40,000
-Kai: Now, this is the second third based on the same motif.
+Кай: Це друга третина, заснована на тому ж мотиві.
 
 178
 00:20:03,050 --> 00:20:05,270
-Reinhard: Oh, wow. Thank you, Kai. That's very interesting.
+Рейнгард: Ого. Дякую, Кай. Це дуже цікаво.
 
 179
 00:20:06,100 --> 00:20:17,080
-Kai: Thank you. Is there a similar guideline for the entire game? I mean, do you have a plan as to how much you want to keep 100% accurate and how much you want to add or modify?
+Кай: Дякую. Чи існує подібне правило для всієї гри? Я маю на увазі, чи є у вас план щодо того, наскільки ви хочете зберегти 100% точність, а наскільки ви хочете додати або змінити?
 
 180
 00:20:17,230 --> 00:20:27,260
-Reinhard: I can't come up with a percentage, but the plan is to stay very close where the original shined. So, like the world design, the general mechanics and also the story.
+Рейнгард: Я не можу назвати відсоток, але план полягає в тому, щоб залишатися дуже близьким до того, що було в оригіналі. Це стосується дизайну світу, загальної механіки, а також історії.
 
 181
 00:20:28,130 --> 00:20:36,190
-Kai: Very cool. Can we talk a little bit about yourself? [Okay.] Like, what exactly is your role in the Remake's development?
+Кай: Дуже круто. Чи можемо ми трохи поговорити про тебе? (Гаразд.) Наприклад, яку саме роль ти відіграєш у створенні рімейку?
 
 182
 00:20:37,050 --> 00:20:40,130
-Reinhard: I am the game director and managing director for Alkimia.
+Рейнгард: Я гейм директор і виконавчий директор Alkimia.
 
 183
 00:20:41,040 --> 00:20:43,140
-Kai: So how much creative influence do you have?
+Кай: Наскільки сильно ти впливаєш на творчість?
 
 184
 00:20:43,280 --> 00:20:56,090
-Reinhard: I created the vision for the Gothic remake and all its important features. Now that we are focusing on the implementation details, I make sure to supervise important features and workflows, like, for example, the daily routines.
+Рейнгард: Я створив бачення рімейку "Ґотики" та всіх його важливих особливостей. Тепер, коли ми зосередилися на деталях реалізації, я контролюю важливі функції та робочі процеси, такі як, наприклад, щоденна рутина.
 
 185
 00:20:57,010 --> 00:21:00,090
-Kai: What would you say has been your biggest personal influence on the remake?
+Кай: Що, на твою думку, найбільше вплинуло на створення рімейку?
 
 186
 00:21:00,140 --> 00:21:03,060
-Reinhard: It's hard to name a few. There's just so many.
+Рейнгард: Важко назвати. Їх дуже багато.
 
 187
 00:21:04,230 --> 00:21:06,240
-Kai: You are originally from Austria, right?
+Кай: Ти родом з Австрії, так?
 
 188
 00:21:07,100 --> 00:21:12,050
-Reinhard: Yes, that's right. So I also speak the original language Gothic was created in.
+Рейнгард: Так, саме так. Тому я також розмовляю мовою оригіналу, якою була створена ґотика.
 
 189
 00:21:12,150 --> 00:21:17,160
-Kai: And now you're heading a studio in Barcelona. How did you get there? Why Barcelona?
+Кай: А зараз ти очолюєш студію в Барселоні. Як ти туди потрапив? Чому саме Барселона?
 
 190
 00:21:17,230 --> 00:21:28,170
-Reinhard: I lived here for a few years and never really had the plan to run a studio here. But then I discovered that there are so many talented game developers here and mostly were just stuck with mobile game studios.
+Рейнгард: Я жив тут кілька років і ніколи не планував відкривати тут студію. Але потім я виявив, що тут так багато талановитих розробників ігор, які здебільшого застрягли на студіях мобільних ігор.
 
 191
 00:21:29,150 --> 00:21:32,180
-Kai: How did you go about founding a new studio and a new city?
+Кай: Як ви заснували нову студію і нове місто?
 
 192
 00:21:32,230 --> 00:21:42,200
-Reinhard: It was an extra challenge because of the pandemic. We started Alkimia in March 2020. I got to know that there are a lot of talented game developers in the city.
+Рейнгард: Це був додатковий виклик через пандемію. Ми запустили Alkimia у березні 2020 року. Я дізнався, що в місті є багато талановитих розробників ігор.
 
 193
 00:21:42,200 --> 00:21:55,240
-Reinhard: So I got to know a core team of five people who I thought were really talented and they were - like - already working together in the past. And so we - just like - throw around ideas what we could work on together.
+Рейнгард: Так я познайомився з основною командою з п'яти людей, які, на мою думку, були дійсно талановитими, і вони вже працювали разом у минулому. І ми почали обмінюватися ідеями, над чим би ми могли попрацювати разом.
 
 194
 00:21:55,280 --> 00:22:07,060
-Reinhard: And so we settled on""let's just start to work on the medieval RPG"", which later became Gothic, and then actually founding the studio was an extra challenge because of the pandemic.
+Рейнгард: Тож ми зупинилися на "давайте просто почнемо працювати над середньовічною рольовою грою", яка згодом стала Ґотикою, а потім заснування студії стало додатковим викликом через пандемію.
 
 195
 00:22:07,230 --> 00:22:13,240
-Kai: At that time it was THQ Nordic Barcelona Studio, which then later became Alkimia Interactive, right?
+Кай: Тоді це була студія THQ Nordic Barcelona, яка згодом стала Alkimia Interactive, так?
 
 196
 00:22:14,060 --> 00:22:25,060
-Reinhard: Yes. The plan was never really to stay THQ Nordic Barcelona. It was just our team's name when we needed a team's name for the release of the playable teaser.
+Рейнгард: Так. Ми ніколи не планували залишатися THQ Nordic Barcelona. Це була просто назва нашої команди, коли нам знадобилася назва для випуску ігрового тізера.
 
 197
 00:22:23,150 --> 00:22:27,190
-Kai: Alkimia Interactive: That's Spanish for alchemy, I guess, right?
+Кай: Alkimia Interactive: Це іспанською - алхімії, чи не так?
 
 198
 00:22:27,270 --> 00:22:37,200
-Reinhard: Sí señor. But it's actually even cooler. Alkimia is a Basque word, which is a language spoken in the Basque country, which is situated in the north of Spain.
+Рейнгард: Sí señor. Але насправді це ще крутіше. Алкімія - це баскське слово, яким розмовляють у країні Басків, яка розташована на півночі Іспанії.
 
 199
 00:22:37,200 --> 00:22:41,110
-Kai: Aha! How many people are working at Alkimia right now?
+Кай: Ага! Скільки людей зараз працює в Alkimia?
 
 200
 00:22:41,200 --> 00:22:43,130
-Reinhard: We are around 40 people now.
+Рейнгард: Зараз нас близько 40 осіб.
 
 201
 00:22:43,200 --> 00:22:45,130
-Kai: And how did you come up with that name?
+Кай: А як ви придумали цю назву?
 
 202
 00:22:45,200 --> 00:23:03,180
-Reinhard: We released the playable teaser as THQ Nordic Barcelona, but after this there was a need to create a unique name - an own identity. So we started to gather names among the team, and in the end it was between two names. And so we chose Alkimia Interactive. And the short form is A.I.
+Рейнгард: Ми випустили ігровий тізер під назвою THQ Nordic Barcelona, але після цього виникла потреба створити унікальну назву - власну ідентичність. Тож ми почали збирати назви серед членів команди, і врешті-решт зупинилися на двох назвах. І ми обрали Alkimia Interactive. А скорочено - А.І.
 
 203
 00:23:03,180 --> 00:23:07,280
-Kai: Uhh, fancy. Is the team going to grow even more?
+Кай: Ухх, чудово. Чи збирається команда ще більше розвиватися?
 
 204
 00:23:08,110 --> 00:23:10,240
-Reinhard: Yes, we are always looking for talented people.
+Рейнгард: Так, ми завжди шукаємо талановитих людей.
 
 205
 00:23:12,010 --> 00:23:14,260
-Kai: And is it easy to get new staff in Barcelona?
+Кай: Чи легко знайти нових співробітників у Барселоні?
 
 206
 00:23:15,160 --> 00:23:29,060
-Reinhard: Barcelona and Spain, fortunately, has a lot of passionate and talented video game developers. And even better, a lot of them are waiting to work on such a big project for a long time. Here we are, the old camp.
+Рейнгард: У Барселоні та Іспанії, на щастя, є багато пристрасних і талановитих розробників відеоігор. А ще краще те, що багато з них давно чекають можливості попрацювати над таким великим проєктом. А ось і старий табір.
 
 207
 00:23:29,060 --> 00:23:31,040
-Kai: Wow. Just wow.
+Кай: Вау. Просто вау.
 
 208
 00:23:31,090 --> 00:23:32,130
-Reinhard: Pretty cool, huh?
+Рейнгард: Круто, правда?
 
 209
 00:23:32,250 --> 00:23:35,070
-Kai: Yes. I ... I can't wait to explore it.
+Кай: Так. Я... я не можу дочекатися, щоб дослідити це.
 
 210
 00:23:35,100 --> 00:23:38,260
-Gate Guard: Where do you think you're going? You ain't come to make trouble, have ya?
+Вартовий: Куди це ти зібрався? Ти ж не збираєшся створювати проблеми, чи не так?
 
 211
 00:23:39,090 --> 00:23:44,240
-Kai: No, no, no. I'm a music guy, and I'm going to help build the stage for the concert. I heard you'll be yodeling?
+Кай: Ні, ні, ні. Я музикант і прийшов допомогти побудувати сцену для концерту. Я чув, ти будеш йодлювати?
 
 212
 00:23:45,020 --> 00:23:50,180
-Gate Guard: Hey, this guy's funny. I don't like funny guys. [draws sword]
+Вартовий: Гей, цей хлопець смішний. Я не люблю веселих хлопців. [виймає меч]
 
 213
 00:23:51,010 --> 00:23:57,100
-Reinhard: Wait. Actually, here's our access pass. Also, I have this letter that I have to bring to ... someone!
+Рейнгард: Зажди. Власне, ось наш пропуск. Крім того, у мене є цей лист, який я повинен принести... комусь!
 
 214
 00:23:57,200 --> 00:23:59,110
-Gate Guard: Okay. In you go, then.
+Вартовий: Гаразд. Тоді заходьте.
 
 215
 00:23:59,190 --> 00:24:00,170
-Kai: And what about me?
+Кай: А як щодо мене?
 
 216
 00:24:01,020 --> 00:24:04,250
-Gate Guard: I'll make an exception just this once, 'cause you're new here.
+Вартовий: Цього разу я зроблю виняток, бо ти тут новенький.
 
 217
 00:24:05,090 --> 00:24:10,120
-Kai: Thanks, I guess. Oh, Reinhard, you you mentioned a letter. Who is it for?
+Кай: Дякую, звичайно. О, Рейнгарде, ти згадав листа. Для кого він?
 
 218
 00:24:10,270 --> 00:24:28,190
-Reinhard: You will see! ... In another episode of the""GRP"".
+Рейнгард: Побачимо... в наступному епізоді ""GRP"".
