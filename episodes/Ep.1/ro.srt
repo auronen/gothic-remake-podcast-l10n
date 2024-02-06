@@ -56,7 +56,7 @@ Reinhard: Asta e cam mult de zis. Avem nevoie de un nume mai scurt.
 
 15
 00:01:29,280 --> 00:01:34,060
-Kai: ""Din spatele Gothic Remake Podcast ... ceva"".
+Kai: „Din spatele Gothic Remake Podcast ... ceva”.
 
 16
 00:01:34,060 --> 00:01:35,100
@@ -112,7 +112,7 @@ Kai: Aww, e un tip așa grozav. Și mulțumesc pentru introducere, Reinhard. Acu
 
 29
 00:02:31,020 --> 00:02:38,120
-Reinhard: Eu sunt Reinhard Pollice, manager de studio și director de joc la Alkimia Interactive, studioul din spatele Gothic 1 remake.
+Reinhard: Eu sunt Reinhard Pollice, manager de studio și game director la Alkimia Interactive, studioul din spatele Gothic 1 remake.
 
 30
 00:02:38,250 --> 00:02:43,190
@@ -320,7 +320,7 @@ Reinhard: De înțeles. Și dacă ar trebui să numești cele mai importante asp
 
 81
 00:07:49,150 --> 00:08:04,150
-Kai: Uau, asta e o întrebare dificilă. Numărul unu, cadrul și tonul. E crud, e dur, e violent, e necruțător. Și felul în care prezintă o colonie penitenciară masculină plină de testosteron mi se potrivește foarte bine.
+Kai: Uau, asta e o întrebare dificilă. Numărul unu, cadrul și tonul. E crud, e dur, e violent, e necruțător. Și felul în care prezintă o colonie penitenciară masculină plină de testosteron se potrivește de minune pentru mine.
 
 82
 00:08:04,150 --> 00:08:12,000
@@ -360,11 +360,11 @@ Kai: Iar al treilea aspect ar fi sentimentul de progres și cum e prezentat. În
 
 91
 00:08:53,200 --> 00:09:05,000
-Kai: Chiar de la început, eroul fără nume e genul de tip care să împartă câteva lovituri, dar există totuși acel sentiment foarte satisfăcător al progresului și sentimentul de realizare când devii mai puternic.
+Kai: Chiar de la început, eroul fără nume e genul de tip care să împartă câteva lovituri, dar există totuși acel sentiment foarte satisfăcător de progres și de reușită când devii mai puternic.
 
 92
 00:09:05,070 --> 00:09:12,070
-Kai: Poți chiar să vezi asta în modul în care ții sabia și felul în care lupți. Sentimentul de realizare chiar contează foarte mult pentru mine.
+Kai: Poți chiar să vezi asta în modul în care ții sabia și felul în care lupți. Sentimentul de reușită chiar contează foarte mult pentru mine.
 
 93
 00:09:12,240 --> 00:09:15,130
@@ -472,7 +472,7 @@ Reinhard: Și apoi, una peste alta, am avut nevoie de un „proof of concept” 
 
 119
 00:11:47,000 --> 00:11:53,180
-Kai: Ați avut de la bun început intenția să implicați comunitatea în, să zicem, procesul de proiectare și feedback?
+Kai: Ați avut de la bun început intenția să implicați comunitatea în, să zicem, procesul de design și de feedback?
 
 120
 00:11:54,150 --> 00:12:02,150
@@ -532,7 +532,7 @@ Reinhard: Planul inițial a fost să nu-l lansăm niciodată. Inițial, am vrut 
 
 134
 00:13:31,000 --> 00:13:43,000
-Reinhard: Dar apoi, așa multe din ideile noastre au ajuns în el încât era mai degrabă un reboot, și am simțit nevoia fie să-l revizuim, fie - gen - să ne întoarcem într-un punct sigur.
+Reinhard: Dar apoi, așa multe din ideile noastre au ajuns în el încât era mai degrabă un reboot, și am simțit nevoia fie să-l verificăm, fie să ne întoarcem la un lucru mai sigur.
 
 135
 00:13:43,000 --> 00:13:46,300
@@ -584,7 +584,7 @@ Kai: Deci, cum ai răspunde la următoarea întrebare? „De ce ar trebui să av
 
 147
 00:14:53,040 --> 00:15:01,290
-Reinhard: Pentru că am analizat tot feedbackul și am creat puncte de acțiune bune pe baza acestuia. Am creat o viziune care e foarte mult în ton cu ceea ce vrea comunitatea.
+Reinhard: Pentru că am analizat tot feedbackul și am creat un plan de bătaie bun pe baza acestuia. Am creat o viziune care e foarte mult în ton cu ceea ce vrea comunitatea.
 
 148
 00:15:02,290 --> 00:15:03,220
@@ -712,7 +712,7 @@ Reinhard: O, uau. Mulțumesc, Kai. E foarte interesant.
 
 179
 00:20:06,100 --> 00:20:17,080
-Kai: Mulțumesc. Există o indicație similară pentru întregul joc? Adică, aveți un plan cu privire la cât de mult vreți să păstrați 100% fidel și cât de mult vreți să adăugați sau să modificați?
+Kai: Mulțumesc. Există un principiu similar pentru întregul joc? Adică, aveți un plan cu privire la cât de mult vreți să păstrați 100% fidel și cât de mult vreți să adăugați sau să modificați?
 
 180
 00:20:17,230 --> 00:20:27,260
@@ -720,7 +720,7 @@ Reinhard: Nu pot să dau un procent, dar planul e să rămânem foarte aproape a
 
 181
 00:20:28,130 --> 00:20:36,190
-Kai: Foarte tare. Putem vorbi puțin despre tine? [Bine.] Cum ar fi, care e mai exact rolul tău în dezvoltarea Remake-ului?
+Kai: Foarte mișto. Putem vorbi puțin despre tine? [Bine.] Cum ar fi, care e mai exact rolul tău în dezvoltarea Remake-ului?
 
 182
 00:20:37,050 --> 00:20:40,130
@@ -732,7 +732,7 @@ Kai: Deci, cât de multă influență ai pe partea creativă?
 
 184
 00:20:43,280 --> 00:20:56,090
-Reinhard: Eu am creat viziunea pentru Gothic Remake și toate caracteristicile sale importante. Acum, din moment ce ne concentrăm pe detaliile de implementare, mă asigur că supervizez funcționalitățile și procesele importante, cum ar fi, de exemplu, rutinele zilnice.
+Reinhard: Eu am creat viziunea pentru Gothic Remake și toate caracteristicile sale importante. Acum, din moment ce ne concentrăm pe detaliile de implementare, mă asigur că supraveghez funcționalitățile și procesele importante, cum ar fi, de exemplu, rutinele zilnice.
 
 185
 00:20:57,010 --> 00:21:00,090
@@ -756,7 +756,7 @@ Kai: Și acum conduci un studio în Barcelona. Cum ai ajuns acolo? De ce Barcelo
 
 190
 00:21:17,230 --> 00:21:28,170
-Reinhard: Am trăit aici câțiva ani și n-am avut niciodată un plan să conduc un studio aici. Dar apoi am descoperit că există atât de mulți dezvoltatori de jocuri talentați aici și că majoritatea au rămas blocați la studiourile de jocuri pe mobil.
+Reinhard: Am trăit aici câțiva ani și n-am avut niciodată în plan să conduc un studio aici. Dar apoi am descoperit că există atât de mulți dezvoltatori de jocuri talentați aici și că majoritatea au rămas blocați la studiourile de jocuri pe mobil.
 
 191
 00:21:29,150 --> 00:21:32,180
@@ -768,7 +768,7 @@ Reinhard: A fost o provocare în plus din cauza pandemiei. Am început Alkimia �
 
 193
 00:21:42,200 --> 00:21:55,240
-Reinhard: Așa că am ajuns să cunosc o echipă de bază de cinci oameni pe care i-am considerat foarte talentați și care deja lucraseră împreună în trecut. Așa că, pur și simplu, am aruncat cu idei despre ce am putea face împreună.
+Reinhard: Așa că am ajuns să cunosc o echipă de bază de cinci oameni pe care i-am considerat foarte talentați și care deja lucraseră împreună în trecut. Așa că, pur și simplu, ne-am jucat cu idei despre ce am putea face împreună.
 
 194
 00:21:55,280 --> 00:22:07,060
@@ -820,7 +820,7 @@ Kai: Și e ușor să găsești angajați noi în Barcelona?
 
 206
 00:23:15,160 --> 00:23:29,060
-Reinhard: Barcelona și Spania, din fericire, au mulți dezvoltatori de jocuri video talentați și pasionați. Ba chiar mai mult, mulți dintre ei așteaptă să lucreze la un proiect așa de mare de foarte multă vreme.
+Reinhard: Barcelona și Spania, din fericire, au mulți dezvoltatori de jocuri video talentați și pasionați. Ba chiar mai mult, mulți dintre ei așteaptă să lucreze la un proiect așa de mare de foarte multă vreme. Iată-ne aici, tabăra veche.
 
 207
 00:23:29,060 --> 00:23:31,040
@@ -836,7 +836,7 @@ Kai: Da. Eu... abia aștept să-l explorez.
 
 210
 00:23:35,100 --> 00:23:38,260
-Gardă de la intrare: Unde crezi că te duci? N-ai venit să faci probleme, nu-i așa?
+Gardă de la poartă: Unde crezi că te duci? N-ai venit să faci probleme, nu-i așa?
 
 211
 00:23:39,090 --> 00:23:44,240
