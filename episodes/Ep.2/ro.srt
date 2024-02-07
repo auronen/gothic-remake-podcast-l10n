@@ -1,278 +1,278 @@
 1
 00:00:21,200 --> 00:00:24,000
-Xardas: Chapter two
+Xardas: Capitolul doi
 
 2
 00:00:29,250 --> 00:00:35,230
-Kai: Hi, everyone, and welcome to the Gothic Remake Podcast. I am Kai Rosenkranz, composer and sound designer.
+Kai: Salutare tuturor și bine ați venit la Gothic Remake Podcast. Eu sunt Kai Rosenkranz, compozitor și designer de sunet.
 
 3
 00:00:36,090 --> 00:00:42,180
-Reinhard: And I am Reinhard Pollice, studio and game director. Welcome to the old camp. Let's take a walk to the arena.
+Reinhard: Iar eu sunt Reinhard Pollice, director de studio și de joc. Bine ați venit în tabăra veche. Să facem o plimbare până la arenă.
 
 4
 00:00:42,290 --> 00:00:44,000
-Kai: Alright.
+Kai: În regulă.
 
 5
 00:00:46,000 --> 00:00:49,150
-Reinhard: Diego! Oh, wow. How did he get here so quickly?
+Reinhard: Diego! O, uau. Cum a ajuns aici atât de repede?
 
 6
 00:00:50,010 --> 00:00:54,040
-Kai: Hi again, Diego. [Hello.] Hope you like the new music for your camp.
+Kai: Bună din nou, Diego. [Salut.] Sper că îți place noua muzică pentru tabăra ta.
 
 7
 00:00:54,100 --> 00:00:57,040
-Sprecher 1: Well done. That's not too bad for a newcomer.
+Diego: Bine lucrat. Nu e rău deloc pentru un nou venit.
 
 8
 00:00:57,210 --> 00:01:05,010
-Kai: Thank you, Diego. I love this camp so much. The flair, the nostalgia, this sludgy smell.
+Kai: Mulțumesc, Diego. Iubesc atât de mult această tabără. Stilul, nostalgia, mirosul ăsta de noroi.
 
 9
 00:01:05,210 --> 00:01:09,010
-Reinhard: That's probably just this meeting room we're recording the episode in.
+Reinhard: Probabil că e vorba doar de sala de ședințe în care înregistrăm episodul.
 
 10
 00:01:09,270 --> 00:01:14,000
-Kai: Yeah, maybe. But shhh, you're breaking the immersion.
+Kai: Da, poate. Dar, șșșt, distrugi imersiunea.
 
 11
 00:01:14,000 --> 00:01:18,220
-Reinhard: Anyways... Welcome everybody to episode two about design principles.
+Reinhard: Oricum... Bun venit tuturor la episodul doi despre principiile de design.
 
 12
 00:01:19,120 --> 00:01:21,150
-Kai: And by""design principles"" you mean what?
+Kai: Și ce vrei să spui prin „principii de design”?
 
 13
 00:01:22,080 --> 00:01:31,110
-Reinhard: Well, the fundamental principles underneath all of our design choices and ideas. The grand vision, the Ten Commandments that we apply to everything we do.
+Reinhard: Ei bine, principiile fundamentale care stau la baza tuturor alegerilor și ideilor noastre de design. Marea viziune, cele zece porunci pe care le aplicăm în tot ceea ce facem.
 
 14
 00:01:31,260 --> 00:01:36,050
-Kai: Ooh, wow. The very foundation. That's a big subject.
+Kai: O, uau. Fundația însăși. E un subiect important.
 
 15
 00:01:36,170 --> 00:01:37,220
-Reinhard: I guess you asked for it.
+Reinhard: Cred că tu ai cerut asta.
 
 16
 00:01:38,000 --> 00:01:45,200
-Kai: Talking about foundations... are these guys over there building the stage? [Yes.] Wait, does that mean concert confirmed?
+Kai: Apropo de fundații... tipii ăștia de acolo construiesc scena? [Da.] Stai, asta înseamnă că s-a confirmat concertul?
 
 17
 00:01:46,260 --> 00:01:51,170
-Reinhard: Well, we can't talk about that right now. We feel like this should be one, though.
+Reinhard: Ei bine, nu putem vorbi despre asta acum. Totuși, credem că ar trebui să existe unul.
 
 18
 00:01:52,090 --> 00:02:03,120
-Kai: Oh, yes, absolutely. The whole old camp theme was based on""Hermannelig"", an old folk song performed by In Extremo. It would be a blast to have a performance of that song on that stage again.
+Kai: O, da, absolut. Întreaga melodie a taberei vechi s-a bazat pe „Herr Mannelig”, un vechi cântec popular interpretat de In Extremo. Ar fi genial să avem din nou o interpretare a acelui cântec pe acea scenă.
 
 19
 00:02:03,280 --> 00:02:07,050
-Reinhard: Absolutely. But let's talk about that another time.
+Reinhard: Absolut. Dar să vorbim despre asta altă dată.
 
 20
 00:02:07,260 --> 00:02:08,090
-Kai: Okay.
+Kai: Bine.
 
 21
 00:02:10,090 --> 00:02:14,020
-Kai: Why are we going this way? The arena is the other way around the outer ring.
+Kai: De ce mergem pe aici? Arena este în partea cealaltă a inelului exterior.
 
 22
 00:02:14,140 --> 00:02:21,290
-Reinhard: You're absolutely right. But we'll have to pick someone up at the south entrance. And here we have a bit more time to chat before we get there.
+Reinhard: Ai perfectă dreptate. Dar va trebui să luăm pe cineva de la intrarea sudică. Și pe aici avem ceva mai mult timp să discutăm înainte de a ajunge acolo.
 
 23
 00:02:22,160 --> 00:02:26,120
-Kai: Ah, nice. Are we meeting the person you have to give that letter to?
+Kai: A, drăguț. O să ne întâlnim cu persoana căreia trebuie să-i dai scrisoarea?
 
 24
 00:02:26,240 --> 00:02:34,000
-Reinhard: Well, not right now. We're going to meet Javi Untoria, our lead game designer, at the south entrance. But the letter is not for him.
+Reinhard: Ei bine, nu chiar acum. Ne vom întâlni cu Javi Untoria, game designerul nostru principal, la intrarea sudică. Dar scrisoarea nu e pentru el.
 
 25
 00:02:34,090 --> 00:02:46,150
-Kai: Okay, I see. Folks in the outer ring seem to be pretty busy already. Can you talk a little bit about their daily routines and how we're breathing life into this place and its inhabitants? Or would you like to leave that for Javi?
+Kai: Bine, înțeleg. Oamenii din inelul exterior par să fie deja destul de ocupați. Poți să ne vorbești puțin despre rutina lor zilnică și despre modul în care dăm viață acestui loc și locuitorilor săi? Sau vrei să lași asta lui Javi?
 
 26
 00:02:46,240 --> 00:02:56,050
-Reinhard: No, no, that's fine. We can talk about it right now. We set out to create a really believable daily schedule, so they will do actions depending on what time of day it is.
+Reinhard: Nu, nu, e în regulă. Putem vorbi despre asta chiar acum. Ne-am propus să creăm un program zilnic foarte credibil, astfel încât să facă acțiuni în funcție de ora din zi.
 
 27
 00:02:56,160 --> 00:02:59,120
-Kyle: How often have I told you bastards not to run through my hut?
+Kyle: De câte ori v-am spus, ticăloșilor, să nu treceți prin coliba mea?
 
 28
 00:02:59,280 --> 00:03:01,090
-Reinhard: Sorry, Kyle. We're just...
+Reinhard: Scuze, Kyle. Noi doar...
 
 29
 00:03:01,090 --> 00:03:15,190
-Kyle: Leave me alone, man. [Alright, we'll just...] Don't build your hut close to the ditch, they said. But none of these bastards told me what would happen if I still did it. When I came back from the mine a few days ago, I had a second door.
+Kyle: Lasă-mă în pace, omule. [Bine, o să...] Nu-ți construi coliba aproape de șanț, mi-au spus ei. Dar niciunul dintre nenorociții ăștia nu mi-a spus ce se va întâmpla dacă totuși o voi face. Când m-am întors de la mină, acum câteva zile, m-am trezit cu o a doua ușă.
 
 30
 00:03:15,240 --> 00:03:18,000
-Reinhard: And that's exactly what we're going through.
+Reinhard: Și exact prin asta trecem și noi.
 
 31
 00:03:18,020 --> 00:03:22,160
-Kyle: Those pigs. I hate them. I can't tell you how much I hate them.
+Kyle: Porcii ăia. Îi urăsc. Nu pot să vă spun cât de mult îi urăsc.
 
 32
 00:03:23,030 --> 00:03:24,230
-Kai: Uhm... bye, Kyle. I'll see you later.
+Kai: Ăăă... pa, Kyle. Ne vedem mai târziu.
 
 33
 00:03:25,020 --> 00:03:27,030
-Sprecher 1: Now everybody runs to my hut.
+Kyle: Acum toată lumea trece prin coliba mea.
 
 34
 00:03:27,120 --> 00:03:32,240
-Kai: Poor guy. [Every idiot.] Shouldn't we move his hut away from the path in the remake?
+Kai: Săracul de el. [Toți idioții.] N-ar trebui să-i mutăm coliba departe de drum în remake?
 
 35
 00:03:33,170 --> 00:03:36,130
-Reinhard: Ha! Of course not.
+Reinhard: Ha! Bineînțeles că nu.
 
 36
 00:03:36,270 --> 00:03:38,150
-Kai: I just hope we won't run into...
+Kai: Sper doar să nu dăm peste...
 
 37
 00:03:38,150 --> 00:03:41,160
-Mud: Hey, man, new here? I haven't seen you before.
+Mud: Hei, omule, ești nou pe aici? Nu te-am mai văzut până acum.
 
 38
 00:03:41,260 --> 00:03:42,180
-Kai: Oh, no.
+Kai: O, nu.
 
 39
 00:03:43,000 --> 00:03:47,090
-Mud: I'll join you for a while, if you don't mind. I'm sure you'll need a friend.
+Mud: Mă voi alătura vouă pentru o vreme, dacă nu vă supărați. Sunt sigur că veți avea nevoie de un prieten.
 
 40
 00:03:47,180 --> 00:03:52,000
-Kai: Hey, Mud. Sorry, but we're in a little rush. We're g...
+Kai: Hei, Mud. Scuze, dar suntem puțin grăbiți. Mergem...
 
 41
 00:03:52,000 --> 00:03:57,260
-Mud: Tell me! Where are we going? Or is it supposed to be a surprise? Hehe, I like surprises.
+Mud: Spune-mi! Unde mergem? Sau ar trebui să fie o surpriză? Hehe, îmi plac surprizele.
 
 42
 00:03:58,000 --> 00:04:07,000
-Reinhard: Mud, you have to go to the stage construction site and help them out, okay? The stage builders said they need your help or they won't be able to finish the stage in time, so.
+Reinhard: Mud, trebuie să te duci pe șantierul de construcție a scenei și să-i ajuți, bine? Constructorii scenei au spus că au nevoie de ajutorul tău, altfel nu vor putea termina scena la timp, așa că...
 
 43
 00:04:07,000 --> 00:04:15,050
-Mud: So they'll finally understand that they were wrong about me. That'll be fun. [Yeah.] The others only want to get rid of me all the time.
+Mud: Deci vor înțelege în sfârșit că s-au înșelat în privința mea. Asta va fi distractiv. [Da.] Ceilalți vor doar să scape de mine tot timpul.
 
 44
 00:04:15,060 --> 00:04:17,080
-Reinhard: Uhm... yeah. We have to go now, buddy.
+Reinhard: Ăăă... da. Trebuie să plecăm acum, amice.
 
 45
 00:04:17,110 --> 00:04:22,060
-Mud: Now I'm going to tell them a few of things. I'll think of a plan.
+Mud: Acum am să le spun câteva lucruri. O să mă gândesc la un plan.
 
 46
 00:04:22,120 --> 00:04:24,210
-Kai: Aaaw, that was so nice of you.
+Kai: O, ce drăguț din partea ta.
 
 47
 00:04:24,290 --> 00:04:28,150
-Reinhard: Well, I'm gonna have to give the stage builders a massive pay rise.
+Reinhard: Ei bine, o să le dau constructorilor de scenă o mărire masivă de salariu.
 
 48
 00:04:29,010 --> 00:04:47,270
-Kai: I guess so. You said we'll meet Javi by the south entrance, right? [Yep.] Okay. That gives us a few minutes. Some screenshots of the old camp have already been published, and they were received very well. I can confirm that it looks even better when you're strolling around in it. But I have a question about lighting and colors. [Sure.]
+Kai: Cred că da. Ai spus că ne vom întâlni cu Javi la intrarea din sud, nu? [Da.] Bine. Asta ne dă câteva minute. Câteva capturi de ecran din tabăra veche au fost deja publicate și au fost primite foarte bine. Pot să confirm că arată și mai bine când te plimbi în ea. Dar am o întrebare legată de iluminare și culori. [Sigur.]
 
 49
 00:04:48,120 --> 00:05:05,150
-Kai: It's good to see everything's less colorful and vivid compared to the Playable Teaser. And also I've noticed that it's not as brightly lit as the screenshots that you've published. To me, when I looked at those screenshots last year, the sunlight looked kind of too brutal and it bleached out most of the colors. But this looks much more balanced.
+Kai: Este îmbucurător să văd că totul este mai puțin colorat și mai puțin intens față de Playable Teaser. De asemenea, am observat că nu este la fel de luminos ca în capturile de ecran pe care le-ați publicat. Pentru mine, când m-am uitat la acele capturi de ecran de anul trecut, lumina soarelui părea cam prea brutală și decolora majoritatea culorilor. Dar asta arată mult mai echilibrat.
 
 50
 00:05:05,260 --> 00:05:13,060
-Kai: The lighting is much smoother and also it preserves some of the colors that were in the old camp, but still maintaining that brownish, dusty vibe.
+Kai: Iluminarea este mult mai fină și, de asemenea, păstrează unele dintre culorile care erau în tabăra veche, păstrând totuși acea notă maronie, prăfuită.
 
 51
 00:05:13,190 --> 00:05:17,080
-Reinhard: Yes, we want it to really create this rough and dark atmosphere.
+Reinhard: Da, vrem să creeze cu adevărat atmosfera asta dură și întunecată.
 
 52
 00:05:17,180 --> 00:05:18,090
-Kai: Mmm. I see.
+Kai: Mmm. Înțeleg.
 
 53
 00:05:19,150 --> 00:05:20,270
-Reinhard: There he is. Hello, Javi.
+Reinhard: Iată-l. Bună, Javi.
 
 54
 00:05:21,160 --> 00:05:23,110
-Javi: Hey, Reinhard, and hi, Kai.
+Javi: Bună, Reinhard, și bună, Kai.
 
 55
 00:05:24,050 --> 00:05:25,200
-Kai: Javi, so nice to see you.
+Kai: Javi, ce mă bucur să te văd.
 
 56
 00:05:25,200 --> 00:05:28,000
-Javi: You too. Shall we head to the arena?
+Javi: La fel. Ne îndreptăm spre arenă?
 
 57
 00:05:28,130 --> 00:05:29,090
-Reinhard: Yes, please.
+Reinhard: Da, te rog.
 
 58
 00:05:29,210 --> 00:05:32,020
-Kai: So you're the lead game designer at Alkimia?
+Kai: Deci tu ești game designerul principal la Alkimia?
 
 59
 00:05:32,060 --> 00:05:32,170
-Javi: Yes.
+Javi: Da.
 
 60
 00:05:33,020 --> 00:05:35,210
-Kai: Wow. Thanks for joining us. What do you do exactly?
+Kai: Wow. Mulțumim că ni te-ai alăturat. Cu ce te ocupi mai exact?
 
 61
 00:05:36,000 --> 00:05:47,090
-Javi: My job is to manage the design and level design team. I am in charge of helping the team to maintain a coherent vision and oversee their work. Also, I design some complex system and coordinate with other teams.
+Javi: Treaba mea este să gestionez echipa de design și design de nivel. Sunt responsabil să ajut echipa să mențină o viziune coerentă și să le supraveghez activitatea. De asemenea, concep unele sisteme complexe și mă coordonez cu alte echipe.
 
 62
 00:05:47,250 --> 00:05:55,170
-Kai: Cool. Are you getting input or - like - guidance or maybe direction from someone above you? Or do you have the last word on design decisions?
+Kai: Mișto. Primești informații sau - cum ar fi - îndrumări sau poate direcții de la cineva de mai sus? Sau tu ai ultimul cuvânt în ceea ce privește deciziile de design?
 
 63
 00:05:55,230 --> 00:06:04,030
-Javi: We have clear guidelines of what Gothic is and what Gothic is not. But in the most controversial issues the game director has the last word.
+Javi: Avem principii clare cu privire la ceea ce este Gothic și ceea ce nu este Gothic. Dar la cele mai controversate subiecte, directorul de joc are ultimul cuvânt.
 
 64
 00:06:04,170 --> 00:06:06,170
-Kai: And the game director is Reinhard, right?
+Kai: Și directorul de joc este Reinhard, nu-i așa?
 
 65
 00:06:06,260 --> 00:06:08,200
-Javi: Yep, he is.
+Javi: Da, el e.
 
 66
 00:06:10,000 --> 00:06:17,150
-Javi: Look, there is Huno the blacksmith, preparing his smithy for the remake. Would you like to learn a little bit about forging weapons?
+Javi: Priviți, iată-l pe Huno, fierarul, pregătindu-și fierăria pentru remake. Ați vrea să aflați câte ceva despre forjarea armelor?
 
 67
 00:06:17,270 --> 00:06:18,240
-Kai: Absolutely.
+Kai: Absolut.
 
 68
 00:06:19,020 --> 00:06:25,120
-Reinhard: Hey, Huno, can you give us a quick presentation of how you go about forging weapons in the remake? Or would that take too long?
+Reinhard: Hei, Huno, poți să ne faci o scurtă prezentare a modului în care te ocupi de forjarea armelor în remake? Sau ar dura prea mult?
 
 69
 00:06:25,220 --> 00:06:29,100
-Huno: That depends. I'm as fast as a hurricane with simple swords.
+Huno: Depinde. Mă mișc rapid ca un uragan cu săbiile simple.
 
 70
 00:06:29,210 --> 00:06:36,190
