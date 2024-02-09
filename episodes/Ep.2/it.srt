@@ -1,82 +1,82 @@
 1
 00:00:21,200 --> 00:00:24,000
-Xardas: Chapter two
+Xardas: Capitolo due
 
 2
 00:00:29,250 --> 00:00:35,230
-Kai: Hi, everyone, and welcome to the Gothic Remake Podcast. I am Kai Rosenkranz, composer and sound designer.
+Kai: Salve a tutti, e benvenuti al Gothic Remake Podcast. Io sono Kai Rosenkranz, compositore e sound designer.
 
 3
 00:00:36,090 --> 00:00:42,180
-Reinhard: And I am Reinhard Pollice, studio and game director. Welcome to the old camp. Let's take a walk to the arena.
+Reinhard: E io sono Reinhard Pollice, studio e game director. Benvenuti a campo vecchio. Facciamo una passeggiata verso l'arena.
 
 4
 00:00:42,290 --> 00:00:44,000
-Kai: Alright.
+Kai: D'accordo.
 
 5
 00:00:46,000 --> 00:00:49,150
-Reinhard: Diego! Oh, wow. How did he get here so quickly?
+Reinhard: Diego! Oh, wow. Come sei arrivato così in fretta?
 
 6
 00:00:50,010 --> 00:00:54,040
-Kai: Hi again, Diego. [Hello.] Hope you like the new music for your camp.
+Kai: Salve di nuovo, Diego [Salve.] Spero ti piaccia la nuova musica per il tuo campo.
 
 7
 00:00:54,100 --> 00:00:57,040
-Sprecher 1: Well done. That's not too bad for a newcomer.
+Diego: Ottimo lavoro. Non male per un nuovo arrivato.
 
 8
 00:00:57,210 --> 00:01:05,010
-Kai: Thank you, Diego. I love this camp so much. The flair, the nostalgia, this sludgy smell.
+Kai: Grazie Diego. Amo questo campo. Lo stile, la nostalgia, questo odore fangoso.
 
 9
 00:01:05,210 --> 00:01:09,010
-Reinhard: That's probably just this meeting room we're recording the episode in.
+Reinhard: Probabilmente quello viene dalla stanza da cui stiamo registrando l'episodio.
 
 10
 00:01:09,270 --> 00:01:14,000
-Kai: Yeah, maybe. But shhh, you're breaking the immersion.
+Kai: Si, forse. Ma shhh, stai rompendo l'immersione.
 
 11
 00:01:14,000 --> 00:01:18,220
-Reinhard: Anyways... Welcome everybody to episode two about design principles.
+Reinhard: Comunque... Benvenuti all'episodio due sui principi di design.
 
 12
 00:01:19,120 --> 00:01:21,150
-Kai: And by""design principles"" you mean what?
+Kai: E per "principi di design" intendi?
 
 13
 00:01:22,080 --> 00:01:31,110
-Reinhard: Well, the fundamental principles underneath all of our design choices and ideas. The grand vision, the Ten Commandments that we apply to everything we do.
+Reinhard: Beh, i principi fondamentali alla base delle nostre scelte di design e idee. La visione d'insieme, i Dieci Comandamenti che applichiamo a tutto ciò che facciamo.
 
 14
 00:01:31,260 --> 00:01:36,050
-Kai: Ooh, wow. The very foundation. That's a big subject.
+Kai: Ooh, wow. Le fondamenta. Un argomento importante.
 
 15
 00:01:36,170 --> 00:01:37,220
-Reinhard: I guess you asked for it.
+Reinhard: Immagino sia quello che vuoi.
 
 16
 00:01:38,000 --> 00:01:45,200
-Kai: Talking about foundations... are these guys over there building the stage? [Yes.] Wait, does that mean concert confirmed?
+Kai: A proposito di fondamenta... quei tizi laggiù stanno costruendo un palco? [Sì.] Aspetta, vuol dire che il concerto è confermato?
 
 17
 00:01:46,260 --> 00:01:51,170
-Reinhard: Well, we can't talk about that right now. We feel like this should be one, though.
+Reinhard: Beh, non possiamo parlare ora di questo. Pensiamo che dovrebbe essercene uno però.
 
 18
 00:01:52,090 --> 00:02:03,120
-Kai: Oh, yes, absolutely. The whole old camp theme was based on""Hermannelig"", an old folk song performed by In Extremo. It would be a blast to have a performance of that song on that stage again.
+Kai: Oh, sì, assolutamente. L'intera colonna sonora di campo vecchio era basata su "Herr Mannelig", una vecchia canzone folk suonata dagli In Extremo. Sarebbe fighissimo poter sentire nuovamente un'altra performance su quel palco.
 
 19
 00:02:03,280 --> 00:02:07,050
-Reinhard: Absolutely. But let's talk about that another time.
+Reinhard: Assolutamente. Ma ne parleremo un'altra volta.
 
 20
 00:02:07,260 --> 00:02:08,090
-Kai: Okay.
+Kai: Va bene.
 
 21
 00:02:10,090 --> 00:02:14,020
@@ -128,23 +128,23 @@ Kai: Uhm... bye, Kyle. I'll see you later.
 
 33
 00:03:25,020 --> 00:03:27,030
-Sprecher 1: Now everybody runs to my hut.
+Kyle: Ormai tutti entrano nella mia capanna.
 
 34
 00:03:27,120 --> 00:03:32,240
-Kai: Poor guy. [Every idiot.] Shouldn't we move his hut away from the path in the remake?
+Kai: Poverino [Tutti gli idioti.] Non dovremmo spostare la sua capanna lontano dalla strada nel remake?
 
 35
 00:03:33,170 --> 00:03:36,130
-Reinhard: Ha! Of course not.
+Reinhard: Ah! Certo che no.
 
 36
 00:03:36,270 --> 00:03:38,150
-Kai: I just hope we won't run into...
+Kai: Spero solo che non ci imbatteremo in...
 
 37
 00:03:38,150 --> 00:03:41,160
-Mud: Hey, man, new here? I haven't seen you before.
+Mud: Hey, amico, sei nuovo? Non ti ho mai visto prima.
 
 38
 00:03:41,260 --> 00:03:42,180
@@ -152,43 +152,43 @@ Kai: Oh, no.
 
 39
 00:03:43,000 --> 00:03:47,090
-Mud: I'll join you for a while, if you don't mind. I'm sure you'll need a friend.
+Mud: Mi unirò a te per un po', se non ti dispiace. Sono sicuro che ti serva un amico.
 
 40
 00:03:47,180 --> 00:03:52,000
-Kai: Hey, Mud. Sorry, but we're in a little rush. We're g...
+Kai: Hei, Mud. Scusa, ma siamo di fretta. Stiamo and...
 
 41
 00:03:52,000 --> 00:03:57,260
-Mud: Tell me! Where are we going? Or is it supposed to be a surprise? Hehe, I like surprises.
+Mud: Dimmi! Dove stiamo andando? O è per che caso una sorpresa? Hehe, adoro le sorprese.
 
 42
 00:03:58,000 --> 00:04:07,000
-Reinhard: Mud, you have to go to the stage construction site and help them out, okay? The stage builders said they need your help or they won't be able to finish the stage in time, so.
+Reinhard: Mud, devi andare dove stanno costruendo il palco e dare una mano, d'accordo? I costruttori hanno detto che hanno bisogno del tuo aiuto o non riusciranno a finire il palco in tempo, quindi.
 
 43
 00:04:07,000 --> 00:04:15,050
-Mud: So they'll finally understand that they were wrong about me. That'll be fun. [Yeah.] The others only want to get rid of me all the time.
+Mud: Quindi finalmente capiranno che si sbagliano su di me. Sarà divertente. [Si.] Gli altri voglio sempre sbarazzarsi di me ogni volta.
 
 44
 00:04:15,060 --> 00:04:17,080
-Reinhard: Uhm... yeah. We have to go now, buddy.
+Reinhard: Uhm... già. Dobbiamo andare, amico.
 
 45
 00:04:17,110 --> 00:04:22,060
-Mud: Now I'm going to tell them a few of things. I'll think of a plan.
+Mud: Ora glie ne dirò quattro. Penserò ad un piano.
 
 46
 00:04:22,120 --> 00:04:24,210
-Kai: Aaaw, that was so nice of you.
+Kai: Aaaw, è stato gentile da parte tua.
 
 47
 00:04:24,290 --> 00:04:28,150
-Reinhard: Well, I'm gonna have to give the stage builders a massive pay rise.
+Reinhard: Beh, dovrò dare a quei costruttori un aumento enorme.
 
 48
 00:04:29,010 --> 00:04:47,270
-Kai: I guess so. You said we'll meet Javi by the south entrance, right? [Yep.] Okay. That gives us a few minutes. Some screenshots of the old camp have already been published, and they were received very well. I can confirm that it looks even better when you're strolling around in it. But I have a question about lighting and colors. [Sure.]
+Kai: Immagino. Hai detto che avremmo incontrato Javi all'entrata sud, corretto? [Sì.] D'accordo. Questo ci dà qualche minuto. Alcuni screenshots di campo vecchio sono già stati pubblicati, e sono stati apprezzati molto. Posso confermare che sembra ancora meglio quando ci passeggi dentro. Ma ho una domanda per quanto riguarda luci e colori. [Certo.]
 
 49
 00:04:48,120 --> 00:05:05,150
