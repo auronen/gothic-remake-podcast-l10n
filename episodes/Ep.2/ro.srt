@@ -52,7 +52,7 @@ Reinhard: Ei bine, principiile fundamentale care stau la baza tuturor alegerilor
 
 14
 00:01:31,260 --> 00:01:36,050
-Kai: O, uau. Fundația însăși. E un subiect important.
+Kai: O, uau. Însăși temelia. E un subiect important.
 
 15
 00:01:36,170 --> 00:01:37,220
@@ -236,11 +236,11 @@ Javi: Da.
 
 60
 00:05:33,020 --> 00:05:35,210
-Kai: Wow. Mulțumim că ni te-ai alăturat. Cu ce te ocupi mai exact?
+Kai: Uau. Mulțumim că ni te-ai alăturat. Cu ce te ocupi mai exact?
 
 61
 00:05:36,000 --> 00:05:47,090
-Javi: Treaba mea este să gestionez echipa de design și design de nivel. Sunt responsabil să ajut echipa să mențină o viziune coerentă și să le supraveghez activitatea. De asemenea, concep unele sisteme complexe și mă coordonez cu alte echipe.
+Javi: Treaba mea este să coordonez o echipă de designeri și level designeri. Sunt responsabil să ajut echipa să mențină o viziune coerentă și să le supraveghez activitatea. De asemenea, concep unele sisteme complexe și mă coordonez cu alte echipe.
 
 62
 00:05:47,250 --> 00:05:55,170
@@ -276,396 +276,396 @@ Huno: Depinde. Mă mișc rapid ca un uragan cu săbiile simple.
 
 70
 00:06:29,210 --> 00:06:36,190
-Reinhard: Nice. A simple sword will do, thanks. You do your thing and Javi can explain a bit about the new forging mechanics.
+Reinhard: Frumos. O simplă sabie va fi de ajuns, mulțumesc. Fă-ți treaba și Javi poate explica un pic despre noile mecanici de forjare.
 
 71
 00:06:37,240 --> 00:06:51,260
-Javi: A fantastic thing about Gothic is that you could make your own sword by going through the whole forging process step by step. We will keep that for sure! But we want to take it further, and the player will be able to forge more types of weapons. No, just the simple sword.
+Javi: Un lucru fantastic la Gothic e că îți poți face propria sabie, trecând pas cu pas prin întregul proces de forjare. Vom păstra asta fără îndoială! Dar vrem să ducem asta mai departe, iar jucătorul va putea să forjeze mai multe tipuri de arme, nu doar sabia simplă.
 
 72
 00:06:52,090 --> 00:06:57,180
-Kai: Thank you for the insight, Javi, and thanks, Huno, for your time. Hope we didn't badger you for too long.
+Kai: Mulțumesc pentru explicații, Javi, și mulțumesc, Huno, pentru timpul tău. Sper că nu te-am bătut la cap prea mult.
 
 73
 00:06:57,270 --> 00:06:59,230
-Huno: Nah, on the contrary.
+Huno: Nu, dimpotrivă.
 
 74
 00:07:00,160 --> 00:07:14,110
-Kai: He's always so polite. Just as I remember him. *Laughing* Wow! The arena looks massive. The screenshots already revealed that it got scaled up and extended, but it looks even bigger when you're approaching it.
+Kai: E mereu atât de politicos. Exact cum mi-l amintesc. *Râde* Uau! Arena pare masivă. Capturile de ecran au arătat deja că a fost redimensionată și extinsă, dar pare și mai mare când te apropii de ea.
 
 75
 00:07:14,220 --> 00:07:17,180
-Javi: Yes. We have expanded the arena and its role in the camp.
+Javi: Da. Am mărit arena și rolul ei în tabără.
 
 76
 00:07:18,120 --> 00:07:20,030
-Kai: Ah. How exactly?
+Kai: A, cum anume?
 
 77
 00:07:20,170 --> 00:07:40,110
-Javi: Well, the arena is the only way for the colony inhabitants to have fun. We want to give it a more important role, when even the ore barons come out from the castle to watch the fights. [M-hm.] We would like to add more quest and content around the arena, and not just limit ourselves to the few 1 vs.1 fights like in the original.
+Javi: Ei bine, arena este singurul mod în care locuitorii coloniei se pot distra. Vrem să-i dăm un rol mai important, când chiar și baronii minereului vor ieși din castel pentru a urmări luptele. [Îhî.] Am vrea să adăugăm mai multe misiuni și conținut legat de arenă, și să nu ne limităm doar la cele câteva lupte 1 vs 1 ca în original.
 
 78
 00:07:40,280 --> 00:07:53,030
-Javi: For this, we need to expand it and create a focus on the camp. It's still the remains of a building for fighting, but now more people can come and fight. It can't just be limited to some fighters.
+Javi: Pentru aceasta, trebuie să o extindem și să facem un punct de interes pentru tabără. Încă e vorba de ruinele unei clădiri unde au loc lupte, dar acum pot veni mai mulți oameni să lupte. Nu poate fi limitat doar la câțiva luptători.
 
 79
 00:07:53,170 --> 00:07:56,190
-Kai: Interesting. So who's going to fight in the arena?
+Kai: Interesant. Deci, cine va lupta în arenă?
 
 80
 00:07:56,260 --> 00:08:04,110
-Javi: There are many warriors in the colony who'd like to test their skill, as well as some terrifying creatures that many barons would like to see fight.
+Javi: Există mulți războinici în colonie care ar dori să-și testeze abilitățile, precum și câteva creaturi terifiante pe care mulți baroni ar dori să le vadă luptând.
 
 81
 00:08:04,290 --> 00:08:08,170
-Kai: Okay. Wow. That was pretty detailed. Thank you so much.
+Kai: Bine. Uau. A fost destul de detaliat. Mulțumesc foarte mult.
 
 82
 00:08:09,000 --> 00:08:09,200
-Javi: You are welcome.
+Javi: Cu plăcere.
 
 83
 00:08:10,240 --> 00:08:13,240
-Reinhard: Are you guys hungry? Snaf's crew cantina should be open.
+Reinhard: Vă e foame? Cantina lui Snaf pentru echipaj ar trebui să fie deschisă.
 
 84
 00:08:14,030 --> 00:08:15,010
-Kai: Good ol' Snaf?
+Kai: Bătrânul Snaf?
 
 85
 00:08:15,130 --> 00:08:16,010
-Javi: Sounds good.
+Javi: Sună bine.
 
 86
 00:08:16,120 --> 00:08:19,290
-Kai: Yeah, it does. Will he serve the original meatbug ragout?
+Kai: Da, așa este. Va servi originalul ragu de gândac?
 
 87
 00:08:20,260 --> 00:08:26,130
-Reinhard: He will in the remake! But for us, he's making a huge paella. The studio is based in Spain, after all.
+Reinhard: O va face în remake! Dar pentru noi, va face o paella uriașă. La urma urmei, studioul are sediul în Spania.
 
 88
 00:08:27,040 --> 00:08:29,300
-Javi: Oh, wait. Mud is speaking with Snaf.
+Javi: Așteaptă. Mud vorbește cu Snaf.
 
 89
 00:08:29,300 --> 00:08:33,210
-Reinhard: Mud? Shouldn't he be on the other side of the camp helping to stage builders?
+Reinhard: Mud? N-ar trebui să fie în cealaltă parte a taberei, ajutând la construirea scenei?
 
 90
 00:08:34,030 --> 00:08:36,230
-Kai: I don't know. My gut feeling tells me they sent him away.
+Kai: Nu știu. Instinctul meu îmi spune că l-au trimis de acolo.
 
 91
 00:08:36,250 --> 00:08:39,180
-Mud: Got something to eat for me? [Here.] Great.
+Mud: Ai ceva de mâncare pentru mine? [Uite.] Grozav.
 
 92
 00:08:41,000 --> 00:08:41,160
-Reinhard: Hey, Snaf.
+Reinhard: Hei, Snaf.
 
 93
 00:08:41,220 --> 00:08:43,110
-Snaf: Hey. What'll it be?
+Snaf: Hei. Ce-o să fie?
 
 94
 00:08:44,040 --> 00:08:47,120
-Reinhard: Can we have three portions of your paella?
+Reinhard: Putem primi trei porții din paella ta?
 
 95
 00:08:46,200 --> 00:08:50,200
-Snaf: Alright. Here! You can try a portion right away.
+Snaf: În regulă. Poftim! Poți încerca o porție chiar acum.
 
 96
 00:08:50,200 --> 00:08:54,200
-Kai: I'll take it. Thank you. Mmmmh.
+Kai: O iau eu. Mulțumesc. Mmmmh.
 
 97
 00:08:54,200 --> 00:08:57,220
-Snaf: What do you think? [That's really good.] Excellent.
+Snaf: Ce părere ai? [E foarte bună.] Excelent.
 
 98
 00:08:59,040 --> 00:09:01,100
-Reinhard: Thanks.
+Reinhard: Mulțumim.
 
 99
 00:09:02,150 --> 00:09:09,200
-Javi: To be clear: Snaf, in the remake, you will be serving your beloved meatbug ragout. Not paella, right? [Exactly.]
+Javi: Ca să fie clar: Snaf, în remake, vei servi îndrăgitul tău ragu de gândac. Nu paella, nu-i așa? [Exact.]
 
 100
 00:09:10,000 --> 00:09:16,000
-Kai: So no changes here. Just mushrooms and meatbugs? [I didn't say that.] Hmm.
+Kai: Așadar, nicio schimbare aici. Doar ciuperci și gândaci? [Nu am spus asta.] Hmm.
 
 101
 00:09:18,000 --> 00:09:22,180
-Kai: So, Reinhard said, this episode will be about design principles.
+Kai: Deci, a spus Reinhard, acest episod va fi despre principiile de proiectare.
 
 102
 00:09:22,180 --> 00:09:24,180
-Javi: Yes, I heard that, too.
+Javi: Da, asta am auzit și eu.
 
 103
 00:09:26,010 --> 00:09:29,080
-Kai: That sounds like exactly the kind of topic we should ask YOU about, Javi.
+Kai: Acesta pare exact genul de subiect despre care ar trebui să te întrebăm pe tine, Javi.
 
 104
 00:09:30,050 --> 00:09:32,100
-Javi: I might know a thing or two about it. Yes.
+Javi: S-ar putea să știu câte ceva despre asta. Da.
 
 105
 00:09:32,260 --> 00:09:38,110
-Kai: Excellent. Elaborate, please. What are the design principles you've established for the remake?
+Kai: Excelent. Dezvoltă, te rog. Care sunt principiile de design pe care le-ați stabilit pentru remake?
 
 106
 00:09:39,000 --> 00:09:44,210
-Javi: We have a very clear basis for the game. We will talk about the three main concept.
+Javi: Avem o bază foarte clară pentru joc. Vom vorbi despre cele trei concepte principale.
 
 107
 00:09:45,140 --> 00:09:45,210
-Kai: M-hm, okay.
+Kai: Îhî, bine.
 
 108
 00:09:46,110 --> 00:09:51,270
-Javi: First, the player can choose how to play. We have to give them options and different playstyles.
+Javi: În primul rând, jucătorii pot alege cum să joace. Trebuie să le oferim opțiuni și diferite stiluri de joc.
 
 109
 00:09:52,050 --> 00:09:52,190
-Reinhard: Oh, yeah.
+Reinhard: O, da.
 
 110
 00:09:52,250 --> 00:09:53,230
-Kai: Yeah. Sounds good.
+Kai: Da. Sună bine.
 
 111
 00:09:54,140 --> 00:10:01,080
-Javi: Two: The world is alive. We are not looking for something scripted. We want something systemic that the player can interact with.
+Javi: Doi: Lumea este însuflețită. Noi nu căutăm ceva scriptat. Vrem ceva sistemic cu care jucătorul să poată interacționa.
 
 112
 00:10:01,200 --> 00:10:03,030
-Kai: Oh, yes. Very important.
+Kai: O, da. Foarte important.
 
 113
 00:10:03,170 --> 00:10:20,120
-Javi: Yes. And the third pillar is:""Immersion is essential"". We don't want to guide the player with obligatory tutorials, but reward the player to discover and explore the world. We know this can be a little bit harsh at the beginning, but it's the Gothic experience.
+Javi: Da. Iar cel de-al treilea pilon este: „Imersiunea e esențială”. Nu vrem să ghidăm jucătorul cu tutoriale obligatorii, ci să-l recompensăm pe jucător să descopere și să exploreze lumea. Știm că acest lucru poate fi un pic cam dur la început, dar asta e experiența Gothic.
 
 114
 00:10:20,220 --> 00:10:28,220
-Kai: Yes, it is. That's very interesting. So what's your process when you evaluate new design ideas? How do you make sure they match the principles?
+Kai: Da, chiar e. E foarte interesant. Care este procesul prin care evaluezi noile idei de design? Cum te asiguri că se potrivesc cu principiile?
 
 115
 00:10:29,070 --> 00:10:42,180
-Javi: When we design something new or work in our redesign, we always confront it with the pillars as a validation that we are on the right track. In fact, in design, we tend to close the issue with""this is very Gothic"".
+Javi: Atunci când concepem ceva nou sau facem o nouă versiune, mereu îl confruntăm cu pilonii ca o validare a faptului că suntem pe drumul cel bun. De fapt, în design, avem tendința de a închide problema cu „asta e foarte Gothic”.
 
 116
 00:10:43,130 --> 00:11:05,200
-Kai: Okay, here's a question very closely related to design principles. I know that the idea that players can just read their stats and skills and get an idea of how good they are just by looking at the character and his posture, that was one of the design concepts Mike Hoge, the original Gothic inventor, was most passionate about. What are your thoughts on this?
+Kai: Bine, iată o întrebare foarte strâns legată de principiile de design. Știu că ideea că jucătorii pot citi propriile caracteristici și abilități și își pot face o idee despre cât de buni sunt doar uitându-se la personaj și la postura sa a fost unul dintre conceptele de design de care Mike Hoge, inventatorul original al jocului Gothic, a fost cel mai pasionat. Ce părere ai despre asta?
 
 117
 00:11:06,190 --> 00:11:21,250
-Javi: It's something super interesting and something we have all noticed when we were playing Gothic. It's especially something you notice in the hero himself. How he improves with the weapons and goes from barely knowing how to hold a sword to being a true master.
+Javi: E un lucru super interesant și pe care l-am observat cu toții când jucam Gothic. E ceva ce se observă mai ales la eroul însuși. Cum își îmbunătățește abilitățile legate de arme și cum ajunge de la cineva care abia știe să țină o armă la un adevărat maestru.
 
 118
 00:11:22,050 --> 00:11:28,280
-Kai: Oh yes, barely knowing how to hold your sword... I remember that phase. [Yeah.] *laughing* Okay, go ahead.
+Kai: O, da, abia dacă știi cum să-ți ții sabia în mână... Îmi amintesc acea fază. [Da.] *Râde* Bine, dă-i drumul.
 
 119
 00:11:29,240 --> 00:11:35,030
-Javi: It's something that we would like to keep and be able to give this feeling of power and progression.
+Javi: E ceva ce am vrea să păstrăm și să putem oferi acest sentiment de putere și progres.
 
 120
 00:11:35,190 --> 00:11:46,240
-Kai: Okay. Yeah, that sounds very good. And since you've mentioned progression: Another super important aspect, at least for me, is exactly that sense of progression. Progression of power, to be precise.
+Kai: Bine. Da, sună foarte bine. Și din moment ce ai menționat progresul: Un alt aspect foarte important, cel puțin pentru mine, este exact acest sentiment de progres. Progresul puterii, ca să fiu mai precis.
 
 121
 00:11:46,260 --> 00:11:47,080
-Javi: Yes.
+Javi: Da.
 
 122
 00:11:47,140 --> 00:11:51,270
-Kai: Getting stronger and feeling the impact of that. [Yes.] How is that handled in the remake?
+Kai: Să devii mai puternic și să simți impactul acestui lucru. [Da.] Cum se abordează asta în remake?
 
 123
 00:11:51,280 --> 00:12:13,070
-Javi: The progression of power is something that is super important in the game. The character progression in the original Gothic was great. We want to keep the player progression as in the original, but we are refining how the player gets access to better weapons and items, especially in the midgame. It was very easy to break the economy and have the best equipment that money could buy.
+Javi: Progresul puterii e ceva foarte important în joc. Evoluția personajelor din originalul Gothic a fost grozavă. Vrem să păstrăm progresul jucătorului ca în original, dar perfecționăm modul în care jucătorul are acces la arme și obiecte mai bune, în special în mijlocul jocului. Era foarte ușor să strici economia și să ai cel mai bun echipament pe care banii îl puteau cumpăra.
 
 124
 00:12:13,240 --> 00:12:20,190
-Kai: Oh, yeah, that's true. Lovely. Thank you. Can I ask you TWO a few more questions that span across various topics?
+Kai: O, da, e adevărat. Minunat. Mulțumesc. Pot să vă mai pun câteva întrebări care se referă la diverse subiecte?
 
 125
 00:12:21,040 --> 00:12:23,200
-Javi: [Okay.] Yes. Let's see if we can answer them.
+Javi: [Bine.] Da. Să vedem dacă putem răspunde la ele.
 
 126
 00:12:24,000 --> 00:12:27,230
-Kai: I'm sure you can. Javi, where do you draw your inspiration from?
+Kai: Sunt sigur că poți. Javi, de unde te inspiri?
 
 127
 00:12:28,060 --> 00:12:42,100
-Javi: Inspiration can come from anywhere, not just another video games. Sometimes inspiration come from books, movies, series or even board games and roleplaying games. Often the best ideas come when you least expect them.
+Javi: Inspirația poate veni de oriunde, nu doar din alte jocuri video. Uneori, inspirația vine din cărți, filme, seriale sau chiar jocuri de societate și jocuri de rol. Adesea, cele mai bune idei vin atunci când te aștepți mai puțin.
 
 128
 00:12:42,270 --> 00:12:49,160
-Kai: Yes. And what are your favorite games? Are you planning to work some of what you liked about those games into the remake?
+Kai: Da. Și care sunt jocurile tale preferate? Plănuiești să incluzi în remake ceva din ceea ce ți-a plăcut la acele jocuri?
 
 129
 00:12:50,030 --> 00:13:12,030
-Javi: I love action RPGs, but I play as many games as I can. When I play, I cannot stop being a designer and I am constantly analyzing the details and solutions that other devs have found. All these backlogs come to my mind when a new challenge appears in the development, and I think:""These games solved it in a very clever way. We could do something similar!""
+Javi: Ador RPG-urile de acțiune, dar joc cât de multe jocuri pot. Când joc, nu mă pot opri din a fi designer și analizez în permanență detaliile și soluțiile pe care le-au găsit alți dezvoltatori. Toate aceste lucruri îmi vin în minte atunci când apare o nouă provocare în dezvoltare și mă gândesc: „Aceste jocuri au rezolvat-o într-un mod foarte inteligent. Am putea face ceva asemănător!”
 
 130
 00:13:12,090 --> 00:13:17,030
-Kai: Cool. Yeah. Being open for that definitely helps. You don't always have to reinvent the wheel.
+Kai: Mișto. Da. Să fii deschis la asta cu siguranță ajută. Nu trebuie să reinventezi mereu roata.
 
 131
 00:13:17,040 --> 00:13:17,160
-Javi: Yes.
+Javi: Da.
 
 132
 00:13:18,220 --> 00:13:22,290
-Kai: The next couple of questions are community questions, which came up on the Discord server.
+Kai: Următoarele două întrebări sunt întrebări ale comunității, care s-au pus pe serverul de Discord.
 
 133
 00:13:23,080 --> 00:13:24,000
-Javi: Oh, nice.
+Javi: O, drăguț.
 
 134
 00:13:24,160 --> 00:13:32,060
-Reinhard: All your listeners out there are invited to join the Discord server as well. The invitation link is discord.gg/gothic.
+Reinhard: Toți ascultătorii sunt invitați să se alăture și ei serverului Discord. Linkul de invitație este discord.gg/gothic.
 
 135
 00:13:32,210 --> 00:13:38,010
-Kai: See you all there! So ... we've talked about forging. How about making arrows?
+Kai: Ne vedem toți acolo! Deci... am vorbit despre forjare. Dar cum e cu fabricarea săgeților?
 
 136
 00:13:38,200 --> 00:13:46,060
-Javi: You will be able to make arrows on the workbenches if you have the materials. We want to incorporate crafting to make the materials you collect useful.
+Javi: Vei putea face săgeți pe bancurile de lucru dacă ai materialele necesare. Vrem să încurajăm meșteșugăria pentru a face utile materialele pe care le strângeți.
 
 137
 00:13:46,170 --> 00:13:58,280
-Kai: Mm-hmm. Talking about making things useful: In the original game, there are barrels, including here in the old camp, that the player can climb into and hide. Is that going to be a useful mechanic in the remake?
+Kai: Îhî. Că vorbim despre a face lucrurile utile: În jocul original, există butoaie, inclusiv aici, în tabăra veche, în care jucătorul poate intra și se poate ascunde. Va fi asta o mecanică utilă în remake?
 
 138
 00:13:59,150 --> 00:14:12,280
-Javi: This mechanic is one of those we revise. In the original it didn't make much sense and it was too comical for the tone of the game. We want to develop stealth a little more, but I don't know if hiding in a barrel is the best way.
+Javi: Această mecanică face parte dintre cele pe care le revizuim. În versiunea originală nu prea avea sens și era prea comic pentru tonul jocului. Vrem să dezvoltăm un pic mai mult furișarea, dar nu știu dacă ascunderea într-un butoi este cea mai bună variantă.
 
 139
 00:14:13,100 --> 00:14:22,260
-Kai: Ooooh *sighs*, okay. Now, we've been to the arena, so this fits quite nicely: A question that came up very often is:""Will there be helmets and shields?""
+Kai: Ooooh *oftează*, bine. Acum, am fost la arenă, așa că asta se potrivește destul de bine: O întrebare care a apărut foarte des este: „Vor fi coifuri și scuturi?”
 
 140
 00:14:23,050 --> 00:14:33,270
-Javi: No! We are sticking to the original and there won't be any. In the colony the combat is direct and visceral. We didn't like the defence system that will make it more static.
+Javi: Nu! Mergem pe varianta originală și nu vor fi nici una, nici alta. În colonie, lupta este directă și viscerală. Nu ne-a plăcut sistemul de apărare care o va face mai statică.
 
 141
 00:14:34,220 --> 00:14:43,080
-Kai: Yes, I agree. The next one is probably not so much a game design question, but it came up recently, so:""Will there be new quests?""
+Kai: Da, de acord. Următoarea întrebare nu e, probabil, chiar o întrebare de design de joc, dar a apărut recent, așa că: „Vor fi misiuni noi?”
 
 142
 00:14:43,290 --> 00:14:56,030
-Javi: Yes, there will be new quests. Our idea is to create quests to balance the parts of the game that feel more linear. As you know, from Chapter 3 onward the game offers no other quest than the main quest.
+Javi: Da, vor fi misiuni noi. Ideea noastră este de a crea misiuni pentru a echilibra părțile din joc care par mai liniare. După cum știți, începând cu capitolul 3, jocul nu oferă nicio altă misiune în afară de misiunea principală.
 
 143
 00:14:56,040 --> 00:14:56,180
-Kai: Oh yeah.
+Kai: O, da.
 
 144
 00:14:56,180 --> 00:15:06,290
-Javi: And we would like to give more content to the player. On the other hand, some of the main quests will be slightly modified in order to close the plot holes that have been with us for 20 years.
+Javi: Și am dori să oferim mai mult conținut jucătorului. Pe de altă parte, unele dintre misiunile principale vor fi ușor modificate pentru a închide lacunele din narațiune care au rămas cu noi timp de 20 de ani.
 
 145
 00:15:07,090 --> 00:15:08,050
-Kai: Very interesting.
+Kai: Foarte interesant.
 
 146
 00:15:08,210 --> 00:15:14,000
-Reinhard: When we'll meet with someone from the story team in a future episode, we can dive more into these kind of questions.
+Reinhard: Când ne vom întâlni cu cineva din echipa care se ocupă de poveste într-un episod viitor, vom putea să aprofundăm mai mult acest gen de întrebări.
 
 147
 00:15:14,100 --> 00:15:25,250
-Kai: Yeah, that'll be cool. Okay, next. I know this is a broad question, but I want to ask it as openly as possible. What can you tell us about the UI in the remake, and specifically the inventory?
+Kai: Da, ar fi grozav. Bine, următoarea. Știu că este o întrebare vastă, dar vreau să o pun cât mai deschis posibil. Ce ne poți spune despre interfața de utilizator din remake, și mai ales despre inventar?
 
 148
 00:15:26,240 --> 00:15:47,040
-Javi: The UI will look more like the original Gothic than the Playable Teaser. [Yes!] We are doing something minimal to enhance the player immersion. The inventory follows the rules of the original Gothic. The game doesn't pause and allows you to watch as you manage it. It's a screen with a lot of information, so it's a challenge to show everything at once.
+Javi: Interfața va semăna mai mult cu originalul Gothic decât cu Playable Teaser. [Da!] Facem ceva minimalist pentru a îmbunătăți imersiunea jucătorului. Inventarul urmează regulile din Gothic original. Jocul nu se pune pe pauză și îți permite să privești în timp ce îl gestionezi. E un ecran cu multe informații, așa că este o provocare să arăți totul deodată.
 
 149
 00:15:47,290 --> 00:16:00,240
-Kai: M-hm, it is! Okay, but now for something completely different. We've heard a few characters speaking in this episode, and those were all audio files from the original game. But, Reinhard, we won't use those in the remake, right?
+Kai: Îhî, este! Bine, dar acum ceva complet diferit. Am auzit câteva personaje vorbind în acest episod, iar acestea erau toate fișiere audio din jocul original. Dar, Reinhard, nu le vom folosi în remake, nu-i așa?
 
 150
 00:16:01,060 --> 00:16:07,240
-Reinhard: No! We thought initially that's the best way to approach it, but we realized that this wouldn't make any changes or additions possible.
+Reinhard: Nu! Inițial am crezut că acesta este cel mai bun mod de abordare, dar ne-am dat seama că asta nu ar face posibilă nicio modificare sau adăugare.
 
 151
 00:16:08,110 --> 00:16:14,030
-Kai: Which means that we will mostly do rerecordings with the original actors - where it's possible -, right?
+Kai: Ceea ce înseamnă că vom face în mare parte reînregistrări cu actorii originali - acolo unde este posibil -, nu?
 
 152
 00:16:14,190 --> 00:16:15,050
-Reinhard: Yep.
+Reinhard: Mda.
 
 153
 00:16:15,270 --> 00:16:22,200
-Kai: Alright. That's good news to me! And which gameplay features and mechanics are we adding that we weren't in the original game?
+Kai: În regulă. Asta e o veste bună pentru mine! Și ce caracteristici și mecanici de joc adăugăm noi, care nu erau în jocul original?
 
 154
 00:16:23,160 --> 00:16:37,060
-Javi: We are working on several new features. As a preview, you will now be able to climb some walls in the game. This allows us to reward the more exploratory players and also to develop more vertical levels.
+Javi: Lucrăm la câteva caracteristici noi. Ca idee, vei putea acum să te cațeri pe unii pereți din joc. Acest lucru ne permite să recompensăm jucătorii mai exploratori și, de asemenea, să dezvoltăm mai multe niveluri verticale.
 
 155
 00:16:37,170 --> 00:16:39,180
-Kai: Uuuh... climbing walls. Nice!
+Kai: Uuu... cățărat pe pereți. Frumos!
 
 156
 00:16:40,150 --> 00:16:51,080
-Javi: We have also redesigned pickpocketing, lockpicking, some crafting systems... We have more surprises, but we don't want to reveal them all at once.
+Javi: Am regândit, de asemenea, furtul din buzunare, spargerea lacătelor, unele sisteme de meșteșugărie... Avem mai multe surprize, dar nu vrem să le dezvăluim pe toate deodată.
 
 157
 00:16:51,230 --> 00:16:55,000
-Kai: Yeah, that makes sense. We have to keep some for the next episodes.
+Kai: Da, are sens. Trebuie să păstrăm câteva pentru următoarele episoade.
 
 158
 00:16:55,120 --> 00:17:05,080
-Reinhard: It's starting to get dark. We've been chatting for quite a while. [Oh, yes.] Kai, how about we end this episode with some music? Night in the old camp, maybe?
+Reinhard: Începe să se întunece. Stăm de vorbă de ceva vreme. [O, da.] Kai, ce-ar fi să încheiem episodul ăsta cu niște muzică? Noaptea în tabăra veche, poate?
 
 159
 00:17:06,040 --> 00:17:10,020
-Kai: I was hoping for you to ask that. Yeah, I'd love to share some of that.
+Kai: Speram să mă întrebi asta. Da, mi-ar plăcea să vă arăt ceva din asta.
 
 160
 00:17:10,150 --> 00:17:14,000
-Reinhard: Okay, then. Do you have any other questions before we wrap this up?
+Reinhard: Bine, atunci. Mai aveți și alte întrebări înainte de a încheia?
 
 161
 00:17:14,010 --> 00:17:18,220
-Kai: Yes. About that letter... who is it for? You're making such a big secret out of it.
+Kai: Da. În legătură cu scrisoarea aceea... pentru cine e? Faci din ea un mare secret.
 
 162
 00:17:19,060 --> 00:17:24,240
-Reinhard: Oh, yeah, I completely forgot about that. [Sure.] Guess we'll leave that for the next episode, then.
+Reinhard: O, da, am uitat complet de asta. [Sigur.] Cred că vom lăsa asta pentru episodul următor, atunci.
 
 163
 00:17:25,040 --> 00:17:30,160
-Kai: That's a pretty decent cliffhanger. Anyways, Javi, thank you so much for joining us.
+Kai: Reușești destul de bine să ne lași în suspans. Oricum, Javi, îți mulțumim mult că ai fost alături de noi.
 
 164
 00:17:30,250 --> 00:17:36,080
-Javi: Thanks for inviting me. I'm looking forward to coming back and talking more about the Gothic remake.
+Javi: Mulțumesc că m-ați invitat. Abia aștept să mă întorc și să vorbesc mai mult despre remake-ul Gothic.
 
 165
 00:17:36,180 --> 00:17:43,100
-Kai: Yes, that will be great. So, here's a bit of night music from the old camp. See you all in the next episode.
+Kai: Da, ar fi minunat. Deci, iată un pic de muzică de noapte din tabăra veche. Ne vedem cu toții în episodul următor.
 
 166
 00:17:43,160 --> 00:17:44,160
-Javi: Bye bye, everybody.
+Javi: La revedere tuturor.
 
 167
 00:17:44,190 --> 00:17:46,150
-Reinhard: Take care. Bye Bye.
+Reinhard: Aveți grijă. La revedere.
 
 168
 00:20:16,010 --> 00:20:22,000
-Kai: Thank you for listening. That was... Chapter 2.
+Kai: Vă mulțumim că ne-ați ascultat. Acesta a fost... Capitolul 2.
