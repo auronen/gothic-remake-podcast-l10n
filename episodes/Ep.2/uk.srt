@@ -440,7 +440,7 @@
 
 111
 00:09:54,140 --> 00:10:01,080
-Хаві: Two: The world is alive. We are not looking for something scripted. We want something systemic that the player can interact with.
+Хаві: Друге: Світ живий. Ми не шукаємо щось заскриптоване. Ми хочемо щось системне, з чим гравець може взаємодіяти.
 
 112
 00:10:01,200 --> 00:10:03,030
