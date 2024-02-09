@@ -1,286 +1,286 @@
 1
 00:00:21,200 --> 00:00:24,000
-Xardas: Chapter two
+Ксардас: Розділ другий
 
 2
 00:00:29,250 --> 00:00:35,230
-Kai: Hi, everyone, and welcome to the Gothic Remake Podcast. I am Kai Rosenkranz, composer and sound designer.
+Кай: Привіт усім і ласкаво просимо на подкаст "Gothic Remake Podcast". Я Кай Розенкранц, композитор і саунд-дизайнер.
 
 3
 00:00:36,090 --> 00:00:42,180
-Reinhard: And I am Reinhard Pollice, studio and game director. Welcome to the old camp. Let's take a walk to the arena.
+Рейнгард: А я - Рейнгард Полліс, студійний та ігровий директор. Ласкаво просимо до старого табору. Пройдімося до арени.
 
 4
 00:00:42,290 --> 00:00:44,000
-Kai: Alright.
+Кай: Добре.
 
 5
 00:00:46,000 --> 00:00:49,150
-Reinhard: Diego! Oh, wow. How did he get here so quickly?
+Рейнгард: Дієґо! Ого. Як він так швидко добрався сюди?
 
 6
 00:00:50,010 --> 00:00:54,040
-Kai: Hi again, Diego. [Hello.] Hope you like the new music for your camp.
+Кай: Привіт, Дієґо. [Привіт.] Сподіваюсь, тобі сподобається нова музика для табору.
 
 7
 00:00:54,100 --> 00:00:57,040
-Sprecher 1: Well done. That's not too bad for a newcomer.
+Розмовник 1: Гарна робота. Непогано як для новачка.
 
 8
 00:00:57,210 --> 00:01:05,010
-Kai: Thank you, Diego. I love this camp so much. The flair, the nostalgia, this sludgy smell.
+Кай: Дякую, Дієґо. Я так люблю цей табір. Відчуття, ностальгія, цей брудний запах.
 
 9
 00:01:05,210 --> 00:01:09,010
-Reinhard: That's probably just this meeting room we're recording the episode in.
+Рейнгард: Це, мабуть, лише в кімнаті для зустрічей, в якій ми записуємо епізод.
 
 10
 00:01:09,270 --> 00:01:14,000
-Kai: Yeah, maybe. But shhh, you're breaking the immersion.
+Кай: Так, можливо. Але тсс, ти порушуєш занурення.
 
 11
 00:01:14,000 --> 00:01:18,220
-Reinhard: Anyways... Welcome everybody to episode two about design principles.
+Рейнгард: У всякому разі... Ласкаво просимо до другого епізоду, про принципи дизайну.
 
 12
 00:01:19,120 --> 00:01:21,150
-Kai: And by""design principles"" you mean what?
+Кай: "Принципи дизайну" - що мається на увазі?
 
 13
 00:01:22,080 --> 00:01:31,110
-Reinhard: Well, the fundamental principles underneath all of our design choices and ideas. The grand vision, the Ten Commandments that we apply to everything we do.
+Рейнгард: Ну, фундаментальні принципи, що лежать в основі всіх наших дизайнерських рішень та ідей. Велике бачення, десять заповідей, які ми застосовуємо до всього, що робимо.
 
 14
 00:01:31,260 --> 00:01:36,050
-Kai: Ooh, wow. The very foundation. That's a big subject.
+Кай: Оу, вау. Сама основа. Це велика тема.
 
 15
 00:01:36,170 --> 00:01:37,220
-Reinhard: I guess you asked for it.
+Рейнгард: Сам же питався.
 
 16
 00:01:38,000 --> 00:01:45,200
-Kai: Talking about foundations... are these guys over there building the stage? [Yes.] Wait, does that mean concert confirmed?
+Кай: Говорячи про основи... ці хлопці будують сцену? [Так.] Чекай, це означає, що концерт підтверджено?
 
 17
 00:01:46,260 --> 00:01:51,170
-Reinhard: Well, we can't talk about that right now. We feel like this should be one, though.
+Рейнгард: Ну, ми не можемо говорити про це прямо зараз. Але було б добре організувати таку.
 
 18
 00:01:52,090 --> 00:02:03,120
-Kai: Oh, yes, absolutely. The whole old camp theme was based on""Hermannelig"", an old folk song performed by In Extremo. It would be a blast to have a performance of that song on that stage again.
+Кай: О, так, абсолютно. Вся тема старого табору була заснована на "Hermannelig", старій народній пісні у виконанні In Extremo. Було б чудово знову почути її на сцені.
 
 19
 00:02:03,280 --> 00:02:07,050
-Reinhard: Absolutely. But let's talk about that another time.
+Рейнгард: Звісно. Але поговорімо про це іншим разом.
 
 20
 00:02:07,260 --> 00:02:08,090
-Kai: Okay.
+Кай: Окей.
 
 21
 00:02:10,090 --> 00:02:14,020
-Kai: Why are we going this way? The arena is the other way around the outer ring.
+Кай: Чому ми йдемо цим шляхом? Арена знаходиться з іншого боку зовнішнього кільця.
 
 22
 00:02:14,140 --> 00:02:21,290
-Reinhard: You're absolutely right. But we'll have to pick someone up at the south entrance. And here we have a bit more time to chat before we get there.
+Рейнгард: Ти маєш рацію. Але нам треба буде забрати декого біля південного входу. А тут у нас є ще трохи часу, щоб поспілкуватися перед тим, як ми туди доберемося.
 
 23
 00:02:22,160 --> 00:02:26,120
-Kai: Ah, nice. Are we meeting the person you have to give that letter to?
+Кай: А, чудово. Ми зустрінемося з людиною, якій ти маєш передати того листа?
 
 24
 00:02:26,240 --> 00:02:34,000
-Reinhard: Well, not right now. We're going to meet Javi Untoria, our lead game designer, at the south entrance. But the letter is not for him.
+Рейнгард: Ну, не зараз. Ми збираємося зустрітися з Хаві Унторіа, нашим провідним геймдизайнером, біля південного входу. Але лист не для нього.
 
 25
 00:02:34,090 --> 00:02:46,150
-Kai: Okay, I see. Folks in the outer ring seem to be pretty busy already. Can you talk a little bit about their daily routines and how we're breathing life into this place and its inhabitants? Or would you like to leave that for Javi?
+Кай: Добре, зрозуміло. Люди в зовнішньому кільці, схоже, вже дуже зайняті. Не міг би ти трохи розповісти про їхній розпорядок дня і про те, як ми вдихаємо життя в це місце і його мешканців? Чи може краще залишити це для Хаві?
 
 26
 00:02:46,240 --> 00:02:56,050
-Reinhard: No, no, that's fine. We can talk about it right now. We set out to create a really believable daily schedule, so they will do actions depending on what time of day it is.
+Рейнгард: Ні, ні, все нормально. Ми можемо поговорити про це прямо зараз. Ми поставили собі за мету створити дійсно правдоподібний щоденний графік, щоб вони виконували дії залежно від того, який зараз час доби.
 
 27
 00:02:56,160 --> 00:02:59,120
-Kyle: How often have I told you bastards not to run through my hut?
+Кайл: Скільки разів я казав вам, вилупкам, не бігати через мою хату?
 
 28
 00:02:59,280 --> 00:03:01,090
-Reinhard: Sorry, Kyle. We're just...
+Рейнгард: Вибач, Кайл. Ми просто...
 
 29
 00:03:01,090 --> 00:03:15,190
-Kyle: Leave me alone, man. [Alright, we'll just...] Don't build your hut close to the ditch, they said. But none of these bastards told me what would happen if I still did it. When I came back from the mine a few days ago, I had a second door.
+Кайл: Залиш мене, чоловіче. [Добре, ми тільки...] Не будуй свою хату близько до рову, казали вони. Але ніхто з цих виродків не сказав мені, що станеться, якщо я все-таки це зроблю. Коли я повернувся з шахти кілька днів тому, у мене з'явились другі двері.
 
 30
 00:03:15,240 --> 00:03:18,000
-Reinhard: And that's exactly what we're going through.
+Рейнгард: Ми просто хочемо пройти через них.
 
 31
 00:03:18,020 --> 00:03:22,160
-Kyle: Those pigs. I hate them. I can't tell you how much I hate them.
+Кайл: Ці свині. Ненавиджу їх. Не можу передати, як сильно я їх ненавиджу.
 
 32
 00:03:23,030 --> 00:03:24,230
-Kai: Uhm... bye, Kyle. I'll see you later.
+Кай: Гм... бувай, Кайл. Побачимось пізніше.
 
 33
 00:03:25,020 --> 00:03:27,030
-Sprecher 1: Now everybody runs to my hut.
+Розмовник 1: Тепер всі бігають через мою хатину.
 
 34
 00:03:27,120 --> 00:03:32,240
-Kai: Poor guy. [Every idiot.] Shouldn't we move his hut away from the path in the remake?
+Кай: Бідний хлопець. [Кожний ідіот.] Чи не перенести його хатину подалі від рову в рімейку?
 
 35
 00:03:33,170 --> 00:03:36,130
-Reinhard: Ha! Of course not.
+Рейнгард: Ха! Звісно ні.
 
 36
 00:03:36,270 --> 00:03:38,150
-Kai: I just hope we won't run into...
+Кай: Я просто сподіваюся, що ми не зіткнемося...
 
 37
 00:03:38,150 --> 00:03:41,160
-Mud: Hey, man, new here? I haven't seen you before.
+Мад: Привіт, друже, ти тут новенький? Я тебе раніше не бачив.
 
 38
 00:03:41,260 --> 00:03:42,180
-Kai: Oh, no.
+Кай: О, ні.
 
 39
 00:03:43,000 --> 00:03:47,090
-Mud: I'll join you for a while, if you don't mind. I'm sure you'll need a friend.
+Мад: Я трохи побуду з тобою, якщо не проти. Впевнений, тобі знадобиться друг.
 
 40
 00:03:47,180 --> 00:03:52,000
-Kai: Hey, Mud. Sorry, but we're in a little rush. We're g...
+Кай: Хей, Мад. Вибач, але ми трохи поспішаємо. Ми з...
 
 41
 00:03:52,000 --> 00:03:57,260
-Mud: Tell me! Where are we going? Or is it supposed to be a surprise? Hehe, I like surprises.
+Мад: Скажи мені! Куди ми йдемо? Чи це має бути сюрприз? Хе-хе, я люблю сюрпризи.
 
 42
 00:03:58,000 --> 00:04:07,000
-Reinhard: Mud, you have to go to the stage construction site and help them out, okay? The stage builders said they need your help or they won't be able to finish the stage in time, so.
+Райнгард: Маде, ти маєш піти на будівельний майданчик і допомогти їм, гаразд? Будівельники сказали, що їм потрібна твоя допомога, інакше вони не встигнуть закінчити сцену вчасно.
 
 43
 00:04:07,000 --> 00:04:15,050
-Mud: So they'll finally understand that they were wrong about me. That'll be fun. [Yeah.] The others only want to get rid of me all the time.
+Мад: Так вони нарешті зрозуміють, що помилялися щодо мене. Це буде весело. [Так.] Інші весь час хочуть лише позбутися мене.
 
 44
 00:04:15,060 --> 00:04:17,080
-Reinhard: Uhm... yeah. We have to go now, buddy.
+Рейнгард: Гм... так. Нам пора йти, друже.
 
 45
 00:04:17,110 --> 00:04:22,060
-Mud: Now I'm going to tell them a few of things. I'll think of a plan.
+Мад: Зараз я їм дещо скажу. Я розроблю план.
 
 46
 00:04:22,120 --> 00:04:24,210
-Kai: Aaaw, that was so nice of you.
+Кай: Оу, це дуже мило з твого боку.
 
 47
 00:04:24,290 --> 00:04:28,150
-Reinhard: Well, I'm gonna have to give the stage builders a massive pay rise.
+Рейнгард: Що ж, мені доведеться значно підвищити зарплату будівельникам сцени.
 
 48
 00:04:29,010 --> 00:04:47,270
-Kai: I guess so. You said we'll meet Javi by the south entrance, right? [Yep.] Okay. That gives us a few minutes. Some screenshots of the old camp have already been published, and they were received very well. I can confirm that it looks even better when you're strolling around in it. But I have a question about lighting and colors. [Sure.]
+Кай: Гадаю, так. Ти казав, що ми зустрінемося з Хаві біля південного входу, так? [Так]. Добре. Маємо кілька хвилин. Деякі скриншоти старого табору вже були опубліковані, і вони були прийняті дуже добре. Я можу підтвердити, що він виглядає ще краще, коли гуляєш по ньому. Але у мене є питання щодо освітлення та кольорів. [Звісно.]
 
 49
 00:04:48,120 --> 00:05:05,150
-Kai: It's good to see everything's less colorful and vivid compared to the Playable Teaser. And also I've noticed that it's not as brightly lit as the screenshots that you've published. To me, when I looked at those screenshots last year, the sunlight looked kind of too brutal and it bleached out most of the colors. But this looks much more balanced.
+Кай: Приємно бачити, що все менш барвисто і яскраво порівняно з тізером для гри. А ще я помітив, що освітлення не таке яскраве, як на скриншотах, які опублікували. Як на мене, коли я дивився на ті скриншоти минулого року, сонячне світло виглядало надто брутальним і вибілювало більшість кольорів. Але це виглядає набагато більш збалансовано.
 
 50
 00:05:05,260 --> 00:05:13,060
-Kai: The lighting is much smoother and also it preserves some of the colors that were in the old camp, but still maintaining that brownish, dusty vibe.
+Кай: Освітлення набагато м'якше, а також збережено деякі кольори, які були в старому таборі, але все ще зберігається ця коричнева, запилена атмосфера.
 
 51
 00:05:13,190 --> 00:05:17,080
-Reinhard: Yes, we want it to really create this rough and dark atmosphere.
+Рейнгард: Так, ми хочемо, щоб це дійсно відтворювало грубу і похмуру атмосферу.
 
 52
 00:05:17,180 --> 00:05:18,090
-Kai: Mmm. I see.
+Кай: Мм, зрозуміло.
 
 53
 00:05:19,150 --> 00:05:20,270
-Reinhard: There he is. Hello, Javi.
+Рейнгард: Ось і він. Привіт, Хаві.
 
 54
 00:05:21,160 --> 00:05:23,110
-Javi: Hey, Reinhard, and hi, Kai.
+Хаві: Привіт Рейнгарде, і привіт, Каю.
 
 55
 00:05:24,050 --> 00:05:25,200
-Kai: Javi, so nice to see you.
+Кай: Хаві, радий бачити.
 
 56
 00:05:25,200 --> 00:05:28,000
-Javi: You too. Shall we head to the arena?
+Хаві: Тебе також. Ідемо на арену?
 
 57
 00:05:28,130 --> 00:05:29,090
-Reinhard: Yes, please.
+Рейнгард: Так, будь ласка.
 
 58
 00:05:29,210 --> 00:05:32,020
-Kai: So you're the lead game designer at Alkimia?
+Кай: Отже, ти провідний геймдизайнер в Alkimia?
 
 59
 00:05:32,060 --> 00:05:32,170
-Javi: Yes.
+Хаві: Так.
 
 60
 00:05:33,020 --> 00:05:35,210
-Kai: Wow. Thanks for joining us. What do you do exactly?
+Кай: Вау. Дякую, що приєднався до нас. Чим саме ти займаєшся?
 
 61
 00:05:36,000 --> 00:05:47,090
-Javi: My job is to manage the design and level design team. I am in charge of helping the team to maintain a coherent vision and oversee their work. Also, I design some complex system and coordinate with other teams.
+Хаві: Моя робота полягає в управлінні командою дизайнерів і дизайнерів рівнів. Я відповідаю за те, щоб допомогти команді підтримувати узгоджене бачення та контролювати їхню роботу. Також я розробляю деякі складні системи та координую роботу з іншими командами.
 
 62
 00:05:47,250 --> 00:05:55,170
-Kai: Cool. Are you getting input or - like - guidance or maybe direction from someone above you? Or do you have the last word on design decisions?
+Кай: Круто. Чи отримуєш ти якісь вказівки, чи настанови від когось із керівництва? Чи за тобою залишається останнє слово у прийнятті дизайнерських рішень?
 
 63
 00:05:55,230 --> 00:06:04,030
-Javi: We have clear guidelines of what Gothic is and what Gothic is not. But in the most controversial issues the game director has the last word.
+Хаві: У нас є чіткі вказівки щодо того, що є ґотика, а що не є ґотикою. Але в найбільш спірних питаннях останнє слово залишається за геймдиректором.
 
 64
 00:06:04,170 --> 00:06:06,170
-Kai: And the game director is Reinhard, right?
+Кай: А геймдиректор - Рейнгард, так?
 
 65
 00:06:06,260 --> 00:06:08,200
-Javi: Yep, he is.
+Хаві: Саме так, він.
 
 66
 00:06:10,000 --> 00:06:17,150
-Javi: Look, there is Huno the blacksmith, preparing his smithy for the remake. Would you like to learn a little bit about forging weapons?
+Хаві: Дивись, це коваль Гуно, він готує свою кузню до рімейку. Хочеш дізнатися трохи про кування зброї?
 
 67
 00:06:17,270 --> 00:06:18,240
-Kai: Absolutely.
+Кай: Звичайно.
 
 68
 00:06:19,020 --> 00:06:25,120
-Reinhard: Hey, Huno, can you give us a quick presentation of how you go about forging weapons in the remake? Or would that take too long?
+Рейнгард: Гей, Гуно, чи можеш ти коротко розповісти нам про те, як ти куєш зброю у рімейку? Чи це займе занадто багато часу?
 
 69
 00:06:25,220 --> 00:06:29,100
-Huno: That depends. I'm as fast as a hurricane with simple swords.
+Гуно: Це залежить від бажання. З простими мечами я швидкий, як ураган.
 
 70
 00:06:29,210 --> 00:06:36,190
-Reinhard: Nice. A simple sword will do, thanks. You do your thing and Javi can explain a bit about the new forging mechanics.
+Рейнгард: Чудово. Простий меч підійде, дякую. Ти роби свою справу, а Хаві пояснить трохи про нову механіку кування.
 
 71
 00:06:37,240 --> 00:06:51,260
-Javi: A fantastic thing about Gothic is that you could make your own sword by going through the whole forging process step by step. We will keep that for sure! But we want to take it further, and the player will be able to forge more types of weapons. No, just the simple sword.
+Хаві: Фантастична річ у Ґотиці - це те, що ти можеш зробити свій власний меч, пройшовши весь процес кування крок за кроком. Ми це точно збережемо! Але ми хочемо піти далі, і гравець зможе кувати більше типів зброї. Ні, тільки простий меч.
 
 72
 00:06:52,090 --> 00:06:57,180
