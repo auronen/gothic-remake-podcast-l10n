@@ -444,19 +444,19 @@
 
 112
 00:10:01,200 --> 00:10:03,030
-Кай: Oh, yes. Very important.
+Кай: О, так. Дуже важливо.
 
 113
 00:10:03,170 --> 00:10:20,120
-Хаві: Yes. And the third pillar is:""Immersion is essential"". We don't want to guide the player with obligatory tutorials, but reward the player to discover and explore the world. We know this can be a little bit harsh at the beginning, but it's the Gothic experience.
+Хаві: Так. І третій принцип: "Занурення важливе". Ми не хочемо водити гравців за руку з обов'язковими інструкціями, але винагороджуємо їх за те, що вони досліджують світ. Ми знаємо, що на початку це може бути трохи жорстко, але це ґотичний досвід.
 
 114
 00:10:20,220 --> 00:10:28,220
-Кай: Yes, it is. That's very interesting. So what's your process when you evaluate new design ideas? How do you make sure they match the principles?
+Кай: Так, це так. Це дуже цікаво. Як ви оцінюєте нові дизайнерські ідеї? Як ви переконуєтеся, що вони відповідають принципам?
 
 115
 00:10:29,070 --> 00:10:42,180
-Хаві: When we design something new or work in our redesign, we always confront it with the pillars as a validation that we are on the right track. In fact, in design, we tend to close the issue with""this is very Gothic"".
+Хаві: Коли ми розробляємо щось нове або працюємо над редизайном, ми завжди зіставляємо його з принципами, щоб переконатися, що ми на правильному шляху. Насправді в дизайні ми схильні закривати питання словами "це дуже ґотично".
 
 116
 00:10:43,130 --> 00:11:05,200
