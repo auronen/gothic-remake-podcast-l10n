@@ -444,19 +444,19 @@
 
 112
 00:10:01,200 --> 00:10:03,030
-Kai: Oh, yes. Very important.
+Кай: Oh, yes. Very important.
 
 113
 00:10:03,170 --> 00:10:20,120
-Javi: Yes. And the third pillar is:""Immersion is essential"". We don't want to guide the player with obligatory tutorials, but reward the player to discover and explore the world. We know this can be a little bit harsh at the beginning, but it's the Gothic experience.
+Хаві: Yes. And the third pillar is:""Immersion is essential"". We don't want to guide the player with obligatory tutorials, but reward the player to discover and explore the world. We know this can be a little bit harsh at the beginning, but it's the Gothic experience.
 
 114
 00:10:20,220 --> 00:10:28,220
-Kai: Yes, it is. That's very interesting. So what's your process when you evaluate new design ideas? How do you make sure they match the principles?
+Кай: Yes, it is. That's very interesting. So what's your process when you evaluate new design ideas? How do you make sure they match the principles?
 
 115
 00:10:29,070 --> 00:10:42,180
-Javi: When we design something new or work in our redesign, we always confront it with the pillars as a validation that we are on the right track. In fact, in design, we tend to close the issue with""this is very Gothic"".
+Хаві: When we design something new or work in our redesign, we always confront it with the pillars as a validation that we are on the right track. In fact, in design, we tend to close the issue with""this is very Gothic"".
 
 116
 00:10:43,130 --> 00:11:05,200
