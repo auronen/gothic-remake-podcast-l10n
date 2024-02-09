@@ -460,195 +460,195 @@
 
 116
 00:10:43,130 --> 00:11:05,200
-Кай: Okay, here's a question very closely related to design principles. I know that the idea that players can just read their stats and skills and get an idea of how good they are just by looking at the character and his posture, that was one of the design concepts Mike Hoge, the original Gothic inventor, was most passionate about. What are your thoughts on this?
+Кай: Гаразд, ось питання, дуже тісно пов'язане з принципами дизайну. В оригіналі гравці могли бачити свою статистику та навички, а щоб оцінити силу головного героя, потрібно було лише подивитися на його стійку, це була одна з концепцій дизайну, якою найбільше захоплювався Майк Хоґе, творець оригінальної Ґотики. Що ви думаєте з цього приводу?
 
 117
 00:11:06,190 --> 00:11:21,250
-Хаві: It's something super interesting and something we have all noticed when we were playing Gothic. It's especially something you notice in the hero himself. How he improves with the weapons and goes from barely knowing how to hold a sword to being a true master.
+Хаві: Це щось надзвичайно цікаве і те, що ми всі помічали, коли грали в Ґотику. Особливо це помітно в самому герої. Як він вдосконалюється зі зброєю і проходить шлях від того, що ледве вміє тримати меч, до того, щоб стати справжнім майстром.
 
 118
 00:11:22,050 --> 00:11:28,280
-Кай: Oh yes, barely knowing how to hold your sword... I remember that phase. [Yeah.] *laughing* Okay, go ahead.
+Кай: О так, ледве вмієш тримати меч... Я пам'ятаю цю фазу. [Так.] *сміється* Добре, продовжуй.
 
 119
 00:11:29,240 --> 00:11:35,030
-Хаві: It's something that we would like to keep and be able to give this feeling of power and progression.
+Хаві: Це те, що ми хотіли б зберегти та мати можливість дарувати це відчуття сили й прогресу.
 
 120
 00:11:35,190 --> 00:11:46,240
-Кай: Okay. Yeah, that sounds very good. And since you've mentioned progression: Another super important aspect, at least for me, is exactly that sense of progression. Progression of power, to be precise.
+Кай: Так, звучить дуже добре. І раз вже ти згадав про прогресію: Ще одним надзвичайно важливим аспектом, принаймні для мене, є саме це відчуття прогресу. Прогресії сили, якщо бути точним.
 
 121
 00:11:46,260 --> 00:11:47,080
-Хаві: Yes.
+Хаві: Так.
 
 122
 00:11:47,140 --> 00:11:51,270
-Кай: Getting stronger and feeling the impact of that. [Yes.] How is that handled in the remake?
+Кай: Ставати сильнішим і відчувати вплив цього. [Так] Як це вирішено у рімейку?
 
 123
 00:11:51,280 --> 00:12:13,070
-Хаві: The progression of power is something that is super important in the game. The character progression in the original Gothic was great. We want to keep the player progression as in the original, but we are refining how the player gets access to better weapons and items, especially in the midgame. It was very easy to break the economy and have the best equipment that money could buy.
+Хаві: Розвиток сили - це те, що є надзвичайно важливим у грі. Розвиток персонажа в оригінальній Ґотиці був чудовим. Ми хочемо зберегти розвиток гравця, як в оригіналі, але ми вдосконалюємо те, як гравець отримує доступ до кращої зброї та предметів, особливо в середній грі. Було дуже легко зламати економіку і мати найкраще спорядження, яке можна було купити.
 
 124
 00:12:13,240 --> 00:12:20,190
-Кай: Oh, yeah, that's true. Lovely. Thank you. Can I ask you TWO a few more questions that span across various topics?
+Кай: О, так, це правда. Чудово. Дякую. Чи можу я поставити ще кілька запитань, які охоплюють різні теми?
 
 125
 00:12:21,040 --> 00:12:23,200
-Хаві: [Okay.] Yes. Let's see if we can answer them.
+Хаві: [Так]. Спробую відповісти на них.
 
 126
 00:12:24,000 --> 00:12:27,230
-Кай: I'm sure you can. Javi, where do you draw your inspiration from?
+Кай: Я впевнений, що ти зможеш. Хаві, звідки ти черпаєш натхнення?
 
 127
 00:12:28,060 --> 00:12:42,100
-Хаві: Inspiration can come from anywhere, not just another video games. Sometimes inspiration come from books, movies, series or even board games and roleplaying games. Often the best ideas come when you least expect them.
+Хаві: Натхнення може прийти звідки завгодно, не лише від чергової відеоігри. Іноді натхнення приходить від книг, фільмів, серіалів або навіть настільних та рольових ігор. Часто найкращі ідеї приходять тоді, коли найменше їх очікуєш.
 
 128
 00:12:42,270 --> 00:12:49,160
-Кай: Yes. And what are your favorite games? Are you planning to work some of what you liked about those games into the remake?
+Кай: Так. А які твої улюблені ігри? Чи плануєш ти використати щось із того, що тобі сподобалося в цих іграх, у рімейку?
 
 129
 00:12:50,030 --> 00:13:12,030
-Хаві: I love action RPGs, but I play as many games as I can. When I play, I cannot stop being a designer and I am constantly analyzing the details and solutions that other devs have found. All these backlogs come to my mind when a new challenge appears in the development, and I think:""These games solved it in a very clever way. We could do something similar!""
+Хаві: Я люблю екшн РПГ, але граю в стільки ігор, скільки можу. Коли я граю, я не можу перестати бути дизайнером і постійно аналізую деталі та рішення, які знайшли інші розробники. Всі ці беклоги спадають мені на думку, коли в розробці з'являється новий виклик, і я думаю: "Ці ігри вирішили його дуже розумно. Ми могли б зробити щось подібне!""
 
 130
 00:13:12,090 --> 00:13:17,030
-Кай: Cool. Yeah. Being open for that definitely helps. You don't always have to reinvent the wheel.
+Кай: Круто. Так. Бути відкритим для цього, безумовно, допомагає. Не завжди потрібно вигадувати велосипед.
 
 131
 00:13:17,040 --> 00:13:17,160
-Хаві: Yes.
+Хаві: Так.
 
 132
 00:13:18,220 --> 00:13:22,290
-Кай: The next couple of questions are community questions, which came up on the Discord server.
+Кай: Наступні кілька запитань - це запитання спільноти, які з'явилися на сервері Discord.
 
 133
 00:13:23,080 --> 00:13:24,000
-Хаві: Oh, nice.
+Хаві: Оу, чудово.
 
 134
 00:13:24,160 --> 00:13:32,060
-Рейнгард: All your listeners out there are invited to join the Discord server as well. The invitation link is discord.gg/gothic.
+Рейнгард: Усіх наших слухачів запрошуємо приєднатися до сервера Discord. Посилання для запрошення: discord.gg/gothic.
 
 135
 00:13:32,210 --> 00:13:38,010
-Кай: See you all there! So ... we've talked about forging. How about making arrows?
+Кай: Побачимося там! Отже ... ми поговорили про кування. А як щодо виготовлення стріл?
 
 136
 00:13:38,200 --> 00:13:46,060
-Хаві: You will be able to make arrows on the workbenches if you have the materials. We want to incorporate crafting to make the materials you collect useful.
+Хаві: Якщо у вас є матеріали, ви зможете зробити стріли на верстаках. Ми хочемо включити крафтинг, щоб зробити зібрані вами матеріали корисними.
 
 137
 00:13:46,170 --> 00:13:58,280
-Кай: Mm-hmm. Talking about making things useful: In the original game, there are barrels, including here in the old camp, that the player can climb into and hide. Is that going to be a useful mechanic in the remake?
+Кай: Угу. Говорячи про те, як зробити речі корисними: В оригінальній грі є бочки, в тому числі й тут, у старому таборі, в які гравець може залізти та сховатися. Чи буде це корисною механікою в рімейку?
 
 138
 00:13:59,150 --> 00:14:12,280
-Хаві: This mechanic is one of those we revise. In the original it didn't make much sense and it was too comical for the tone of the game. We want to develop stealth a little more, but I don't know if hiding in a barrel is the best way.
+Хаві: Ця механіка - одна з тих, які ми переглядаємо. В оригіналі вона не мала особливого сенсу і була занадто комічною для тону гри. Ми хочемо розвинути стелс трохи більше, але я не знаю, чи ховатися в бочці - найкращий спосіб.
 
 139
 00:14:13,100 --> 00:14:22,260
-Кай: Ooooh *sighs*, okay. Now, we've been to the arena, so this fits quite nicely: A question that came up very often is:""Will there be helmets and shields?""
+Кай: Ох *зітхає*, добре. Ми були на арені, тому це дуже добре підходить: питання, яке виникає дуже часто: ""Чи будуть там шоломи та щити?""
 
 140
 00:14:23,050 --> 00:14:33,270
-Хаві: No! We are sticking to the original and there won't be any. In the colony the combat is direct and visceral. We didn't like the defence system that will make it more static.
+Хаві: Ні! В цьому плані ми дотримуємося оригіналу. Боротьба в колонії пряма і жорстока. Нам не подобається бачення системи захисту, через яку сутички втрачають свою динаміку.
 
 141
 00:14:34,220 --> 00:14:43,080
-Кай: Yes, I agree. The next one is probably not so much a game design question, but it came up recently, so:""Will there be new quests?""
+Кай: Так, погоджуюся. Наступне питання, напевно, не стільки про геймдизайн, але воно виникло нещодавно: "Чи будуть нові квести?"
 
 142
 00:14:43,290 --> 00:14:56,030
-Хаві: Yes, there will be new quests. Our idea is to create quests to balance the parts of the game that feel more linear. As you know, from Chapter 3 onward the game offers no other quest than the main quest.
+Хаві: Так, будуть нові квести. Наша ідея полягає у створенні квестів, щоб збалансувати ті частини гри, які здаються більш лінійними. Як ти знаєш, починаючи з 3-го розділу, гра не пропонує жодних інших квестів, окрім головного.
 
 143
 00:14:56,040 --> 00:14:56,180
-Кай: Oh yeah.
+Кай: О так.
 
 144
 00:14:56,180 --> 00:15:06,290
-Хаві: And we would like to give more content to the player. On the other hand, some of the main quests will be slightly modified in order to close the plot holes that have been with us for 20 years.
+Хаві: І ми хотіли б дати більше контенту гравцеві. З іншого боку, деякі основні квести будуть трохи змінені, щоб закрити сюжетні дірки, які були з нами протягом 20 років.
 
 145
 00:15:07,090 --> 00:15:08,050
-Кай: Very interesting.
+Кай: Дуже цікаво.
 
 146
 00:15:08,210 --> 00:15:14,000
-Рейнгард: When we'll meet with someone from the story team in a future episode, we can dive more into these kind of questions.
+Рейнгард: Коли ми зустрінемося з кимось зі складу команди в наступному епізоді, ми зможемо більше зануритися в ці питання.
 
 147
 00:15:14,100 --> 00:15:25,250
-Кай: Yeah, that'll be cool. Okay, next. I know this is a broad question, but I want to ask it as openly as possible. What can you tell us about the UI in the remake, and specifically the inventory?
+Кай: Так, це буде круто. Добре, наступне. Я знаю, що це широке питання, але я хочу поставити його максимально відкрито. Що ви можете розповісти про інтерфейс у рімейку, зокрема про інвентар?
 
 148
 00:15:26,240 --> 00:15:47,040
-Хаві: The UI will look more like the original Gothic than the Playable Teaser. [Yes!] We are doing something minimal to enhance the player immersion. The inventory follows the rules of the original Gothic. The game doesn't pause and allows you to watch as you manage it. It's a screen with a lot of information, so it's a challenge to show everything at once.
+Хаві: Інтерфейс буде більше схожий на оригінальну Gothic, ніж на тізер. [Так!] Ми робимо щось мінімальне, щоб покращити занурення гравця у гру. Інвентар відповідає правилам оригінальної Ґотики. Гра не ставиться на паузу і дозволяє вам спостерігати за тим, як ви нею керуєте. Це екран з великою кількістю інформації, тому показати все одразу - виклик.
 
 149
 00:15:47,290 --> 00:16:00,240
-Кай: M-hm, it is! Okay, but now for something completely different. We've heard a few characters speaking in this episode, and those were all audio files from the original game. But, Reinhard, we won't use those in the remake, right?
+Кай: Так і є! Гаразд, але тепер про дещо зовсім інше. У цьому епізоді ми чули, як говорили кілька персонажів, і це були аудіофайли з оригінальної гри. Але, Рейнгарде, ми ж не будемо використовувати їх у рімейку, так?
 
 150
 00:16:01,060 --> 00:16:07,240
-Рейнгард: No! We thought initially that's the best way to approach it, but we realized that this wouldn't make any changes or additions possible.
+Рейнгард: Ні! Спочатку ми думали, що це найкращий спосіб підійти до справи, але зрозуміли, що це не дасть змоги внести жодних змін чи доповнень.
 
 151
 00:16:08,110 --> 00:16:14,030
-Кай: Which means that we will mostly do rerecordings with the original actors - where it's possible -, right?
+Кай: Це означає, що ми здебільшого робитимемо перезапис з оригінальними акторами - там, де це можливо, чи не так?
 
 152
 00:16:14,190 --> 00:16:15,050
-Рейнгард: Yep.
+Рейнгард: Так.
 
 153
 00:16:15,270 --> 00:16:22,200
-Кай: Alright. That's good news to me! And which gameplay features and mechanics are we adding that we weren't in the original game?
+Кай: Гаразд. Це хороша новина для мене! А які геймплейні особливості та механіки ми додаємо, яких не було в оригінальній грі?
 
 154
 00:16:23,160 --> 00:16:37,060
-Хаві: We are working on several new features. As a preview, you will now be able to climb some walls in the game. This allows us to reward the more exploratory players and also to develop more vertical levels.
+Хаві: Ми працюємо над деякими новими функціями. Розповім, наприклад, що можна буде лазити по стінах. Таким чином ми зможемо винагородити гравців, які люблять досліджувати, а також це дає змогу розвивати більше вертикальних рівнів.
 
 155
 00:16:37,170 --> 00:16:39,180
-Кай: Uuuh... climbing walls. Nice!
+Кай: Ууу... скелелазіння. Приємно!
 
 156
 00:16:40,150 --> 00:16:51,080
-Хаві: We have also redesigned pickpocketing, lockpicking, some crafting systems... We have more surprises, but we don't want to reveal them all at once.
+Хаві: Ми також переробили систему захисту від кишенькових крадіжок, відмикання замків, деякі крафтові системи... У нас є ще багато сюрпризів, але ми не хочемо розкривати їх усі одразу.
 
 157
 00:16:51,230 --> 00:16:55,000
-Кай: Yeah, that makes sense. We have to keep some for the next episodes.
+Кай: Так, це має сенс. Треба залишити щось для наступних епізодів.
 
 158
 00:16:55,120 --> 00:17:05,080
-Рейнгард: It's starting to get dark. We've been chatting for quite a while. [Oh, yes.] Kai, how about we end this episode with some music? Night in the old camp, maybe?
+Рейнгард: Починає темніти. Ми вже досить довго розмовляємо. [О, так] Кай, як щодо того, щоб закінчити цей епізод під музику? Ніч у старому таборі, може?
 
 159
 00:17:06,040 --> 00:17:10,020
-Кай: I was hoping for you to ask that. Yeah, I'd love to share some of that.
+Кай: Я сподівався, що ти запитаєш. Так, з радістю поділюсь із цим.
 
 160
 00:17:10,150 --> 00:17:14,000
-Рейнгард: Okay, then. Do you have any other questions before we wrap this up?
+Рейнгард: Ну що ж, добре. Чи є у вас ще якісь запитання, перш ніж ми завершимо?
 
 161
 00:17:14,010 --> 00:17:18,220
-Кай: Yes. About that letter... who is it for? You're making such a big secret out of it.
+Кай: Так. Щодо того листа... для кого він? Ти робиш з цього таку велику таємницю.
 
 162
 00:17:19,060 --> 00:17:24,240
-Рейнгард: Oh, yeah, I completely forgot about that. [Sure.] Guess we'll leave that for the next episode, then.
+Рейнгард: О, так, я зовсім забув. [Звичайно.] Залишимо це на наступний епізод.
 
 163
 00:17:25,040 --> 00:17:30,160
-Кай: That's a pretty decent cliffhanger. Anyways, Javi, thank you so much for joining us.
+Кай: Досить непогана інтрига. У будь-якому разі, Хаві, дуже дякую, що приєднався до нас.
 
 164
 00:17:30,250 --> 00:17:36,080
