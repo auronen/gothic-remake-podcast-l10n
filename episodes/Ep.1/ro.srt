@@ -844,7 +844,7 @@ Kai: Nu, nu, nu. Eu sunt cu muzica, și o să ajut la construirea scenei pentru 
 
 212
 00:23:45,020 --> 00:23:50,180
-Gardă de la intrare: Hei, tipul ăsta e amuzant. Nu-mi plac tipii amuzanți. [scoate sabia]
+Gardă de la poartă: Hei, tipul ăsta e amuzant. Nu-mi plac tipii amuzanți. [scoate sabia]
 
 213
 00:23:51,010 --> 00:23:57,100
@@ -852,7 +852,7 @@ Reinhard: Stai. De fapt, uite permisul nostru de acces. De asemenea, am și o sc
 
 214
 00:23:57,200 --> 00:23:59,110
-Gardă de la intrare: Bine. Intrați, atunci.
+Gardă de la poartă: Bine. Intrați, atunci.
 
 215
 00:23:59,190 --> 00:24:00,170
@@ -860,7 +860,7 @@ Kai: Și cum rămâne cu mine?
 
 216
 00:24:01,020 --> 00:24:04,250
-Gardă de la intrare: Voi face o excepție de data asta, că ești nou aici.
+Gardă de la poartă: Voi face o excepție de data asta, că ești nou aici.
 
 217
 00:24:05,090 --> 00:24:10,120
