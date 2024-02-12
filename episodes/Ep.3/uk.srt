@@ -668,35 +668,35 @@ Joan: If I had the chance to come back, I think I will try to revise a bit the f
 
 168
 00:17:59,260 --> 00:18:04,130
-Dani: So we start our process of, you know, searching for believable environments.
+Дані: Тож ми починаємо наш процес, тобто пошук правдоподібного середовища.
 
 169
 00:18:04,130 --> 00:18:11,020
-Dani: I mean, we should transform this blockout into believable environments, into believable constructions.
+Дані: Я вважаю, що нам потрібно перетворити цю блокаду на середовище, яке заслуговує на довіру, на надійну конструкцію.
 
 170
 00:18:11,040 --> 00:18:16,190
-Dani: So we'll start, you know, drawing and sketching and searching for references.
+Дані: Тож ми почнемо, наприклад, малювати, робити ескізи та шукати референси.
 
 171
 00:18:16,190 --> 00:18:20,290
-Dani: It's super important to always search for realistic references.
+Дані: Дуже важливо завжди шукати реалістичні референси.
 
 172
 00:18:20,290 --> 00:18:26,210
-Dani: And we start playing with materials and trying to create the right sensation, the right mood, the right structures.
+Дані: І ми починаємо грати з матеріалами, намагаючись створити правильне відчуття, правильний настрій, правильні структури.
 
 173
 00:18:26,210 --> 00:18:30,130
-Dani: And sometimes we go a little overboard with the details.
+Дані: Іноді ми трохи перегинаємо палицю з деталями.
 
 174
 00:18:30,130 --> 00:18:36,190
-Dani: But in general, the cool thing is that here we work together as a great team. We share the same vision.
+Дані: Але загалом класно те, що тут ми працюємо разом, як чудова команда. У нас однакове бачення.
 
 175
 00:18:36,190 --> 00:18:42,150
-Dani: So basically when we start decorating, we already know how this should end up looking.
+Дані: Отже, коли ми починаємо декорувати, ми вже знаємо, як це має виглядати в кінцевому результаті.
 
 176
 00:18:42,150 --> 00:18:44,140
@@ -800,11 +800,11 @@ Dani: So basically when we start decorating, we already know how this should end
 
 201
 00:20:48,050 --> 00:20:55,210
-Joan: Yeah. Well, I think the challenge for the cinematic dialogs that we wanted to have was specially... Normally in cinema,
+Джоан: Так. Ну, я думаю, що виклик для кінематографічних діалогів, які ми хотіли мати, був особливо... Зазвичай у кіно,
 
 202
 00:20:55,240 --> 00:21:01,010
-Joan: when you have a shot-by-shot situation, you also have an editing, right?
+Джоан: коли знімається кадр за кадром, є можливість для редагування, чи не так?
 
 203
 00:21:01,010 --> 00:21:10,040
@@ -812,55 +812,55 @@ Joan: (Кай: Yes.) An editing that has some sense and reasons inside the cinem
 
 204
 00:21:10,060 --> 00:21:16,120
-Joan: So for us, this was the main challenge because we wanted to have
+Джоан: Тож для нас це було головним викликом, тому що ми хотіли мати
 
 205
 00:21:16,140 --> 00:21:22,020
-Joan: a lot of diferent cameras as you can experience in cinema, not just two or three.
+Джоан: багато різних камер, як у кіно, а не лише дві чи три.
 
 206
 00:21:22,020 --> 00:21:29,020
-Joan: And at the end this was difficult to achieve, even though for the game we are going to have it!
+Джоан: І наприкінці цього було важко досягти, хоча для гри ми збиралися це зробити!
 
 207
 00:21:29,040 --> 00:21:36,070
-Joan: But for the demo we did some tests and finally to achieve the quality that we wanted to achieve,
+Джоан: Але для демо-версії ми провели кілька тестів і, нарешті, досягли тієї якості, якої хотіли досягти,
 
 208
 00:21:36,140 --> 00:21:42,010
-Joan: we needed to cut the idea and we have have, I think, two or three cameras for the demo.
+Джоан: Нам потрібно було скоротити ідею, і ми мали, здається, дві чи три камери для демонстрації.
 
 209
 00:21:42,010 --> 00:21:51,160
-Joan: But also when we were doing our research, looking into other third person RPG games for inspiration,
+Джоан: Але також, коли ми проводили дослідження, ми шукали натхнення в інших RPG від третьої особи,
 
 210
 00:21:51,180 --> 00:22:00,110
-Joan: we noticed that maybe the most important thing for... for the dialog scenes to look cinematic was the light.
+Джоан: Ми помітили, що, можливо, найважливішим для... для того, щоб діалогові сцени виглядали кінематографічно, було світло.
 
 211
 00:22:00,130 --> 00:22:01,020
-Dani: Exactly. Yes.
+Дані: Саме так.
 
 212
 00:22:01,020 --> 00:22:07,090
-Joan: We discovered that in most of these games add new lights when the dialog starts.
+Джоан: Виявилося, що в більшості з цих ігор додаються нові світла, коли починається діалог.
 
 213
 00:22:07,110 --> 00:22:12,090
-Joan: And for us, this was key. So that was another thing that we needed to add
+Джоан: І для нас це було ключовим. Тож це була ще одна річ, яку нам потрібно було додати
 
 214
 00:22:12,090 --> 00:22:18,090
-Joan: on top of the cameras in order to achieve a super nice cinematic dialogs.
+Джоан: над камерами, щоб досягти надзвичайно красивих кінематографічних діалогів.
 
 215
 00:22:18,160 --> 00:22:21,010
-Joan: So now we are working hard on that.
+Джоан: Тож зараз ми наполегливо працюємо над цим.
 
 216
 00:22:21,010 --> 00:22:30,280
-Joan: We are designing our systems in order to achieve this. And yeah, I hope you like it in the final game.
+Джоан: Ми розробляємо наші системи для того, щоб досягти цього. І так, я сподіваюся, вам сподобається у фінальній грі.
 
 217
 00:22:31,000 --> 00:22:35,210
@@ -1028,7 +1028,7 @@ Joan: We are designing our systems in order to achieve this. And yeah, I hope yo
 
 258
 00:25:39,270 --> 00:25:42,150
-Dani: So, Reinhard, what is going to happen with the Nyras Prolog?
+Дані: Отже, Рейнгарде, що буде з "Прологом Ніраса"?
 
 259
 00:25:42,150 --> 00:25:47,150
@@ -1068,7 +1068,7 @@ Dani: So, Reinhard, what is going to happen with the Nyras Prolog?
 
 268
 00:26:26,220 --> 00:26:29,190
-Everyone: Oh yeah, yeah, yeah. Very true.
+Усі: О так, так, так. Точно.
 
 269
 00:26:29,190 --> 00:26:33,180
@@ -1084,11 +1084,11 @@ Timur: I have some questions from our community. (Кай: Oh yeah, yeah. Great!)
 
 272
 00:26:40,240 --> 00:26:46,230
-Timur: So, the question with the most upvotes was from a user with the nickname Shaolyn:
+Тимур: Отже, питання з найбільшою кількістю голосів було від користувача з ніком Шаолінь:
 
 273
 00:26:46,230 --> 00:26:56,190
-Timur: ""Will the game have mod support for the modding community to create them easily and for community content to be added over the years? And will there be a marvin mode?"" (submitted by Shaolyn)
+Тимур: ""Чи буде у грі підтримка модів, щоб спільнота модоробів могла легко їх створювати і щоб контент спільноти додавався з роками? І чи буде режим марвіна?"" (запитання від Шаоліня)
 
 274
 00:26:56,190 --> 00:27:00,130
@@ -1120,103 +1120,103 @@ Timur: ""Will the game have mod support for the modding community to create them
 
 281
 00:27:35,180 --> 00:27:37,150
-Timur: Yeah. Thank you, Shaolyn, for your question.
+Тимур: Так. Дякую, Шаолінь, за твоє запитання.
 
 282
 00:27:37,150 --> 00:27:43,100
-Timur: And the second question is from a very active Discord member: Asnen.
+Тимур: І друге питання від дуже активного учасника Discord: Аснен.
 
 283
 00:27:43,100 --> 00:27:56,260
-Timur: And the question is:""What motivated the significant changes in the appearance of monsters in the Gothic Remake in comparison to the original in terms of your art direction choices?"". Asnen, thank you for your question.
+Тимур: І питання таке: "Чим були мотивовані значні зміни в зовнішності монстрів у "(Gothic Remake)" порівняно з оригіналом з погляду вашого режисерського вибору?"". Аснен, дякую за запитання.
 
 284
 00:27:56,290 --> 00:28:00,080
-Timur: Oh, maybe this question is for you, Dani.
+Тимур: О, можливо, це питання до тебе, Дані.
 
 285
 00:28:00,080 --> 00:28:04,230
-Dani: Well, that's a tricky question. And of course there's not a simple answer to that.
+Дані: Ну, це складне питання. І, звичайно, на нього немає простої відповіді.
 
 286
 00:28:04,230 --> 00:28:10,150
-Dani: But when you are redesigning creatures, monsters that were designed more than 20 years ago,
+Дані: Але коли переробляєш істот, монстрів, які були розроблені понад 20 років тому,
 
 287
 00:28:10,150 --> 00:28:16,040
-Dani: you are facing some esthetic decisions, technical limitations that maybe were valid then,
+Дані: стикаєшся з деякими естетичними рішеннями, технічними обмеженнями, які, можливо, були актуальними в той час,
 
 288
 00:28:16,040 --> 00:28:20,010
-Dani: but maybe they can feel a little outdated now.
+Дані: але, можливо, зараз відчувається трохи застарілими.
 
 289
 00:28:20,010 --> 00:28:24,040
-Dani: This is one part of the answer: the evolution of the esthetics and technique,
+Дані: Це одна з частин відповіді: еволюція естетики та техніки,
 
 290
 00:28:24,040 --> 00:28:27,180
-Dani: the way we can render creatures now, technically and artistically
+Дані: те, як ми можемо візуалізувати істот зараз, технічно і художньо
 
 291
 00:28:27,180 --> 00:28:30,140
-Dani: that wasn't possible back then gives you the opportunity
+Дані: те, що було неможливо в той час, дає тобі можливість
 
 292
 00:28:30,140 --> 00:28:35,010
-Dani: to go deep into the original designs and make them evolve and going the extra mile.
+Дані: Заглибитися в оригінальний дизайн і змусити його еволюціонувати та пройти додаткову милю.
 
 293
 00:28:35,010 --> 00:28:41,240
-Dani: But having said that, we designed the creatures trying to find the sweet spot between three main vectors:
+Дані: Але, попри це, ми створювали істот, намагаючись знайти золоту середину між трьома основними векторами:
 
 294
 00:28:41,270 --> 00:28:47,120
-Dani: 1: The principles of evolutionary biology, especially thinking in the adaptations.
+Дані: 1: Принципи еволюційної біології, особливо мислення в адаптації.
 
 295
 00:28:47,120 --> 00:28:51,200
-Dani: I mean - by""adaptations"" I mean those features that have evolved in the species
+Дані: Тобто, під "адаптаціями" Я маю на увазі ті особливості, які розвинулися у виду
 
 296
 00:28:51,200 --> 00:28:55,060
-Dani: over time in response to specific environmental pressures
+Дані: з часом у відповідь на певний екологічний тиск
 
 297
 00:28:55,060 --> 00:29:02,190
-Dani: that provide some functional advantage for them. 2: Adding to that mix a controlled amount of fantasy.
+Дані: які надають їм певну функціональну перевагу. 2: Додати до цієї суміші контрольовану кількість фантазії.
 
 298
 00:29:02,210 --> 00:29:05,260
-Dani: So essentially the creatures should feel believable,
+Дані: По суті, істоти повинні виглядати правдоподібно,
 
 299
 00:29:05,260 --> 00:29:11,000
-Dani: believable inside the world of Gothic, that in essence is a dark medieval tale.
+Дані: правдоподібний світ ґотики, який, по суті, є похмурою середньовічною казкою.
 
 300
 00:29:11,000 --> 00:29:18,110
-Dani: And 3: Those two previous vectors should go toe to toe with the original idea behind the original designs.
+Дані: І 3: Ці два попередні вектори повинні йти пліч-о-пліч з оригінальною ідеєю, що лежить в основі оригінального дизайну.
 
 301
 00:29:18,130 --> 00:29:20,140
-Dani: So we can change a little the look of a creature,
+Дані: Тож ми можемо трохи змінити зовнішній вигляд істот,
 
 302
 00:29:20,140 --> 00:29:27,030
-Dani: but once you see it moving and behaving in a world, we are confident you will recognize it immediately.
+Дані: але як тільки бачиш, як вона рухається і поводиться у світі, ми впевнені, що ти одразу її впізнаєш.
 
 303
 00:29:27,050 --> 00:29:28,240
-Timur: Thanks, Dani.
+Тимур: Дякую, Дані.
 
 304
 00:29:28,240 --> 00:29:31,060
-Timur: So the question number three is from Jasoon.
+Тимур: Отже, питання номер три від Джасуна.
 
 305
 00:29:31,060 --> 00:29:43,280
-Timur: ""How much do you plan to expand the plot on the Nameless One's four friends: Diego, Milten, Gorn and Lester? For example, their past, their own side quests, greater involvement in the story."" (submitted by Jasoon)
+Тимур: "Наскільки планується розширити сюжет про чотирьох друзів Безіменного: Дієґо, Мільтена, Ґорна та Лестера? Наприклад, їхнє минуле, їхні власні побічні квести, більша залученість в історію?"" (надано Джасуном).
 
 306
 00:29:43,280 --> 00:29:45,090
@@ -1244,15 +1244,15 @@ Timur: ""How much do you plan to expand the plot on the Nameless One's four frie
 
 312
 00:30:12,220 --> 00:30:16,150
-Timur: Thanks, Reinhard, and thanks Jasoon for your question.
+Тимур: Дякую, Рейнгардк, і дякую, Джасун, за твоє запитання.
 
 313
 00:30:16,150 --> 00:30:20,000
-Timur: And the last question is from user Xardosh.
+Тимур: І останнє запитання від користувача Ксардош.
 
 314
 00:30:20,000 --> 00:30:27,290
-Timur: ""Do we have a way to customize the nameless hero like a head shave or tattoos, for example, after joining the sect camp?"" (submitted by Xardosh)
+Тимур: ""Чи є у нас спосіб кастомізувати безіменного героя, наприклад, поголити голову або зробити татуювання, наприклад, після вступу до табору секти?"" (запитав Ксардош).
 
 315
 00:30:28,010 --> 00:30:33,050
@@ -1268,11 +1268,11 @@ Timur: ""Do we have a way to customize the nameless hero like a head shave or ta
 
 318
 00:30:41,190 --> 00:30:44,030
-Timur: Yeah. Thanks everyone, for sending your questions.
+Тимур: Так. Дякую всім, хто надіслав свої запитання.
 
 319
 00:30:44,030 --> 00:30:47,000
-Timur: We will try to answer the rest of them in later episodes.
+Тимур: На решту ми спробуємо відповісти в наступних серіях.
 
 320
 00:30:47,000 --> 00:30:50,020
