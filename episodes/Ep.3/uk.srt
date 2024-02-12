@@ -40,19 +40,19 @@
 
 11
 00:01:20,260 --> 00:01:26,190
-Joan: Okay. Well, hello, my name is Joan. I'm the Cinematic Designer here at Alkimia.
+Джоан: Добре. Привіт, мене звати Джоан. Я кінодизайнер тут, в "Алкімії".
 
 12
 00:01:26,190 --> 00:01:31,240
-Joan: My role basically is taking care of all the cinematics parts that we will have in the game.
+Джоан: Моя роль в основному полягає в тому, щоб піклуватися про всі кінематографічні моменти, які будуть у грі.
 
 13
 00:01:31,240 --> 00:01:36,010
-Joan: Also, the trailers that we will require for marketing purposes.
+Джоан: А також трейлерам, які нам знадобляться для маркетингових цілей.
 
 14
 00:01:36,010 --> 00:01:43,260
-Dani: Okay, I'm Dani. I'm Dani Candil. I am the Art Director of the Gothic remake.
+Дані: Так, я Дані. Я Дані Канділ. Я артдиректор рімейку "Ґотики".
 
 15
 00:01:43,260 --> 00:01:48,160
@@ -68,7 +68,7 @@ Dani: Okay, I'm Dani. I'm Dani Candil. I am the Art Director of the Gothic remak
 
 18
 00:01:59,090 --> 00:02:07,120
-Timur: So it's my turn. My name is Timur (T-Moor), and I'm a big Gothic fan and the community manager at Alkimia Interactive.
+Тимур: Що ж, тепер моя черга. Мене звуть Тимур (T-Moor), я великий фанат ґотики і ком'юніті-менеджер в Alkimia Interactive.
 
 19
 00:02:07,120 --> 00:02:16,010
@@ -76,23 +76,23 @@ Timur: So it's my turn. My name is Timur (T-Moor), and I'm a big Gothic fan and 
 
 20
 00:02:16,010 --> 00:02:29,020
-Joan: For me, the Old Camp is the strongest memory that you have from the original game, because it's the first place you you land when you start playing.
+Джоан: Для мене Старий Табір - це найсильніший спогад з оригінальної гри, тому що це перше місце, куди потрапляєш, коли починаєш грати.
 
 21
 00:02:29,040 --> 00:02:36,140
-Joan: And the characters had such strong personality and everything, and they are so rough to you.
+Джоан: І персонажі мали такі сильні особистості та все таке, і вони були такими грубими з тобою.
 
 22
 00:02:36,140 --> 00:02:44,070
-Joan: You really feel small there when you play, and I think that everybody remembers with nostalgia
+Джоан: Ти дійсно відчуваєш себе маленьким, коли граєш там, і я думаю, що всі згадують про це з ностальгією.
 
 23
 00:02:44,070 --> 00:02:53,000
-Joan: those random conversations that the NPCs had, the diggers trying to repair their huts all the time.
+Джоан: ті випадкові розмови, які вели NPC, копачі, які весь час намагалися відремонтувати свої халупи.
 
 24
 00:02:53,000 --> 00:02:58,110
-Joan: I don't know... this kind of, yeah, especially I think it's sound for me, the Old Camp.
+Джоан: Я не знаю... Як на мене, це трохи схоже на Старий Табір.
 
 25
 00:02:58,110 --> 00:03:01,060
@@ -108,35 +108,35 @@ Joan: I don't know... this kind of, yeah, especially I think it's sound for me, 
 
 28
 00:03:07,150 --> 00:03:12,100
-Dani: So for me, the Old Camp is the most important part of the colony.
+Дані: Тож для мене Старий табір - найважливіша частина колонії.
 
 29
 00:03:12,100 --> 00:03:21,160
-Dani: I mean, it's the most recognizable landmark in all of the gothic experience for me there in terms of visual shape and recognition.
+Дені: Я маю на увазі, що це найбільш впізнаваний орієнтир у всьому ґотичному досвіді для мене, з погляду візуальної форми та впізнаваності.
 
 30
 00:03:21,180 --> 00:03:27,220
-Dani: It's one of the most tricky parts of the game to work with. It's an intricate labyrinth of of huts.
+Дані: Це одна з найскладніших частин гри, з якою доводиться працювати. Це складний лабіринт із хатин.
 
 31
 00:03:27,220 --> 00:03:36,090
-Dani: It's like... it's interesting because it's a scenario that is being reused. I mean, originally it was a prison, then it became Gomez' castle.
+Дані: Це як... це цікаво, тому що це сценарій, який використовується повторно. Я маю на увазі, що спочатку це була в'язниця, потім вона стала замком Ґомеза.
 
 32
 00:03:36,090 --> 00:03:43,290
-Dani: For me, this interesting because it offers me as an artist the possibility of working with a very high level of detail
+Дані: Для мене це цікаво, тому що дає мені, як художнику, можливість працювати з дуже високим рівнем деталізації.
 
 33
 00:03:43,290 --> 00:03:50,080
-Dani: and very high level of narrative, you know, environment that tells a lot of things about the place.
+Дані: і дуже високий рівень наративу, тобто, середовище, яке розповідає про місце.
 
 34
 00:03:50,120 --> 00:03:58,110
-Dani: And for me, in the far distance, I mean, remember that the tower of the Old Camp is the first thing you see.
+Дані: І для мене, вдалині, я маю на увазі, згадати, що вежа Старого табору - це перше, що ти бачиш.
 
 35
 00:03:58,110 --> 00:04:01,060
-Dani: So it's it's one of the most memorable things.
+Дані: Тож це одна з найбільш пам'ятних речей.
 
 36
 00:04:01,060 --> 00:04:04,100
@@ -144,63 +144,63 @@ Dani: So it's it's one of the most memorable things.
 
 37
 00:04:04,100 --> 00:04:12,290
-Joan: We knew since the beginning that we wanted something similar to our last trailer,
+Джоан: Ми з самого початку знали, що хочемо щось схоже у нашому останньому трейлері,
 
 38
 00:04:13,010 --> 00:04:20,040
-Joan: the trailer for the Old Mine, which had this camera flying through the environment and just showing the life, the living life there.
+Джоан: трейлер до "Старої копальні", в якому камера літала крізь оточення і просто показувала життя, реальне життя там.
 
 39
 00:04:20,040 --> 00:04:26,240
-Joan: So we wanted to do the same: Showing the living life inside the Old Camp, but we wanted to take it one step further.
+Джоан: Тож ми хотіли зробити те саме: показати життя всередині Старого табору, але ми хотіли зробити ще один крок далі.
 
 40
 00:04:26,270 --> 00:04:37,240
-Joan: That's why we were thinking about new ways to look at this, no? So as we all - or, especially me (laughs) -, we love a cinema.
+Джоан: Саме тому ми думали про нові способи поглянути на це, чи не так? Тому що ми всі - або, особливо я (сміється) - любимо кіно.
 
 41
 00:04:37,240 --> 00:04:44,110
-Joan: And we were looking for references there. We say to try a follow camera for the main character.
+Джоан: І ми дивилися там на референси. Ми сказали спробувати слідувати за головним героєм з камерою.
 
 42
 00:04:44,110 --> 00:04:54,010
-Joan: A one shot approach that you can see movies that came to our mind, like Goodfellas or Birdman, things like that.
+Джоан: Ми прийшли до думки про односторонній підхід, як у фільмах "Славні хлопці" або "Бердмен".
 
 43
 00:04:54,010 --> 00:05:00,180
-Joan: But we wanted to stick to the Gothic spirit. So we didn't want to go crazy with this.
+Джоан: Але ми хотіли зберегти дух ґотики. Тому ми не хотіли надто божеволіти з цим.
 
 44
 00:05:00,180 --> 00:05:07,110
-Joan: So yeah, that was our first idea, trying to create a one shot take following a character.
+Джоан: Так, це була наша перша ідея - спробувати створити один кадр, що слідує за персонажем.
 
 45
 00:05:07,140 --> 00:05:16,200
-Joan: We needed to decide the path - which parts of the camp we wanted to show, and at the end we decided to show the first entrance,
+Джоан: Нам потрібно було визначитися з маршрутом - які частини табору ми хочемо показати, і в кінці ми вирішили показати перший вхід,
 
 46
 00:05:16,200 --> 00:05:23,020
-Joan: then some of the huts where usually there are wards asking you for money in the original game
+Джоан: потім деякі хатини, де зазвичай живуть персонажі, вимагають у вас гроші в оригінальній грі
 
 47
 00:05:23,040 --> 00:05:29,150
-Joan: and then Snaf, and the food, and then the the arena.
+Джоан: А потім Снаф, їжа, а потім арена.
 
 48
 00:05:29,170 --> 00:05:35,110
-Joan: But yeah, it happened that this path was so long in terms of of time.
+Джоан: Але так, так сталося, що цей шлях був дуже довгим з погляду часу.
 
 49
 00:05:35,110 --> 00:05:40,280
-Joan: It took like 3 or 4 minutes for the character just to walk all this area.
+Джоан: Персонажу знадобилося 3 або 4 хвилини, щоб просто пройти всю цю територію.
 
 50
 00:05:40,280 --> 00:05:45,270
-Joan: So the one shot approach needed to be tweaked. (laughs)
+Джоан: Тож одноразовий підхід потрібно було змінити. (сміється)
 
 51
 00:05:45,270 --> 00:05:53,050
-Joan: And at the end we have some cuts during the walk, but I think they work pretty nicely.
+Джоан: І в кінці у нас є деякі скорочення під час переходу, але я думаю, що вони досить добре вписуються.
 
 52
 00:05:53,070 --> 00:05:57,210
@@ -208,23 +208,23 @@ Joan: And at the end we have some cuts during the walk, but I think they work pr
 
 53
 00:05:57,210 --> 00:06:05,030
-Joan: So after we had the idea (we decided to go for the one take approach),
+Джоан: Отже, після того, як у нас з'явилася ідея (ми вирішили піти шляхом єдиного підходу),
 
 54
 00:06:05,050 --> 00:06:10,210
-Joan: we needed one more thing, and that one thing was a story, a main character.
+Джоан: Нам потрібна була ще одна річ, і цією річчю була історія, головний герой.
 
 55
 00:06:10,210 --> 00:06:13,210
-Joan: We needed someone to lead this camera.
+Джоан: Нам потрібен був хтось, аби спрямувати цю камеру.
 
 56
 00:06:13,210 --> 00:06:20,040
-Joan: So after we had the idea, we created a script that basically is about a digger
+Джоан: Після того, як у нас з'явилася ідея, ми створили сценарій, який, по суті, розповідає про копача
 
 57
 00:06:20,040 --> 00:06:26,190
-Joan: that stole some money from Bloodwyn, one of the wards, and then he got caught by him.
+Джоан: який вкрав трохи руди у Бладвіна, одного з вартових, а потім був спійманий ним.
 
 58
 00:06:26,210 --> 00:06:28,100
@@ -232,35 +232,35 @@ Joan: that stole some money from Bloodwyn, one of the wards, and then he got cau
 
 59
 00:06:28,100 --> 00:06:38,040
-Joan: Next step was to create a storyboard, or: What we actually did was to create an animatic - or previsualization.
+Джоан: Наступним кроком було створення розкадровки: Те, що ми насправді робили, було створенням анімації - або превізуалізації.
 
 60
 00:06:38,040 --> 00:06:45,080
-Joan: As we were working with Unreal, we were able to work with""Sequencer"" directly inside the engine
+Джоан: Працюючи з Unreal, ми мали змогу працювати з "Секвенсором" безпосередньо всередині рушія
 
 61
 00:06:45,080 --> 00:06:51,120
-Joan: and that allowed us to have the animations already done for other purposes,
+Джоан: і це дозволило нам використати вже зроблені анімації для інших цілей,
 
 62
 00:06:51,190 --> 00:07:00,090
-Joan: putting them together also using some basic control rig which allows you to modify these animations
+Джоан: поєднуючи їх разом, а також використовуючи базову контрольну установку, яка дозволяє вам змінювати ці анімації
 
 63
 00:07:00,090 --> 00:07:12,170
-Joan: in an easy way. With this we created our animated storyboard. Because they Old camp environment was already done when the trailer was being created.
+Джоан: у простий спосіб. За допомогою цього ми створили нашу анімаційну розкадровку. Тому що середовище старого табору вже було готове, коли створювався трейлер.
 
 64
 00:07:12,170 --> 00:07:16,120
-Joan: That allowed us to, well, basically we had everything.
+Джоан: Це дозволило нам, ну, в принципі, у нас було все.
 
 65
 00:07:16,120 --> 00:07:23,200
-Joan: We just needed to assemble this animatic and show it to the animators.
+Джоан: Нам просто потрібно було зібрати цей анімаційний ролик і показати його аніматорам.
 
 66
 00:07:23,220 --> 00:07:26,210
-Joan: That was everything that we needed for this.
+Джоан: Це було все, що нам було потрібно для цього.
 
 67
 00:07:26,210 --> 00:07:31,170
@@ -292,35 +292,35 @@ Joan: That was everything that we needed for this.
 
 74
 00:08:06,250 --> 00:08:15,240
-Joan: Even though the fight scenes are very cool, my favorite scene is the Snaf part with the cauldron and everything.
+Джоан: Попри те, що бойові сцени дуже круті, моя улюблена сцена - це сцена зі Снафом, з казаном і всім іншим.-
 
 75
 00:08:15,240 --> 00:08:23,240
-Joan: Because acting is very funny, we also have a fight at the end, so I think is is super complete.
+Джоан: Акторська гра смішна, а наприкінці ми ще й посварилися, тож я вважаю, що картина вийшла дуже завершеною
 
 76
 00:08:23,260 --> 00:08:33,000
-Dani: Okay. You know, when we started discussing the trailer, I mean, we decided to be, you know, to show the original spirit of Gothic.
+Дані: Добре. Знаєш, коли ми почали обговорювати трейлер, ми вирішили, що хочемо показати справжній дух ґотики.
 
 77
 00:08:33,000 --> 00:08:38,160
-Dani: The feeling of being there in the Old Camp. How hard it is to to be there, how rude everyone is.
+Дані: Відчуття перебування в Старому таборі. Наскільки важко там перебувати, наскільки всі грубі.
 
 78
 00:08:38,160 --> 00:08:44,220
-Dani: But for me, the best moment, it's when Bloodwyn appears, you know, punching the guy
+Дені: Але для мене найкращий момент - це коли з'являється Бладвін, який б'є хлопця.
 
 79
 00:08:44,240 --> 00:08:55,030
-Dani: and saying:""Okay, you need to pay me the debts. Gomez needs your ore!"" For me this is a moment when you see, okay, this is a dangerous place.
+Дані: і каже: ""Так, ти маєш сплатити борги. Ґомезу потрібна твоя руда!"" Для мене це момент, коли ти розумієш, що це небезпечне місце.
 
 80
 00:08:55,030 --> 00:09:03,280
-Dani: You should take care of your own life. So I think this for me, it's the best moment when you can see the characters moving and interacting between two characters in a complicated interaction.
+Дані: Треба дбати про власне життя. Тому я думаю, що для мене це найкращий момент, коли можна побачити, як персонажі рухаються і взаємодіють між собою у складних взаєминах.
 
 81
 00:09:03,280 --> 00:09:08,150
-Dani: So for me, this is one of the most memorable scenes for me in the trailer.
+Дані: Для мене це одна з найбільш пам'ятних сцен у трейлері.
 
 82
 00:09:08,150 --> 00:09:12,250
@@ -328,35 +328,35 @@ Dani: So for me, this is one of the most memorable scenes for me in the trailer.
 
 83
 00:09:12,270 --> 00:09:15,090
-Dani: That's a funny question because you know what I mean
+Дані: Це смішне питання, якщо розумієте, що я маю на увазі
 
 84
 00:09:15,090 --> 00:09:21,160
-Dani: Gothic offers us the possibility to work manually in each one of those huts.
+Дані: Ґотика дає нам можливість працювати вручну в кожній з цих хатин.
 
 85
 00:09:21,180 --> 00:09:29,130
-Dani: So, yes, we have dozens of huts, and I can assure you that each one of them is unique and specific and special.
+Дані: Так, так, у нас є десятки хатин, і я можу вас запевнити, що кожна з них унікальна, специфічна та особлива.
 
 86
 00:09:29,150 --> 00:09:37,010
-Dani: So, yeah, it's it's a challenge because you should offer something different for each one, but at the same time they should feel integrated...
+Дані: Так, так, це виклик, тому що потрібно запропонувати кожному з них щось своє, але водночас потрібно, щоб вони відчували себе інтегрованими...
 
 87
 00:09:37,010 --> 00:09:40,160
-Dani: All of them should feel integrated in the same visual language.
+Дані: Всі вони повинні відчувати себе інтегрованими в одну візуальну мову.
 
 88
 00:09:40,160 --> 00:09:44,210
-Dani: And ... it's a very tricky part of designing the space.
+Дані: І ... це дуже складна частина проєктування простору.
 
 89
 00:09:44,210 --> 00:09:51,200
-Dani: They should feel noisy, labyrinthic, intricate, they should feel dirty.
+Дані: Це має бути шумно, лабіринтове, заплутано, брудно.
 
 90
 00:09:51,200 --> 00:09:58,060
-Dani: So, yeah, I mean, it's an interesting opportunity to make this labyrinthic space, but at the same time making it unique.
+Дані: Так, я маю на увазі, що це цікава можливість зробити цей лабіринтовий простір, але водночас зробити його унікальним.
 
 91
 00:09:58,060 --> 00:10:01,150
@@ -364,35 +364,35 @@ Dani: So, yeah, I mean, it's an interesting opportunity to make this labyrinthic
 
 92
 00:10:01,150 --> 00:10:07,240
-Dani: Yeah, that's one of the biggest challenges of all this game. I mean, we design it, all of them.
+Дані: Так, це один з найбільших викликів у всіх іграх. Від нас залежить створення кожного обличчя.
 
 93
 00:10:07,240 --> 00:10:12,110
-Dani: I mean, we have been working ... This process started like two years ago.
+Дані: Ми почали працювати над цим, близько двох років тому.
 
 94
 00:10:12,130 --> 00:10:18,230
-Dani: We started designing manually each one of the characters and we have been working together with our
+Дані: Ми почали з того, що розробили кожного персонажа вручну,
 
 95
 00:10:18,260 --> 00:10:25,270
-Dani: I can say, I mean, we have been spending so many hours with them that I can say they are brothers and sisters of Gate 21. They are helping us a lot on that.
+Дані: Можу сказати, що ми провели багато годин з нашими братами та сестрами з Gate 21, і вони нам дуже допомогли в цьому.
 
 96
 00:10:25,270 --> 00:10:34,220
-Dani: And we are creating, we are trying, we're aiming to create I don't know how many characters we have, maybe 600 or something like that, (Joan: Yep!) unique specific characters.
+Дані: І ми створюємо, ми намагаємося, ми прагнемо створити, я не знаю, скільки у нас персонажів, можливо, 600 чи щось подібне, (Джоан: Так!) унікальних конкретних персонажів.
 
 97
 00:10:34,220 --> 00:10:41,080
-Dani: So we can create unique characters and then we can mix them and blend them and creating new characters again.
+Дані: Таким чином, ми можемо створювати унікальних персонажів, а потім змішувати їх і знову створювати нових персонажів.
 
 98
 00:10:41,110 --> 00:10:48,030
-Dani: So yeah, we are - I mean - we are hoping and trying super hard to make this the experience that the Gothic fans deserve.
+Дені: Так що так, ми - я маю на увазі, ми дуже сподіваємося і намагаємося зробити це саме тим досвідом, на який заслуговують фани ґотики.
 
 99
 00:10:48,030 --> 00:10:57,280
-Dani: I mean, in Gothic, I remember playing the original Gothic, everyone, every character felt original, right? Unique! So we are aiming for the same.
+Дані: Я пам'ятаю, як грав в оригінальну Ґотику, де кожен персонаж був унікальним. І ми прагнемо до того ж ефекту.
 
 100
 00:10:57,280 --> 00:11:00,080
@@ -408,7 +408,7 @@ Joan: If I had the chance to come back, I think I will try to revise a bit the f
 
 103
 00:11:19,210 --> 00:11:27,050
-Joan: We could try a better way to introduce the trailer, but overall, I think it's working good.
+Джоан: Ми могли б спробувати краще представити трейлер, але в цілому, я думаю, що він працює добре.
 
 104
 00:11:27,080 --> 00:11:29,090
@@ -444,7 +444,7 @@ Joan: We could try a better way to introduce the trailer, but overall, I think i
 
 112
 00:12:19,260 --> 00:12:20,220
-Timur: Thanks, Reinhard.
+Тимур: Дякую, Рейнгарде.
 
 113
 00:12:20,220 --> 00:12:27,170
@@ -456,11 +456,11 @@ Timur: Thanks, Reinhard.
 
 115
 00:12:28,180 --> 00:12:34,090
-Timur: I think my favorite one is Bartholos Roasted Scavenger Steak with barbecue sauce.
+Тимур: Думаю, моя улюблена страва - стейк "Бартолос" зі смаженого падальщика з соусом барбекю.
 
 116
 00:12:34,090 --> 00:12:38,130
-Timur: And to drink, I would like the Rice Lord's vodka.
+Тимур: А випити я б хотів горілки "Рисовий лорд".
 
 117
 00:12:38,130 --> 00:12:43,180
@@ -476,7 +476,7 @@ Timur: And to drink, I would like the Rice Lord's vodka.
 
 120
 00:12:50,220 --> 00:12:56,020
-Dani: Well, Meatbug Paella with Rice Lord's special. That would be nice.
+Дані: Ну, паея з м'яса жуків з Рисовим Лордом. Було б непогано.
 
 121
 00:12:56,020 --> 00:12:59,090
@@ -484,7 +484,7 @@ Dani: Well, Meatbug Paella with Rice Lord's special. That would be nice.
 
 122
 00:12:59,090 --> 00:13:04,120
-Joan: What about Swampshark Grilled Fillet? S'il vous plaît.
+Жоан: А як щодо філе болотяного вужа на грилі? S'il vous plaît (Будь ласка).
 
 123
 00:13:04,120 --> 00:13:07,060
@@ -492,7 +492,7 @@ Joan: What about Swampshark Grilled Fillet? S'il vous plaît.
 
 124
 00:13:07,060 --> 00:13:12,060
-Joan: Yeah, and for drink maybe some vegetable juice that we can find around here.
+Джоан: Так, а до випивки, можливо, трохи овочевого соку, який ми знайдемо десь тут.
 
 125
 00:13:12,060 --> 00:13:13,240
@@ -652,19 +652,19 @@ Joan: Yeah, and for drink maybe some vegetable juice that we can find around her
 
 164
 00:17:39,140 --> 00:17:43,240
-Dani: Yeah. The cool thing is that when we start preparing the blockout phase,
+Дані: Так. Найкрутіша частина - це коли ми починаємо готуватись до фази блокування,
 
 165
 00:17:43,240 --> 00:17:49,020
-Dani: I mean, we meet together with the designers, with the level designers, so we can share the same vision
+Дані: Я маю на увазі, що ми зустрічаємося з дизайнерами, з дизайнерами рівнів, щоб мати спільне бачення.
 
 166
 00:17:49,020 --> 00:17:55,020
-Dani: about how this space should be explored, how this a space should look and feel.
+Дані: про те, як цей простір слід досліджувати, як він має виглядати та відчуватися.
 
 167
 00:17:55,050 --> 00:17:59,260
-Dani: So when they give the blockout to us, we are basically working on the same page.
+Дані: Тож, коли нас блокують, ми працюємо над тим самим.
 
 168
 00:17:59,260 --> 00:18:04,130
