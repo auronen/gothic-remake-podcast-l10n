@@ -80,51 +80,51 @@ Kai: Va bene.
 
 21
 00:02:10,090 --> 00:02:14,020
-Kai: Why are we going this way? The arena is the other way around the outer ring.
+Kai: Perché prendiamo questa strada? L'arena è dell'altra parte dell'anello.
 
 22
 00:02:14,140 --> 00:02:21,290
-Reinhard: You're absolutely right. But we'll have to pick someone up at the south entrance. And here we have a bit more time to chat before we get there.
+Reinhard: Hai ragione. Ma dobbiamo andare da qualcuno all'entrata sud. Inoltre qui abbiamo un po' di tempo per chiacchierare prima di arrivare là.
 
 23
 00:02:22,160 --> 00:02:26,120
-Kai: Ah, nice. Are we meeting the person you have to give that letter to?
+Kai: Ah, bene. Incontreremo la persona a cui devi dare la lettera?
 
 24
 00:02:26,240 --> 00:02:34,000
-Reinhard: Well, not right now. We're going to meet Javi Untoria, our lead game designer, at the south entrance. But the letter is not for him.
+Reinhard: Beh, non ora. All'entrata sud incontreremo Javi Untoria, il nostro lead designer. Ma la lettera non è per lui.
 
 25
 00:02:34,090 --> 00:02:46,150
-Kai: Okay, I see. Folks in the outer ring seem to be pretty busy already. Can you talk a little bit about their daily routines and how we're breathing life into this place and its inhabitants? Or would you like to leave that for Javi?
+Kai: D'accordo, capisco. Le persone nell'anello esterno sembrano molto indaffarate. Ci puoi parlare un pochino delle loro routine giornaliere e del come respireremo la vita di questo posto e dei suoi abitanti? O vuoi lasciare la risposta a lui?
 
 26
 00:02:46,240 --> 00:02:56,050
-Reinhard: No, no, that's fine. We can talk about it right now. We set out to create a really believable daily schedule, so they will do actions depending on what time of day it is.
+Reinhard: No, no, non c'è problema. Possiamo parlarne ora. Abbiamo create una lista estremamente credile, quindi compiranno azioni dipendentemente dall'orario del giorno.
 
 27
 00:02:56,160 --> 00:02:59,120
-Kyle: How often have I told you bastards not to run through my hut?
+Kyle: Quante volte ho detto a voi bastardi di non passare per la mia capanna?
 
 28
 00:02:59,280 --> 00:03:01,090
-Reinhard: Sorry, Kyle. We're just...
+Reinhard: Scusa, Kyle. Stiamo solo...
 
 29
 00:03:01,090 --> 00:03:15,190
-Kyle: Leave me alone, man. [Alright, we'll just...] Don't build your hut close to the ditch, they said. But none of these bastards told me what would happen if I still did it. When I came back from the mine a few days ago, I had a second door.
+Kyle: Lasciami in pace. [D'accordo, dobbiamo solo...] Non costruire la casa vicino al fosso, mi dissero. Ma nessuno di quei bastardi mi ha detto cosa sarebbe successo se lo avessi comunque fatto. Quando sono tornato dalla miniera qualche giorno fa, avevo un secondo ingresso.
 
 30
 00:03:15,240 --> 00:03:18,000
-Reinhard: And that's exactly what we're going through.
+Reinhard: Ed è esattamente il punto in cui passeremo.
 
 31
 00:03:18,020 --> 00:03:22,160
-Kyle: Those pigs. I hate them. I can't tell you how much I hate them.
+Kyle: Quegli stronzi. Li odio. Non riesco ad esprimere quanto.
 
 32
 00:03:23,030 --> 00:03:24,230
-Kai: Uhm... bye, Kyle. I'll see you later.
+Kai: Uhm... arrivederci, Kyle. Ci si vede.
 
 33
 00:03:25,020 --> 00:03:27,030
@@ -192,91 +192,91 @@ Kai: Immagino. Hai detto che avremmo incontrato Javi all'entrata sud, corretto? 
 
 49
 00:04:48,120 --> 00:05:05,150
-Kai: It's good to see everything's less colorful and vivid compared to the Playable Teaser. And also I've noticed that it's not as brightly lit as the screenshots that you've published. To me, when I looked at those screenshots last year, the sunlight looked kind of too brutal and it bleached out most of the colors. But this looks much more balanced.
+Kai: È bello vedere tutto meno colorato e vivido rispetto al teaser giocabile. Ho anche notato che non è così luminoso come negli screenshots che avete pubblicato. Personalmente, quando ho visto quegli screenshot l'anno scorso, sembrava che il sole fosse così forte da sbiancare la maggior parte dei colori. Ma qui sembra tutto più bilanciato.
 
 50
 00:05:05,260 --> 00:05:13,060
-Kai: The lighting is much smoother and also it preserves some of the colors that were in the old camp, but still maintaining that brownish, dusty vibe.
+Kai: La luminosità è molto più morbida e mantiene alcuni colori che si trovavano a campo vecchio, ma sempre mantenendo quel tono marroncino e polveroso.
 
 51
 00:05:13,190 --> 00:05:17,080
-Reinhard: Yes, we want it to really create this rough and dark atmosphere.
+Reinhard: Si, vogliamo assicurarci di creare un'atmosfera dura e cupa.
 
 52
 00:05:17,180 --> 00:05:18,090
-Kai: Mmm. I see.
+Kai: Mmm. Capisco.
 
 53
 00:05:19,150 --> 00:05:20,270
-Reinhard: There he is. Hello, Javi.
+Reinhard: Ed eccolo qui. Ciao, Javi.
 
 54
 00:05:21,160 --> 00:05:23,110
-Javi: Hey, Reinhard, and hi, Kai.
+Javi: Ciao, Reinhard, e ciao Kai.
 
 55
 00:05:24,050 --> 00:05:25,200
-Kai: Javi, so nice to see you.
+Kai: Javi, che piacere vederti.
 
 56
 00:05:25,200 --> 00:05:28,000
-Javi: You too. Shall we head to the arena?
+Javi: Anche a te. Ci dirigiamo all'arena?
 
 57
 00:05:28,130 --> 00:05:29,090
-Reinhard: Yes, please.
+Reinhard: Si, per favore.
 
 58
 00:05:29,210 --> 00:05:32,020
-Kai: So you're the lead game designer at Alkimia?
+Kai: Quindi sei il lead designer in Alkimia?
 
 59
 00:05:32,060 --> 00:05:32,170
-Javi: Yes.
+Javi: Si.
 
 60
 00:05:33,020 --> 00:05:35,210
-Kai: Wow. Thanks for joining us. What do you do exactly?
+Kai: Wow. Grazie per esserti unito a noi. Cosa fai esattamente?
 
 61
 00:05:36,000 --> 00:05:47,090
-Javi: My job is to manage the design and level design team. I am in charge of helping the team to maintain a coherent vision and oversee their work. Also, I design some complex system and coordinate with other teams.
+Javi: Il mio lavoro consiste nel dirigere i team di design e level design. Ho il compito di aiutare il team a mantenere una visione coerente e supervisionare il loro lavoro. Inoltre, progetto alcuni sistemi complessi e coordino con gli altri team.
 
 62
 00:05:47,250 --> 00:05:55,170
-Kai: Cool. Are you getting input or - like - guidance or maybe direction from someone above you? Or do you have the last word on design decisions?
+Kai: Fico. Ricevi un input o -tipo- una guida o magari una direzione da qualcuno sopra di te? O hai l'ultima parola sulle decisioni di design?
 
 63
 00:05:55,230 --> 00:06:04,030
-Javi: We have clear guidelines of what Gothic is and what Gothic is not. But in the most controversial issues the game director has the last word.
+Javi: Abbiamo delle linee guida chiare sul cosa sia e non sia Gothic. Ma nei problemi più controversi il game director ha l'ultima parola.
 
 64
 00:06:04,170 --> 00:06:06,170
-Kai: And the game director is Reinhard, right?
+Kai: E il game director è Reinhard, giusto?
 
 65
 00:06:06,260 --> 00:06:08,200
-Javi: Yep, he is.
+Javi: Si, lo è.
 
 66
 00:06:10,000 --> 00:06:17,150
-Javi: Look, there is Huno the blacksmith, preparing his smithy for the remake. Would you like to learn a little bit about forging weapons?
+Javi: Guarda, c'è Huno il fabbro, e sta preparando i suoi attrezzi per il remake. Ti piacerebbe sapere qualcosa riguardo il creare armi?
 
 67
 00:06:17,270 --> 00:06:18,240
-Kai: Absolutely.
+Kai: Assolutamente.
 
 68
 00:06:19,020 --> 00:06:25,120
-Reinhard: Hey, Huno, can you give us a quick presentation of how you go about forging weapons in the remake? Or would that take too long?
+Reinhard: Hei, Huno, potresti darci una veloce presentazioni di come creerai armi nel remake? O ci vorrebbe troppo tempo?
 
 69
 00:06:25,220 --> 00:06:29,100
-Huno: That depends. I'm as fast as a hurricane with simple swords.
+Huno: Dipende. Sono veloce come un uragano con le parole semplici.
 
 70
 00:06:29,210 --> 00:06:36,190
-Reinhard: Nice. A simple sword will do, thanks. You do your thing and Javi can explain a bit about the new forging mechanics.
+Reinhard: Ottimo. Una spada semplice andrà bene, grazie. Tu fai pure e Javi spiegherà un pochino le nuove meccaniche di forgiatura.
 
 71
 00:06:37,240 --> 00:06:51,260
