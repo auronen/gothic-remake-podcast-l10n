@@ -204,299 +204,299 @@ Joan: Iar până la urmă am tăiat în unele locuri în timpul plimbări, dar c
 
 52
 00:05:53,070 --> 00:05:57,210
-Reinhard: How did you transfer the script into an actual visual?
+Reinhard: Cum ați transpus scenariul în imagini?
 
 53
 00:05:57,210 --> 00:06:05,030
-Joan: So after we had the idea (we decided to go for the one take approach),
+Joan: Deci, după ce am avut ideea (am decis să mergem pe abordarea cu o singură dublă),
 
 54
 00:06:05,050 --> 00:06:10,210
-Joan: we needed one more thing, and that one thing was a story, a main character.
+Joan: mai aveam nevoie de un lucru, iar acel lucru era o poveste, un personaj principal.
 
 55
 00:06:10,210 --> 00:06:13,210
-Joan: We needed someone to lead this camera.
+Joan: Aveam nevoie de cineva care să conducă această cameră.
 
 56
 00:06:13,210 --> 00:06:20,040
-Joan: So after we had the idea, we created a script that basically is about a digger
+Joan: Așa că, după ce am avut ideea, am creat un scenariu care, practic, este despre un săpător.
 
 57
 00:06:20,040 --> 00:06:26,190
-Joan: that stole some money from Bloodwyn, one of the wards, and then he got caught by him.
+Joan: care a furat niște bani de la Bloodwyn, una dintre gărzi, și apoi a fost prins de acesta.
 
 58
 00:06:26,210 --> 00:06:28,100
-Reinhard: So what happened next?
+Reinhard: Și ce s-a întâmplat după aceea?
 
 59
 00:06:28,100 --> 00:06:38,040
-Joan: Next step was to create a storyboard, or: What we actually did was to create an animatic - or previsualization.
+Joan: Următorul pas a fost crearea unui storyboard sau: Ceea ce am făcut de fapt a fost să creăm o animație - sau previzualizare.
 
 60
 00:06:38,040 --> 00:06:45,080
-Joan: As we were working with Unreal, we were able to work with""Sequencer"" directly inside the engine
+Joan: Deoarece lucram cu Unreal, am putut lucra cu „Sequencer” direct în interiorul motorului grafic
 
 61
 00:06:45,080 --> 00:06:51,120
-Joan: and that allowed us to have the animations already done for other purposes,
+Joan: și asta ne-a permis să avem animațiile deja făcute pentru alte scopuri,
 
 62
 00:06:51,190 --> 00:07:00,090
-Joan: putting them together also using some basic control rig which allows you to modify these animations
+Joan: punându-le împreună, folosind, de asemenea, o unitate de control de bază care îți permite să modifici aceste animații.
 
 63
 00:07:00,090 --> 00:07:12,170
-Joan: in an easy way. With this we created our animated storyboard. Because they Old camp environment was already done when the trailer was being created.
+Joan: într-un mod simplu. Astfel am creat scenariul nostru animat. Pentru că decorul taberei Old Camp era deja gata atunci când a fost creat trailerul.
 
 64
 00:07:12,170 --> 00:07:16,120
-Joan: That allowed us to, well, basically we had everything.
+Joan: Asta ne-a permis să, ei bine, practic aveam totul.
 
 65
 00:07:16,120 --> 00:07:23,200
-Joan: We just needed to assemble this animatic and show it to the animators.
+Joan: Trebuia doar să asamblăm această animație și să o arătăm animatorilor.
 
 66
 00:07:23,220 --> 00:07:26,210
-Joan: That was everything that we needed for this.
+Joan: A fost tot ce aveam nevoie pentru asta.
 
 67
 00:07:26,210 --> 00:07:31,170
-Kai: Aha. So does that mean that everything that we see in the trailer is also going to happen in the game?
+Kai: Aha. Asta înseamnă că tot ceea ce vedem în trailer se va petrece și în joc?
 
 68
 00:07:31,170 --> 00:07:38,060
-Reinhard: So, the Old Camp, as we see it in the Old Camp trailer, looks exactly the same in the game.
+Reinhard: Așadar, tabăra veche, așa cum o vedem în trailerul taberei vechi, arată exact la fel în joc.
 
 69
 00:07:38,080 --> 00:07:46,040
-Reinhard: The events that happen can also happen like that, but in the game they will happen dynamically. In the trailer,
+Reinhard: Evenimentele care se întâmplă se pot întâmpla și ele așa, dar în joc se vor întâmpla în mod dinamic. În trailer,
 
 70
 00:07:46,040 --> 00:07:54,000
-Reinhard: obviously, we set them up like in a sequence after each other, so they happened conveniently whenever we needed them.
+Reinhard: evident, le-am pus ca într-o secvență una după alta, astfel încât să se întâmple în mod convenabil ori de câte ori avem nevoie de ele.
 
 71
 00:07:54,000 --> 00:08:01,220
-Reinhard: And the other thing that is totally not like that in the game is the camera sequence, which was specifically set up for the trailer.
+Reinhard: Iar celălalt lucru care nu este deloc așa în joc este secvența camerei, care a fost special creată pentru trailer.
 
 72
 00:08:01,220 --> 00:08:04,060
-Kai: Okay, Got it. Thank you.
+Kai: Bine, am înțeles. Mulțumesc.
 
 73
 00:08:04,060 --> 00:08:06,250
-Reinhard: What was your favorite scenes from the trailer?
+Reinhard: Care a fost scena ta preferată din trailer?
 
 74
 00:08:06,250 --> 00:08:15,240
-Joan: Even though the fight scenes are very cool, my favorite scene is the Snaf part with the cauldron and everything.
+Joan: Chiar dacă scenele de luptă sunt foarte mișto, scena mea preferată este partea cu Snaf, cu cazanul și celelalte.
 
 75
 00:08:15,240 --> 00:08:23,240
-Joan: Because acting is very funny, we also have a fight at the end, so I think is is super complete.
+Joan: Pentru că jocul actoricesc este foarte amuzant, avem și o bătaie la final, așa că eu cred că este super complet.
 
 76
 00:08:23,260 --> 00:08:33,000
-Dani: Okay. You know, when we started discussing the trailer, I mean, we decided to be, you know, to show the original spirit of Gothic.
+Dani: Bine. Știi, când am început să discutăm despre trailer, adică, am decis să arătăm spiritul original al Gothic.
 
 77
 00:08:33,000 --> 00:08:38,160
-Dani: The feeling of being there in the Old Camp. How hard it is to to be there, how rude everyone is.
+Dani: Sentimentul de a fi acolo, în tabăra veche. Cât de greu este să fii acolo, cât de grosolană e toată lumea.
 
 78
 00:08:38,160 --> 00:08:44,220
-Dani: But for me, the best moment, it's when Bloodwyn appears, you know, punching the guy
+Dani: Dar pentru mine, cel mai bun moment, este atunci când apare Bloodwyn, știi, lovindu-l cu pumnul pe tip
 
 79
 00:08:44,240 --> 00:08:55,030
-Dani: and saying:""Okay, you need to pay me the debts. Gomez needs your ore!"" For me this is a moment when you see, okay, this is a dangerous place.
+Dani: și spunând: "Bine, trebuie să-mi plătești datoriile. Gomez are nevoie de minereul tău!"" Pentru mine, acesta e momentul în care îți dai seama că acesta e un loc periculos.
 
 80
 00:08:55,030 --> 00:09:03,280
-Dani: You should take care of your own life. So I think this for me, it's the best moment when you can see the characters moving and interacting between two characters in a complicated interaction.
+Dani: Ar trebui să ai grijă de propria ta viață. Așa că, pentru mine, cred că acesta este cel mai bun moment în care poți vedea personajele mișcându-se și interacționând cu cele două personaje într-o interacțiune complicată.
 
 81
 00:09:03,280 --> 00:09:08,150
-Dani: So for me, this is one of the most memorable scenes for me in the trailer.
+Dani: Așadar, pentru mine, asta e una dintre cele mai memorabile scene din trailer.
 
 82
 00:09:08,150 --> 00:09:12,250
-Reinhard: (laughs) Isn't it hard to create a location with SO many similar digger huts?
+Reinhard: (râde) Nu e greu să creezi o locație cu atâtea colibe de săpători asemănătoare?
 
 83
 00:09:12,270 --> 00:09:15,090
-Dani: That's a funny question because you know what I mean
+Dani: E o întrebare amuzantă, pentru că știi la ce mă refer.
 
 84
 00:09:15,090 --> 00:09:21,160
-Dani: Gothic offers us the possibility to work manually in each one of those huts.
+Dani: Gothic ne oferă posibilitatea de a lucra manual la fiecare dintre aceste colibe.
 
 85
 00:09:21,180 --> 00:09:29,130
-Dani: So, yes, we have dozens of huts, and I can assure you that each one of them is unique and specific and special.
+Dani: Deci, da, avem zeci de colibe, și vă asigur că fiecare dintre ele este unică, specifică și specială.
 
 86
 00:09:29,150 --> 00:09:37,010
-Dani: So, yeah, it's it's a challenge because you should offer something different for each one, but at the same time they should feel integrated...
+Dani: Deci, da, e o provocare, pentru că trebuie să oferi ceva diferit pentru fiecare, dar în același timp trebuie să se simtă bine încadrate...
 
 87
 00:09:37,010 --> 00:09:40,160
-Dani: All of them should feel integrated in the same visual language.
+Dani: Toate ar trebui să se simtă încadrate în același limbaj vizual.
 
 88
 00:09:40,160 --> 00:09:44,210
-Dani: And ... it's a very tricky part of designing the space.
+Dani: Și... e o parte foarte delicată a amenajării spațiului.
 
 89
 00:09:44,210 --> 00:09:51,200
-Dani: They should feel noisy, labyrinthic, intricate, they should feel dirty.
+Dani: Ar trebui să se simtă zgomotoase, labirintice, complexe, ar trebui să se simtă murdare.
 
 90
 00:09:51,200 --> 00:09:58,060
-Dani: So, yeah, I mean, it's an interesting opportunity to make this labyrinthic space, but at the same time making it unique.
+Dani: Deci, da, e o oportunitate interesantă de a crea acest spațiu labirintic, dar în același timp, de a-l face unic.
 
 91
 00:09:58,060 --> 00:10:01,150
-Reinhard: Speaking about uniqueness, every face is unique, right?
+Reinhard: Vorbind despre unicitate, fiecare față e unică, nu-i așa?
 
 92
 00:10:01,150 --> 00:10:07,240
-Dani: Yeah, that's one of the biggest challenges of all this game. I mean, we design it, all of them.
+Dani: Da, aceasta este una dintre cele mai mari provocări ale acestui joc. Adică, noi îl proiectăm, cu toții.
 
 93
 00:10:07,240 --> 00:10:12,110
-Dani: I mean, we have been working ... This process started like two years ago.
+Dani: Adică, am lucrat... Procesul a început acum doi ani.
 
 94
 00:10:12,130 --> 00:10:18,230
-Dani: We started designing manually each one of the characters and we have been working together with our
+Dani: Am început să conturăm manual fiecare personaj și am lucrat împreună cu
 
 95
 00:10:18,260 --> 00:10:25,270
-Dani: I can say, I mean, we have been spending so many hours with them that I can say they are brothers and sisters of Gate 21. They are helping us a lot on that.
+Dani: Pot spune, adică am petrecut atât de multe ore cu ei încât pot spune că sunt frații și surorile de la Gate 21. Ne ajută foarte mult la asta.
 
 96
 00:10:25,270 --> 00:10:34,220
-Dani: And we are creating, we are trying, we're aiming to create I don't know how many characters we have, maybe 600 or something like that, (Joan: Yep!) unique specific characters.
+Dani: Și creăm, încercăm, ne propunem să creăm nu știu câte personaje avem, poate 600 sau ceva de genul ăsta, (Joan: Da!) personaje specifice unice.
 
 97
 00:10:34,220 --> 00:10:41,080
-Dani: So we can create unique characters and then we can mix them and blend them and creating new characters again.
+Dani: Astfel, putem crea personaje unice, pe care le putem combina și îmbina pentru a crea din nou personaje noi.
 
 98
 00:10:41,110 --> 00:10:48,030
-Dani: So yeah, we are - I mean - we are hoping and trying super hard to make this the experience that the Gothic fans deserve.
+Dani: Așa că da, sperăm și ne străduim din răsputeri să facem din asta experiența pe care fanii Gothic o merită.
 
 99
 00:10:48,030 --> 00:10:57,280
-Dani: I mean, in Gothic, I remember playing the original Gothic, everyone, every character felt original, right? Unique! So we are aiming for the same.
+Dani: Adică, în Gothic, îmi amintesc că am jucat în jocul original Gothic, toată lumea, fiecare personaj părea original, nu? Unic! Așa că țintim către același lucru.
 
 100
 00:10:57,280 --> 00:11:00,080
-Reinhard: That's great. Thanks for the insight. (Dani: Thank you.)
+Reinhard: Asta e minunat. Mulțumesc pentru detalii. (Dani: Mulțumesc.)
 
 101
 00:11:00,080 --> 00:11:06,040
-Reinhard: Is there anything you would like to change on the trailer if you could go back?
+Reinhard: Este ceva ce ai vrea să schimbi la trailer dacă ai putea să te întorci în trecut?
 
 102
 00:11:06,070 --> 00:11:19,150
-Joan: If I had the chance to come back, I think I will try to revise a bit the first part of the trailer. Maybe ... there's many things happening at the same time. (Reinhard: Yeah.)
+Joan: Dacă aș avea ocazia să mă întorc, cred că aș încerca să revizuiesc puțin prima parte a trailerului. Poate ... sunt multe lucruri care se întâmplă în același timp. (Reinhard: Da.)
 
 103
 00:11:19,210 --> 00:11:27,050
-Joan: We could try a better way to introduce the trailer, but overall, I think it's working good.
+Joan: Am putea încerca un mod mai bun de a introduce trailerul, dar, în general, cred că merge bine.
 
 104
 00:11:27,080 --> 00:11:29,090
-Kai: Oh yeah, I absolutely think it does.
+Kai: Oh, da, sunt absolut convins că da.
 
 105
 00:11:29,090 --> 00:11:36,120
-Kai: Although I think we should address the fact that everybody in the trailer speaks Cockney British now. Why is that?
+Kai: Totuși, cred că ar trebui să abordăm faptul că toată lumea din trailer vorbește engleza britanică Cockney acum. De ce se întâmplă asta?
 
 106
 00:11:36,120 --> 00:11:43,290
-Reinhard: So we decided to go with the rough atmosphere, we take the Cockney accent in English, but not everybody has the same accent.
+Reinhard: Deci, am decis să mergem pe o atmosferă dură, am ales accentul Cockney în engleză, dar nu toată lumea are același accent.
 
 107
 00:11:43,290 --> 00:11:54,020
-Reinhard: Some people come from different parts of Myrtana and so they speak, differently, like Diego who has a very different accent and not the rough Cockney accent.
+Reinhard: Unii oameni provin din diferite părți ale Myrtanei, așa că vorbesc diferit, cum ar fi Diego, care are un accent foarte diferit și nu accentul aspru Cockney.
 
 108
 00:11:54,020 --> 00:12:05,230
-Reinhard: So I would say: Yes, the Old Camp will sound rough and will sound very cockney, but overall it is not even more than 50%. (Kai: Okay, cool.)
+Reinhard: Așa că aș spune: Da, tabăra veche va suna dur și va suna foarte cockney, dar în general nu e nici măcar mai mult de 50%. (Kai: Bine, super.)
 
 109
 00:12:05,230 --> 00:12:08,050
-Kai: Thanks for clarifying that.
+Kai: Mulțumesc pentru că ai clarificat asta.
 
 110
 00:12:08,070 --> 00:12:14,030
-Reinhard: Alright. Since we're sitting here at the campfire, we obviously also need to eat something.
+Reinhard: În regulă. Din moment ce stăm aici, la focul de tabără, evident că trebuie să mâncăm ceva.
 
 111
 00:12:14,030 --> 00:12:19,260
-Reinhard: I'm going to eat Swampshark Poke. What can I serve you?
+Reinhard: O să mănânc Swampshark Poke. Cu ce vă pot servi?
 
 112
 00:12:19,260 --> 00:12:20,220
-Timur: Thanks, Reinhard.
+Timur: Mulțumesc, Reinhard.
 
 113
 00:12:20,220 --> 00:12:27,170
-Kai: Yeah, thank you. But actually, you can continue chatting and I'll take care of taking the orders and preparing the meals. (Reinhard: Thanks.)
+Kai: Da, mulțumesc. Dar, de fapt, puteți continua să discutați, și mă voi ocupa eu de preluarea comenzilor și de pregătirea bucatelor. (Reinhard: Mulțumesc.)
 
 114
 00:12:27,170 --> 00:12:28,180
-Kai: Timur, what's your choice?
+Kai: Timur, care e alegerea ta?
 
 115
 00:12:28,180 --> 00:12:34,090
-Timur: I think my favorite one is Bartholos Roasted Scavenger Steak with barbecue sauce.
+Timur: Cred că preferata mea este Friptura de scavenger a lui Bartholo cu sos barbecue.
 
 116
 00:12:34,090 --> 00:12:38,130
-Timur: And to drink, I would like the Rice Lord's vodka.
+Timur: Iar de băut, aș dori vodca Lordului Orezului.
 
 117
 00:12:38,130 --> 00:12:43,180
-Kai: Okay, Rice Lord's vodka. Alright! So Javi, what will you have?
+Kai: Bine, vodca Lordului Orezului. În regulă! Deci, Javi, ce vrei să iei?
 
 118
 00:12:43,180 --> 00:12:47,250
-Javi: I will go with Roasted Scavenger and a bottle of beer.
+Javi: Voi merge cu scavenger prăjit și o sticlă de bere.
 
 119
 00:12:47,250 --> 00:12:50,220
-Kai: Yeah, it's going to be the same for me! Dani?
+Kai: Da, va fi la fel și pentru mine! Dani?
 
 120
 00:12:50,220 --> 00:12:56,020
-Dani: Well, Meatbug Paella with Rice Lord's special. That would be nice.
+Dani: Ei bine, paella de gândac cu specialitatea Lordului Orezului. Asta mi-ar plăcea.
 
 121
 00:12:56,020 --> 00:12:59,090
-Kai: One more from the Rice Lord. Okay! Joan, your turn.
+Kai: Încă una de la Lordul Orezului. Bine! Joan, e rândul tău.
 
 122
 00:12:59,090 --> 00:13:04,120
-Joan: What about Swampshark Grilled Fillet? S'il vous plaît.
+Joan: De ce nu un file de swampshark la grătar? S'il vous plaît.
 
 123
 00:13:04,120 --> 00:13:07,060
-Kai: Mais oui, bien sûr! And for drink?
+Kai: Mais oui, bien sûr! Și de băut?
 
 124
 00:13:07,060 --> 00:13:12,060
-Joan: Yeah, and for drink maybe some vegetable juice that we can find around here.
+Joan: Da, și de băut poate un suc de legume pe care îl găsim pe aici.
 
 125
 00:13:12,060 --> 00:13:13,240
-Kai: Okay. Working on it.
+Kai: Bine. Mă ocup de asta.
 
 126
 00:13:13,240 --> 00:13:18,290
