@@ -408,264 +408,264 @@ Javi: Si, l'ho sentito anch'io.
 
 103
 00:09:26,010 --> 00:09:29,080
-Kai: That sounds like exactly the kind of topic we should ask YOU about, Javi.
+Kai: Questo sembra essere proprio il tipo d'argomento che dovremmo chiedere a TE, Javi.
 
 104
 00:09:30,050 --> 00:09:32,100
-Javi: I might know a thing or two about it. Yes.
+Javi: Potrei sapere un paio di cose sull'argomento. Si.
 
 105
 00:09:32,260 --> 00:09:38,110
-Kai: Excellent. Elaborate, please. What are the design principles you've established for the remake?
+Kai: Eccellente. Dicci allora. Quali sono i principi del design che avete stabilito per il remake?
 
 106
 00:09:39,000 --> 00:09:44,210
-Javi: We have a very clear basis for the game. We will talk about the three main concept.
+Javi: Abbiamo una base chiara per il gioco. Discuteremo dei tre concetti principali.
 
 107
 00:09:45,140 --> 00:09:45,210
-Kai: M-hm, okay.
+Kai: M-hm, ok.
 
 108
 00:09:46,110 --> 00:09:51,270
-Javi: First, the player can choose how to play. We have to give them options and different playstyles.
+Javi: Primo: il giocatore può scegliere come giocare. Dobbiamo offrire opzioni e differenti stili di gioco.
 
 109
 00:09:52,050 --> 00:09:52,190
-Reinhard: Oh, yeah.
+Reinhard: Oh, giusto.
 
 110
 00:09:52,250 --> 00:09:53,230
-Kai: Yeah. Sounds good.
+Kai: Si. Ha senso.
 
 111
 00:09:54,140 --> 00:10:01,080
-Javi: Two: The world is alive. We are not looking for something scripted. We want something systemic that the player can interact with.
+Javi: Due: il mondo è vivo. Non vogliamo qualcosa di scriptato. Vogliamo qualcosa di sistemico con cui il giocatore può interagire.
 
 112
 00:10:01,200 --> 00:10:03,030
-Kai: Oh, yes. Very important.
+Kai: Oh, si. Molto importante.
 
 113
 00:10:03,170 --> 00:10:20,120
-Javi: Yes. And the third pillar is:""Immersion is essential"". We don't want to guide the player with obligatory tutorials, but reward the player to discover and explore the world. We know this can be a little bit harsh at the beginning, but it's the Gothic experience.
+Javi: Si. E il terzo principio è: "l'immersione è essenziale". Non vogliamo guidare il giocatore con tutorial obbligatori, ma ricompensare il giocatore che scopre e esplora il mondo. Sappiamo che può essere duro all'inizio, ma è l'esperienza di Gothic.
 
 114
 00:10:20,220 --> 00:10:28,220
-Kai: Yes, it is. That's very interesting. So what's your process when you evaluate new design ideas? How do you make sure they match the principles?
+Kai: Si, lo è. Molto interessante. Quindi qual è il tuo processo quando valuti nuove idee di design? Come fai ad essere sicuro che seguano i principi?
 
 115
 00:10:29,070 --> 00:10:42,180
-Javi: When we design something new or work in our redesign, we always confront it with the pillars as a validation that we are on the right track. In fact, in design, we tend to close the issue with""this is very Gothic"".
+Javi: Quando creiamo qualcosa di nuovo o lavoriamo ad un redesign, lo confrontiamo sempre con i principi come valutazione che stiamo seguendo la giusta strada. Infatti, nel design, tendiamo a chiudere la questione con "questo è molto Gothic".
 
 116
 00:10:43,130 --> 00:11:05,200
-Kai: Okay, here's a question very closely related to design principles. I know that the idea that players can just read their stats and skills and get an idea of how good they are just by looking at the character and his posture, that was one of the design concepts Mike Hoge, the original Gothic inventor, was most passionate about. What are your thoughts on this?
+Kai: D'accordo, ti faccio una domanda molto legata ai principi del design. So che l'idea di dare al giocatore la possibilità di leggere le proprie statistiche e abilità, e il poter capire quanto bravi siano semplicemente guardando la posa del personaggio, fosse un'idea di design di Mike Hoge (il creatore originale di Gothic) e vi era molto entusiasta. Quali sono le tue idee su questo argomento?
 
 117
 00:11:06,190 --> 00:11:21,250
-Javi: It's something super interesting and something we have all noticed when we were playing Gothic. It's especially something you notice in the hero himself. How he improves with the weapons and goes from barely knowing how to hold a sword to being a true master.
+Javi: È qualcosa di molto importante e l'abbiamo notata tutti quando abbiamo giocato Gothic. È qualcosa che noti nell'eroe stesso. Come migliora con l'uso delle armi partendo dal sapere a stento come impugnare una spada al diventare un vero maestro.
 
 118
 00:11:22,050 --> 00:11:28,280
-Kai: Oh yes, barely knowing how to hold your sword... I remember that phase. [Yeah.] *laughing* Okay, go ahead.
+Kai: Oh si, a stento sapere come impugnare una spada... ricordo quella fase. [Già] *ridono* Ok, va avanti.
 
 119
 00:11:29,240 --> 00:11:35,030
-Javi: It's something that we would like to keep and be able to give this feeling of power and progression.
+Javi: Dare questa sensazione di potenza e progressione è qualcosa che ci piacerebbe mantenere e dare.
 
 120
 00:11:35,190 --> 00:11:46,240
-Kai: Okay. Yeah, that sounds very good. And since you've mentioned progression: Another super important aspect, at least for me, is exactly that sense of progression. Progression of power, to be precise.
+Kai: Bene. Si, molto bene. Dato che hai menzionato la progressione, un altro aspetto molto importante, almeno per me, è proprio il senso di progressione. Progressione della forza, per essere preciso.
 
 121
 00:11:46,260 --> 00:11:47,080
-Javi: Yes.
+Javi: Si.
 
 122
 00:11:47,140 --> 00:11:51,270
-Kai: Getting stronger and feeling the impact of that. [Yes.] How is that handled in the remake?
+Kai: Diventare più forte e sentire l'impatto di ciò. [Si.] Com'è gestito nel remake?
 
 123
 00:11:51,280 --> 00:12:13,070
-Javi: The progression of power is something that is super important in the game. The character progression in the original Gothic was great. We want to keep the player progression as in the original, but we are refining how the player gets access to better weapons and items, especially in the midgame. It was very easy to break the economy and have the best equipment that money could buy.
+Javi: La progressione della forza è qualcosa di molto importante nel gioco. La progressione del personaggio nel gioco originale era grandiosa. Vogliamo mantenere la progressione come nell'originale, ma stiamo rifinendo come il giocatore accede alle armi migliori e agli oggetti. specialmente nel midgame. Era molto facile rompere l'economia e avere il miglior equipaggiamento che il denaro potesse comprare.
 
 124
 00:12:13,240 --> 00:12:20,190
-Kai: Oh, yeah, that's true. Lovely. Thank you. Can I ask you TWO a few more questions that span across various topics?
+<Kai: Oh, già, vero. Perfetto. Grazie. Posso chiedervi qualche altra domanda che spazia su più argomenti?
 
 125
 00:12:21,040 --> 00:12:23,200
-Javi: [Okay.] Yes. Let's see if we can answer them.
+Javi: [ Certo.] Si. Vediamo se riusciremo a rispodere.
 
 126
 00:12:24,000 --> 00:12:27,230
-Kai: I'm sure you can. Javi, where do you draw your inspiration from?
+Kai: Sono sicuro di si. Javi, da dove viene la tua ispirazione?
 
 127
 00:12:28,060 --> 00:12:42,100
-Javi: Inspiration can come from anywhere, not just another video games. Sometimes inspiration come from books, movies, series or even board games and roleplaying games. Often the best ideas come when you least expect them.
+Javi: L'ispirazione può venire dovunque, non solo da altri giochi. A volte l'ispirazione può venire da libri, film, serie o addirittura giochi da tavolo o giochi di ruolo. Spesso le idee migliore vengono quando meno te lo aspetti.
 
 128
 00:12:42,270 --> 00:12:49,160
-Kai: Yes. And what are your favorite games? Are you planning to work some of what you liked about those games into the remake?
+Kai: Vero. E quali sono i tuoi giochi preferiti? Pensi di mettere un po' di ciò che ti è piaciuto di quei giochi nel remake?
 
 129
 00:12:50,030 --> 00:13:12,030
-Javi: I love action RPGs, but I play as many games as I can. When I play, I cannot stop being a designer and I am constantly analyzing the details and solutions that other devs have found. All these backlogs come to my mind when a new challenge appears in the development, and I think:""These games solved it in a very clever way. We could do something similar!""
+Javi: Adoro i GDR action, ma gioco quanti più giochi possibile. Quando gioco, non posso smettere di essere un designer e analizzo costantemente i dettagli e le soluzioni che altri sviluppatori hanno trovato. Tutti queste informazioni vengono fuori quando affronto una nuova sfida nello sviluppo, e penso: "Questi giochi lo hanno risolto in una maniera molto intelligente. Dovremmo fare qualcosa di simile!"
 
 130
 00:13:12,090 --> 00:13:17,030
-Kai: Cool. Yeah. Being open for that definitely helps. You don't always have to reinvent the wheel.
+Kai: Fico. Si. Essere aperti a ciò sicuramente aiuta. Non devi sempre reinventare la ruota.
 
 131
 00:13:17,040 --> 00:13:17,160
-Javi: Yes.
+Javi: Esatto.
 
 132
 00:13:18,220 --> 00:13:22,290
-Kai: The next couple of questions are community questions, which came up on the Discord server.
+Kai: Le prossime domande sono della comunità, e vengono dal server Discord.
 
 133
 00:13:23,080 --> 00:13:24,000
-Javi: Oh, nice.
+Javi: Oh, fico.
 
 134
 00:13:24,160 --> 00:13:32,060
-Reinhard: All your listeners out there are invited to join the Discord server as well. The invitation link is discord.gg/gothic.
+Reinhard: Tutti gli ascoltatori sono invitati ad unirsi al server Discord. Il link d'invito è discord.gg/gothic.
 
 135
 00:13:32,210 --> 00:13:38,010
-Kai: See you all there! So ... we've talked about forging. How about making arrows?
+Kai: Ci vedremo la! Quindi... abbiamo parlato della forgiatura. Che mi dici della creazione di frecce?
 
 136
 00:13:38,200 --> 00:13:46,060
-Javi: You will be able to make arrows on the workbenches if you have the materials. We want to incorporate crafting to make the materials you collect useful.
+Javi: Sarà possibile creare frecce nei tavoli da lavoro se hai i materiali. Vogliamo incorporare il crafting per rendere ciò che si raccoglie utile.
 
 137
 00:13:46,170 --> 00:13:58,280
-Kai: Mm-hmm. Talking about making things useful: In the original game, there are barrels, including here in the old camp, that the player can climb into and hide. Is that going to be a useful mechanic in the remake?
+Kai: Mm-hmm. Parlando di cose utili: nel gioco originale, ci sono i barili, anche qui a campo vecchio, che il giocatore può scalare e nascondercisi. Sarà una meccanica utile nel remake?
 
 138
 00:13:59,150 --> 00:14:12,280
-Javi: This mechanic is one of those we revise. In the original it didn't make much sense and it was too comical for the tone of the game. We want to develop stealth a little more, but I don't know if hiding in a barrel is the best way.
+Javi: Questa meccanica è una di quella che abbiamo rivisto. Nell'originale non aveva molto senso ed era troppo comica per il tono del gioco. vogliamo sviluppare lo stealth un po' di più, ma non credo che nascondersi nei barili sia il modo migliore.
 
 139
 00:14:13,100 --> 00:14:22,260
-Kai: Ooooh *sighs*, okay. Now, we've been to the arena, so this fits quite nicely: A question that came up very often is:""Will there be helmets and shields?""
+Kai: Ooooh *sospira*, d'accordo. Siamo stati nell'arena, quindi questa ci sta alla grande, una domanda che viene fuori spesso è: "Ci saranno elmetti e scudi?"
 
 140
 00:14:23,050 --> 00:14:33,270
-Javi: No! We are sticking to the original and there won't be any. In the colony the combat is direct and visceral. We didn't like the defence system that will make it more static.
+Javi: No! Siamo fedeli all'originale e non ce ne saranno. Nella colonia il combattimento è diretto e istintivo. Non ci piace un sistema di difesa che renderebbe tutto più statico.
 
 141
 00:14:34,220 --> 00:14:43,080
-Kai: Yes, I agree. The next one is probably not so much a game design question, but it came up recently, so:""Will there be new quests?""
+Kai: Si, sono d'accordo. La prossima non è molto sul game design, ma è molto recente, quindi: "ci saranno nuove missioni?"
 
 142
 00:14:43,290 --> 00:14:56,030
-Javi: Yes, there will be new quests. Our idea is to create quests to balance the parts of the game that feel more linear. As you know, from Chapter 3 onward the game offers no other quest than the main quest.
+Javi: Si, ci saranno nuove missioni. La nostra idea è di creare missioni per bilanciare le parti del gioco che sembrano più lineari. Come sai, dal Capitolo 3 in poi, il gioco non offre altre missioni se non la principale.
 
 143
 00:14:56,040 --> 00:14:56,180
-Kai: Oh yeah.
+Kai: Oh giusto.
 
 144
 00:14:56,180 --> 00:15:06,290
-Javi: And we would like to give more content to the player. On the other hand, some of the main quests will be slightly modified in order to close the plot holes that have been with us for 20 years.
+Javi: E ci piacerebbe dare più contenuto al giocatore. D'altro canto, alcune delle missioni principali saranno leggermente modificate in modo da chiudere i buchi di trama che sono rimasti con noi per 20 anni.
 
 145
 00:15:07,090 --> 00:15:08,050
-Kai: Very interesting.
+Kai: Molto interessante.
 
 146
 00:15:08,210 --> 00:15:14,000
-Reinhard: When we'll meet with someone from the story team in a future episode, we can dive more into these kind of questions.
+Reinhard: Quando incontreremo qualcuno dello story team in un futuro episodio, potremo andare più a fondo in questo tipo di domande.
 
 147
 00:15:14,100 --> 00:15:25,250
-Kai: Yeah, that'll be cool. Okay, next. I know this is a broad question, but I want to ask it as openly as possible. What can you tell us about the UI in the remake, and specifically the inventory?
+Kai: Si, sarebbe magnifico. Ok, la prossima. So che è una domanda molto ampia, ma voglio farla il più aperta possibile. Cosa puoi dirci della UI nel remake, e in special modo dell'inventario?
 
 148
 00:15:26,240 --> 00:15:47,040
-Javi: The UI will look more like the original Gothic than the Playable Teaser. [Yes!] We are doing something minimal to enhance the player immersion. The inventory follows the rules of the original Gothic. The game doesn't pause and allows you to watch as you manage it. It's a screen with a lot of information, so it's a challenge to show everything at once.
+Javi: La UI sarà più simile a quella di Gothic rispetto al Teaser. [S!.] Stiamo facendo qualcosa di minimal per migliorare l'immersione del giocatore. L'inventario segue le regole del gioco originale. Il gioco non va in pausa e ti permette di vedere mentre lo controlli. È uno schermo con molte informazioni, quindi è una sfida riuscire a mostrare tutto in una volta.
 
 149
 00:15:47,290 --> 00:16:00,240
-Kai: M-hm, it is! Okay, but now for something completely different. We've heard a few characters speaking in this episode, and those were all audio files from the original game. But, Reinhard, we won't use those in the remake, right?
+Kai: M-hm, assolutamente! Ok, ma ora qualcosa di completamente diverso. Abbiamo sentito alcuni personaggi parlare durante l'episodio, ed erano audio provenienti dal gioco originale. Ma, Reinhard, non useremo quelli nel remake, giusto?
 
 150
 00:16:01,060 --> 00:16:07,240
-Reinhard: No! We thought initially that's the best way to approach it, but we realized that this wouldn't make any changes or additions possible.
+Reinhard: No! Inizialmente abbiamo pensato che sarebbe stato il miglior approccio, ma abbiamo capito che ciò non avrebbe reso possibile nessun cambiamento o aggiunta.
 
 151
 00:16:08,110 --> 00:16:14,030
-Kai: Which means that we will mostly do rerecordings with the original actors - where it's possible -, right?
+Kai: Il che vuol dire che faremo delle nuove registrazioni con gli attori originali - dove possibile -, giusto?
 
 152
 00:16:14,190 --> 00:16:15,050
-Reinhard: Yep.
+Reinhard: Si.
 
 153
 00:16:15,270 --> 00:16:22,200
-Kai: Alright. That's good news to me! And which gameplay features and mechanics are we adding that we weren't in the original game?
+Kai: D'accordo. Ottima notizia! E quale caratteristica di gameplay e meccaniche stiamo aggiungendo che non erano presenti nel gioco originale?
 
 154
 00:16:23,160 --> 00:16:37,060
-Javi: We are working on several new features. As a preview, you will now be able to climb some walls in the game. This allows us to reward the more exploratory players and also to develop more vertical levels.
+Javi: Stiamo lavorando a diverse nuove caratteristiche. Come anteprima, sarete in grado di scalare alcuni muri nel gioco. Questo ci permette di premiare i giocatori più esplorativi e di sviluppare livelli più verticali.
 
 155
 00:16:37,170 --> 00:16:39,180
-Kai: Uuuh... climbing walls. Nice!
+Kai: Uuuh... scalare muri. Fico!
 
 156
 00:16:40,150 --> 00:16:51,080
-Javi: We have also redesigned pickpocketing, lockpicking, some crafting systems... We have more surprises, but we don't want to reveal them all at once.
+Javi: Abbiamo anche modificato il furto, lo scasso, alcuni sistemi di creazione... Abbiamo molte sorprese, ma non vogliamo rivelare tutto in una volta sola.
 
 157
 00:16:51,230 --> 00:16:55,000
-Kai: Yeah, that makes sense. We have to keep some for the next episodes.
+Kai: Si, ha senso. Doppiamo tenerci qualcosa per i prossimi episodi.
 
 158
 00:16:55,120 --> 00:17:05,080
-Reinhard: It's starting to get dark. We've been chatting for quite a while. [Oh, yes.] Kai, how about we end this episode with some music? Night in the old camp, maybe?
+Reinhard: Sta iniziando a fare buio. Stiamo parlando da un po' ormai. [Oh, si.] Kai, che ne dici di chiudere questo episodio con un po' di musica? Notte a campo vecchio, magari?
 
 159
 00:17:06,040 --> 00:17:10,020
-Kai: I was hoping for you to ask that. Yeah, I'd love to share some of that.
+Kai: Speravo me lo chiedessi. Si, mi piacerebbe tanto.
 
 160
 00:17:10,150 --> 00:17:14,000
-Reinhard: Okay, then. Do you have any other questions before we wrap this up?
+Reinhard: Bene allora. Hai altre domande prima che chiudiamo?
 
 161
 00:17:14,010 --> 00:17:18,220
-Kai: Yes. About that letter... who is it for? You're making such a big secret out of it.
+Kai: Si. A proposito di quella lettere... per chi è? Ne stai facendo un grande segreto.
 
 162
 00:17:19,060 --> 00:17:24,240
-Reinhard: Oh, yeah, I completely forgot about that. [Sure.] Guess we'll leave that for the next episode, then.
+Reinhard: Oh, già, me ne sono completamente dimenticato. [Certo.] Immagino dovremmo aspettare il prossimo episodio.
 
 163
 00:17:25,040 --> 00:17:30,160
-Kai: That's a pretty decent cliffhanger. Anyways, Javi, thank you so much for joining us.
+Kai: Questo è un cliffhander abbastanza buono. Comunque, Javi, grazie mille per esserti unito a noi.
 
 164
 00:17:30,250 --> 00:17:36,080
-Javi: Thanks for inviting me. I'm looking forward to coming back and talking more about the Gothic remake.
+Javi: Grazie per avermi invitato. Non vedo l'ora di tornare e parlare ancora del remake di Gothic.
 
 165
 00:17:36,180 --> 00:17:43,100
-Kai: Yes, that will be great. So, here's a bit of night music from the old camp. See you all in the next episode.
+Kai: Si, sarebbe fantastico. A voi, un po' di musica notturna da campo vecchio. Ci vediamo al prossimo episodio.
 
 166
 00:17:43,160 --> 00:17:44,160
-Javi: Bye bye, everybody.
+Javi: Arrivederci a tutti.
 
 167
 00:17:44,190 --> 00:17:46,150
-Reinhard: Take care. Bye Bye.
+Reinhard: Fate attenzione. Arrivederci.
 
 168
 00:20:16,010 --> 00:20:22,000
-Kai: Thank you for listening. That was... Chapter 2.
+Kai: Grazie per aver ascoltato. Questo era... Capitolo 2.
