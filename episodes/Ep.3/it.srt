@@ -1,134 +1,134 @@
 1
 00:00:27,000 --> 00:00:30,060
-Xardas: Chapter three.
+Xardas: Capitolo tre.
 
 2
 00:00:30,060 --> 00:00:33,060
-Reinhard: Welcome to the Gothic 1 Remake Podcast.
+Reinhard: Benvenuti al Gothic 1 Remake Podcast.
 
 3
 00:00:33,060 --> 00:00:37,240
-Reinhard: We're just outside the Old Camp in the wilderness, sitting at a campfire.
+Reinhard: Ci troviamo nelle terre selvagge appena fuori Campo Vecchio, seduti ad un falò.
 
 4
 00:00:37,240 --> 00:00:43,240
-Reinhard: And we're here to talk to you about what happened in August about the Gothic 1 Remake.
+Reinhard: E siamo qui per parlarvi di ciò che è successo ad Agosto riguardo Gothic 1 Remake.
 
 5
 00:00:44,000 --> 00:00:46,260
-Reinhard: We had two really big moments for us.
+Reinhard: Abbiamo avuto due momenti molto importanti.
 
 6
 00:00:46,260 --> 00:00:55,110
-Reinhard: First of all, there was the release of the Old Camp trailer that showed off the atmosphere of the Old Camp and also the environment of the Old Camp.
+Reinhard: Prima di tutto, c'è stato il rilascio del trailer di Campo Vecchio, che ha mostrato l'atmosfera e l'ambiente di Campo Vecchio.
 
 7
 00:00:55,110 --> 00:01:03,240
-Reinhard: And secondly, we had a secret demo with us and traveled to Gamescom to show it off to selected journalists and streamers.
+Reinhard: Secondo, abbiamo una demo segreta che abbiamo portato con noi alla Gamescom e l'abbiamo mostrata a dei giornalisti e streamer selezionati.
 
 8
 00:01:03,270 --> 00:01:09,210
-Reinhard: And we are here to give you some more details and explanations of what we showed there.
+Reinhard: E siamo qui per darvi qualche dettaglio e spiegazione di ciò che abbiamo mostrato.
 
 9
 00:01:09,210 --> 00:01:18,250
-Reinhard: I'm Reinhard Pollice, I'm the director at Alkimia Interactive. And I'm joined by some of my companions that work together with me on the Gothic 1 Remake.
+Reinhard: Io sono Reinhard Pollice, sono il direttore di Alkimia Interactive. E sono qui con alcuni dei miei compagni che lavorano insieme a me a Gothic 1 Remake.
 
 10
 00:01:18,270 --> 00:01:20,260
-Reinhard: Please introduce yourselves.
+Reinhard: Prego presentatevi pure.
 
 11
 00:01:20,260 --> 00:01:26,190
-Joan: Okay. Well, hello, my name is Joan. I'm the Cinematic Designer here at Alkimia.
+Joan: D'accordo. Beh, salve, mi chiamo Joan. Sono il Cinematic Designer qui in Alkimia.
 
 12
 00:01:26,190 --> 00:01:31,240
-Joan: My role basically is taking care of all the cinematics parts that we will have in the game.
+Joan: Il mio ruolo consiste nel prendermi cura di tutte le parti cinematografiche presenti nel gioco.
 
 13
 00:01:31,240 --> 00:01:36,010
-Joan: Also, the trailers that we will require for marketing purposes.
+Joan: Inoltre, anche i trailer che richiediamo per scopi di marketing.
 
 14
 00:01:36,010 --> 00:01:43,260
-Dani: Okay, I'm Dani. I'm Dani Candil. I am the Art Director of the Gothic remake.
+Dani: Ok, io sono Dani Candil. Sono l'Art Director di Gothic Remake.
 
 15
 00:01:43,260 --> 00:01:48,160
-Kai: Hey, my name is Kai Rosenkranz, and I am composer and sound designer.
+Kai: Hei, io sono Kai Rosenkranz, sono il compositore e sound designer.
 
 16
 00:01:48,180 --> 00:01:49,280
-Kai: Javi, you want to go next?
+Kai: Javi, vuoi continuare tu?
 
 17
 00:01:49,280 --> 00:01:59,090
-Javi: Yeah. It's great to be back here. And thank you all - the community - for all the feedback you had. That was very nice.
+Javi: Si. È grandioso essere tornati qui. E grazie a tutti voi -la community- per tutti i feedback che avete fornito. È stato fantastico.
 
 18
 00:01:59,090 --> 00:02:07,120
-Timur: So it's my turn. My name is Timur (T-Moor), and I'm a big Gothic fan and the community manager at Alkimia Interactive.
+Timur: È il mio turno. Mi chiamo Timur (T-Moor), sono un grande fan di Gothic e community manager in Alkimia Interactive.
 
 19
 00:02:07,120 --> 00:02:16,010
-Reinhard: Thanks. So let's first talk about the Old Camp trailer. (Joan: Okay.) What does the Old Camp mean to you, Joan?
+Reinhard: Grazie. Prima di tutto parliamo del trailer di Campo Vecchio. (Joan:Ok.) Cosa significa Campo Vecchio per te, Joan?
 
 20
 00:02:16,010 --> 00:02:29,020
-Joan: For me, the Old Camp is the strongest memory that you have from the original game, because it's the first place you you land when you start playing.
+Joan: Per me, Campo Vecchio è la memoria più grande che hai del gioco originale, perché è il primo luogo in cui arrivi quando inizi a giocare.
 
 21
 00:02:29,040 --> 00:02:36,140
-Joan: And the characters had such strong personality and everything, and they are so rough to you.
+Joan: E i personaggi hanno una personalità molto forte, e sono molto duri con te.
 
 22
 00:02:36,140 --> 00:02:44,070
-Joan: You really feel small there when you play, and I think that everybody remembers with nostalgia
+Joan: Ti senti davvero piccolo quando giochi, e penso che tutti ricordino ciò con nostalgia,
 
 23
 00:02:44,070 --> 00:02:53,000
-Joan: those random conversations that the NPCs had, the diggers trying to repair their huts all the time.
+Joan: quelle conversazioni casuali tra NPC, i minatori che cercano di riparare le loro baracche tutto il tempo.
 
 24
 00:02:53,000 --> 00:02:58,110
-Joan: I don't know... this kind of, yeah, especially I think it's sound for me, the Old Camp.
+Joan: Non so... Campo Vecchio per me suona così.
 
 25
 00:02:58,110 --> 00:03:01,060
-Kai: Did someone say sound? (Joan: Yeah, definitely.)
+Kai: Qualcuno ha detto suona? (Joan: Pare di si.)
 
 26
 00:03:01,060 --> 00:03:04,160
-Kai: Thank you, Joan. It's very nice of you to say that. (Joan: Yeah.)
+Kai: Grazie, Joan. Monto gentile da parte tua. (Joan: Già.)
 
 27
 00:03:04,160 --> 00:03:07,150
-Reinhard: So, what does the Old Camp mean to you, Dani?
+Reinhard: Quindi, cosa vuol dire per te Campo Vecchio, Dani?
 
 28
 00:03:07,150 --> 00:03:12,100
-Dani: So for me, the Old Camp is the most important part of the colony.
+Dani: Per me, Campo Vecchio è la parte più importante della colonia.
 
 29
 00:03:12,100 --> 00:03:21,160
-Dani: I mean, it's the most recognizable landmark in all of the gothic experience for me there in terms of visual shape and recognition.
+Dani: Voglio dire, in tutte le esperienze di Gothic è la parte più riconoscibile che c'è in termini di forme visive e caratteristiche, per me.
 
 30
 00:03:21,180 --> 00:03:27,220
-Dani: It's one of the most tricky parts of the game to work with. It's an intricate labyrinth of of huts.
+Dani: È una delle parti più difficili del gioco sui cui lavorare. È un intricato labirinto di capanne.
 
 31
 00:03:27,220 --> 00:03:36,090
-Dani: It's like... it's interesting because it's a scenario that is being reused. I mean, originally it was a prison, then it became Gomez' castle.
+Dani: Intendo che... è interessante perché è uno scenario che viene riutilizzato. Nel senso, originariamente era una prigione, poi è diventato il castello di Gomez.
 
 32
 00:03:36,090 --> 00:03:43,290
-Dani: For me, this interesting because it offers me as an artist the possibility of working with a very high level of detail
+Dani: In quanto artista, questo è interessante perché mi permette la possibilità di lavorare con un alto livello di dettaglio
 
 33
 00:03:43,290 --> 00:03:50,080
-Dani: and very high level of narrative, you know, environment that tells a lot of things about the place.
+Dani: e con un alto livello di narrativa, sai, l'ambientazione che narra un sacco di cose su quel luogo.
 
 34
 00:03:50,120 --> 00:03:58,110
