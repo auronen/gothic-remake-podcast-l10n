@@ -500,103 +500,103 @@ Kai: Bine. Mă ocup de asta.
 
 126
 00:13:13,240 --> 00:13:18,290
-Reinhard: Now, let's talk about the Nyras Prolog, which was the demo that we showed to press and streamers at Gamescom.
+Reinhard: Acum să vorbim despre Prologul lui Nyras, care a fost demo-ul pe care l-am arătat presei și streamerilor la Gamescom.
 
 127
 00:13:18,290 --> 00:13:23,230
-Kai: Yeah, actually, I think that needs some more introduction. (Reinhard: Yes.) So what is the ... What is it?
+Kai: Da, de fapt, cred că asta are nevoie de o mai bună introducere. (Reinhard: Da.) Deci, ce e ... Ce este acesta?
 
 128
 00:13:23,230 --> 00:13:35,070
-Reinhard: So, the Nyras Prolog is really a slice of the game that contains almost all elements in a close to final form, and it features not the nameless hero, but the character called Nyras.
+Reinhard: Așadar, Prologul lui Nyras este, de fapt, o porțiune de joc care conține aproape toate elementele într-o formă aproape finală și nu îl are ca protagonist pe eroul fără nume, ci pe personajul numit Nyras.
 
 129
 00:13:35,070 --> 00:13:46,210
-Reinhard: And we chose this because the start of the game is not really something that has a big - like - progression curve, because it expects you to go to the Old Camp and do some talking there.
+Reinhard: Și am ales acest lucru pentru că începutul jocului nu are o curbă mare de progresie, pentru că se așteaptă să mergi în Tabăra Veche și să începi să conversezi acolo.
 
 130
 00:13:46,210 --> 00:13:55,010
-Reinhard: Our goal was that within 30 minutes you get to see every element of the game and we could achieve this with this setup. (Kai: Yeah, that makes a lot of sense.)
+Reinhard: Scopul nostru a fost ca în 30 de minute să poți vedea fiecare element al jocului și am reușit să realizăm acest lucru cu acest cadru. (Kai: Da, asta are mult sens.)
 
 131
 00:13:55,010 --> 00:13:59,140
-Kai: The first food's ready. Ehm, Paella was for you, Dani, right? (Dani: Exactly, yes!)
+Kai: Prima mâncare e gata. Hmm, paella era pentru tine, Dani, nu? (Dani: Exact, da!)
 
 132
 00:13:59,140 --> 00:14:04,060
-Kai: There you go. (Dani: Thanks.) Reinhard, why did we choose Nyras for the prolog?
+Kai: Poftim. (Dani: Mulțumesc.) Reinhard, de ce l-am ales pe Nyras pentru prolog?
 
 133
 00:14:04,060 --> 00:14:12,200
-Reinhard: We had obviously several options because before the Nameless Hero gets sent into the colony, obviously other characters get sent into the colony.
+Reinhard: Am avut, evident, mai multe opțiuni, pentru că înainte ca eroul fără nume să fie trimis în colonie, evident că și alte personaje sunt trimise în colonie.
 
 134
 00:14:12,220 --> 00:14:21,010
-Reinhard: (Kai talking to others in the background, giving out food and drinks.) Reinhard: And so it was a guy named Nyras that later turned his attention to the swamp and plays a very important part later down the road in the game.
+Reinhard: (Kai vorbește cu alții în fundal, împărțind mâncare și băuturi.) Reinhard: Și astfel a fost un tip pe nume Nyras care mai târziu și-a îndreptat atenția către mlaștină și care joacă un rol foarte important mai târziu în joc.
 
 135
 00:14:21,050 --> 00:14:25,130
-Kai: Cool. Thank you. Here's your meal. (Reinhard: Thanks.) That should be everything.
+Kai: Mișto. Mulțumesc. Poftim mâncarea. (Reinhard: Mulțumesc.) Asta ar trebui să fie tot.
 
 136
 00:14:25,130 --> 00:14:29,110
-Reinhard: So what was the main goal of the Nyras Prolog and how did we start?
+Reinhard: Deci, care a fost scopul principal al Prologului lui Nyras și cum am început?
 
 137
 00:14:29,110 --> 00:14:40,130
-Javi: Well, I think our main goal was to show all the progress of the game and a little bit how the game has changed from the PT - from the playable teaser.
+Javi: Ei bine, cred că obiectivul nostru principal a fost să arătăm tot progresul jocului și să arătăm puțin cum s-a schimbat jocul față de PT - față de Playable Teaser.
 
 138
 00:14:40,150 --> 00:14:57,150
-Javi: So we have a lot of things to show, and one of the more important things that we wanted to show was the Exchange Zone at the end, because it changed a lot from the previous version we had done. This limit of the level, the space, and we build from there.
+Javi: Deci avem multe lucruri de arătat, iar unul dintre cele mai importante lucruri pe care am vrut să le arătăm a fost zona de schimb la sfârșit, pentru că s-a schimbat foarte mult față de versiunea anterioară pe care am făcut-o. Această limită a nivelului, a spațiului, iar noi dezvoltăm de acolo.
 
 139
 00:14:57,170 --> 00:14:59,140
-Javi: There are a lot of things that we want to show there.
+Javi: Sunt o mulțime de lucruri pe care vrem să le arătăm acolo.
 
 140
 00:14:59,140 --> 00:15:05,030
-Javi: Well, we can talk about all the mechanics or systems.
+Javi: Ei bine, putem vorbi despre toate mecanicile sau sistemele.
 
 141
 00:15:05,030 --> 00:15:08,150
-Javi: I don't know which one do you want to start talking about?
+Javi: Nu știu. Despre care dintre ele vrei să începi să vorbești?
 
 142
 00:15:08,150 --> 00:15:12,000
-Reinhard: I think we should start exactly with that. The Exchange Zone.
+Reinhard: Cred că ar trebui să începem exact cu asta. Zona de schimb.
 
 143
 00:15:12,000 --> 00:15:14,300
-Reinhard: So is it a completely new exchange zone?
+Reinhard: Așadar, e o zonă de schimb complet nouă?
 
 144
 00:15:14,300 --> 00:15:17,000
-Javi: Well, it's pretty much the same.
+Javi: Ei bine, e cam la fel.
 
 145
 00:15:17,000 --> 00:15:24,180
-Javi: I think all the players will recognize it. It's the place they imagine, like a new version but the same place.
+Javi: Cred că toți jucătorii o vor recunoaște. Este locul pe care și-l imaginează, ca o versiune nouă, dar același loc.
 
 146
 00:15:24,230 --> 00:15:39,120
-Javi: (Dani: Yeah.) We want to build from the original. We have created this Exchange Zone where - well - in the prolog Whistler and Diego were there. And we keep most of the rhythm of the level.
+Javi: (Dani: Da.) Vrem să construim pornind de la original. Am creat această Zonă de schimb în care - ei bine - în prolog Whistler și Diego erau acolo. Și am păstrat cea mai mare parte din ritmul nivelului.
 
 147
 00:15:39,140 --> 00:15:43,140
-Javi: We keep the abandoned mine entrance, the bridge...
+Javi: Păstrăm intrarea în mina abandonată, podul...
 
 148
 00:15:43,140 --> 00:15:47,250
-Javi: Well, I think all the players will recognize it perfectly. (Dani: Oh yeah, yeah, yeah.)
+Javi: Ei bine, cred că toți jucătorii o vor recunoaște perfect. (Dani: O, da, da, da, da.)
 
 149
 00:15:47,250 --> 00:15:57,090
-Javi: Yeah, we have these, these different areas that we work with. Because we have also the top area where - you know - all the players remember there was there Goblin in there.
+Javi: Da, avem aceste, aceste zone diferite cu care lucrăm. Pentru că avem, de asemenea, zona de sus, unde - știți - toți jucătorii își amintesc că era un goblin acolo.
 
 150
 00:15:57,090 --> 00:16:01,210
-Javi: We have also the tree with the Scavengers and... Yeah!
+Javi: Mai avem și copacul cu scavengerii și... Da!
 
 151
 00:16:01,210 --> 00:16:10,280
