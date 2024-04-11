@@ -1,46 +1,46 @@
 1
 00:00:21,200 --> 00:00:24,000
-Xardas: Chapter two
+Xardas: Kapitola Druhá
 
 2
 00:00:29,250 --> 00:00:35,230
-Kai: Hi, everyone, and welcome to the Gothic Remake Podcast. I am Kai Rosenkranz, composer and sound designer.
+Kai: Ahoj, všichni, a vítejte u Gothic Remake Podcastu. Já jsem Kai Rosenkranz, skladatel a zvukový designer.
 
 3
 00:00:36,090 --> 00:00:42,180
-Reinhard: And I am Reinhard Pollice, studio and game director. Welcome to the old camp. Let's take a walk to the arena.
+Reinhard: A já jsem Reinhard Pollice, režisér studia a hry. Vítejte ve starém táboře. Pojďme se projít k aréně.
 
 4
 00:00:42,290 --> 00:00:44,000
-Kai: Alright.
+Kai: Dobrá.
 
 5
 00:00:46,000 --> 00:00:49,150
-Reinhard: Diego! Oh, wow. How did he get here so quickly?
+Reinhard: Diego! Oh, wow. Jak se sem dostal tak rychle?
 
 6
 00:00:50,010 --> 00:00:54,040
-Kai: Hi again, Diego. [Hello.] Hope you like the new music for your camp.
+Kai: Znovu tě zdravím, Diego. [Ahoj.] Doufám že se ti líbí nová hudba pro tvůj tábor.
 
 7
 00:00:54,100 --> 00:00:57,040
-Sprecher 1: Well done. That's not too bad for a newcomer.
+Sprecher 1: Dobrá práce. To není špatné na nováčka.
 
 8
 00:00:57,210 --> 00:01:05,010
-Kai: Thank you, Diego. I love this camp so much. The flair, the nostalgia, this sludgy smell.
+Kai: Děkuju ti, Diego. Já tenhle tábor tak miluju. Ten šmrnc, nostalgie, ta blátivá vůně.
 
 9
 00:01:05,210 --> 00:01:09,010
-Reinhard: That's probably just this meeting room we're recording the episode in.
+Reinhard: To je pravděpodobně jen zasedací místnost, ve které nahráváme epizodu.
 
 10
 00:01:09,270 --> 00:01:14,000
-Kai: Yeah, maybe. But shhh, you're breaking the immersion.
+Kai: Jo, možná. Ale pšššt, narušuješ atmosféru.
 
 11
 00:01:14,000 --> 00:01:18,220
-Reinhard: Anyways... Welcome everybody to episode two about design principles.
+Reinhard: Každopádně... Vítejte všichni u druhé epizody o principech designu.
 
 12
 00:01:19,120 --> 00:01:21,150
