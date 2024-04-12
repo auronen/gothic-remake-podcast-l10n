@@ -600,227 +600,227 @@ Javi: Mai avem și copacul cu scavengerii și... Da!
 
 151
 00:16:01,210 --> 00:16:10,280
-Javi: From our level perspective we keep the same and we want to show it and create a story for the beginning of any prisoner when they go inside the colony.
+Javi: Din perspectiva noastră asupra nivelului, păstrăm același lucru și vrem să-I arătăm și să creăm o poveste pentru începutul oricărui prizonier, atunci când intră în colonie.
 
 152
 00:16:11,040 --> 00:16:13,210
-Reinhard: Cool. So what was the process?
+Reinhard: Mișto. Deci, care a fost procesul?
 
 153
 00:16:13,210 --> 00:16:27,150
-Javi: Well, from the level perspective, what we create is taking the original, we create a blockout and we try to keep as much as possible (true) to the original one.
+Javi: Ei bine, din punct de vedere al nivelului, ceea ce creăm noi este să luăm originalul, să creăm un blockout și să încercăm să păstrăm cât mai mult posibil (fidel) față de cel original.
 
 154
 00:16:27,150 --> 00:16:35,170
-Javi: But also we want to improve it, giving these areas more... more deepness and more flavor for what they are, really.
+Javi: Dar, de asemenea, vrem să-l îmbunătățim, dându-le acestor zone mai multă... mai multă profunzime și mai multă substanță pentru ceea ce sunt ele, de fapt.
 
 155
 00:16:35,200 --> 00:16:46,080
-Javi: And then we talk with the art team when we have this blockout to start working on the - okay - the decoration, the framing, more stuff in a in a visual way.
+Javi: Apoi discutăm cu echipa artistică atunci când avem acest blocaj pentru a începe să lucrăm la decorare, la încadrare, la mai multe lucruri din punct de vedere vizual.
 
 156
 00:16:46,100 --> 00:16:51,020
-Javi: Also we..., when we are doing these blockouts, we also thought about the
+Javi: De asemenea, noi..., atunci când facem aceste blocări, ne-am gândit și la
 
 157
 00:16:51,020 --> 00:16:53,110
-Javi: the creatures who are there. Because for us it's very important
+Javi: creaturile care se află acolo. Pentru că pentru noi este foarte important
 
 158
 00:16:53,110 --> 00:16:59,240
-Javi: to create this habitat for the creatures. Like where they live, where they sleep, where they eat,
+Javi: să creăm acest habitat pentru creaturi. Cum ar fi locul unde trăiesc, unde dorm, unde mănâncă,
 
 159
 00:16:59,260 --> 00:17:03,010
-Javi: how is their daily routine also for the creatures? Because at the end
+Javi: cum este rutina zilnică pentru creaturi? Pentru că până la urmă
 
 160
 00:17:03,010 --> 00:17:09,150
-Javi: they are living creatures also. And, and yeah, and also one of the of the important things for for this
+Javi: și ele sunt creaturi vii. Și da, de asemenea, și unul dintre lucrurile importante pentru acest
 
 161
 00:17:09,150 --> 00:17:23,270
-Javi: prolog is to create this pacing for the quests. But it's also very important for us, for when we create a space, we have also in mind the quest that will be there and... Yeah, that's our process.
+Javi: prolog este de a crea acest ritm pentru misiuni. Dar este, de asemenea, foarte important pentru noi, pentru că atunci când creăm un spațiu, avem în vedere și misiunea care va fi acolo și... Da, acesta este procesul nostru.
 
 162
 00:17:23,270 --> 00:17:32,090
-Javi: We create this, we place the people, we try it, we iterate, we talk with the art team, they create awesome visuals for these spaces.
+Javi: Creăm asta, așezăm oamenii, încercăm, iterăm, discutăm cu echipa artistică, care creează imagini impresionante pentru aceste spații.
 
 163
 00:17:32,090 --> 00:17:39,070
-Javi: And yeah, it's something like... We start from from the blockout and from there we continue with, with all these things.
+Javi: Și da, e ceva de genul... Începem de la blockout și de acolo continuăm cu, cu toate aceste lucruri.
 
 164
 00:17:39,140 --> 00:17:43,240
-Dani: Yeah. The cool thing is that when we start preparing the blockout phase,
+Dani: Da. Chestia mișto este că atunci când începem să pregătim faza de blocare,
 
 165
 00:17:43,240 --> 00:17:49,020
-Dani: I mean, we meet together with the designers, with the level designers, so we can share the same vision
+Dani: adică, ne întâlnim împreună cu designerii, cu designerii de nivel, ca să putem împărtăși aceeași viziune
 
 166
 00:17:49,020 --> 00:17:55,020
-Dani: about how this space should be explored, how this a space should look and feel.
+Dani: despre cum ar trebui explorat acest spațiu, cum ar trebui să arate și să se simtă acest spațiu.
 
 167
 00:17:55,050 --> 00:17:59,260
-Dani: So when they give the blockout to us, we are basically working on the same page.
+Dani: Așa că, atunci când ne dau blocajul, practic lucrăm pe aceeași pagină.
 
 168
 00:17:59,260 --> 00:18:04,130
-Dani: So we start our process of, you know, searching for believable environments.
+Dani: Așa începem procesul nostru de căutare a unor medii credibile.
 
 169
 00:18:04,130 --> 00:18:11,020
-Dani: I mean, we should transform this blockout into believable environments, into believable constructions.
+Dani: Adică, ar trebui să transformăm acest blocaj în medii credibile, în construcții credibile.
 
 170
 00:18:11,040 --> 00:18:16,190
-Dani: So we'll start, you know, drawing and sketching and searching for references.
+Dani: Așa că vom începe să desenăm, să facem schițe și să căutăm referințe.
 
 171
 00:18:16,190 --> 00:18:20,290
-Dani: It's super important to always search for realistic references.
+Dani: Este foarte important să căutăm întotdeauna referințe realiste.
 
 172
 00:18:20,290 --> 00:18:26,210
-Dani: And we start playing with materials and trying to create the right sensation, the right mood, the right structures.
+Dani: Și începem să ne jucăm cu materialele și să încercăm să creăm senzația potrivită, atmosfera potrivită, structurile potrivite.
 
 173
 00:18:26,210 --> 00:18:30,130
-Dani: And sometimes we go a little overboard with the details.
+Dani: Și, uneori, mergem un pic prea departe cu detaliile.
 
 174
 00:18:30,130 --> 00:18:36,190
-Dani: But in general, the cool thing is that here we work together as a great team. We share the same vision.
+Dani: Dar, în general, ceea ce e grozav este că aici lucrăm împreună ca o echipă minunată. Împărtășim aceeași viziune.
 
 175
 00:18:36,190 --> 00:18:42,150
-Dani: So basically when we start decorating, we already know how this should end up looking.
+Dani: Deci, practic, atunci când începem să decorăm, știm deja cum ar trebui să arate totul.
 
 176
 00:18:42,150 --> 00:18:44,140
-Reinhard: That's great. Thanks for the insight.
+Reinhard: Asta e minunat. Mulțumesc pentru explicații.
 
 177
 00:18:44,140 --> 00:18:48,180
-Reinhard: The changed Exchange Zone does have a new fireplace right? (Javi: Right.)
+Reinhard: Zona de schimb modificată are un nou loc pentru făcut focul, nu-i așa? (Javi: Corect.)
 
 178
 00:18:48,180 --> 00:18:56,020
-Javi: This fire point in the Exchange Zone that we placed there for the players to be able to cook some recipes.
+Javi: Acest loc pentru foc în zona de schimb l-am plasat acolo pentru ca jucătorii să poată găti câteva rețete.
 
 179
 00:18:56,030 --> 00:19:00,120
-Javi: There are a lot of creatures in the Exchange Zone that give you meat.
+Javi: Sunt o mulțime de creaturi în zona de schimb care îți oferă carne.
 
 180
 00:19:00,120 --> 00:19:03,250
-Javi: Like the Scavengers and the Molerats also.
+Javi: Cum ar fi scavengerii și șobolanii-cârtiță.
 
 181
 00:19:03,250 --> 00:19:11,050
-Javi: But this is one of our bases. Because we want the player to get this meat and prepare the recipes, the dishes.
+Javi: Dar aici este una dintre bazele noastre. Pentru că vrem ca jucătorul să facă rost de această carne și să pregătească rețetele, mâncărurile.
 
 182
 00:19:11,050 --> 00:19:13,120
-Javi: And it's a way to survive in the wildlands.
+Javi: Și asta e o modalitate de a supraviețui în sălbăticie.
 
 183
 00:19:13,120 --> 00:19:20,230
-Javi: Also we are having a lot of interest in developing better the hunting skills because it's something
+Javi: De asemenea, suntem foarte interesați să dezvoltăm mai bine abilitățile de vânătoare, pentru că este ceva
 
 184
 00:19:20,230 --> 00:19:24,290
-Javi: that we think is important for the game because at the end you are in the wildlands, you need to survive.
+Javi: ce considerăm a fi important pentru joc, pentru că la final te afli în sălbăticie, trebuie să supraviețuiești.
 
 185
 00:19:24,290 --> 00:19:27,130
-Javi: You need to get these material from the creatures.
+Javi: Ai nevoie să obții aceste materiale de la creaturi.
 
 186
 00:19:27,130 --> 00:19:33,130
-Javi: And for us, it's very, very important to give this feeling of adventure of... Okay, you have to get prepared with this.
+Javi: Iar pentru noi, este foarte, foarte important să oferim acest sentiment de aventură... Bine, trebuie să te pregătești pentru asta.
 
 187
 00:19:33,150 --> 00:19:42,070
-Javi: And we will use these materials for many kinds of crafting because we will have not just cooking, we will have more crafting there.
+Javi: Și vom folosi aceste materiale pentru mai multe feluri de meșteșuguri, pentru că nu vom avea doar gătit, ci vom avea mai multe meșteșuguri acolo.
 
 188
 00:19:42,070 --> 00:19:47,250
-Javi: Yeah, it's something important for us and we will give this a little bit more and land
+Javi: Da, este ceva important pentru noi și îi vom mai acorda un pic mai multă atenție
 
 189
 00:19:47,250 --> 00:19:52,030
-Javi: because at the end you can prepare different dishes with different materials.
+Javi: pentru că până la urmă poți pregăti diferite feluri de mâncare cu diferite ingrediente.
 
 190
 00:19:52,060 --> 00:19:58,160
-Kai: And I got to say: The way it is executed in the Nyras Prolog, the cooking mechanic, already works very well. (Javi: Yes.)
+Kai: Și trebuie să spun: Modul în care este executat în Prologul lui Nyras, mecanismul de gătit, funcționează deja foarte bine. (Javi: Da.)
 
 191
 00:19:58,160 --> 00:20:01,280
-Kai: Why did we choose the Exchange Zone for the demo ground?
+Kai: De ce am ales zona de schimb ca loc dedicat demo-ului?
 
 192
 00:20:01,280 --> 00:20:07,160
-Reinhard: Using the exchange zone as the scenery for the Prolog was a natural choice because it can
+Reinhard: Folosirea zonei de schimb ca decor pentru Prolog a fost o alegere naturală, deoarece aceasta poate
 
 193
 00:20:07,160 --> 00:20:13,070
-Reinhard: very well be separated from the rest of the world and doesn't need to get borders everywhere.
+Reinhard: fi foarte bine separată de restul lumii și nu are nevoie de limite peste tot.
 
 194
 00:20:13,070 --> 00:20:18,010
-Reinhard: It already has very natural borders, almost anywhere other than in the mountain path.
+Reinhard: Are deja limite foarte naturale, aproape peste tot, în afară de poteca montană.
 
 195
 00:20:18,010 --> 00:20:24,130
-Reinhard: So we only had to find an explanation of why this path is blocked. (Kai: And what is that explanation?)
+Reinhard: Așa că a trebuit doar să găsim o explicație a motivului pentru care această cale este blocată. (Kai: Și care este acea explicație?)
 
 196
 00:20:24,190 --> 00:20:31,210
-Reinhard: So, the setup was that the rockslide happened and rocks were basically blocking the way down.
+Reinhard: Deci, totul a fost aranjat astfel: s-a produs o alunecare de stânci, iar pietrele blocau practic drumul spre vale.
 
 197
 00:20:31,240 --> 00:20:38,280
-Reinhard: And since there were people kind of like busy with some dealings in there, they are now trapped in this environment.
+Reinhard: Și din moment ce au fost niște oameni cam ocupați cu niște treburi acolo, ei au rămas blocați în acest spațiu.
 
 198
 00:20:38,280 --> 00:20:41,120
-Kai: Yeah, yeah, I guess that works.
+Kai: Da, da, cred că merge.
 
 199
 00:20:41,120 --> 00:20:43,250
-Reinhard: Joan, you were an important part of that.
+Reinhard: Joan, tu ai fost o parte importantă a acestui lucru.
 
 200
 00:20:43,250 --> 00:20:48,050
-Reinhard: You contributed the concept of the cinematic camera system.
+Reinhard: Ai contribuit la conceptul sistemului de cameră cinematică.
 
 201
 00:20:48,050 --> 00:20:55,210
-Joan: Yeah. Well, I think the challenge for the cinematic dialogs that we wanted to have was specially... Normally in cinema,
+Joan: Da. Ei bine, cred că provocarea pentru dialogurile cinematice pe care am vrut să le avem a fost în mod special... În mod normal, în cinematografie,
 
 202
 00:20:55,240 --> 00:21:01,010
-Joan: when you have a shot-by-shot situation, you also have an editing, right?
+Joan: când ai o situație cadru cu cadru, ai și un montaj, nu?
 
 203
 00:21:01,010 --> 00:21:10,040
-Joan: (Kai: Yes.) An editing that has some sense and reasons inside the cinematic rules that we all know.
+Joan: (Kai: Da.) Un montaj care are un sens și motive legate de regulile cinematografice pe care le cunoaștem cu toții.
 
 204
 00:21:10,060 --> 00:21:16,120
-Joan: So for us, this was the main challenge because we wanted to have
+Joan: Deci, pentru noi, aceasta a fost principala provocare, pentru că am vrut să avem
 
 205
 00:21:16,140 --> 00:21:22,020
-Joan: a lot of diferent cameras as you can experience in cinema, not just two or three.
+Joan: o mulțime de camere de filmat diferite, așa cum poți vedea în cinematografie, nu doar două sau trei.
 
 206
 00:21:22,020 --> 00:21:29,020
-Joan: And at the end this was difficult to achieve, even though for the game we are going to have it!
+Joan: Și până la urmă acest lucru a fost greu de realizat, chiar dacă pentru joc îl vom avea!
 
 207
 00:21:29,040 --> 00:21:36,070
