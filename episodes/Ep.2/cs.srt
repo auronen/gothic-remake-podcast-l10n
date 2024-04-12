@@ -88,191 +88,191 @@ Reinhard: You're absolutely right. But we'll have to pick someone up at the sout
 
 23
 00:02:22,160 --> 00:02:26,120
-Kai: Ah, nice. Are we meeting the person you have to give that letter to?
+Kai: Ah, super. Setkáme se s osobou, které musíš dát ten dopis?
 
 24
 00:02:26,240 --> 00:02:34,000
-Reinhard: Well, not right now. We're going to meet Javi Untoria, our lead game designer, at the south entrance. But the letter is not for him.
+Reinhard: No, teď hned ne. U jižního vchodu se setkáme s Javim Untoriou, naším hlavním herním designérem. Ale ten dopis není pro něj.
 
 25
 00:02:34,090 --> 00:02:46,150
-Kai: Okay, I see. Folks in the outer ring seem to be pretty busy already. Can you talk a little bit about their daily routines and how we're breathing life into this place and its inhabitants? Or would you like to leave that for Javi?
+Kai: Dobře, už chápu. Zdá se, že lidé ve vnějším kruhu už mají dost práce. Můžeš mi trochu říct o jejich každodenní rutině a o tom, jak vdechujeme život tomuto místu a jeho obyvatelům? Nebo to chceš nechat na Javi?
 
 26
 00:02:46,240 --> 00:02:56,050
-Reinhard: No, no, that's fine. We can talk about it right now. We set out to create a really believable daily schedule, so they will do actions depending on what time of day it is.
+Reinhard: Ne, ne, to je v pořádku. Můžeme o tom mluvit hned. Rozhodli jsme se vytvořit opravdu věrohodný denní rozvrh, takže budou dělat úkoly podle toho, jaká je denní doba.
 
 27
 00:02:56,160 --> 00:02:59,120
-Kyle: How often have I told you bastards not to run through my hut?
+Kyle: Jak často jsem vám bastardům říkal, abyste nechodily přes mou chatrč?
 
 28
 00:02:59,280 --> 00:03:01,090
-Reinhard: Sorry, Kyle. We're just...
+Reinhard: Promiň, Kyle. My jsme jenom...
 
 29
 00:03:01,090 --> 00:03:15,190
-Kyle: Leave me alone, man. [Alright, we'll just...] Don't build your hut close to the ditch, they said. But none of these bastards told me what would happen if I still did it. When I came back from the mine a few days ago, I had a second door.
+Kyle: Dej mi pokoj, člověče. [Dobrá, my jenom...] Nestav si chatrč blízko příkopu, říkali. Ale žádný z těch bastardů mi neřekl, co by se stalo, kdybych to přesto udělal. Když jsem se před pár dny vrátil z dolu, měl jsem druhé dveře.
 
 30
 00:03:15,240 --> 00:03:18,000
-Reinhard: And that's exactly what we're going through.
+Reinhard: A to je přesně to, čím procházíme.
 
 31
 00:03:18,020 --> 00:03:22,160
-Kyle: Those pigs. I hate them. I can't tell you how much I hate them.
+Kyle: Ty prasata. Nesnáším je. Nemůžu ti ani říct, jak moc je nenávidím.
 
 32
 00:03:23,030 --> 00:03:24,230
-Kai: Uhm... bye, Kyle. I'll see you later.
+Kai: Uhm... měj se, Kyle. Uvidíme se později.
 
 33
 00:03:25,020 --> 00:03:27,030
-Sprecher 1: Now everybody runs to my hut.
+Sprecher 1: Teď všichni běží do mé chatrče.
 
 34
 00:03:27,120 --> 00:03:32,240
-Kai: Poor guy. [Every idiot.] Shouldn't we move his hut away from the path in the remake?
+Kai: Chudák chlap.[Každý idiot.] Neměli bychom v remaku přesunout jeho chatrč z cesty?
 
 35
 00:03:33,170 --> 00:03:36,130
-Reinhard: Ha! Of course not.
+Reinhard: Ha! Samozřejmě že ne.
 
 36
 00:03:36,270 --> 00:03:38,150
-Kai: I just hope we won't run into...
+Kai: Doufám že nenarazíme na...
 
 37
 00:03:38,150 --> 00:03:41,160
-Mud: Hey, man, new here? I haven't seen you before.
+Mud: Hej, člověče, nový tady? Ještě jsem tě neviděl.
 
 38
 00:03:41,260 --> 00:03:42,180
-Kai: Oh, no.
+Kai: Ale ne.
 
 39
 00:03:43,000 --> 00:03:47,090
-Mud: I'll join you for a while, if you don't mind. I'm sure you'll need a friend.
+Mud: Na chvíli se k tobě přidám, pokud ti to nebude vadit. Jsem si jistý, že budeš potřebovat přítele.
 
 40
 00:03:47,180 --> 00:03:52,000
-Kai: Hey, Mud. Sorry, but we're in a little rush. We're g...
+Kai: Ahoj, Mude. Omlouvám se ale docela spěcháme. Jdem...
 
 41
 00:03:52,000 --> 00:03:57,260
-Mud: Tell me! Where are we going? Or is it supposed to be a surprise? Hehe, I like surprises.
+Mud: Povídej! Kam jdeme? Nebo to má být překvapení? Hehe, mám rád překvapení.
 
 42
 00:03:58,000 --> 00:04:07,000
-Reinhard: Mud, you have to go to the stage construction site and help them out, okay? The stage builders said they need your help or they won't be able to finish the stage in time, so.
+Reinhard: Mude, musíš jít na staveniště a pomoct jim, dobře? Stavitelé jeviště řekli, že potřebují tvojí pomoc, jinak nebudou schopni dokončit jeviště včas, takže.
 
 43
 00:04:07,000 --> 00:04:15,050
-Mud: So they'll finally understand that they were wrong about me. That'll be fun. [Yeah.] The others only want to get rid of me all the time.
+Mud: Takže konečně pochopí, že se ve mně mýlili. To bude legrace. [Jo.] Ostatní se mě chtějí pořád jen zbavit.
 
 44
 00:04:15,060 --> 00:04:17,080
-Reinhard: Uhm... yeah. We have to go now, buddy.
+Reinhard: Uhm... jasně. Musíme už jít, kamaráde.
 
 45
 00:04:17,110 --> 00:04:22,060
-Mud: Now I'm going to tell them a few of things. I'll think of a plan.
+Mud: Teď jim řeknu pár věcí. Vymyslím plán.
 
 46
 00:04:22,120 --> 00:04:24,210
-Kai: Aaaw, that was so nice of you.
+Kai: Aaaw, to bylo od tebe tak hezké.
 
 47
 00:04:24,290 --> 00:04:28,150
-Reinhard: Well, I'm gonna have to give the stage builders a massive pay rise.
+Reinhard: No, budu muset stavitelům jevišťe výrazně zvýšit plat.
 
 48
 00:04:29,010 --> 00:04:47,270
-Kai: I guess so. You said we'll meet Javi by the south entrance, right? [Yep.] Okay. That gives us a few minutes. Some screenshots of the old camp have already been published, and they were received very well. I can confirm that it looks even better when you're strolling around in it. But I have a question about lighting and colors. [Sure.]
+Kai: Myslím že ano. Říkal jsi, že se s Javim setkáme u jižního vchodu, že? [Jo.] Dobře. To nám dává pár minut. Některé screenshoty starého tábora již byly zveřejněny a byly přijaty velmi dobře. Mohu potvrdit, že když se v něm procházíte, vypadá ještě lépe. Ale mám dotaz ohledně osvětlení a barev. [Jasně.]
 
 49
 00:04:48,120 --> 00:05:05,150
-Kai: It's good to see everything's less colorful and vivid compared to the Playable Teaser. And also I've noticed that it's not as brightly lit as the screenshots that you've published. To me, when I looked at those screenshots last year, the sunlight looked kind of too brutal and it bleached out most of the colors. But this looks much more balanced.
+Kai: Je dobré vidět, že je vše méně barevné a živé ve srovnání s Playable Teaserem. A také jsem si všiml, že to není tak jasně osvětlené jako screenshoty, které jste zveřejnili. Mně, když jsem se loni díval na ty screenshoty, sluneční světlo vypadalo nějak moc brutální a vybledlo většinu barev. Ale tohle vypadá mnohem vyrovnaněji.
 
 50
 00:05:05,260 --> 00:05:13,060
-Kai: The lighting is much smoother and also it preserves some of the colors that were in the old camp, but still maintaining that brownish, dusty vibe.
+Kai: Osvětlení je mnohem jemnější a také zachovává některé barvy, které byly ve starém táboře, ale stále zanechává tu nahnědlou, zaprášenou atmosféru.
 
 51
 00:05:13,190 --> 00:05:17,080
-Reinhard: Yes, we want it to really create this rough and dark atmosphere.
+Reinhard: Ano, chceme aby to skutečně vytvořilo tuto drsnou a temnou atmosféru.
 
 52
 00:05:17,180 --> 00:05:18,090
-Kai: Mmm. I see.
+Kai: Mmm. Chápu.
 
 53
 00:05:19,150 --> 00:05:20,270
-Reinhard: There he is. Hello, Javi.
+Reinhard: Támhle je. Ahoj, Javi.
 
 54
 00:05:21,160 --> 00:05:23,110
-Javi: Hey, Reinhard, and hi, Kai.
+Javi: Hej, Reinharde, a ahoj, Kai.
 
 55
 00:05:24,050 --> 00:05:25,200
-Kai: Javi, so nice to see you.
+Kai: Javi, tak rád tě vidím.
 
 56
 00:05:25,200 --> 00:05:28,000
-Javi: You too. Shall we head to the arena?
+Javi: Nápodobně. Zamíříme do arény?
 
 57
 00:05:28,130 --> 00:05:29,090
-Reinhard: Yes, please.
+Reinhard: Ano, prosím.
 
 58
 00:05:29,210 --> 00:05:32,020
-Kai: So you're the lead game designer at Alkimia?
+Kai: Takže ty jste hlavní herní designér v Alkimii?
 
 59
 00:05:32,060 --> 00:05:32,170
-Javi: Yes.
+Javi: Ano.
 
 60
 00:05:33,020 --> 00:05:35,210
-Kai: Wow. Thanks for joining us. What do you do exactly?
+Kai: Wow. Díky, že si se k nám přidal. Co přesně děláš?
 
 61
 00:05:36,000 --> 00:05:47,090
-Javi: My job is to manage the design and level design team. I am in charge of helping the team to maintain a coherent vision and oversee their work. Also, I design some complex system and coordinate with other teams.
+Javi: Mým úkolem je řídit designový a level designový tým. Mám na starosti pomáhat týmu udržet si ucelenou vizi a dohlížet na jejich práci. Také navrhuji nějaký složitý systém a koordinuji s ostatními týmy.
 
 62
 00:05:47,250 --> 00:05:55,170
-Kai: Cool. Are you getting input or - like - guidance or maybe direction from someone above you? Or do you have the last word on design decisions?
+Kai: Cool. Dostáváš rady nebo - jako - vedení nebo možná pokyny od někoho nad tebou? Nebo máš poslední slovo při rozhodování o designu?
 
 63
 00:05:55,230 --> 00:06:04,030
-Javi: We have clear guidelines of what Gothic is and what Gothic is not. But in the most controversial issues the game director has the last word.
+Javi: Máme jasné pokyny, co Gothic je a co Gothic není. Ale v nejkontroverznějších otázkách má poslední slovo herní režisér.
 
 64
 00:06:04,170 --> 00:06:06,170
-Kai: And the game director is Reinhard, right?
+Kai: A herní režisér je Reinhard, že?
 
 65
 00:06:06,260 --> 00:06:08,200
-Javi: Yep, he is.
+Javi: Jo, je.
 
 66
 00:06:10,000 --> 00:06:17,150
-Javi: Look, there is Huno the blacksmith, preparing his smithy for the remake. Would you like to learn a little bit about forging weapons?
+Javi: Podívejte, tam je kovář Huno, připravuje svou kovárnu na remake. Chtěli byste se naučit něco málo o kování zbraní?
 
 67
 00:06:17,270 --> 00:06:18,240
-Kai: Absolutely.
+Kai: Samozřejmě.
 
 68
 00:06:19,020 --> 00:06:25,120
-Reinhard: Hey, Huno, can you give us a quick presentation of how you go about forging weapons in the remake? Or would that take too long?
+Reinhard: Hej, Huno, můžeš nám rychle představit, jak postupuješ při kování zbraní v remaku? Nebo by to trvalo příliš dlouho?
 
 69
 00:06:25,220 --> 00:06:29,100
-Huno: That depends. I'm as fast as a hurricane with simple swords.
+Huno: To záleží. Jsem rychlý jako hurikán s jednoduchými meči.
 
 70
 00:06:29,210 --> 00:06:36,190
