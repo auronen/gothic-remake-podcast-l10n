@@ -44,47 +44,47 @@ Reinhard: Každopádně... Vítejte všichni u druhé epizody o principech desig
 
 12
 00:01:19,120 --> 00:01:21,150
-Kai: And by""design principles"" you mean what?
+Kai: A těmi ""principy designu"" myslíš co?
 
 13
 00:01:22,080 --> 00:01:31,110
-Reinhard: Well, the fundamental principles underneath all of our design choices and ideas. The grand vision, the Ten Commandments that we apply to everything we do.
+Reinhard: No, základní principy pod všemi našimi návrhy a nápady. Velkolepá vize, Desatero přikázání, které aplikujeme na vše, co děláme.
 
 14
 00:01:31,260 --> 00:01:36,050
-Kai: Ooh, wow. The very foundation. That's a big subject.
+Kai: Ooh, wow. Samotný základ. To je velké téma.
 
 15
 00:01:36,170 --> 00:01:37,220
-Reinhard: I guess you asked for it.
+Reinhard: Myslím, že jsi o to požádal.
 
 16
 00:01:38,000 --> 00:01:45,200
-Kai: Talking about foundations... are these guys over there building the stage? [Yes.] Wait, does that mean concert confirmed?
+Kai: Když mluvíme o základech... staví ti kluci támhle jeviště? [Ano.] Počkat, znamená to, že koncert potvrzen?
 
 17
 00:01:46,260 --> 00:01:51,170
-Reinhard: Well, we can't talk about that right now. We feel like this should be one, though.
+Reinhard: No, o tom teď nemůžeme mluvit. Máme však pocit, že by to mělo být jedno z nich.
 
 18
 00:01:52,090 --> 00:02:03,120
-Kai: Oh, yes, absolutely. The whole old camp theme was based on""Hermannelig"", an old folk song performed by In Extremo. It would be a blast to have a performance of that song on that stage again.
+Kai: Oh, ano, naprosto. Celý motiv Starého Tábora byl založený na ""Her mannelig"", staré lidové písni v podání In Extremo. Bylo by skvělé mít tuto píseň znovu na tom pódiu.
 
 19
 00:02:03,280 --> 00:02:07,050
-Reinhard: Absolutely. But let's talk about that another time.
+Reinhard: Absolutně. Ale promluvme si o tom někdy jindy.
 
 20
 00:02:07,260 --> 00:02:08,090
-Kai: Okay.
+Kai: Dobrá.
 
 21
 00:02:10,090 --> 00:02:14,020
-Kai: Why are we going this way? The arena is the other way around the outer ring.
+Kai: Proč jdeme touto cestou? Aréna je na druhou stranu kolem vnějšího kruhu.
 
 22
 00:02:14,140 --> 00:02:21,290
-Reinhard: You're absolutely right. But we'll have to pick someone up at the south entrance. And here we have a bit more time to chat before we get there.
+Reinhard: Máš naprostou pravdu. Ale budeme muset někoho vyzvednout u jižního vchodu. A tady máme trochu více času na pokec, než se tam dostaneme.
 
 23
 00:02:22,160 --> 00:02:26,120
@@ -276,396 +276,396 @@ Huno: To záleží. Jsem rychlý jako hurikán s jednoduchými meči.
 
 70
 00:06:29,210 --> 00:06:36,190
-Reinhard: Nice. A simple sword will do, thanks. You do your thing and Javi can explain a bit about the new forging mechanics.
+Reinhard: Super. Postačí jednoduchý meč, díky. Udělej svou věc a Javi může trochu vysvětlit nové mechanismy kování.
 
 71
 00:06:37,240 --> 00:06:51,260
-Javi: A fantastic thing about Gothic is that you could make your own sword by going through the whole forging process step by step. We will keep that for sure! But we want to take it further, and the player will be able to forge more types of weapons. No, just the simple sword.
+Javi: Fantastická věc na Gothicu je, že si můžete vyrobit svůj vlastní meč tím, že projdete celým procesem kování krok za krokem. To si určitě necháme! Chceme to ale posunout dále a hráč bude moci ukovat více druhů zbraní. Ne, jen obyčejný meč.
 
 72
 00:06:52,090 --> 00:06:57,180
-Kai: Thank you for the insight, Javi, and thanks, Huno, for your time. Hope we didn't badger you for too long.
+Kai: Děkuji za to vysvětlení, Javi, a děkuji, Huno, za tvůj čas. Doufám, že jsme tě moc dlouho neotravovaly.
 
 73
 00:06:57,270 --> 00:06:59,230
-Huno: Nah, on the contrary.
+Huno: Ne, spíš naopak.
 
 74
 00:07:00,160 --> 00:07:14,110
-Kai: He's always so polite. Just as I remember him. *Laughing* Wow! The arena looks massive. The screenshots already revealed that it got scaled up and extended, but it looks even bigger when you're approaching it.
+Kai: Vždy je tak zdvořilý. Tak jak si ho pamatuji. *Smích* Páni! Aréna vypadá mohutně. screenshoty již odhalily, že se zvětšila a prodloužila, ale když se k ní přiblížíte, vypadá ještě větší.
 
 75
 00:07:14,220 --> 00:07:17,180
-Javi: Yes. We have expanded the arena and its role in the camp.
+Javi: Ano. Rozšířili jsme arénu a její roli v táboře.
 
 76
 00:07:18,120 --> 00:07:20,030
-Kai: Ah. How exactly?
+Kai: Ah. Jak přesně?
 
 77
 00:07:20,170 --> 00:07:40,110
-Javi: Well, the arena is the only way for the colony inhabitants to have fun. We want to give it a more important role, when even the ore barons come out from the castle to watch the fights. [M-hm.] We would like to add more quest and content around the arena, and not just limit ourselves to the few 1 vs.1 fights like in the original.
+Javi: Inu, aréna je jediný způsob, jak se můžou obyvatelé kolonie zabavit. Chceme jí dát důležitější roli, když i rudobaroni vycházejí z hradu, aby sledovali boje. [M-hm.] Rádi bychom přidali více úkolů a obsahu kolem arény a neomezovali se jen na pár soubojů 1 vs. 1 jako v originále.
 
 78
 00:07:40,280 --> 00:07:53,030
-Javi: For this, we need to expand it and create a focus on the camp. It's still the remains of a building for fighting, but now more people can come and fight. It can't just be limited to some fighters.
+Javi: K tomu jí musíme rozšířit a vytvořit zaměření na tábor. Stále to zůstává budovou pro boj, ale nyní může přijít a bojovat více lidí. Nemůže se to omezit jen na nějaké bojovníky.
 
 79
 00:07:53,170 --> 00:07:56,190
-Kai: Interesting. So who's going to fight in the arena?
+Kai: Zajímavý. Kdo tedy bude bojovat v aréně?
 
 80
 00:07:56,260 --> 00:08:04,110
-Javi: There are many warriors in the colony who'd like to test their skill, as well as some terrifying creatures that many barons would like to see fight.
+Javi: V kolonii je mnoho válečníků, kteří by rádi otestovali své dovednosti, a také několik děsivých stvoření, které by mnoho baronů rádo vidělo bojovat.
 
 81
 00:08:04,290 --> 00:08:08,170
-Kai: Okay. Wow. That was pretty detailed. Thank you so much.
+Kai: Okay. Wow. To bylo dost podrobné. Děkuji mnohokrát.
 
 82
 00:08:09,000 --> 00:08:09,200
-Javi: You are welcome.
+Javi: Není zač.
 
 83
 00:08:10,240 --> 00:08:13,240
-Reinhard: Are you guys hungry? Snaf's crew cantina should be open.
+Reinhard: Máte hlad? Snafova kantýna posádky by měla být otevřená.
 
 84
 00:08:14,030 --> 00:08:15,010
-Kai: Good ol' Snaf?
+Kai: Starý dobrý Snaf?
 
 85
 00:08:15,130 --> 00:08:16,010
-Javi: Sounds good.
+Javi: To zní dobře.
 
 86
 00:08:16,120 --> 00:08:19,290
-Kai: Yeah, it does. Will he serve the original meatbug ragout?
+Kai: Jo, to zní. Bude servírovat originální ragú ze žravé štěnice?
 
 87
 00:08:20,260 --> 00:08:26,130
-Reinhard: He will in the remake! But for us, he's making a huge paella. The studio is based in Spain, after all.
+Reinhard: V remaku určitě bude! Ale pro nás dělá obrovskou paellu. Studio sídlí ve Španělsku přeci jenom.
 
 88
 00:08:27,040 --> 00:08:29,300
-Javi: Oh, wait. Mud is speaking with Snaf.
+Javi: Oh, počkej. Mud mluví se Snafem.
 
 89
 00:08:29,300 --> 00:08:33,210
-Reinhard: Mud? Shouldn't he be on the other side of the camp helping to stage builders?
+Reinhard: Mud? Neměl by být na druhé straně tábora a pomáhat stavitelům jevišťe?
 
 90
 00:08:34,030 --> 00:08:36,230
-Kai: I don't know. My gut feeling tells me they sent him away.
+Kai: Nevím. Můj vnitřní pocit mi říká, že ho poslali pryč.
 
 91
 00:08:36,250 --> 00:08:39,180
-Mud: Got something to eat for me? [Here.] Great.
+Mud: Máš pro mě něco k jídlu? [Tady.] Skvěle.
 
 92
 00:08:41,000 --> 00:08:41,160
-Reinhard: Hey, Snaf.
+Reinhard: Hej, Snafe.
 
 93
 00:08:41,220 --> 00:08:43,110
-Snaf: Hey. What'll it be?
+Snaf: Hej. Co to bude?
 
 94
 00:08:44,040 --> 00:08:47,120
-Reinhard: Can we have three portions of your paella?
+Reinhard: Můžeme si dát tři porce tvojí paelly?
 
 95
 00:08:46,200 --> 00:08:50,200
-Snaf: Alright. Here! You can try a portion right away.
+Snaf: Dobrá. Tady! Můžeš si porci vyzkoušet rovnou.
 
 96
 00:08:50,200 --> 00:08:54,200
-Kai: I'll take it. Thank you. Mmmmh.
+Kai: Beru jí. Děkuju ti. Mmmmh.
 
 97
 00:08:54,200 --> 00:08:57,220
-Snaf: What do you think? [That's really good.] Excellent.
+Snaf: Co myslíš? [To je opravdu dobré.] Výborně.
 
 98
 00:08:59,040 --> 00:09:01,100
-Reinhard: Thanks.
+Reinhard: Díky.
 
 99
 00:09:02,150 --> 00:09:09,200
-Javi: To be clear: Snaf, in the remake, you will be serving your beloved meatbug ragout. Not paella, right? [Exactly.]
+Javi: Aby bylo jasno: Snaf, v remaku budeš podávat své milované ragú ze žravé štěnice. Ne paellu, že? [Přesně tak.]
 
 100
 00:09:10,000 --> 00:09:16,000
-Kai: So no changes here. Just mushrooms and meatbugs? [I didn't say that.] Hmm.
+Kai: Takže zde žádné změny. Jen houby a žravé štěnice? [To jsem neřekl.] Hmm.
 
 101
 00:09:18,000 --> 00:09:22,180
-Kai: So, Reinhard said, this episode will be about design principles.
+Kai: Takže, Reinhard říkal, že tato epizoda bude o principech designu.
 
 102
 00:09:22,180 --> 00:09:24,180
-Javi: Yes, I heard that, too.
+Javi: Ano, to jsem taky slyšel.
 
 103
 00:09:26,010 --> 00:09:29,080
-Kai: That sounds like exactly the kind of topic we should ask YOU about, Javi.
+Kai: To zní přesně jako druh tématu na který bychom se měli zeptáte TEBE, Javi.
 
 104
 00:09:30,050 --> 00:09:32,100
-Javi: I might know a thing or two about it. Yes.
+Javi: Možná o tom trochu vím. Ano.
 
 105
 00:09:32,260 --> 00:09:38,110
-Kai: Excellent. Elaborate, please. What are the design principles you've established for the remake?
+Kai: Vynikající. Upřesni to, prosím. Jaké jsou principy designu, které jste stanovili pro remake?
 
 106
 00:09:39,000 --> 00:09:44,210
-Javi: We have a very clear basis for the game. We will talk about the three main concept.
+Javi: Máme velmi jasný základ pro hru. Budeme mluvit o třech hlavních pojmech.
 
 107
 00:09:45,140 --> 00:09:45,210
-Kai: M-hm, okay.
+Kai: M-hm, dobrá.
 
 108
 00:09:46,110 --> 00:09:51,270
-Javi: First, the player can choose how to play. We have to give them options and different playstyles.
+Javi: Nejprve si hráč může vybrat, jak bude hrát. Musíme jim dát možnosti a různé herní styly.
 
 109
 00:09:52,050 --> 00:09:52,190
-Reinhard: Oh, yeah.
+Reinhard: Oh, ano.
 
 110
 00:09:52,250 --> 00:09:53,230
-Kai: Yeah. Sounds good.
+Kai: Jasně. to zní dobře.
 
 111
 00:09:54,140 --> 00:10:01,080
-Javi: Two: The world is alive. We are not looking for something scripted. We want something systemic that the player can interact with.
+Javi: Za druhé: Svět je na živu. Nehledáme něco naskriptovaného. Chceme něco systémového, s čím může hráč komunikovat.
 
 112
 00:10:01,200 --> 00:10:03,030
-Kai: Oh, yes. Very important.
+Kai: Oh, ano. To je hodně důležité.
 
 113
 00:10:03,170 --> 00:10:20,120
-Javi: Yes. And the third pillar is:""Immersion is essential"". We don't want to guide the player with obligatory tutorials, but reward the player to discover and explore the world. We know this can be a little bit harsh at the beginning, but it's the Gothic experience.
+Javi: Ano. A třetím pilířem je: „Ponoření je zásadní““. Nechceme hráče navádět povinnými tutoriály, ale odměňovat hráče za objevování a prozkoumávání světa. Víme, že to může být ze začátku trochu drsné, ale je to zážitek z Gothica.
 
 114
 00:10:20,220 --> 00:10:28,220
-Kai: Yes, it is. That's very interesting. So what's your process when you evaluate new design ideas? How do you make sure they match the principles?
+Kai: Ano to je. To je velmi zajímavé. Jaký je tedy váš postup, když hodnotíte nové designové nápady? Jak zajistíte, aby odpovídaly zásadám?
 
 115
 00:10:29,070 --> 00:10:42,180
-Javi: When we design something new or work in our redesign, we always confront it with the pillars as a validation that we are on the right track. In fact, in design, we tend to close the issue with""this is very Gothic"".
+Javi: Když navrhujeme něco nového nebo pracujeme na našem redesignu, vždy to konfrontujeme s pilíři jako potvrzení, že jsme na správné cestě. Ve skutečnosti v designu máme tendenci uzavírat problém slovy ""toto je velmi Gothic"".
 
 116
 00:10:43,130 --> 00:11:05,200
-Kai: Okay, here's a question very closely related to design principles. I know that the idea that players can just read their stats and skills and get an idea of how good they are just by looking at the character and his posture, that was one of the design concepts Mike Hoge, the original Gothic inventor, was most passionate about. What are your thoughts on this?
+Kai: Dobře, tady je otázka, která velmi úzce souvisí s principy designu. Vím, že myšlenka, že hráči mohou číst své statistiky a dovednosti a získat představu o tom, jak jsou dobří, pouhým pohledem na postavu a její držení těla byla ta nejlepší. Byl jeden z nejvášnivějších designových konceptů Mikea Hogea, původního tvůrce Gothicu. co si o tom myslíte?
 
 117
 00:11:06,190 --> 00:11:21,250
-Javi: It's something super interesting and something we have all noticed when we were playing Gothic. It's especially something you notice in the hero himself. How he improves with the weapons and goes from barely knowing how to hold a sword to being a true master.
+Javi: Je to něco super zajímavého, čeho jsme si všichni všimli, když jsme hráli Gothic. Je to především něco, čeho si všimnete na samotném hrdinovi. Jak se zdokonaluje ve zbraních a z umění stěží držet meč se stává skutečným mistrem.
 
 118
 00:11:22,050 --> 00:11:28,280
-Kai: Oh yes, barely knowing how to hold your sword... I remember that phase. [Yeah.] *laughing* Okay, go ahead.
+Kai: Ach ano, sotva vědět, jak držet svůj meč... Pamatuji si tu fázi. [Jo.] *směje se* Dobře, pokračuj.
 
 119
 00:11:29,240 --> 00:11:35,030
-Javi: It's something that we would like to keep and be able to give this feeling of power and progression.
+Javi: Je to něco, co bychom si rádi zachovali a mohli dát tento pocit moci a pokroku.
 
 120
 00:11:35,190 --> 00:11:46,240
-Kai: Okay. Yeah, that sounds very good. And since you've mentioned progression: Another super important aspect, at least for me, is exactly that sense of progression. Progression of power, to be precise.
+Kai: Dobře. Jo, to zní velmi dobře. A když už jste zmínil pokrok: Dalším super důležitým aspektem, alespoň pro mě, je přesně ten pocit pokroku. Pokroku moci, abych byl přesný.
 
 121
 00:11:46,260 --> 00:11:47,080
-Javi: Yes.
+Javi: Ano.
 
 122
 00:11:47,140 --> 00:11:51,270
-Kai: Getting stronger and feeling the impact of that. [Yes.] How is that handled in the remake?
+Kai: Zesílit a cítit dopad toho. [Ano.] Jak je to řešeno v remaku?
 
 123
 00:11:51,280 --> 00:12:13,070
-Javi: The progression of power is something that is super important in the game. The character progression in the original Gothic was great. We want to keep the player progression as in the original, but we are refining how the player gets access to better weapons and items, especially in the midgame. It was very easy to break the economy and have the best equipment that money could buy.
+Javi: Pokrok moci je něco, co je ve hře super důležité. Vývoj postavy v původním Gothicu byl skvělý. Chceme zachovat postup hráče jako v originále, ale dolaďujeme, jak hráč získá přístup k lepším zbraním a předmětům, zejména ve středu hry. Bylo velmi snadné rozbít ekonomiku a mít to nejlepší vybavení, jaké se dalo za peníze koupit.
 
 124
 00:12:13,240 --> 00:12:20,190
-Kai: Oh, yeah, that's true. Lovely. Thank you. Can I ask you TWO a few more questions that span across various topics?
+Kai: Oh, ano, to je pravda. Skvělé. Děkuji. Můžu se vás zeptat na dvě další otázky, které se týkají různých témat?
 
 125
 00:12:21,040 --> 00:12:23,200
-Javi: [Okay.] Yes. Let's see if we can answer them.
+Javi: [Dobře.] Ano. Uvidíme, zda na ně dokážeme odpovědět.
 
 126
 00:12:24,000 --> 00:12:27,230
-Kai: I'm sure you can. Javi, where do you draw your inspiration from?
+Kai: Jsem si jistý, že můžete. Javi, kde čerpáš inspiraci?
 
 127
 00:12:28,060 --> 00:12:42,100
-Javi: Inspiration can come from anywhere, not just another video games. Sometimes inspiration come from books, movies, series or even board games and roleplaying games. Often the best ideas come when you least expect them.
+Javi: Inspirace může přijít odkudkoli, nejen z jiné videohry. Někdy přichází inspirace z knih, filmů, seriálů nebo dokonce deskových her a her na hraní rolí. Nejlepší nápady často přicházejí, když je nejméně čekáte.
 
 128
 00:12:42,270 --> 00:12:49,160
-Kai: Yes. And what are your favorite games? Are you planning to work some of what you liked about those games into the remake?
+Kai: Ano. A jaké jsou tvoje oblíbené hry? Plánuješ do remaku zapracovat něco z toho, co se ti na těch hrách líbilo?
 
 129
 00:12:50,030 --> 00:13:12,030
-Javi: I love action RPGs, but I play as many games as I can. When I play, I cannot stop being a designer and I am constantly analyzing the details and solutions that other devs have found. All these backlogs come to my mind when a new challenge appears in the development, and I think:""These games solved it in a very clever way. We could do something similar!""
+Javi: Miluju akční RPG, ale hraju tolik her, kolik můžu. Když hraju, nemůžu přestat být designérem a neustále analyzuju detaily a řešení, která našli jiní vývojáři. Všechny tyto nevyřízené věci se mi vybaví, když se ve vývoji objeví nová výzva, a pomyslím si: „Tyhle hry to vyřešily velmi chytrým způsobem. Mohli bychom udělat něco podobného!"
 
 130
 00:13:12,090 --> 00:13:17,030
-Kai: Cool. Yeah. Being open for that definitely helps. You don't always have to reinvent the wheel.
+Kai: Super. To jo. Být tomu otevřený rozhodně pomáhá. Nemusíte vždy znovu vynalézat kolo.
 
 131
 00:13:17,040 --> 00:13:17,160
-Javi: Yes.
+Javi: Ano.
 
 132
 00:13:18,220 --> 00:13:22,290
-Kai: The next couple of questions are community questions, which came up on the Discord server.
+Kai: Další dvě otázky jsou otázky komunity, které se objevily na Discord serveru.
 
 133
 00:13:23,080 --> 00:13:24,000
-Javi: Oh, nice.
+Javi: Oh, hezky.
 
 134
 00:13:24,160 --> 00:13:32,060
-Reinhard: All your listeners out there are invited to join the Discord server as well. The invitation link is discord.gg/gothic.
+Reinhard: Všichni posluchači jsou pozváni, aby se také připojili k Discord serveru. Odkaz na pozvánku je discord.gg/gothic.
 
 135
 00:13:32,210 --> 00:13:38,010
-Kai: See you all there! So ... we've talked about forging. How about making arrows?
+Kai: Uvidíme se tam všichni! Takže... mluvili jsme o kování. Co takhle výroba šípů?
 
 136
 00:13:38,200 --> 00:13:46,060
-Javi: You will be able to make arrows on the workbenches if you have the materials. We want to incorporate crafting to make the materials you collect useful.
+Javi: Budete-li mít materiály, budete moci vyrábět šípy na pracovních stolech. Chceme začlenit výrobu, aby materiály, které sbíráte, byly užitečné.
 
 137
 00:13:46,170 --> 00:13:58,280
-Kai: Mm-hmm. Talking about making things useful: In the original game, there are barrels, including here in the old camp, that the player can climb into and hide. Is that going to be a useful mechanic in the remake?
+Kai: Mm-hmm. když už jsme u toho, jak věci využít: V původní hře jsou sudy, včetně těch ve starém táboře, do kterých může hráč vlézt a schovat se. Bude to užitečná mechanika v remaku?
 
 138
 00:13:59,150 --> 00:14:12,280
-Javi: This mechanic is one of those we revise. In the original it didn't make much sense and it was too comical for the tone of the game. We want to develop stealth a little more, but I don't know if hiding in a barrel is the best way.
+Javi: Tatobmechanika je jedna z těch, které promýšlíme. V originále to nedávalo moc smysl a na tón hry to bylo příliš komické. Chceme trochu více rozvinout plížení, ale nevím, jestli schovávání v sudu je nejlepší způsob.
 
 139
 00:14:13,100 --> 00:14:22,260
-Kai: Ooooh *sighs*, okay. Now, we've been to the arena, so this fits quite nicely: A question that came up very often is:""Will there be helmets and shields?""
+Kai: Ooooh *vzdychne*, dobře. Teď jsme byli v aréně, takže to docela sedí: Otázka, která se objevila velmi často, je: "Budou helmy a štíty?"
 
 140
 00:14:23,050 --> 00:14:33,270
-Javi: No! We are sticking to the original and there won't be any. In the colony the combat is direct and visceral. We didn't like the defence system that will make it more static.
+Javi: Ne! Držíme se originálu a žádné nebudou. V kolonii je boj přímý a viscerální. Nelíbil se nám obranný systém, který to udělá statičtější.
 
 141
 00:14:34,220 --> 00:14:43,080
-Kai: Yes, I agree. The next one is probably not so much a game design question, but it came up recently, so:""Will there be new quests?""
+Kai: Ano, souhlasím. Další asi není tak otázka herního designu, ale objevila se nedávno, takže: "Budou nové úkoly?"
 
 142
 00:14:43,290 --> 00:14:56,030
-Javi: Yes, there will be new quests. Our idea is to create quests to balance the parts of the game that feel more linear. As you know, from Chapter 3 onward the game offers no other quest than the main quest.
+Javi: Ano, budou nové úkoly. Naší myšlenkou je vytvořit úkoly, které vyváží části hry, které působí lineárněji. Jak víte, od kapitoly 3 dále hra nenabízí žádný jiný úkol než hlavní.
 
 143
 00:14:56,040 --> 00:14:56,180
-Kai: Oh yeah.
+Kai: Oh ano.
 
 144
 00:14:56,180 --> 00:15:06,290
-Javi: And we would like to give more content to the player. On the other hand, some of the main quests will be slightly modified in order to close the plot holes that have been with us for 20 years.
+Javi: A rádi bychom hráči dali více obsahu. Na druhou stranu, některé hlavní úkoly budou mírně upraveny, aby se uzavřely dějové díry, které jsou tu s námi už 20 let.
 
 145
 00:15:07,090 --> 00:15:08,050
-Kai: Very interesting.
+Kai: Velice zajímavé.
 
 146
 00:15:08,210 --> 00:15:14,000
-Reinhard: When we'll meet with someone from the story team in a future episode, we can dive more into these kind of questions.
+Reinhard: Až se v budoucí epizodě setkáme s někým z příběhového týmu, můžeme se více ponořit do těchto otázek.
 
 147
 00:15:14,100 --> 00:15:25,250
-Kai: Yeah, that'll be cool. Okay, next. I know this is a broad question, but I want to ask it as openly as possible. What can you tell us about the UI in the remake, and specifically the inventory?
+Kai: Jo, to bude fajn. Dobře, další. Vím, že je to široká otázka, ale chci ji položit co nejotevřeněji. Co nám můžete říct o uživatelském rozhraní v remaku a konkrétně o inventáři?
 
 148
 00:15:26,240 --> 00:15:47,040
-Javi: The UI will look more like the original Gothic than the Playable Teaser. [Yes!] We are doing something minimal to enhance the player immersion. The inventory follows the rules of the original Gothic. The game doesn't pause and allows you to watch as you manage it. It's a screen with a lot of information, so it's a challenge to show everything at once.
+Javi: Uživatelské rozhraní bude vypadat spíše jako původní Gothic než Playable Teaser. [Ano!] Děláme něco minimálního, abychom zlepšili ponoření hráče do hry. Inventář se řídí pravidly původního Gothicu. Hra se nezastavuje a umožňuje vám sledovat, jak si třídíte. Je to obrazovka se spoustou informací, takže ukázat vše najednou je výzva.
 
 149
 00:15:47,290 --> 00:16:00,240
-Kai: M-hm, it is! Okay, but now for something completely different. We've heard a few characters speaking in this episode, and those were all audio files from the original game. But, Reinhard, we won't use those in the remake, right?
+Kai: M-hm, to je! Dobře, ale teď k něčemu úplně jinému. V této epizodě jsme slyšeli mluvit několik postav a všechno to byly zvukové soubory z původní hry. Ale, Reinharde, ty v remaku nepoužijeme, že?
 
 150
 00:16:01,060 --> 00:16:07,240
-Reinhard: No! We thought initially that's the best way to approach it, but we realized that this wouldn't make any changes or additions possible.
+Reinhard: Ne! Původně jsme si mysleli, že je to nejlepší způsob, jak k tomu přistoupit, ale uvědomili jsme si, že to neumožní žádné změny ani doplňky.
 
 151
 00:16:08,110 --> 00:16:14,030
-Kai: Which means that we will mostly do rerecordings with the original actors - where it's possible -, right?
+Kai: Což znamená, že většinou budeme natáčet zmovu s původními herci – kde je to možné –, že?
 
 152
 00:16:14,190 --> 00:16:15,050
-Reinhard: Yep.
+Reinhard: Jop.
 
 153
 00:16:15,270 --> 00:16:22,200
-Kai: Alright. That's good news to me! And which gameplay features and mechanics are we adding that we weren't in the original game?
+Kai: Dobrá. To je pro mě dobrá zpráva! A které herní prvky a mechanismy přidáváme, které v původní hře nebyli?
 
 154
 00:16:23,160 --> 00:16:37,060
-Javi: We are working on several new features. As a preview, you will now be able to climb some walls in the game. This allows us to reward the more exploratory players and also to develop more vertical levels.
+Javi: Pracujeme na několika nových funkcích. Jako ukázku nyní budete moci ve hře lézt po některých stěnách. To nám umožňuje odměňovat průzkumnější hráče a také rozvíjet více vertikální úrovně.
 
 155
 00:16:37,170 --> 00:16:39,180
-Kai: Uuuh... climbing walls. Nice!
+Kai: Uuuh... šplhání po zdech. Hezké!
 
 156
 00:16:40,150 --> 00:16:51,080
-Javi: We have also redesigned pickpocketing, lockpicking, some crafting systems... We have more surprises, but we don't want to reveal them all at once.
+Javi: Předělali jsme také kapesní krádeže, otevírání zámků, některé systémy výroby... Máme více překvapení, ale nechceme je všechny prozrazovat najednou.
 
 157
 00:16:51,230 --> 00:16:55,000
-Kai: Yeah, that makes sense. We have to keep some for the next episodes.
+Kai: Jo, to dává smysl. Nějaké si musíme nechat na další epizody.
 
 158
 00:16:55,120 --> 00:17:05,080
-Reinhard: It's starting to get dark. We've been chatting for quite a while. [Oh, yes.] Kai, how about we end this episode with some music? Night in the old camp, maybe?
+Reinhard: Začíná se stmívat. Povídali jsme si už docela dlouho. [Ach, ano.] Kai, co kdybychom tuto epizodu ukončili nějakou hudbou? Možná noc ve starém táboře?
 
 159
 00:17:06,040 --> 00:17:10,020
-Kai: I was hoping for you to ask that. Yeah, I'd love to share some of that.
+Kai: Doufal jsem, že se na to zeptáš. Jo, rád bych se o něco z toho podělil.
 
 160
 00:17:10,150 --> 00:17:14,000
-Reinhard: Okay, then. Do you have any other questions before we wrap this up?
+Reinhard: Tak dobře. Máš nějaké další otázky, než to zabalíme?
 
 161
 00:17:14,010 --> 00:17:18,220
-Kai: Yes. About that letter... who is it for? You're making such a big secret out of it.
+Kai: Ano. O tom dopise... pro koho je? Děláte z toho velké tajemství.
 
 162
 00:17:19,060 --> 00:17:24,240
-Reinhard: Oh, yeah, I completely forgot about that. [Sure.] Guess we'll leave that for the next episode, then.
+Reinhard: Ach ano, na to jsem úplně zapomněl. [Jasně.] Tak to asi necháme na příští epizodu.
 
 163
 00:17:25,040 --> 00:17:30,160
-Kai: That's a pretty decent cliffhanger. Anyways, Javi, thank you so much for joining us.
+Kai: To je docela slušný cliffhanger. Každopádně, Javi, moc ti děkuji, že jsi se k nám přidal.
 
 164
 00:17:30,250 --> 00:17:36,080
-Javi: Thanks for inviting me. I'm looking forward to coming back and talking more about the Gothic remake.
+Javi: Děkuji za pozvání. Těším se, až se vrátím a popovídáme si více o Gothic remaku.
 
 165
 00:17:36,180 --> 00:17:43,100
-Kai: Yes, that will be great. So, here's a bit of night music from the old camp. See you all in the next episode.
+Kai: Ano, to bude skvělé. Takže tady je trochu noční hudby ze starého tábora. Uvidíme se všichni v další epizodě.
 
 166
 00:17:43,160 --> 00:17:44,160
-Javi: Bye bye, everybody.
+Javi: Ahoj všichni.
 
 167
 00:17:44,190 --> 00:17:46,150
-Reinhard: Take care. Bye Bye.
+Reinhard: Opatrujte se. Ahoj.
 
 168
 00:20:16,010 --> 00:20:22,000
-Kai: Thank you for listening. That was... Chapter 2.
+Kai: Děkuji za poslech. Tohle byla... Kapitola 2.
