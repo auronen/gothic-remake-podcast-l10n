@@ -1,802 +1,802 @@
 1
 00:00:27,000 --> 00:00:30,060
-Xardas: Chapter three.
+Xardas: Kapitola třetí.
 
 2
 00:00:30,060 --> 00:00:33,060
-Reinhard: Welcome to the Gothic 1 Remake Podcast.
+Reinhard: Vítejte u Gothic 1 Remake podcastu.
 
 3
 00:00:33,060 --> 00:00:37,240
-Reinhard: We're just outside the Old Camp in the wilderness, sitting at a campfire.
+Reinhard: Jsme kousek za Starým táborem v divočině a sedíme u táboráku.
 
 4
 00:00:37,240 --> 00:00:43,240
-Reinhard: And we're here to talk to you about what happened in August about the Gothic 1 Remake.
+Reinhard: A jsme tu, abychom si s vámi promluvili o tom, co se stalo v srpnu ohledně Gothic 1 Remake.
 
 5
 00:00:44,000 --> 00:00:46,260
-Reinhard: We had two really big moments for us.
+Reinhard: Měli jsme dva opravdu velké okamžiky.
 
 6
 00:00:46,260 --> 00:00:55,110
-Reinhard: First of all, there was the release of the Old Camp trailer that showed off the atmosphere of the Old Camp and also the environment of the Old Camp.
+Reinhard: V první řadě byl zveřejněn trailer ze Starého tábora, který ukázal atmosféru Starého tábora a také prostředí Starého tábora.
 
 7
 00:00:55,110 --> 00:01:03,240
-Reinhard: And secondly, we had a secret demo with us and traveled to Gamescom to show it off to selected journalists and streamers.
+Reinhard: A za druhé, měli jsme s sebou tajné demo a cestovali na Gamescom, abychom ho ukázali vybraným novinářům a streamerům.
 
 8
 00:01:03,270 --> 00:01:09,210
-Reinhard: And we are here to give you some more details and explanations of what we showed there.
+Reinhard: A jsme tu, abychom vám poskytli další podrobnosti a vysvětlení toho, co jsme tam ukázali.
 
 9
 00:01:09,210 --> 00:01:18,250
-Reinhard: I'm Reinhard Pollice, I'm the director at Alkimia Interactive. And I'm joined by some of my companions that work together with me on the Gothic 1 Remake.
+Reinhard: Já jsem Reinhard Pollice a jsem ředitel v Alkimia Interactive. A přidali se ke mně někteří z mých společníků, kteří se mnou spolupracují na remaku Gothic 1.
 
 10
 00:01:18,270 --> 00:01:20,260
-Reinhard: Please introduce yourselves.
+Reinhard: Prosím představte se.
 
 11
 00:01:20,260 --> 00:01:26,190
-Joan: Okay. Well, hello, my name is Joan. I'm the Cinematic Designer here at Alkimia.
+Joan: Dobře. Ahoj, jmenuji se Joan. Jsem filmový designér zde v Alkimii.
 
 12
 00:01:26,190 --> 00:01:31,240
-Joan: My role basically is taking care of all the cinematics parts that we will have in the game.
+Joan: Moje role je v podstatě starat se o všechny filmové části, které ve hře budeme mít.
 
 13
 00:01:31,240 --> 00:01:36,010
-Joan: Also, the trailers that we will require for marketing purposes.
+Joan: Také trailery, které budeme vyžadovat pro marketingové účely.
 
 14
 00:01:36,010 --> 00:01:43,260
-Dani: Okay, I'm Dani. I'm Dani Candil. I am the Art Director of the Gothic remake.
+Dani: Dobře, jsem Dani. Jsem Dani Candil. Jsem umělecký ředitel Gothic remaku.
 
 15
 00:01:43,260 --> 00:01:48,160
-Kai: Hey, my name is Kai Rosenkranz, and I am composer and sound designer.
+Kai: Ahoj, jmenuji se Kai Rosenkranz a jsem skladatel a zvukový designér.
 
 16
 00:01:48,180 --> 00:01:49,280
-Kai: Javi, you want to go next?
+Kai: Javi, chceš jít teď ty?
 
 17
 00:01:49,280 --> 00:01:59,090
-Javi: Yeah. It's great to be back here. And thank you all - the community - for all the feedback you had. That was very nice.
+Javi: Jo. Je skvělé se sem vrátit. A děkuji vám všem – komunitě – za veškerou zpětnou vazbu, kterou jste měli. Bylo to moc hezké.
 
 18
 00:01:59,090 --> 00:02:07,120
-Timur: So it's my turn. My name is Timur (T-Moor), and I'm a big Gothic fan and the community manager at Alkimia Interactive.
+Timur: Takže jsem na řadě. Jmenuji se Timur (T-Moor) a jsem velkým fanouškem Gothicu a komunitním manažerem v Alkimia Interactive.
 
 19
 00:02:07,120 --> 00:02:16,010
-Reinhard: Thanks. So let's first talk about the Old Camp trailer. (Joan: Okay.) What does the Old Camp mean to you, Joan?
+Reinhard: Dík. Pojďme si tedy nejprve něco říct o traileru Starého tábora. (Joan: Dobře.) Co pro tebe znamená Starý tábor, Joan?
 
 20
 00:02:16,010 --> 00:02:29,020
-Joan: For me, the Old Camp is the strongest memory that you have from the original game, because it's the first place you you land when you start playing.
+Joan: Pro mě je Starý tábor tou nejsilnější vzpomínkou, kterou máte z původní hry, protože je to první místo, kam se dostanete, když začnete hrát.
 
 21
 00:02:29,040 --> 00:02:36,140
-Joan: And the characters had such strong personality and everything, and they are so rough to you.
+Joan: A postavy měly tak silnou osobnost a všechno, a jsou na vás tak drsné.
 
 22
 00:02:36,140 --> 00:02:44,070
-Joan: You really feel small there when you play, and I think that everybody remembers with nostalgia
+Joan: Člověk se tam při hraní opravdu cítí malý a myslím, že na to každý vzpomíná s nostalgií
 
 23
 00:02:44,070 --> 00:02:53,000
-Joan: those random conversations that the NPCs had, the diggers trying to repair their huts all the time.
+Joan: ty náhodné rozhovory, které vedly NPC, kopáči se neustále snažili opravit své chatrče.
 
 24
 00:02:53,000 --> 00:02:58,110
-Joan: I don't know... this kind of, yeah, especially I think it's sound for me, the Old Camp.
+Joan: Já nevím... takový, jo, zvláště si myslím, že zvuk, Starého tábora.
 
 25
 00:02:58,110 --> 00:03:01,060
-Kai: Did someone say sound? (Joan: Yeah, definitely.)
+Kai: Řekl někdo zvuk? (Joan: Ano, určitě.)
 
 26
 00:03:01,060 --> 00:03:04,160
-Kai: Thank you, Joan. It's very nice of you to say that. (Joan: Yeah.)
+Kai: Děkuji, Joan. Je od tebe velmi milé, že to říkáš. (Joan: Ano.)
 
 27
 00:03:04,160 --> 00:03:07,150
-Reinhard: So, what does the Old Camp mean to you, Dani?
+Reinhard: Takže, co pro tebe znamená Starý tábor, Dani?
 
 28
 00:03:07,150 --> 00:03:12,100
-Dani: So for me, the Old Camp is the most important part of the colony.
+Dani: Takže pro mě je Starý tábor nejdůležitější částí kolonie.
 
 29
 00:03:12,100 --> 00:03:21,160
-Dani: I mean, it's the most recognizable landmark in all of the gothic experience for me there in terms of visual shape and recognition.
+Dani: Myslím, že je to pro mě nejrozeznatelnější mezník v celém Gothic zážitku, pokud jde o vizuální tvar a rozpoznání.
 
 30
 00:03:21,180 --> 00:03:27,220
-Dani: It's one of the most tricky parts of the game to work with. It's an intricate labyrinth of of huts.
+Dani: Je to jedna z nejobtížnějších částí hry, se kterou se pracuje. Je to složitý labyrint chýší.
 
 31
 00:03:27,220 --> 00:03:36,090
-Dani: It's like... it's interesting because it's a scenario that is being reused. I mean, originally it was a prison, then it became Gomez' castle.
+Dani: Je to jako... je to zajímavé, protože je to scénář, který se znovu používá. Původně to bylo vězení, pak se z toho stal Gomezův hrad.
 
 32
 00:03:36,090 --> 00:03:43,290
-Dani: For me, this interesting because it offers me as an artist the possibility of working with a very high level of detail
+Dani: Pro mě je to zajímavé, protože mi jako umělci nabízí možnost pracovat s velmi vysokou úrovní detailů
 
 33
 00:03:43,290 --> 00:03:50,080
-Dani: and very high level of narrative, you know, environment that tells a lot of things about the place.
+Dani: a velmi vysoká úroveň vyprávění, víte, prostředí, které o místě vypovídá hodně věcí.
 
 34
 00:03:50,120 --> 00:03:58,110
-Dani: And for me, in the far distance, I mean, remember that the tower of the Old Camp is the first thing you see.
+Dani: A pro mě, v dálce, myslím, pamatuju si, že věž Starého tábora je první věc, kterou uvidíte.
 
 35
 00:03:58,110 --> 00:04:01,060
-Dani: So it's it's one of the most memorable things.
+Dani: Takže je to jedna z nejpamátnějších věcí.
 
 36
 00:04:01,060 --> 00:04:04,100
-Reinhard: And how did you guys approach the Old Camp trailer?
+Reinhard: A jak jste přistoupili k traileru Starého tábora?
 
 37
 00:04:04,100 --> 00:04:12,290
-Joan: We knew since the beginning that we wanted something similar to our last trailer,
+Joan: Od začátku jsme věděli, že chceme něco podobného jako náš poslední trailer,
 
 38
 00:04:13,010 --> 00:04:20,040
-Joan: the trailer for the Old Mine, which had this camera flying through the environment and just showing the life, the living life there.
+Joan: trailer na Starý důl, ve kterém kamera prolétávala prostředím a ukazovala život, ten živý život tam.
 
 39
 00:04:20,040 --> 00:04:26,240
-Joan: So we wanted to do the same: Showing the living life inside the Old Camp, but we wanted to take it one step further.
+Joan: Chtěli jsme tedy udělat totéž: Ukázat živý život ve Starém táboře, ale chtěli jsme to posunout ještě o krok dále.
 
 40
 00:04:26,270 --> 00:04:37,240
-Joan: That's why we were thinking about new ways to look at this, no? So as we all - or, especially me (laughs) -, we love a cinema.
+Joan: Proto jsme přemýšleli o nových způsobech, jak se na to podívat, ne? Takže všichni - nebo, zvláště já (smích) - milujeme kino.
 
 41
 00:04:37,240 --> 00:04:44,110
-Joan: And we were looking for references there. We say to try a follow camera for the main character.
+Joan: A tam jsme hledali reference. Říkáme, že zkusíme sledovat kameru pro hlavní postavu.
 
 42
 00:04:44,110 --> 00:04:54,010
-Joan: A one shot approach that you can see movies that came to our mind, like Goodfellas or Birdman, things like that.
+Joan: Jednosnímkový přístup, díky kterému můžete vidět filmy, které nás napadly, jako Goodfellas nebo Birdman a podobné věci.
 
 43
 00:04:54,010 --> 00:05:00,180
-Joan: But we wanted to stick to the Gothic spirit. So we didn't want to go crazy with this.
+Joan: Chtěli jsme se ale držet Gothic ducha. Tak jsme se s tím nechtěli zbláznit.
 
 44
 00:05:00,180 --> 00:05:07,110
-Joan: So yeah, that was our first idea, trying to create a one shot take following a character.
+Joan: Takže ano, to byl náš první nápad, pokusit se vytvořit jeden záběr co následuje postavu.
 
 45
 00:05:07,140 --> 00:05:16,200
-Joan: We needed to decide the path - which parts of the camp we wanted to show, and at the end we decided to show the first entrance,
+Joan: Potřebovali jsme se rozhodnout pro cestu - které části tábora chceme ukázat, a nakonec jsme se rozhodli ukázat první vchod,
 
 46
 00:05:16,200 --> 00:05:23,020
-Joan: then some of the huts where usually there are wards asking you for money in the original game
+Joan: pak některé z chatrčí, kde jsou obvykle strážci, který po z v původní hře vymáhají peníze
 
 47
 00:05:23,040 --> 00:05:29,150
-Joan: and then Snaf, and the food, and then the the arena.
+Joan: a pak Snaf, a jídlo, a pak aréna.
 
 48
 00:05:29,170 --> 00:05:35,110
-Joan: But yeah, it happened that this path was so long in terms of of time.
+Joan: Ale jo, stalo se, že tato cesta byla časově tak dlouhá.
 
 49
 00:05:35,110 --> 00:05:40,280
-Joan: It took like 3 or 4 minutes for the character just to walk all this area.
+Joan: Postavě trvalo asi 3 nebo 4 minuty, než celou tuto oblast prošla.
 
 50
 00:05:40,280 --> 00:05:45,270
-Joan: So the one shot approach needed to be tweaked. (laughs)
+Joan: Takže ten přístup jedním snímkem bylo potřeba vylepšit. (Smích)
 
 51
 00:05:45,270 --> 00:05:53,050
-Joan: And at the end we have some cuts during the walk, but I think they work pretty nicely.
+Joan: A na konci máme nějaké výstřihy během procházky, ale myslím, že fungují docela pěkně.
 
 52
 00:05:53,070 --> 00:05:57,210
-Reinhard: How did you transfer the script into an actual visual?
+Reinhard: Jak jste převedli scénář do skutečného vizuálu?
 
 53
 00:05:57,210 --> 00:06:05,030
-Joan: So after we had the idea (we decided to go for the one take approach),
+Joan: Takže poté, co jsme měli nápad (rozhodli jsme se pro přístup typu jednoho snímku),
 
 54
 00:06:05,050 --> 00:06:10,210
-Joan: we needed one more thing, and that one thing was a story, a main character.
+Joan: potřebovali jsme ještě jednu věc, a ta jedna věc byl příběh, hlavní postava.
 
 55
 00:06:10,210 --> 00:06:13,210
-Joan: We needed someone to lead this camera.
+Joan: Potřebovali jsme někoho, kdo by vedl tuto kameru.
 
 56
 00:06:13,210 --> 00:06:20,040
-Joan: So after we had the idea, we created a script that basically is about a digger
+Joan: Takže poté, co jsme měli nápad, vytvořili jsme scénář, který je v podstatě o kopáčovi
 
 57
 00:06:20,040 --> 00:06:26,190
-Joan: that stole some money from Bloodwyn, one of the wards, and then he got caught by him.
+Joan: který ukradl nějaké peníze Bloodwynovi, jednomu ze strážců, a on ho pak chytil.
 
 58
 00:06:26,210 --> 00:06:28,100
-Reinhard: So what happened next?
+Reinhard: Co se tedy stalo dál?
 
 59
 00:06:28,100 --> 00:06:38,040
-Joan: Next step was to create a storyboard, or: What we actually did was to create an animatic - or previsualization.
+Joan: Dalším krokem bylo vytvoření storyboardu, nebo: Co jsme vlastně udělali, bylo vytvořit animaci – neboli previzualizaci.
 
 60
 00:06:38,040 --> 00:06:45,080
-Joan: As we were working with Unreal, we were able to work with""Sequencer"" directly inside the engine
+Joan: Když jsme pracovali s Unrealem, mohli jsme pracovat se ""Sequencerem"" přímo uvnitř enginu
 
 61
 00:06:45,080 --> 00:06:51,120
-Joan: and that allowed us to have the animations already done for other purposes,
+Joan: a to nám umožnilo mít již hotové animace pro jiné účely,
 
 62
 00:06:51,190 --> 00:07:00,090
-Joan: putting them together also using some basic control rig which allows you to modify these animations
+Joan: jejich skládání také pomocí nějakého základního ovládacího zařízení, které vám umožňuje upravovat tyto animace
 
 63
 00:07:00,090 --> 00:07:12,170
-Joan: in an easy way. With this we created our animated storyboard. Because they Old camp environment was already done when the trailer was being created.
+Joan: snadným způsobem. S tímto jsme vytvořili náš animovaný storyboard. Protože prostředí starého tábora bylo hotové už při vytváření traileru.
 
 64
 00:07:12,170 --> 00:07:16,120
-Joan: That allowed us to, well, basically we had everything.
+Joan: To nám umožnilo, no, v podstatě jsme měli všechno.
 
 65
 00:07:16,120 --> 00:07:23,200
-Joan: We just needed to assemble this animatic and show it to the animators.
+Joan: Potřebovali jsme tento animák sestavit a ukázat ho animátorům.
 
 66
 00:07:23,220 --> 00:07:26,210
-Joan: That was everything that we needed for this.
+Joan: To bylo vše, co jsme k tomu potřebovali.
 
 67
 00:07:26,210 --> 00:07:31,170
-Kai: Aha. So does that mean that everything that we see in the trailer is also going to happen in the game?
+Kai: Aha. Znamená to tedy, že vše, co vidíme v traileru, se stane i ve hře?
 
 68
 00:07:31,170 --> 00:07:38,060
-Reinhard: So, the Old Camp, as we see it in the Old Camp trailer, looks exactly the same in the game.
+Reinhard: Takže Starý tábor, jak jej vidíme v traileru Starého tábora, vypadá ve hře úplně stejně.
 
 69
 00:07:38,080 --> 00:07:46,040
-Reinhard: The events that happen can also happen like that, but in the game they will happen dynamically. In the trailer,
+Reinhard: Události, které se stanou, se mohou také tak stát, ale ve hře se budou dít dynamicky. V traileru
 
 70
 00:07:46,040 --> 00:07:54,000
-Reinhard: obviously, we set them up like in a sequence after each other, so they happened conveniently whenever we needed them.
+Reinhard: samozřejmě jsme je nastavili jako v sekvenci po sobě, takže se pohodlně staly, kdykoli jsme je potřebovali.
 
 71
 00:07:54,000 --> 00:08:01,220
-Reinhard: And the other thing that is totally not like that in the game is the camera sequence, which was specifically set up for the trailer.
+Reinhard: A další věc, která ve hře úplně není, je sekvence kamer, která byla speciálně nastavena pro trailer.
 
 72
 00:08:01,220 --> 00:08:04,060
-Kai: Okay, Got it. Thank you.
+Kai: Dobře, rozumím. Děkuju.
 
 73
 00:08:04,060 --> 00:08:06,250
-Reinhard: What was your favorite scenes from the trailer?
+Reinhard: Jaké byly tvoje oblíbené scény z traileru?
 
 74
 00:08:06,250 --> 00:08:15,240
-Joan: Even though the fight scenes are very cool, my favorite scene is the Snaf part with the cauldron and everything.
+Joan: I když jsou bojové scény velmi cool, moje oblíbená scéna je ta se Snafem a kotlem a vším.
 
 75
 00:08:15,240 --> 00:08:23,240
-Joan: Because acting is very funny, we also have a fight at the end, so I think is is super complete.
+Joan: Protože herectví je velmi zábavné, na konci je také boj, takže si myslím, že je super kompletní.
 
 76
 00:08:23,260 --> 00:08:33,000
-Dani: Okay. You know, when we started discussing the trailer, I mean, we decided to be, you know, to show the original spirit of Gothic.
+Dani: Dobře. Víte, když jsme začali diskutovat o traileru, myslím tím, rozhodli jsme se, víte, ukázat původního ducha Gothicu.
 
 77
 00:08:33,000 --> 00:08:38,160
-Dani: The feeling of being there in the Old Camp. How hard it is to to be there, how rude everyone is.
+Dani: Ten pocit toho být ve Starém táboře. Jak těžké je tam být, jak jsou všichni hrubí.
 
 78
 00:08:38,160 --> 00:08:44,220
-Dani: But for me, the best moment, it's when Bloodwyn appears, you know, punching the guy
+Dani: Ale pro mě je nejlepší okamžik, když se objeví Bloodwyn, víš, jak praštil toho chlapa
 
 79
 00:08:44,240 --> 00:08:55,030
-Dani: and saying:""Okay, you need to pay me the debts. Gomez needs your ore!"" For me this is a moment when you see, okay, this is a dangerous place.
+Dani: a řekl: „Dobrá, musíš mi zaplatit dluhy. Gomez potřebuje tvojí rudu!" "Pro mě je to okamžik, kdy vidíte, dobře, tohle je nebezpečné místo.
 
 80
 00:08:55,030 --> 00:09:03,280
-Dani: You should take care of your own life. So I think this for me, it's the best moment when you can see the characters moving and interacting between two characters in a complicated interaction.
+Dani: Měli byste se starat o svůj vlastní život. Takže si myslím, že tohle je pro mě ten nejlepší moment, kdy můžete vidět, jak se postavy pohybují a interagují mezi dvěma postavami v komplikované interakci.
 
 81
 00:09:03,280 --> 00:09:08,150
-Dani: So for me, this is one of the most memorable scenes for me in the trailer.
+Dani: Pro mě je to tedy jedna z nejzapamatovatelnějších scén v traileru.
 
 82
 00:09:08,150 --> 00:09:12,250
-Reinhard: (laughs) Isn't it hard to create a location with SO many similar digger huts?
+Reinhard: (smích) Není těžké vytvořit místo s TOLIK podobnými chatrčemi pro kopáče?
 
 83
 00:09:12,270 --> 00:09:15,090
-Dani: That's a funny question because you know what I mean
+Dani: To je legrační otázka, protože víš, co myslím
 
 84
 00:09:15,090 --> 00:09:21,160
-Dani: Gothic offers us the possibility to work manually in each one of those huts.
+Dani: Gothic nám nabízí možnost pracovat manuálně v každé z těch chatrčí.
 
 85
 00:09:21,180 --> 00:09:29,130
-Dani: So, yes, we have dozens of huts, and I can assure you that each one of them is unique and specific and special.
+Dani: Takže ano, máme desítky chatrčí a můžu tě ujistit, že každá z nich je jedinečná a specifická a zvláštní.
 
 86
 00:09:29,150 --> 00:09:37,010
-Dani: So, yeah, it's it's a challenge because you should offer something different for each one, but at the same time they should feel integrated...
+Dani: Takže ano, je to výzva, protože každá by měla nabídnout něco jiného, ale zároveň by se měli zdát integrované...
 
 87
 00:09:37,010 --> 00:09:40,160
-Dani: All of them should feel integrated in the same visual language.
+Dani: Všichny by se měli cítit integrované ve stejném vizuálním jazyce.
 
 88
 00:09:40,160 --> 00:09:44,210
-Dani: And ... it's a very tricky part of designing the space.
+Dani: A ... je to velmi složitá část navrhování prostoru.
 
 89
 00:09:44,210 --> 00:09:51,200
-Dani: They should feel noisy, labyrinthic, intricate, they should feel dirty.
+Dani: Měli by se zdát hlučné, labyriní, složité, měli by se zdát špinavé.
 
 90
 00:09:51,200 --> 00:09:58,060
-Dani: So, yeah, I mean, it's an interesting opportunity to make this labyrinthic space, but at the same time making it unique.
+Dani: Takže ano, myslím, je to zajímavá příležitost, vytvořit tento labyrintový prostor, ale zároveň jej učinit jedinečným.
 
 91
 00:09:58,060 --> 00:10:01,150
-Reinhard: Speaking about uniqueness, every face is unique, right?
+Reinhard: Když už mluvíme o jedinečnosti, každá tvář je jedinečná, že?
 
 92
 00:10:01,150 --> 00:10:07,240
-Dani: Yeah, that's one of the biggest challenges of all this game. I mean, we design it, all of them.
+Dani: Jo, to je jedna z největších výzev celé této hry. Jakože, my je navrhujeme, všechny.
 
 93
 00:10:07,240 --> 00:10:12,110
-Dani: I mean, we have been working ... This process started like two years ago.
+Dani: Jakože, pracovali jsme... Tento proces začal asi před dvěma lety.
 
 94
 00:10:12,130 --> 00:10:18,230
-Dani: We started designing manually each one of the characters and we have been working together with our
+Dani: Začali jsme ručně navrhovat každou z postav a spolupracujeme s našimi
 
 95
 00:10:18,260 --> 00:10:25,270
-Dani: I can say, I mean, we have been spending so many hours with them that I can say they are brothers and sisters of Gate 21. They are helping us a lot on that.
+Dani: Můžu říct, no, že jsme s nimi trávili tolik hodin, že můžu říct, že jsou bratři a sestry Brány 21. Hodně nám v tom pomáhají.
 
 96
 00:10:25,270 --> 00:10:34,220
-Dani: And we are creating, we are trying, we're aiming to create I don't know how many characters we have, maybe 600 or something like that, (Joan: Yep!) unique specific characters.
+Dani: A my tvoříme, snažíme se, snažíme se vytvořit nevím, kolik máme postav, možná 600 nebo něco takového, (Joan: Jo!) jedinečné specifické postavy.
 
 97
 00:10:34,220 --> 00:10:41,080
-Dani: So we can create unique characters and then we can mix them and blend them and creating new characters again.
+Dani: Takže můžeme vytvořit jedinečné postavy a pak je můžeme míchat a mísit a znovu vytvářet nové postavy.
 
 98
 00:10:41,110 --> 00:10:48,030
-Dani: So yeah, we are - I mean - we are hoping and trying super hard to make this the experience that the Gothic fans deserve.
+Dani: Takže ano, my – myslím – doufáme a tvrdě se snažíme, aby to byl zážitek, který si fanoušci Gothica zaslouží.
 
 99
 00:10:48,030 --> 00:10:57,280
-Dani: I mean, in Gothic, I remember playing the original Gothic, everyone, every character felt original, right? Unique! So we are aiming for the same.
+Dani: No, v Gothicu, pamatuju si že jsem hrál původní Gothic, všichni, každá postava vypadala originálně, že? Unikátní! Takže směřujeme k tomu samému.
 
 100
 00:10:57,280 --> 00:11:00,080
-Reinhard: That's great. Thanks for the insight. (Dani: Thank you.)
+Reinhard: To je skvělé. Díky za vysvětlení. (Dani: Děkuji.)
 
 101
 00:11:00,080 --> 00:11:06,040
-Reinhard: Is there anything you would like to change on the trailer if you could go back?
+Reinhard: Je něco, co by jsi chtěl na traileru změnit, kdyby si se mohl vrátit?
 
 102
 00:11:06,070 --> 00:11:19,150
-Joan: If I had the chance to come back, I think I will try to revise a bit the first part of the trailer. Maybe ... there's many things happening at the same time. (Reinhard: Yeah.)
+Joan: Pokud bych měl možnost se vrátit, myslím, že se pokusím trochu upravit první část traileru. Možná... se děje mnoho věcí současně. (Reinhard: Ano.)
 
 103
 00:11:19,210 --> 00:11:27,050
-Joan: We could try a better way to introduce the trailer, but overall, I think it's working good.
+Joan: Mohli bychom zkusit lepší způsob, jak představit trailer, ale celkově si myslím, že to funguje dobře.
 
 104
 00:11:27,080 --> 00:11:29,090
-Kai: Oh yeah, I absolutely think it does.
+Kai: Ach ano, naprosto si myslím, že ano.
 
 105
 00:11:29,090 --> 00:11:36,120
-Kai: Although I think we should address the fact that everybody in the trailer speaks Cockney British now. Why is that?
+Kai: I když si myslím, že bychom se měli zabývat tím, že všichni v traileru teď mluví londýnskou angličtinou. proč tomu tak je?
 
 106
 00:11:36,120 --> 00:11:43,290
-Reinhard: So we decided to go with the rough atmosphere, we take the Cockney accent in English, but not everybody has the same accent.
+Reinhard:Takže jsme se rozhodli jít s drsnou atmosférou, používáme londýnský přízvuk v angličtině, ale ne každý má stejný přízvuk.
 
 107
 00:11:43,290 --> 00:11:54,020
-Reinhard: Some people come from different parts of Myrtana and so they speak, differently, like Diego who has a very different accent and not the rough Cockney accent.
+Reinhard: Někteří lidé pocházejí z různých částí Myrtany, a tak mluví odlišně, jako Diego, který má velmi odlišný přízvuk a ne ten hrubý londýnský.
 
 108
 00:11:54,020 --> 00:12:05,230
-Reinhard: So I would say: Yes, the Old Camp will sound rough and will sound very cockney, but overall it is not even more than 50%. (Kai: Okay, cool.)
+Reinhard: Řekl bych tedy: Ano, Starý tábor bude znít drsně a bude znít hodně namyšleně, ale celkově to není ani víc než 50 %. (Kai: Dobře, v pohodě.)
 
 109
 00:12:05,230 --> 00:12:08,050
-Kai: Thanks for clarifying that.
+Kai: Díky za objasnění.
 
 110
 00:12:08,070 --> 00:12:14,030
-Reinhard: Alright. Since we're sitting here at the campfire, we obviously also need to eat something.
+Reinhard: Dobrá. Jelikož tady sedíme u táboráku, tak evidentně potřebujeme i něco sníst.
 
 111
 00:12:14,030 --> 00:12:19,260
-Reinhard: I'm going to eat Swampshark Poke. What can I serve you?
+Reinhard: Já si dám močálového žraloka na klacku. Co můžu nabídnout vám?
 
 112
 00:12:19,260 --> 00:12:20,220
-Timur: Thanks, Reinhard.
+Timur: Díky, Reinharde.
 
 113
 00:12:20,220 --> 00:12:27,170
-Kai: Yeah, thank you. But actually, you can continue chatting and I'll take care of taking the orders and preparing the meals. (Reinhard: Thanks.)
+Kai: Jo, díky. Ale ve skutečnosti můžeš pokračovat v mluvení a já se postarám o přijímání objednávek a přípravu jídel. (Reinhard: Díky.)
 
 114
 00:12:27,170 --> 00:12:28,180
-Kai: Timur, what's your choice?
+Kai: Timure, co sis vybral ty?
 
 115
 00:12:28,180 --> 00:12:34,090
-Timur: I think my favorite one is Bartholos Roasted Scavenger Steak with barbecue sauce.
+Timur: Myslím, že můj nejoblíbenější je Bartholův Steak z mrchožrouta s barbecue omáčkou.
 
 116
 00:12:34,090 --> 00:12:38,130
-Timur: And to drink, I would like the Rice Lord's vodka.
+Timur: A k pití bych si dal vodku rýžového lorda.
 
 117
 00:12:38,130 --> 00:12:43,180
-Kai: Okay, Rice Lord's vodka. Alright! So Javi, what will you have?
+Kai: Dobrá, vodka rýžového lorda. Tak jo! Takže Javi, co si dáš ty?
 
 118
 00:12:43,180 --> 00:12:47,250
-Javi: I will go with Roasted Scavenger and a bottle of beer.
+Javi: Já si dám pečeného mrchožrouta a láhev piva.
 
 119
 00:12:47,250 --> 00:12:50,220
-Kai: Yeah, it's going to be the same for me! Dani?
+Kai: Jo, já si dám to samé! Dani?
 
 120
 00:12:50,220 --> 00:12:56,020
-Dani: Well, Meatbug Paella with Rice Lord's special. That would be nice.
+Dani: No, Paella ze žravé štěnice se speciálem rýžového lorda. To by bylo fajn.
 
 121
 00:12:56,020 --> 00:12:59,090
-Kai: One more from the Rice Lord. Okay! Joan, your turn.
+Kai: Jedna další od rýžového lorda. Okay! Joan, řada je na tobě.
 
 122
 00:12:59,090 --> 00:13:04,120
-Joan: What about Swampshark Grilled Fillet? S'il vous plaît.
+Joan: Co třeba grillovaný fillet z močálového žraloka? S'il vous plaît.
 
 123
 00:13:04,120 --> 00:13:07,060
-Kai: Mais oui, bien sûr! And for drink?
+Kai: Mais oui, bien sûr! A k pití?
 
 124
 00:13:07,060 --> 00:13:12,060
-Joan: Yeah, and for drink maybe some vegetable juice that we can find around here.
+Joan: Jo, a k pití možná nějáký zeleninový džus co tady najdeme.
 
 125
 00:13:12,060 --> 00:13:13,240
-Kai: Okay. Working on it.
+Kai: Dobrá. Jdu na to.
 
 126
 00:13:13,240 --> 00:13:18,290
-Reinhard: Now, let's talk about the Nyras Prolog, which was the demo that we showed to press and streamers at Gamescom.
+Reinhard: Nyní si promluvme o Nyras Prologu, což bylo demo, které jsme ukázali tisku a streamerům na Gamescomu.
 
 127
 00:13:18,290 --> 00:13:23,230
-Kai: Yeah, actually, I think that needs some more introduction. (Reinhard: Yes.) So what is the ... What is it?
+Kai: Jo, vlastně si myslím, že to chce více úvodu. (Reinhard: Ano.) Takže co je... Co to je?
 
 128
 00:13:23,230 --> 00:13:35,070
-Reinhard: So, the Nyras Prolog is really a slice of the game that contains almost all elements in a close to final form, and it features not the nameless hero, but the character called Nyras.
+Reinhard: Nyras Prolog je tedy skutečně kusem hry, který obsahuje téměř všechny prvky v téměř konečné podobě a nevystupuje v něm bezejmenný hrdina, ale postava jménem Nyras.
 
 129
 00:13:35,070 --> 00:13:46,210
-Reinhard: And we chose this because the start of the game is not really something that has a big - like - progression curve, because it expects you to go to the Old Camp and do some talking there.
+Reinhard: A zvolili jsme to, protože začátek hry ve skutečnosti není něco, co má velkou - jako - křivku postupu, protože se očekává, že půjdete do Starého tábora a tam si popovídáte.
 
 130
 00:13:46,210 --> 00:13:55,010
-Reinhard: Our goal was that within 30 minutes you get to see every element of the game and we could achieve this with this setup. (Kai: Yeah, that makes a lot of sense.)
+Reinhard: Naším cílem bylo, abyste během 30 minut viděli každý prvek hry a toho bychom mohli dosáhnout s tímto nastavením. (Kai: Jo, to dává velký smysl.)
 
 131
 00:13:55,010 --> 00:13:59,140
-Kai: The first food's ready. Ehm, Paella was for you, Dani, right? (Dani: Exactly, yes!)
+Kai: První jídlo je hotové. Ehm, Paella byla pro tebe, Dani, že? (Dani: Přesně tak, ano!)
 
 132
 00:13:59,140 --> 00:14:04,060
-Kai: There you go. (Dani: Thanks.) Reinhard, why did we choose Nyras for the prolog?
+Kai: Tady máš. (Dani: Díky.) Reinharde, proč jsme si pro prolog vybrali Nyrase?
 
 133
 00:14:04,060 --> 00:14:12,200
-Reinhard: We had obviously several options because before the Nameless Hero gets sent into the colony, obviously other characters get sent into the colony.
+Reinhard: Měli jsme samozřejmě několik možností, protože než bude bezejmenný hrdina poslán do kolonie, samozřejmě jsou do kolonie poslány další postavy.
 
 134
 00:14:12,220 --> 00:14:21,010
-Reinhard: (Kai talking to others in the background, giving out food and drinks.) Reinhard: And so it was a guy named Nyras that later turned his attention to the swamp and plays a very important part later down the road in the game.
+Reinhard: (Kai mluví s ostatními v pozadí, rozdává jídlo a pití.) Reinhard: A tak to byl chlápek jménem Nyras, který později obrátil svou pozornost k bažině a hraje velmi důležitou roli později ve hře.
 
 135
 00:14:21,050 --> 00:14:25,130
-Kai: Cool. Thank you. Here's your meal. (Reinhard: Thanks.) That should be everything.
+Kai: Hezky. Děkuji. Tady je tvoje jídlo. (Reinhard: Díky.) To by mělo být všechno.
 
 136
 00:14:25,130 --> 00:14:29,110
-Reinhard: So what was the main goal of the Nyras Prolog and how did we start?
+Reinhard: Co bylo tedy hlavním cílem Nyras Prologu a jak jsme začali?
 
 137
 00:14:29,110 --> 00:14:40,130
-Javi: Well, I think our main goal was to show all the progress of the game and a little bit how the game has changed from the PT - from the playable teaser.
+Javi: No, myslím, že naším hlavním cílem bylo ukázat celý pokrok hry a trochu, jak se hra změnila od PT - od hratelného teaseru.
 
 138
 00:14:40,150 --> 00:14:57,150
-Javi: So we have a lot of things to show, and one of the more important things that we wanted to show was the Exchange Zone at the end, because it changed a lot from the previous version we had done. This limit of the level, the space, and we build from there.
+Javi: Takže máme spoustu věcí, které můžeme ukázat, a jedna z nejdůležitějších věcí, kterou jsme chtěli ukázat, bylo místo výměny na konci, protože se hodně změnilo oproti předchozí verzi, kterou jsme dělali. Tento limit úrovně, prostoru a odtud stavíme.
 
 139
 00:14:57,170 --> 00:14:59,140
-Javi: There are a lot of things that we want to show there.
+Javi: Je spousta věcí, které tam chceme ukázat.
 
 140
 00:14:59,140 --> 00:15:05,030
-Javi: Well, we can talk about all the mechanics or systems.
+Javi: No, můžeme mluvit o všech mechanikách nebo systémech.
 
 141
 00:15:05,030 --> 00:15:08,150
-Javi: I don't know which one do you want to start talking about?
+Javi: Nevím, o kterých z nich chceš začít mluvit?
 
 142
 00:15:08,150 --> 00:15:12,000
-Reinhard: I think we should start exactly with that. The Exchange Zone.
+Reinhard: Myslím, že bychom měli začít přesně tím. Místo výměny.
 
 143
 00:15:12,000 --> 00:15:14,300
-Reinhard: So is it a completely new exchange zone?
+Reinhard: Jde tedy o zcela nové místo výměny?
 
 144
 00:15:14,300 --> 00:15:17,000
-Javi: Well, it's pretty much the same.
+Javi: No, je skoro stejné.
 
 145
 00:15:17,000 --> 00:15:24,180
-Javi: I think all the players will recognize it. It's the place they imagine, like a new version but the same place.
+Javi: Myslím, že to všichni hráči poznají. Je to místo, které si představují, jako nová verze, ale stejné místo.
 
 146
 00:15:24,230 --> 00:15:39,120
-Javi: (Dani: Yeah.) We want to build from the original. We have created this Exchange Zone where - well - in the prolog Whistler and Diego were there. And we keep most of the rhythm of the level.
+Javi: (Dani: Jo.) Chceme stavět z originálu. Vytvořili jsme tohle místo výměny, kde – no – v prologu byli Whistler a Diego. A držíme většinu rytmu úrovně.
 
 147
 00:15:39,140 --> 00:15:43,140
-Javi: We keep the abandoned mine entrance, the bridge...
+Javi: Udržujeme opuštěný vchod do dolu, most...
 
 148
 00:15:43,140 --> 00:15:47,250
-Javi: Well, I think all the players will recognize it perfectly. (Dani: Oh yeah, yeah, yeah.)
+Javi: No, myslím, že to všichni hráči dokonale poznají. (Dani: Ach ano, ano, ano.)
 
 149
 00:15:47,250 --> 00:15:57,090
-Javi: Yeah, we have these, these different areas that we work with. Because we have also the top area where - you know - all the players remember there was there Goblin in there.
+Javi: Ano, máme tyto různé oblasti, se kterými pracujeme. Protože máme také horní oblast, kde - víte - všichni hráči pamatují, že tam byl Goblin.
 
 150
 00:15:57,090 --> 00:16:01,210
-Javi: We have also the tree with the Scavengers and... Yeah!
+Javi: Máme také strom s mrchožrouty a... Jo!
 
 151
 00:16:01,210 --> 00:16:10,280
-Javi: From our level perspective we keep the same and we want to show it and create a story for the beginning of any prisoner when they go inside the colony.
+Javi: Z pohledu naší úrovně zůstáváme stejné a chceme to ukázat a vytvořit příběh pro začátek každého vězně, když vstoupí do kolonie.
 
 152
 00:16:11,040 --> 00:16:13,210
-Reinhard: Cool. So what was the process?
+Reinhard: Hezky. Takže jaký byl ten proces?
 
 153
 00:16:13,210 --> 00:16:27,150
-Javi: Well, from the level perspective, what we create is taking the original, we create a blockout and we try to keep as much as possible (true) to the original one.
+Javi: No, z hlediska úrovně, to, co vytváříme, bere originál, vytváříme blokování a snažíme se co nejvíce (věrně) zachovat ten původní.
 
 154
 00:16:27,150 --> 00:16:35,170
-Javi: But also we want to improve it, giving these areas more... more deepness and more flavor for what they are, really.
+Javi: Ale také to chceme zlepšit a dát těmto oblastem více... větší hloubku a více chuti k tomu, čím skutečně jsou.
 
 155
 00:16:35,200 --> 00:16:46,080
-Javi: And then we talk with the art team when we have this blockout to start working on the - okay - the decoration, the framing, more stuff in a in a visual way.
+Javi: A pak si promluvíme s uměleckým týmem, až budeme mít tento blockout, abychom začali pracovat na - dobře - výzdobě, rámování, více věcech vizuálním způsobem.
 
 156
 00:16:46,100 --> 00:16:51,020
-Javi: Also we..., when we are doing these blockouts, we also thought about the
+Javi: Také my..., když děláme tenhle blockout, mysleli jsme také na to
 
 157
 00:16:51,020 --> 00:16:53,110
-Javi: the creatures who are there. Because for us it's very important
+Javi: stvoření, která tam jsou. Protože je to pro nás velmi důležité
 
 158
 00:16:53,110 --> 00:16:59,240
-Javi: to create this habitat for the creatures. Like where they live, where they sleep, where they eat,
+Javi: vytvořit toto prostředí pro stvoření. Jako kde žijí, kde spí, kde jedí,
 
 159
 00:16:59,260 --> 00:17:03,010
-Javi: how is their daily routine also for the creatures? Because at the end
+Javi: jaký je denní režim pro stvoření? Protože na konci
 
 160
 00:17:03,010 --> 00:17:09,150
-Javi: they are living creatures also. And, and yeah, and also one of the of the important things for for this
+Javi: jsou to také živí tvorové. A ano, a také jedna z důležitých věcí pro tenhle
 
 161
 00:17:09,150 --> 00:17:23,270
-Javi: prolog is to create this pacing for the quests. But it's also very important for us, for when we create a space, we have also in mind the quest that will be there and... Yeah, that's our process.
+Javi: prolog je vytvořit toto tempo pro úkoly. Ale je to pro nás také velmi důležité, protože když vytváříme prostor, máme na mysli také úkoly, které tam budou a... Jo, to je náš proces.
 
 162
 00:17:23,270 --> 00:17:32,090
-Javi: We create this, we place the people, we try it, we iterate, we talk with the art team, they create awesome visuals for these spaces.
+Javi: Vytvoříme to, umísťíme lidi, vyzkoušíme to, iterujeme, promluvíme s uměleckým týmem, oni vytvoří úžasné vizuály pro tyto prostory.
 
 163
 00:17:32,090 --> 00:17:39,070
-Javi: And yeah, it's something like... We start from from the blockout and from there we continue with, with all these things.
+Javi: A ano, je to něco jako... Začínáme od blockoutu a odtud pokračujeme se všemi těmito věcmi.
 
 164
 00:17:39,140 --> 00:17:43,240
-Dani: Yeah. The cool thing is that when we start preparing the blockout phase,
+Dani: To jo. Skvělé je, že když začneme připravovat fázi blockoutu,
 
 165
 00:17:43,240 --> 00:17:49,020
-Dani: I mean, we meet together with the designers, with the level designers, so we can share the same vision
+Dani: Chci říct, setkáváme se společně s designéry, s designéry úrovní, takže můžeme sdílet stejnou vizi
 
 166
 00:17:49,020 --> 00:17:55,020
-Dani: about how this space should be explored, how this a space should look and feel.
+Dani: o tom, jak by měl být tento prostor prozkoumáván, jak by tento prostor měl vypadat a jeho atmosféru.
 
 167
 00:17:55,050 --> 00:17:59,260
-Dani: So when they give the blockout to us, we are basically working on the same page.
+Dani: Takže když nám dají ten blockout, pracujeme v podstatě na stejné stránce.
 
 168
 00:17:59,260 --> 00:18:04,130
-Dani: So we start our process of, you know, searching for believable environments.
+Dani: Takže začínáme náš proces, víte, hledání věrohodných prostředí.
 
 169
 00:18:04,130 --> 00:18:11,020
-Dani: I mean, we should transform this blockout into believable environments, into believable constructions.
+Dani: Jakože, měly bychom přeměnit tento blockout na věrohodná prostředí, na věrohodné konstrukce.
 
 170
 00:18:11,040 --> 00:18:16,190
-Dani: So we'll start, you know, drawing and sketching and searching for references.
+Dani: Takže začneme, víte, s kreslením a skicováním a s hledáním referencí.
 
 171
 00:18:16,190 --> 00:18:20,290
-Dani: It's super important to always search for realistic references.
+Dani: Je super důležité vždy hledat realistické reference.
 
 172
 00:18:20,290 --> 00:18:26,210
-Dani: And we start playing with materials and trying to create the right sensation, the right mood, the right structures.
+Dani: A začneme si hrát s materiály a snažíme se vytvořit ten správný pocit, správnou náladu, správné struktury.
 
 173
 00:18:26,210 --> 00:18:30,130
-Dani: And sometimes we go a little overboard with the details.
+Dani: A někdy to s detaily trochu přeháníme.
 
 174
 00:18:30,130 --> 00:18:36,190
-Dani: But in general, the cool thing is that here we work together as a great team. We share the same vision.
+Dani: Ale obecně je super, že tady spolupracujeme jako skvělý tým. Sdílíme stejnou vizi.
 
 175
 00:18:36,190 --> 00:18:42,150
-Dani: So basically when we start decorating, we already know how this should end up looking.
+Dani: Takže v podstatě když začneme s dekoracemi, už víme, jak by to mělo vypadat na konec.
 
 176
 00:18:42,150 --> 00:18:44,140
-Reinhard: That's great. Thanks for the insight.
+Reinhard: To je skvělé. Díky za vysvětlení.
 
 177
 00:18:44,140 --> 00:18:48,180
-Reinhard: The changed Exchange Zone does have a new fireplace right? (Javi: Right.)
+Reinhard: Změněné místo výměny má nový táborák, že? (Javi: Správně.)
 
 178
 00:18:48,180 --> 00:18:56,020
-Javi: This fire point in the Exchange Zone that we placed there for the players to be able to cook some recipes.
+Javi: Tento ohnivý bod v místě výměny, který jsme tam umístili, aby si hráči mohli uvařit nějaké recepty.
 
 179
 00:18:56,030 --> 00:19:00,120
-Javi: There are a lot of creatures in the Exchange Zone that give you meat.
+Javi: Na místě výměny je hodně tvorů ze kterých získáte maso.
 
 180
 00:19:00,120 --> 00:19:03,250
-Javi: Like the Scavengers and the Molerats also.
+Javi: Jako mrchožrouti a taky krysokrti.
 
 181
 00:19:03,250 --> 00:19:11,050
-Javi: But this is one of our bases. Because we want the player to get this meat and prepare the recipes, the dishes.
+Javi: Ale tohle je jedna z našich základen. Protože chceme, aby hráč získal toto maso a připravil recepty, pokrmy.
 
 182
 00:19:11,050 --> 00:19:13,120
-Javi: And it's a way to survive in the wildlands.
+Javi: A je to způsob, jak přežít v divočině.
 
 183
 00:19:13,120 --> 00:19:20,230
-Javi: Also we are having a lot of interest in developing better the hunting skills because it's something
+Javi: Také máme velký zájem o lepší vývoj loveckých dovedností, protože to je něco
 
 184
 00:19:20,230 --> 00:19:24,290
-Javi: that we think is important for the game because at the end you are in the wildlands, you need to survive.
+Javi: co si myslíme, že je pro hru důležité, protože koneckonců jste v divočině, musíte přežít.
 
 185
 00:19:24,290 --> 00:19:27,130
-Javi: You need to get these material from the creatures.
+Javi: Musíte si obstarat tyto zásoby z tvorů.
 
 186
 00:19:27,130 --> 00:19:33,130
-Javi: And for us, it's very, very important to give this feeling of adventure of... Okay, you have to get prepared with this.
+Javi: A pro nás je velmi, velmi důležité dát tento pocit dobrodružství... Dobře, na tohle se musíte připravit.
 
 187
 00:19:33,150 --> 00:19:42,070
-Javi: And we will use these materials for many kinds of crafting because we will have not just cooking, we will have more crafting there.
+Javi: A tyto suroviny budeme používat pro mnoho druhů výroby, protože tam budeme mít nejen vaření, ale i více vyrábění.
 
 188
 00:19:42,070 --> 00:19:47,250
-Javi: Yeah, it's something important for us and we will give this a little bit more and land
+Javi: Jo, je to pro nás něco důležitého a my tomu dáme trochu víc a trefíme se
 
 189
 00:19:47,250 --> 00:19:52,030
-Javi: because at the end you can prepare different dishes with different materials.
+Javi: protože koneckonců můžete připravit různá jídla z různých surovin.
 
 190
 00:19:52,060 --> 00:19:58,160
-Kai: And I got to say: The way it is executed in the Nyras Prolog, the cooking mechanic, already works very well. (Javi: Yes.)
+Kai: A musím říct: Způsob, jakým se to provedlo v Nyras Prologu, mechaniky vaření, už fungují velmi dobře. (Javi: Ano.)
 
 191
 00:19:58,160 --> 00:20:01,280
-Kai: Why did we choose the Exchange Zone for the demo ground?
+Kai: Proč jsme si pro demo vybrali místo výměny?
 
 192
 00:20:01,280 --> 00:20:07,160
-Reinhard: Using the exchange zone as the scenery for the Prolog was a natural choice because it can
+Reinhard: Použit místo výměny jako kulisu pro Prolog byla přirozená volba, protože může
 
 193
 00:20:07,160 --> 00:20:13,070
-Reinhard: very well be separated from the rest of the world and doesn't need to get borders everywhere.
+Reinhard: velmi dobře být odděleno od zbytku světa a nepotřebuje mít všude hranice.
 
 194
 00:20:13,070 --> 00:20:18,010
-Reinhard: It already has very natural borders, almost anywhere other than in the mountain path.
+Reinhard: Má již velmi přirozené hranice, téměř kdekoli jinde než na horské cestě.
 
 195
 00:20:18,010 --> 00:20:24,130
-Reinhard: So we only had to find an explanation of why this path is blocked. (Kai: And what is that explanation?)
+Reinhard: Zbývalo tedy jen najít vysvětlení, proč je tato cesta zablokována. (Kai: A jaké je to vysvětlení?)
 
 196
 00:20:24,190 --> 00:20:31,210
-Reinhard: So, the setup was that the rockslide happened and rocks were basically blocking the way down.
+Reinhard: Takže situace byla taková, že došlo k sesuvu a kameny v podstatě blokovaly cestu dolů.
 
 197
 00:20:31,240 --> 00:20:38,280
-Reinhard: And since there were people kind of like busy with some dealings in there, they are now trapped in this environment.
+Reinhard: A protože tam byli lidé tak trochu zaneprázdněni nějakými povinnostmi, jsou nyní v tomto prostředí uvězněni.
 
 198
 00:20:38,280 --> 00:20:41,120
-Kai: Yeah, yeah, I guess that works.
+Kai: Jo, jo, to asi dává smysl.
 
 199
 00:20:41,120 --> 00:20:43,250
-Reinhard: Joan, you were an important part of that.
+Reinhard: Joane, byl jsi toho důležitou součástí.
 
 200
 00:20:43,250 --> 00:20:48,050
-Reinhard: You contributed the concept of the cinematic camera system.
+Reinhard: Ty jsi přispěl konceptem systému filmové kamery.
 
 201
 00:20:48,050 --> 00:20:55,210
