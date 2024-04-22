@@ -800,39 +800,39 @@ Reinhard: Ty jsi přispěl konceptem systému filmové kamery.
 
 201
 00:20:48,050 --> 00:20:55,210
-Joan: Yeah. Well, I think the challenge for the cinematic dialogs that we wanted to have was specially... Normally in cinema,
+Joan: To jo. No, myslím, že výzva pro filmové dialogy, které jsme chtěli mít, byla speciálně... Normálně v kinematografii,
 
 202
 00:20:55,240 --> 00:21:01,010
-Joan: when you have a shot-by-shot situation, you also have an editing, right?
+Joan: když máte situaci záběr po záběru, máte i střih, ne?
 
 203
 00:21:01,010 --> 00:21:10,040
-Joan: (Kai: Yes.) An editing that has some sense and reasons inside the cinematic rules that we all know.
+Joan: (Kai: Ano.) Střih, který má nějaký smysl a důvody uvnitř filmových pravidel, která všichni známe.
 
 204
 00:21:10,060 --> 00:21:16,120
-Joan: So for us, this was the main challenge because we wanted to have
+Joan: Takže to pro nás to byla hlavní výzva, protože jsme chtěli mít
 
 205
 00:21:16,140 --> 00:21:22,020
-Joan: a lot of diferent cameras as you can experience in cinema, not just two or three.
+Joan: spoustu různých kamer, které můžete zažít v kinematografii, ne jen dvě nebo tři.
 
 206
 00:21:22,020 --> 00:21:29,020
-Joan: And at the end this was difficult to achieve, even though for the game we are going to have it!
+Joan: A toho bylo nakonec těžké dosáhnout, i když pro hru to budeme mít!
 
 207
 00:21:29,040 --> 00:21:36,070
-Joan: But for the demo we did some tests and finally to achieve the quality that we wanted to achieve,
+Joan: Ale pro demo jsme provedli několik testů a nakonec, abychom dosáhli kvality, které jsme chtěli dosáhnout,
 
 208
 00:21:36,140 --> 00:21:42,010
-Joan: we needed to cut the idea and we have have, I think, two or three cameras for the demo.
+Joan: potřebovali jsme ten nápad vystřihnout a myslím, že máme dvě nebo tři kamery na demo.
 
 209
 00:21:42,010 --> 00:21:51,160
-Joan: But also when we were doing our research, looking into other third person RPG games for inspiration,
+Joan: Ale také když jsme dělali náš výzkum, hledali inspiraci v jiných RPG hrách z třetí osoby,
 
 210
 00:21:51,180 --> 00:22:00,110
