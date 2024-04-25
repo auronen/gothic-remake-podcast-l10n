@@ -164,83 +164,83 @@ Joan: Quindi cercavamo riferimenti li. Volevamo provare una camera ad inseguimen
 
 42
 00:04:44,110 --> 00:04:54,010
-Joan: A one shot approach that you can see movies that came to our mind, like Goodfellas or Birdman, things like that.
+Joan: Una specie di piano sequenza, come nei film Goodfellas o Birdman, cose del genere.
 
 43
 00:04:54,010 --> 00:05:00,180
-Joan: But we wanted to stick to the Gothic spirit. So we didn't want to go crazy with this.
+Joan: Ma volevamo rimanere nello spirito di Gothic. Quindi non volevamo stravolgere tutto.
 
 44
 00:05:00,180 --> 00:05:07,110
-Joan: So yeah, that was our first idea, trying to create a one shot take following a character.
+Joan: Insomma, questa è stata la nostra prima idea, cercare di creare un piano sequenza che seguiva il personaggio.
 
 45
 00:05:07,140 --> 00:05:16,200
-Joan: We needed to decide the path - which parts of the camp we wanted to show, and at the end we decided to show the first entrance,
+Joan: Dovevamo decidere il percorso - quali parti del campo volevamo mostrare, e alla fine abbiamo optato per la prima entrata,
 
 46
 00:05:16,200 --> 00:05:23,020
-Joan: then some of the huts where usually there are wards asking you for money in the original game
+Joan: poi qualcuna delle capanne dove di solito le guardie ti chiedono soldi nel gioco originale
 
 47
 00:05:23,040 --> 00:05:29,150
-Joan: and then Snaf, and the food, and then the the arena.
+Joan: e poi Snaf, il cibo ed infine l'arena.
 
 48
 00:05:29,170 --> 00:05:35,110
-Joan: But yeah, it happened that this path was so long in terms of of time.
+Joan: Però in termine di tempo, questo percorso ha richiesto molto tempo.
 
 49
 00:05:35,110 --> 00:05:40,280
-Joan: It took like 3 or 4 minutes for the character just to walk all this area.
+Joan: Per camminare in questo percorso al personaggio ci vogliono 3 o 4 minuti.
 
 50
 00:05:40,280 --> 00:05:45,270
-Joan: So the one shot approach needed to be tweaked. (laughs)
+Joan: Quindi il piano sequenza andava ottimizzato. (ride)
 
 51
 00:05:45,270 --> 00:05:53,050
-Joan: And at the end we have some cuts during the walk, but I think they work pretty nicely.
+Joan: E alla fine abbiamo qualche taglio durante la scena, ma penso che funzionino bene.
 
 52
 00:05:53,070 --> 00:05:57,210
-Reinhard: How did you transfer the script into an actual visual?
+Reinhard: Come avete trasportato l'idea in un qualcosa di visivo?
 
 53
 00:05:57,210 --> 00:06:05,030
-Joan: So after we had the idea (we decided to go for the one take approach),
+Joan: Allora, dopo aver avuto l'idea - abbiamo deciso di andare per il piano sequenza-,
 
 54
 00:06:05,050 --> 00:06:10,210
-Joan: we needed one more thing, and that one thing was a story, a main character.
+Joan: avevamo bisogno di una cosa in più, ovvero una storia, un personaggio principale.
 
 55
 00:06:10,210 --> 00:06:13,210
-Joan: We needed someone to lead this camera.
+Joan: Avevamo qualcuno che comandasse questa telecamera.
 
 56
 00:06:13,210 --> 00:06:20,040
-Joan: So after we had the idea, we created a script that basically is about a digger
+Joan: Quindi dopo aver avuto l'idea, abbiamo creato una sceneggiatura su di un minatore
 
 57
 00:06:20,040 --> 00:06:26,190
-Joan: that stole some money from Bloodwyn, one of the wards, and then he got caught by him.
+Joan: che ruba dei soldi a Bloodwyn, una delle guardie, che finisce per essere catturato da lui.
 
 58
 00:06:26,210 --> 00:06:28,100
-Reinhard: So what happened next?
+Reinhard: E poi cos'è successo?
 
 59
 00:06:28,100 --> 00:06:38,040
-Joan: Next step was to create a storyboard, or: What we actually did was to create an animatic - or previsualization.
+Joan: Il prossimo passo è stato il creare uno storyboard, o meglio, abbiamo creato un'animazione - o previsualizzazione.
 
 60
 00:06:38,040 --> 00:06:45,080
-Joan: As we were working with Unreal, we were able to work with""Sequencer"" directly inside the engine
+Joan: Mentre lavoravamo con Unreal, potevamo lavorare con i "Sequencer" direttamente dentro l'engine
 
 61
 00:06:45,080 --> 00:06:51,120
-Joan: and that allowed us to have the animations already done for other purposes,
+Joan: e ciò ci ha permesso di avere delle animazioni fatte per altri scopi,
 
 62
 00:06:51,190 --> 00:07:00,090
