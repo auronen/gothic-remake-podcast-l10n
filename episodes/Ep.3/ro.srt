@@ -8,7 +8,7 @@ Reinhard: Bine ați venit la Gothic 1 Remake Podcast.
 
 3
 00:00:33,060 --> 00:00:37,240
-Reinhard: Suntem puțin în afara taberei vechi, în sălbăticie, stând la un foc de tabără.
+Reinhard: Suntem puțin în afara Taberei Vechi, în sălbăticie, stând la un foc de tabără.
 
 4
 00:00:37,240 --> 00:00:43,240
@@ -24,11 +24,11 @@ Reinhard: În primul rând, a fost lansat trailerul pentru Tabăra Veche, care a
 
 7
 00:00:55,110 --> 00:01:03,240
-Reinhard: Și în al doilea rând, am avut un demo secret cu noi și am călătorit la Gamescom pentru a-l prezenta unor jurnaliști și streameri selectați.
+Reinhard: Și în al doilea rând, am avut un demo secret la noi și am călătorit la Gamescom pentru a-l prezenta unor jurnaliști și streameri selectați.
 
 8
 00:01:03,270 --> 00:01:09,210
-Reinhard: Iar noi suntem aici pentru a vă oferi mai multe detalii și explicații despre ceea ce am arătat acolo.
+Reinhard: Și suntem aici pentru a vă oferi mai multe detalii și explicații despre ceea ce am arătat acolo.
 
 9
 00:01:09,210 --> 00:01:18,250
@@ -40,7 +40,7 @@ Reinhard: Vă rog să vă prezentați.
 
 11
 00:01:20,260 --> 00:01:26,190
-Joan: Bine. Ei bine, bună ziua, numele meu este Joan. Sunt designerul cinematic de la Alkimia.
+Joan: În regulă. Ei bine, bună ziua, numele meu este Joan. Sunt designerul cinematic aici la Alkimia.
 
 12
 00:01:26,190 --> 00:01:31,240
@@ -72,11 +72,11 @@ Timur: Așa că e rândul meu. Numele meu este Timur (T-Moor), sunt un mare fan 
 
 19
 00:02:07,120 --> 00:02:16,010
-Reinhard: Mulțumesc. Să vorbim mai întâi despre trailerul pentru tabăra veche. (Joan: Bine.) Ce înseamnă tabăra veche pentru tine, Joan?
+Reinhard: Mulțumesc. Să vorbim mai întâi despre trailerul pentru Tabăra Veche. (Joan: Bine.) Ce înseamnă Tabăra Veche pentru tine, Joan?
 
 20
 00:02:16,010 --> 00:02:29,020
-Joan: Pentru mine, tabăra veche este cea mai puternică amintire pe care o ai din jocul original, pentru că este primul loc în care ajungi când începi să joci.
+Joan: Pentru mine, Tabăra Veche este cea mai puternică amintire pe care o ai din jocul original, pentru că este primul loc în care ajungi când începi să joci.
 
 21
 00:02:29,040 --> 00:02:36,140
@@ -84,15 +84,15 @@ Joan: Și personajele aveau o personalitate atât de puternică și tot, și sun
 
 22
 00:02:36,140 --> 00:02:44,070
-Joan: Te simți cu adevărat mic acolo când joci, și cred că toată lumea își amintește cu nostalgie...
+Joan: Te simți cu adevărat mic acolo când joci, și cred că toată lumea își amintește cu nostalgie
 
 23
 00:02:44,070 --> 00:02:53,000
-Joan: acele conversații întâmplătoare pe care le purtau NPC-urile, minerii care încercau să își repare colibele tot timpul.
+Joan: acele conversații întâmplătoare pe care le purtau NPC-urile, săpătorii care încercau să își repare colibele tot timpul.
 
 24
 00:02:53,000 --> 00:02:58,110
-Joan: Nu știu... acest fel de... da, mai ales cred că pentru mine, mai ales cred că e ceva solid, Tabăra Veche.
+Joan: Nu știu... genul ăsta de... da, mai ales cred că e vorba de sunet pentru mine, Tabăra Veche.
 
 25
 00:02:58,110 --> 00:03:01,060
@@ -108,7 +108,7 @@ Reinhard: Așadar, ce înseamnă Tabăra Veche pentru tine, Dani?
 
 28
 00:03:07,150 --> 00:03:12,100
-Dani: Deci, pentru mine, tabăra veche este cea mai importantă parte a coloniei.
+Dani: Deci, pentru mine, Tabăra Veche este cea mai importantă parte a coloniei.
 
 29
 00:03:12,100 --> 00:03:21,160
@@ -124,7 +124,7 @@ Dani: E de parcă... e interesant pentru că e un scenariu care este refolosit. 
 
 32
 00:03:36,090 --> 00:03:43,290
-Dani: Pentru mine, asta e interesant, pentru că îmi oferă, ca artist, posibilitatea de a lucra cu un nivel foarte ridicat de detaliu.
+Dani: Pentru mine, asta e interesant, pentru că îmi oferă, ca artist, posibilitatea de a lucra cu un nivel foarte ridicat de detaliu
 
 33
 00:03:43,290 --> 00:03:50,080
@@ -132,7 +132,7 @@ Dani: și un nivel foarte ridicat de narațiune, știi, un mediu care spune mult
 
 34
 00:03:50,120 --> 00:03:58,110
-Dani: Și pentru mine, în depărtare, adică, țineți minte că primul lucru pe care îl vedeți este turnul din tabăra veche.
+Dani: Și pentru mine, în depărtare, adică, țineți minte că primul lucru pe care îl vedeți este turnul din Tabăra Veche.
 
 35
 00:03:58,110 --> 00:04:01,060
@@ -140,7 +140,7 @@ Dani: Este unul dintre cele mai memorabile lucruri.
 
 36
 00:04:01,060 --> 00:04:04,100
-Reinhard: Și cum ați procedat cu trailerul pentru tabăra veche?
+Reinhard: Și cum ați procedat cu trailerul pentru Tabăra Veche?
 
 37
 00:04:04,100 --> 00:04:12,290
@@ -148,23 +148,23 @@ Joan: Am știut de la început că ne dorim ceva similar cu ultimul nostru trail
 
 38
 00:04:13,010 --> 00:04:20,040
-Joan: trailerul pentru mina veche, în care camera de filmat zbura prin acel mediu și arăta viața, viața de acolo.
+Joan: trailerul pentru mina veche, în care camera de filmat zbura prin acel mediu și arăta viața de acolo.
 
 39
 00:04:20,040 --> 00:04:26,240
-Joan: Așa că am vrut să facem același lucru: să arătăm viața din interiorul taberei vechi, dar am vrut să mergem cu un pas mai departe.
+Joan: Așa că am vrut să facem același lucru: să arătăm viața din interiorul Taberei Vechi, dar am vrut să mergem cu un pas mai departe.
 
 40
 00:04:26,270 --> 00:04:37,240
-Joan: De aceea ne gândeam la noi moduri de a privi problema, nu? Așa că, așa cum ne place tuturor - sau, mai ales mie (râde) -, ne place un film.
+Joan: De aceea ne gândeam la noi moduri de a privi problema, nu? Așa că, cum ne place tuturor - sau, mai ales mie (râde) -, ne place cinematografia.
 
 41
 00:04:37,240 --> 00:04:44,110
-Joan: Și căutam referințe acolo. Am propus să încercăm o cameră de urmărire pentru personajul principal.
+Joan: Și am căutat referințe acolo. Am propus să încercăm o cameră de urmărire pentru personajul principal.
 
 42
 00:04:44,110 --> 00:04:54,010
-Joan: O abordare "one shot", în care poți vedea filme care ne-au venit în minte, cum ar fi Goodfellas sau Birdman, chestii de genul ăsta.
+Joan: O abordare într-un singur cadru, în care poți vedea filme care ne-au venit în minte, cum ar fi Goodfellas sau Birdman, de exemplu.
 
 43
 00:04:54,010 --> 00:05:00,180
@@ -172,7 +172,7 @@ Joan: Dar am vrut să rămânem în spiritul Gothic. Așa că nu am vrut să exa
 
 44
 00:05:00,180 --> 00:05:07,110
-Joan: Așa că da, asta a fost prima noastră idee, să încercăm să creăm un cadru unic în care să urmărim un personaj.
+Joan: Deci, da, asta a fost prima noastră idee, să încercăm să creăm un cadru unic în care să urmărim un personaj.
 
 45
 00:05:07,140 --> 00:05:16,200
@@ -180,7 +180,7 @@ Joan: Trebuia să decidem calea - care părți ale taberei voiam să le arătăm
 
 46
 00:05:16,200 --> 00:05:23,020
-Joan: apoi unele dintre colibele în care de obicei sunt gărzi care îți cer bani în jocul original.
+Joan: apoi unele dintre colibele în care de obicei sunt gărzi care îți cer bani în jocul original
 
 47
 00:05:23,040 --> 00:05:29,150
@@ -200,11 +200,11 @@ Joan: Așa că abordarea cu un singur cadru a trebuit să fie ajustată. (râde)
 
 51
 00:05:45,270 --> 00:05:53,050
-Joan: Iar până la urmă am tăiat în unele locuri în timpul plimbări, dar cred că a ieșit destul de bine.
+Joan: Iar la final avem câteva tăieturi în timpul scenei, dar cred că a ieșit destul de bine.
 
 52
 00:05:53,070 --> 00:05:57,210
-Reinhard: Cum ați transpus scenariul în imagini?
+Reinhard: Cum ați transpus scenariul într-un material vizual?
 
 53
 00:05:57,210 --> 00:06:05,030
@@ -220,7 +220,7 @@ Joan: Aveam nevoie de cineva care să conducă această cameră.
 
 56
 00:06:13,210 --> 00:06:20,040
-Joan: Așa că, după ce am avut ideea, am creat un scenariu care, practic, este despre un săpător.
+Joan: Așa că, după ce am avut ideea, am creat un scenariu care, practic, este despre un săpător
 
 57
 00:06:20,040 --> 00:06:26,190
@@ -232,7 +232,7 @@ Reinhard: Și ce s-a întâmplat după aceea?
 
 59
 00:06:28,100 --> 00:06:38,040
-Joan: Următorul pas a fost crearea unui storyboard sau: Ceea ce am făcut de fapt a fost să creăm o animație - sau previzualizare.
+Joan: Următorul pas a fost crearea unui storyboard sau, mai degrabă, am creat o animație - sau previzualizare.
 
 60
 00:06:38,040 --> 00:06:45,080
@@ -244,19 +244,19 @@ Joan: și asta ne-a permis să avem animațiile deja făcute pentru alte scopuri
 
 62
 00:06:51,190 --> 00:07:00,090
-Joan: punându-le împreună, folosind, de asemenea, o unitate de control de bază care îți permite să modifici aceste animații.
+Joan: punându-le împreună, folosind, de asemenea, o platformă de control de bază care îți permite să modifici aceste animații
 
 63
 00:07:00,090 --> 00:07:12,170
-Joan: într-un mod simplu. Astfel am creat scenariul nostru animat. Pentru că decorul taberei Old Camp era deja gata atunci când a fost creat trailerul.
+Joan: într-un mod simplu. Astfel am creat scenariul nostru animat. Pentru că decorul Taberei Vechi era deja gata atunci când a fost creat trailerul.
 
 64
 00:07:12,170 --> 00:07:16,120
-Joan: Asta ne-a permis să, ei bine, practic aveam totul.
+Joan: Asta ne-a permis, ei bine, practic aveam totul.
 
 65
 00:07:16,120 --> 00:07:23,200
-Joan: Trebuia doar să asamblăm această animație și să o arătăm animatorilor.
+Joan: Trebuia doar să facem această animație și să o arătăm animatorilor.
 
 66
 00:07:23,220 --> 00:07:26,210
@@ -268,7 +268,7 @@ Kai: Aha. Asta înseamnă că tot ceea ce vedem în trailer se va petrece și î
 
 68
 00:07:31,170 --> 00:07:38,060
-Reinhard: Așadar, tabăra veche, așa cum o vedem în trailerul taberei vechi, arată exact la fel în joc.
+Reinhard: Așadar, Tabăra Veche, așa cum o vedem în trailerul Taberei Vechi, arată exact la fel în joc.
 
 69
 00:07:38,080 --> 00:07:46,040
@@ -296,7 +296,7 @@ Joan: Chiar dacă scenele de luptă sunt foarte mișto, scena mea preferată est
 
 75
 00:08:15,240 --> 00:08:23,240
-Joan: Pentru că jocul actoricesc este foarte amuzant, avem și o bătaie la final, așa că eu cred că este super complet.
+Joan: Pentru că jocul actoricesc este foarte amuzant, avem și o bătaie la final, așa că eu cred că este super completă.
 
 76
 00:08:23,260 --> 00:08:33,000
@@ -304,7 +304,7 @@ Dani: Bine. Știi, când am început să discutăm despre trailer, adică, am de
 
 77
 00:08:33,000 --> 00:08:38,160
-Dani: Sentimentul de a fi acolo, în tabăra veche. Cât de greu este să fii acolo, cât de grosolană e toată lumea.
+Dani: Sentimentul de a fi acolo, în Tabăra Veche. Cât de greu este să fii acolo, cât de grosolană e toată lumea.
 
 78
 00:08:38,160 --> 00:08:44,220
@@ -312,11 +312,11 @@ Dani: Dar pentru mine, cel mai bun moment, este atunci când apare Bloodwyn, șt
 
 79
 00:08:44,240 --> 00:08:55,030
-Dani: și spunând: "Bine, trebuie să-mi plătești datoriile. Gomez are nevoie de minereul tău!"" Pentru mine, acesta e momentul în care îți dai seama că acesta e un loc periculos.
+Dani: și spunând: „Bine, trebuie să-mi plătești datoriile. Gomez are nevoie de pepitele tale!” Pentru mine, acesta e momentul în care îți dai seama că ăsta e un loc periculos.
 
 80
 00:08:55,030 --> 00:09:03,280
-Dani: Ar trebui să ai grijă de propria ta viață. Așa că, pentru mine, cred că acesta este cel mai bun moment în care poți vedea personajele mișcându-se și interacționând cu cele două personaje într-o interacțiune complicată.
+Dani: Ar trebui să ai grijă de propria ta viață. Așa că, pentru mine, cred că acesta este cel mai bun moment în care poți vedea personajele mișcându-se și interacționând între ele în cadrul unei interacțiuni complicate.
 
 81
 00:09:03,280 --> 00:09:08,150
@@ -328,7 +328,7 @@ Reinhard: (râde) Nu e greu să creezi o locație cu atâtea colibe de săpător
 
 83
 00:09:12,270 --> 00:09:15,090
-Dani: E o întrebare amuzantă, pentru că știi la ce mă refer.
+Dani: E o întrebare amuzantă, pentru că știi la ce mă refer
 
 84
 00:09:15,090 --> 00:09:21,160
@@ -364,7 +364,7 @@ Reinhard: Vorbind despre unicitate, fiecare față e unică, nu-i așa?
 
 92
 00:10:01,150 --> 00:10:07,240
-Dani: Da, aceasta este una dintre cele mai mari provocări ale acestui joc. Adică, noi îl proiectăm, cu toții.
+Dani: Da, aceasta este una dintre cele mai mari provocări ale acestui joc. Adică, noi facem designul pentru toate.
 
 93
 00:10:07,240 --> 00:10:12,110
@@ -372,19 +372,19 @@ Dani: Adică, am lucrat... Procesul a început acum doi ani.
 
 94
 00:10:12,130 --> 00:10:18,230
-Dani: Am început să conturăm manual fiecare personaj și am lucrat împreună cu
+Dani: Am început să concepem manual fiecare personaj și am lucrat împreună cu
 
 95
 00:10:18,260 --> 00:10:25,270
-Dani: Pot spune, adică am petrecut atât de multe ore cu ei încât pot spune că sunt frații și surorile de la Gate 21. Ne ajută foarte mult la asta.
+Dani: Pot spune, adică am petrecut atât de multe ore cu ei, încât pot spune că sunt frații și surorile de la Gate 21. Ne ajută foarte mult la asta.
 
 96
 00:10:25,270 --> 00:10:34,220
-Dani: Și creăm, încercăm, ne propunem să creăm nu știu câte personaje avem, poate 600 sau ceva de genul ăsta, (Joan: Da!) personaje specifice unice.
+Dani: Și creăm, încercăm, ne propunem să creăm... nu știu câte personaje avem, poate 600 sau ceva de genul ăsta, (Joan: Da!) personaje specifice unice.
 
 97
 00:10:34,220 --> 00:10:41,080
-Dani: Astfel, putem crea personaje unice, pe care le putem combina și îmbina pentru a crea din nou personaje noi.
+Dani: Astfel, putem crea personaje unice, pe care le putem combina și îmbina pentru a crea iar personaje noi.
 
 98
 00:10:41,110 --> 00:10:48,030
@@ -428,7 +428,7 @@ Reinhard: Unii oameni provin din diferite părți ale Myrtanei, așa că vorbesc
 
 108
 00:11:54,020 --> 00:12:05,230
-Reinhard: Așa că aș spune: Da, tabăra veche va suna dur și va suna foarte cockney, dar în general nu e nici măcar mai mult de 50%. (Kai: Bine, super.)
+Reinhard: Așa că aș spune: Da, Tabăra Veche va suna dur și va suna foarte cockney, dar în general nu e nici măcar mai mult de 50%. (Kai: Bine, super.)
 
 109
 00:12:05,230 --> 00:12:08,050
@@ -456,7 +456,7 @@ Kai: Timur, care e alegerea ta?
 
 115
 00:12:28,180 --> 00:12:34,090
-Timur: Cred că preferata mea este Friptura de scavenger a lui Bartholo cu sos barbecue.
+Timur: Cred că preferata mea este friptura de scavenger a lui Bartholo cu sos barbecue.
 
 116
 00:12:34,090 --> 00:12:38,130
@@ -472,7 +472,7 @@ Javi: Voi merge cu scavenger prăjit și o sticlă de bere.
 
 119
 00:12:47,250 --> 00:12:50,220
-Kai: Da, va fi la fel și pentru mine! Dani?
+Kai: Da, la fel și pentru mine! Dani?
 
 120
 00:12:50,220 --> 00:12:56,020
@@ -500,7 +500,7 @@ Kai: Bine. Mă ocup de asta.
 
 126
 00:13:13,240 --> 00:13:18,290
-Reinhard: Acum să vorbim despre Prologul lui Nyras, care a fost demo-ul pe care l-am arătat presei și streamerilor la Gamescom.
+Reinhard: Acum să vorbim despre prologul lui Nyras, care a fost demo-ul pe care l-am arătat presei și streamerilor la Gamescom.
 
 127
 00:13:18,290 --> 00:13:23,230
@@ -508,11 +508,11 @@ Kai: Da, de fapt, cred că asta are nevoie de o mai bună introducere. (Reinhard
 
 128
 00:13:23,230 --> 00:13:35,070
-Reinhard: Așadar, Prologul lui Nyras este, de fapt, o porțiune de joc care conține aproape toate elementele într-o formă aproape finală și nu îl are ca protagonist pe eroul fără nume, ci pe personajul numit Nyras.
+Reinhard: Așadar, prologul lui Nyras este, de fapt, o porțiune de joc care conține aproape toate elementele într-o formă aproape finală și nu îl are ca protagonist pe eroul fără nume, ci pe personajul numit Nyras.
 
 129
 00:13:35,070 --> 00:13:46,210
-Reinhard: Și am ales acest lucru pentru că începutul jocului nu are o curbă mare de progresie, pentru că se așteaptă să mergi în Tabăra Veche și să începi să conversezi acolo.
+Reinhard: Și am ales acest lucru pentru că începutul jocului nu are o curbă mare de progres, pentru că se așteaptă să mergi în Tabăra Veche și să începi să conversezi acolo.
 
 130
 00:13:46,210 --> 00:13:55,010
@@ -540,7 +540,7 @@ Kai: Mișto. Mulțumesc. Poftim mâncarea. (Reinhard: Mulțumesc.) Asta ar trebu
 
 136
 00:14:25,130 --> 00:14:29,110
-Reinhard: Deci, care a fost scopul principal al Prologului lui Nyras și cum am început?
+Reinhard: Deci, care a fost scopul principal al prologului lui Nyras și cum am început?
 
 137
 00:14:29,110 --> 00:14:40,130
@@ -548,7 +548,7 @@ Javi: Ei bine, cred că obiectivul nostru principal a fost să arătăm tot prog
 
 138
 00:14:40,150 --> 00:14:57,150
-Javi: Deci avem multe lucruri de arătat, iar unul dintre cele mai importante lucruri pe care am vrut să le arătăm a fost zona de schimb la sfârșit, pentru că s-a schimbat foarte mult față de versiunea anterioară pe care am făcut-o. Această limită a nivelului, a spațiului, iar noi dezvoltăm de acolo.
+Javi: Deci avem multe lucruri de arătat, iar unul dintre cele mai importante lucruri pe care am vrut să le arătăm a fost zona de schimb de la sfârșit, pentru că s-a schimbat foarte mult față de versiunea anterioară pe care am făcut-o. Această limită a nivelului, a spațiului, iar noi dezvoltăm de acolo.
 
 139
 00:14:57,170 --> 00:14:59,140
@@ -588,11 +588,11 @@ Javi: Păstrăm intrarea în mina abandonată, podul...
 
 148
 00:15:43,140 --> 00:15:47,250
-Javi: Ei bine, cred că toți jucătorii o vor recunoaște perfect. (Dani: O, da, da, da, da.)
+Javi: Ei bine, cred că toți jucătorii o vor recunoaște perfect. (Dani: O, da, da, da.)
 
 149
 00:15:47,250 --> 00:15:57,090
-Javi: Da, avem aceste, aceste zone diferite cu care lucrăm. Pentru că avem, de asemenea, zona de sus, unde - știți - toți jucătorii își amintesc că era un goblin acolo.
+Javi: Da, avem aceste... aceste zone diferite cu care lucrăm. Pentru că avem, de asemenea, zona de deasupra, unde - știți - toți jucătorii își amintesc că era un goblin acolo.
 
 150
 00:15:57,090 --> 00:16:01,210
@@ -608,7 +608,7 @@ Reinhard: Mișto. Deci, care a fost procesul?
 
 153
 00:16:13,210 --> 00:16:27,150
-Javi: Ei bine, din punct de vedere al nivelului, ceea ce creăm noi este să luăm originalul, să creăm un blockout și să încercăm să păstrăm cât mai mult posibil (fidel) față de cel original.
+Javi: Ei bine, din punct de vedere al nivelului, ceea ce creăm noi este să luăm originalul, să creăm un „blockout” și să încercăm să păstrăm cât mai mult posibil (fidel) față de cel original.
 
 154
 00:16:27,150 --> 00:16:35,170
@@ -616,11 +616,11 @@ Javi: Dar, de asemenea, vrem să-l îmbunătățim, dându-le acestor zone mai m
 
 155
 00:16:35,200 --> 00:16:46,080
-Javi: Apoi discutăm cu echipa artistică atunci când avem acest blocaj pentru a începe să lucrăm la decorare, la încadrare, la mai multe lucruri din punct de vedere vizual.
+Javi: Apoi discutăm cu echipa artistică atunci când avem acest blockout pentru a începe să lucrăm la decorare, la încadrare, la mai multe lucruri din punct de vedere vizual.
 
 156
 00:16:46,100 --> 00:16:51,020
-Javi: De asemenea, noi..., atunci când facem aceste blocări, ne-am gândit și la
+Javi: De asemenea, noi..., atunci când facem aceste blockouturi, ne-am gândit și la
 
 157
 00:16:51,020 --> 00:16:53,110
@@ -648,11 +648,11 @@ Javi: Creăm asta, așezăm oamenii, încercăm, iterăm, discutăm cu echipa ar
 
 163
 00:17:32,090 --> 00:17:39,070
-Javi: Și da, e ceva de genul... Începem de la blockout și de acolo continuăm cu, cu toate aceste lucruri.
+Javi: Și da, e ceva de genul... Începem de la blockout și de acolo continuăm cu toate aceste lucruri.
 
 164
 00:17:39,140 --> 00:17:43,240
-Dani: Da. Chestia mișto este că atunci când începem să pregătim faza de blocare,
+Dani: Da. Chestia mișto este că atunci când începem să pregătim faza de blockout,
 
 165
 00:17:43,240 --> 00:17:49,020
@@ -664,7 +664,7 @@ Dani: despre cum ar trebui explorat acest spațiu, cum ar trebui să arate și s
 
 167
 00:17:55,050 --> 00:17:59,260
-Dani: Așa că, atunci când ne dau blocajul, practic lucrăm pe aceeași pagină.
+Dani: Așa că, atunci când ne dau blockoutul, practic lucrăm pe aceeași pagină.
 
 168
 00:17:59,260 --> 00:18:04,130
@@ -672,7 +672,7 @@ Dani: Așa începem procesul nostru de căutare a unor medii credibile.
 
 169
 00:18:04,130 --> 00:18:11,020
-Dani: Adică, ar trebui să transformăm acest blocaj în medii credibile, în construcții credibile.
+Dani: Adică, ar trebui să transformăm acest blockout în medii credibile, în construcții credibile.
 
 170
 00:18:11,040 --> 00:18:16,190
@@ -744,7 +744,7 @@ Javi: Iar pentru noi, este foarte, foarte important să oferim acest sentiment d
 
 187
 00:19:33,150 --> 00:19:42,070
-Javi: Și vom folosi aceste materiale pentru mai multe feluri de meșteșuguri, pentru că nu vom avea doar gătit, ci vom avea mai multe meșteșuguri acolo.
+Javi: Și vom folosi aceste materiale pentru mai multe tipuri de crafting, pentru că nu vom avea doar gătit, ci mai mult crafting acolo.
 
 188
 00:19:42,070 --> 00:19:47,250
@@ -756,7 +756,7 @@ Javi: pentru că până la urmă poți pregăti diferite feluri de mâncare cu d
 
 190
 00:19:52,060 --> 00:19:58,160
-Kai: Și trebuie să spun: Modul în care este executat în Prologul lui Nyras, mecanismul de gătit, funcționează deja foarte bine. (Javi: Da.)
+Kai: Și trebuie să spun: Modul în care este executat în prologul lui Nyras, mecanismul de gătit, funcționează deja foarte bine. (Javi: Da.)
 
 191
 00:19:58,160 --> 00:20:01,280
@@ -764,7 +764,7 @@ Kai: De ce am ales zona de schimb ca loc dedicat demo-ului?
 
 192
 00:20:01,280 --> 00:20:07,160
-Reinhard: Folosirea zonei de schimb ca decor pentru Prolog a fost o alegere naturală, deoarece aceasta poate
+Reinhard: Folosirea zonei de schimb ca scenă pentru prolog a fost o alegere naturală, deoarece aceasta poate
 
 193
 00:20:07,160 --> 00:20:13,070
@@ -888,7 +888,7 @@ Javi: Nu poți pur și simplu să întrerupi jocul și să verifici ce ai. Este 
 
 223
 00:23:01,040 --> 00:23:06,200
-Javi: dar e pe riscul tău. Și, de asemenea, ei bine - îl vom revizui.
+Javi: dar e pe riscul tău. Și, de asemenea, ei bine - îl revizuim.
 
 224
 00:23:06,200 --> 00:23:10,120
@@ -1068,7 +1068,7 @@ Reinhard: Da. De-a lungul istoriei francizei Gothic, știm cum se termină maril
 
 268
 00:26:26,220 --> 00:26:29,190
-Toți: Oh, da, da, da, da. Foarte adevărat.
+Toți: Oh, da, da, da. Foarte adevărat.
 
 269
 00:26:29,190 --> 00:26:33,180
@@ -1084,7 +1084,7 @@ Kai: Bun. Sună bine.
 
 272
 00:26:40,240 --> 00:26:46,230
-Timur: Așadar, întrebarea cu cele mai multe aprecieri a fost adresată de un utilizator cu pseudonimul Shaolyn:
+Timur: Așadar, întrebarea cu cele mai multe aprecieri a fost adresată de un utilizator cu numele Shaolyn:
 
 273
 00:26:46,230 --> 00:26:56,190
@@ -1096,7 +1096,7 @@ Reinhard: Deci, suportul pentru modificări e ceva foarte important pentru noi.
 
 275
 00:27:00,130 --> 00:27:05,140
-Reinhard: Înțelegem că există o comunitate mare care creează moduri de mulți, mulți ani.
+Reinhard: Înțelegem că există o comunitate mare care creează modificări de mulți, mulți ani.
 
 276
 00:27:05,140 --> 00:27:14,080
@@ -1164,7 +1164,7 @@ Dani: ceea ce nu era posibil pe atunci, îți dă posibilitatea
 
 292
 00:28:30,140 --> 00:28:35,010
-Dani: de a cerceta în profunzime designurile originale și de a le face să evolueze și de a merge mai departe.
+Dani: de a cerceta în profunzime designurile originale și de a le dezvolta și de a face un efort suplimentar.
 
 293
 00:28:35,010 --> 00:28:41,240
@@ -1252,7 +1252,7 @@ Timur: Și ultima întrebare este de la utilizatorul Xardosh.
 
 314
 00:30:20,000 --> 00:30:27,290
-Timur: „Avem o modalitate de a personaliza eroul fără nume, cum ar fi rasul în cap sau tatuajele, de exemplu, după ce se alătură taberei sectei?” (trimis de Xardosh)
+Timur: „Avem o modalitate de a personaliza eroul fără nume, cum ar fi rasul în cap sau tatuajele, de exemplu, după ce se alătură Taberei Sectei?” (trimis de Xardosh)
 
 315
 00:30:28,010 --> 00:30:33,050
@@ -1284,7 +1284,7 @@ Reinhard: Vă mulțumim că ne-ați fost alături în această discuție la foc 
 
 322
 00:30:53,020 --> 00:31:01,220
-Reinhard: Sperăm că v-am oferit câteva informații suplimentare despre cum am creat prologul lui Nyras și trailerul taberei vechi.
+Reinhard: Sperăm că v-am oferit câteva informații suplimentare despre cum am creat prologul lui Nyras și trailerul Taberei Vechi.
 
 323
 00:31:01,240 --> 00:31:09,210
