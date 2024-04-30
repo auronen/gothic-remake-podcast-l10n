@@ -244,263 +244,263 @@ Joan: e ciò ci ha permesso di avere delle animazioni fatte per altri scopi,
 
 62
 00:06:51,190 --> 00:07:00,090
-Joan: putting them together also using some basic control rig which allows you to modify these animations
+Joan: metterle assieme utilizzando dei controlli base dei rig ci ha permesso di modificare queste animazioni
 
 63
 00:07:00,090 --> 00:07:12,170
-Joan: in an easy way. With this we created our animated storyboard. Because they Old camp environment was already done when the trailer was being created.
+Joan: in maniera facile. Così abbiamo creato il nostro storyboard animato. Perché l'ambientazione di Campo Vecchio era già finita quando stavamo creando il trailer.
 
 64
 00:07:12,170 --> 00:07:16,120
-Joan: That allowed us to, well, basically we had everything.
+Joan: Questo ci ha permesso di, beh, in pratica avevamo tutto.
 
 65
 00:07:16,120 --> 00:07:23,200
-Joan: We just needed to assemble this animatic and show it to the animators.
+Joan: Dovevamo solo assemblare quest'animazione e mostrarla agli animatori.
 
 66
 00:07:23,220 --> 00:07:26,210
-Joan: That was everything that we needed for this.
+Joan: Era tutto ciò di cui avevamo bisogno.
 
 67
 00:07:26,210 --> 00:07:31,170
-Kai: Aha. So does that mean that everything that we see in the trailer is also going to happen in the game?
+Kai: Aha. Vuol dire che tutto ciò che si vede nel trailer avverrà anche nel gioco?
 
 68
 00:07:31,170 --> 00:07:38,060
-Reinhard: So, the Old Camp, as we see it in the Old Camp trailer, looks exactly the same in the game.
+Reinhard: Allora, Campo Vecchio, come viene presentato nel trailer, è uguale a quello nelgioco.
 
 69
 00:07:38,080 --> 00:07:46,040
-Reinhard: The events that happen can also happen like that, but in the game they will happen dynamically. In the trailer,
+Reinhard: Gli eventi che accadono possono accadere anche così, ma nel gioco avverranno dinamicamente. Nel trailer,
 
 70
 00:07:46,040 --> 00:07:54,000
-Reinhard: obviously, we set them up like in a sequence after each other, so they happened conveniently whenever we needed them.
+Reinhard: ovviamente, li abbiamo settati in sequenza uno dietro l'altro, così da avvenire convenientemente quando ci servivano.
 
 71
 00:07:54,000 --> 00:08:01,220
-Reinhard: And the other thing that is totally not like that in the game is the camera sequence, which was specifically set up for the trailer.
+Reinhard: E l'altra cosa che non sarà così nel gioco è la sequenza con la telecamera, che era stata creata specificatamente per il trailer.
 
 72
 00:08:01,220 --> 00:08:04,060
-Kai: Okay, Got it. Thank you.
+Kai: Ok, capito. Grazie.
 
 73
 00:08:04,060 --> 00:08:06,250
-Reinhard: What was your favorite scenes from the trailer?
+Reinhard: Quali sono le tue scene preferite del trailer?
 
 74
 00:08:06,250 --> 00:08:15,240
-Joan: Even though the fight scenes are very cool, my favorite scene is the Snaf part with the cauldron and everything.
+Joan: Anche se le prime scene sono fighe, la mia preferita è quella con Snaf con il calderone e tutto il resto.
 
 75
 00:08:15,240 --> 00:08:23,240
-Joan: Because acting is very funny, we also have a fight at the end, so I think is is super complete.
+Joan: Perché la recitazione è molto divertente, abbiamo anche avuto un combattimento alla fine, quindi penso sia super completo.
 
 76
 00:08:23,260 --> 00:08:33,000
-Dani: Okay. You know, when we started discussing the trailer, I mean, we decided to be, you know, to show the original spirit of Gothic.
+Dani: Ok. Sai, quando abbiamo iniziato a discutere del trailer, voglio dire, abbiamo deciso, come dire, di mostrare lo spirito originale di Gothic.
 
 77
 00:08:33,000 --> 00:08:38,160
-Dani: The feeling of being there in the Old Camp. How hard it is to to be there, how rude everyone is.
+Dani: La sensazione di essere a Campo Vecchio. Quando sia difficile vivere la, quando siano maleducati tutti.
 
 78
 00:08:38,160 --> 00:08:44,220
-Dani: But for me, the best moment, it's when Bloodwyn appears, you know, punching the guy
+Dani: Ma per me, il momento migliore, è quando appare Bloodwyn, sai, il tizio del pugno
 
 79
 00:08:44,240 --> 00:08:55,030
-Dani: and saying:""Okay, you need to pay me the debts. Gomez needs your ore!"" For me this is a moment when you see, okay, this is a dangerous place.
+Dani: che dice: ""Ok, mi devi pagare i tuoi debiti. Gomez ha bisogno del tuo minerale!"" Per me questo è un momento dove capisci che, ok, questo posto è pericoloso.
 
 80
 00:08:55,030 --> 00:09:03,280
-Dani: You should take care of your own life. So I think this for me, it's the best moment when you can see the characters moving and interacting between two characters in a complicated interaction.
+Dani: Dovresti tenere alla tua vita. Quindi penso che per me, sia questo il momento migliore per mostrare personaggi che si muovono ed interagiscono mentre due personaggi sono in un'interazione complicata.
 
 81
 00:09:03,280 --> 00:09:08,150
-Dani: So for me, this is one of the most memorable scenes for me in the trailer.
+Dani: Quindi, per me questa è la scena più memorabile del trailer.
 
 82
 00:09:08,150 --> 00:09:12,250
-Reinhard: (laughs) Isn't it hard to create a location with SO many similar digger huts?
+Reinhard: (ride) Non è difficile creare un luogo con capanne COSÌ tanto simili tra loro?
 
 83
 00:09:12,270 --> 00:09:15,090
-Dani: That's a funny question because you know what I mean
+Dani: Questa è una domanda divertente perché sai
 
 84
 00:09:15,090 --> 00:09:21,160
-Dani: Gothic offers us the possibility to work manually in each one of those huts.
+Dani: Gothic ci offre la possibilità di lavorare manualmente su ognuna di quelle capanne.
 
 85
 00:09:21,180 --> 00:09:29,130
-Dani: So, yes, we have dozens of huts, and I can assure you that each one of them is unique and specific and special.
+Dani: Quindi, si, abbiamo dozzine di capanne, e posso assicurarti che ogni di quelle è unica, specifica e speciale.
 
 86
 00:09:29,150 --> 00:09:37,010
-Dani: So, yeah, it's it's a challenge because you should offer something different for each one, but at the same time they should feel integrated...
+Dani: Quindi, si, è una sfida perché dovresti offrire qualcosa di diverso per ognuna, ma allo stesso tempo devono sembrare integrate...
 
 87
 00:09:37,010 --> 00:09:40,160
-Dani: All of them should feel integrated in the same visual language.
+Dani: Tutte dovrebbero sembrare integrate nello stesso linguaggio visivo.
 
 88
 00:09:40,160 --> 00:09:44,210
-Dani: And ... it's a very tricky part of designing the space.
+Dani: E... è una parte molto complicata del design dello spazio.
 
 89
 00:09:44,210 --> 00:09:51,200
-Dani: They should feel noisy, labyrinthic, intricate, they should feel dirty.
+Dani: Dovrebbero sembrare, rumorose, labirintiche, intricare, dovrebbero sembrare sporche.
 
 90
 00:09:51,200 --> 00:09:58,060
-Dani: So, yeah, I mean, it's an interesting opportunity to make this labyrinthic space, but at the same time making it unique.
+Dani: Quindi, si, è un'opportunità interessante per creare spazi labirintici, ma allo stesso tempo renderli unici.
 
 91
 00:09:58,060 --> 00:10:01,150
-Reinhard: Speaking about uniqueness, every face is unique, right?
+Reinhard: Parlando di unicità, ogni faccia è unica, giusto?
 
 92
 00:10:01,150 --> 00:10:07,240
-Dani: Yeah, that's one of the biggest challenges of all this game. I mean, we design it, all of them.
+Dani: Si, questa è una delle sfide più grandi del gioco. Cioè, le abbiamo create, tutte quante.
 
 93
 00:10:07,240 --> 00:10:12,110
-Dani: I mean, we have been working ... This process started like two years ago.
+Dani: Cioè, ci lavoriamo da... Questo processo è iniziato due anni fa.
 
 94
 00:10:12,130 --> 00:10:18,230
-Dani: We started designing manually each one of the characters and we have been working together with our
+Dani: Abbiamo iniziato creando manualmente ogni personaggio e abbiamo lavorato assieme ai nostri
 
 95
 00:10:18,260 --> 00:10:25,270
-Dani: I can say, I mean, we have been spending so many hours with them that I can say they are brothers and sisters of Gate 21. They are helping us a lot on that.
+Dani: posso dirlo tranquillamente -dato che abbiamo speso così tante ore assieme a loro- fratelli e sorelle di Gate 21. Ci stanno aiutando molto.
 
 96
 00:10:25,270 --> 00:10:34,220
-Dani: And we are creating, we are trying, we're aiming to create I don't know how many characters we have, maybe 600 or something like that, (Joan: Yep!) unique specific characters.
+Dani: Stiamo creando, stiamo provando, stiamo cercando di creare non so quanti personaggi abbiamo, forse 600 o giù di li, (Joan: Si!) tutti unici e speciali.
 
 97
 00:10:34,220 --> 00:10:41,080
-Dani: So we can create unique characters and then we can mix them and blend them and creating new characters again.
+Dani: Quindi posiamo creare personaggi unici per poi unirli insieme e mischiarli per creare nuovi personaggi.
 
 98
 00:10:41,110 --> 00:10:48,030
-Dani: So yeah, we are - I mean - we are hoping and trying super hard to make this the experience that the Gothic fans deserve.
+Dani: Quindi, stiamo - voglio dire - speriamo e proviamo con tutte le nostre forze per renderla l'esperienza che i fan di Gothic meritano.
 
 99
 00:10:48,030 --> 00:10:57,280
-Dani: I mean, in Gothic, I remember playing the original Gothic, everyone, every character felt original, right? Unique! So we are aiming for the same.
+Dani: Voglio dire, in Gothic, ricordo giocando l'originale, tutti, ogni personaggio sembrava unico, giusto? Unico! Quindi puntiamo a fare lo stesso.
 
 100
 00:10:57,280 --> 00:11:00,080
-Reinhard: That's great. Thanks for the insight. (Dani: Thank you.)
+Reinhard: Grandioso. Grazie per l'informazione. (Dani: Grazie.)
 
 101
 00:11:00,080 --> 00:11:06,040
-Reinhard: Is there anything you would like to change on the trailer if you could go back?
+Reinhard: C'è qualcosa che cambieresti nel trailer se potessi tornare indietro?
 
 102
 00:11:06,070 --> 00:11:19,150
-Joan: If I had the chance to come back, I think I will try to revise a bit the first part of the trailer. Maybe ... there's many things happening at the same time. (Reinhard: Yeah.)
+Joan: Se avessi la possibilità, penso che cercherei di rivedere la prima parte del trailer. Forse ... ci sono troppe cose che accadono nello stesso momento. (Reinhard: Già.)
 
 103
 00:11:19,210 --> 00:11:27,050
-Joan: We could try a better way to introduce the trailer, but overall, I think it's working good.
+Joan: Potremmo provare un modo migliore d'introdurre il trailer, ma tutto sommato, penso che funzioni bene.
 
 104
 00:11:27,080 --> 00:11:29,090
-Kai: Oh yeah, I absolutely think it does.
+Kai: Oh si, assolutamente.
 
 105
 00:11:29,090 --> 00:11:36,120
-Kai: Although I think we should address the fact that everybody in the trailer speaks Cockney British now. Why is that?
+Kai: Anche se penso dovremmo affrontare il fatto che tutti parlino con accento londinese. Perché?
 
 106
 00:11:36,120 --> 00:11:43,290
-Reinhard: So we decided to go with the rough atmosphere, we take the Cockney accent in English, but not everybody has the same accent.
+Reinhard: Abbiamo deciso di seguire l'atmosfera dura, quindi abbiamo scelto l'accento di Londra, ma non tutti hanno lo stesso accento.
 
 107
 00:11:43,290 --> 00:11:54,020
-Reinhard: Some people come from different parts of Myrtana and so they speak, differently, like Diego who has a very different accent and not the rough Cockney accent.
+Reinhard: Alcune persone vengono da posti diversi di Myrtana e quindi parlando differentemente, come Diego, che ha un accento molto diverso e non quello londinese.
 
 108
 00:11:54,020 --> 00:12:05,230
-Reinhard: So I would say: Yes, the Old Camp will sound rough and will sound very cockney, but overall it is not even more than 50%. (Kai: Okay, cool.)
+Reinhard: Direi che: si, Campo Vecchio suonerà più rozzo e sembrerà molto londinese, ma tutto sommato non sarà neanche più del 50%. (Kai: Ok, capito.)
 
 109
 00:12:05,230 --> 00:12:08,050
-Kai: Thanks for clarifying that.
+Kai: Grazie per la chiarificazione.
 
 110
 00:12:08,070 --> 00:12:14,030
-Reinhard: Alright. Since we're sitting here at the campfire, we obviously also need to eat something.
+Reinhard: D'accordo. Dato che siamo seduti ad un falò, abbiamo ovviamente bisogno di qualcosa da mangiare.
 
 111
 00:12:14,030 --> 00:12:19,260
-Reinhard: I'm going to eat Swampshark Poke. What can I serve you?
+Reinhard: Mi mangerò un poke di Squalo di palude. Cosa posso servirvi?
 
 112
 00:12:19,260 --> 00:12:20,220
-Timur: Thanks, Reinhard.
+Timur: Grazie, Reinhard.
 
 113
 00:12:20,220 --> 00:12:27,170
-Kai: Yeah, thank you. But actually, you can continue chatting and I'll take care of taking the orders and preparing the meals. (Reinhard: Thanks.)
+Kai: Si, grazie. Ma in realtà, puoi continuare a parlare, prenderò io gli ordini e preparerò tutto .(Reinhard: Grazie.)
 
 114
 00:12:27,170 --> 00:12:28,180
-Kai: Timur, what's your choice?
+Kai: Timur, cosa scegli?
 
 115
 00:12:28,180 --> 00:12:34,090
-Timur: I think my favorite one is Bartholos Roasted Scavenger Steak with barbecue sauce.
+Timur: Credo che il mio preferito sia la bistecca di saprofago arrosto di Bartholos con salsa barbecue.
 
 116
 00:12:34,090 --> 00:12:38,130
-Timur: And to drink, I would like the Rice Lord's vodka.
+Timur: E da bere, vorrei la vodka del Signore del Riso.
 
 117
 00:12:38,130 --> 00:12:43,180
-Kai: Okay, Rice Lord's vodka. Alright! So Javi, what will you have?
+Kai: D'accordo, vodka del Signore del Riso. Perfetto! Allora Javi, cosa vuoi?
 
 118
 00:12:43,180 --> 00:12:47,250
-Javi: I will go with Roasted Scavenger and a bottle of beer.
+Javi: Saprofago arrosto e una bottiglia di birra.
 
 119
 00:12:47,250 --> 00:12:50,220
-Kai: Yeah, it's going to be the same for me! Dani?
+Kai: Perfetto, prenderò la stessa cosa! Dani?
 
 120
 00:12:50,220 --> 00:12:56,020
-Dani: Well, Meatbug Paella with Rice Lord's special. That would be nice.
+Dani: Beh, Paella di scarafaggio con lo speciale del Signore del Riso. Sarebbe perfetto.
 
 121
 00:12:56,020 --> 00:12:59,090
-Kai: One more from the Rice Lord. Okay! Joan, your turn.
+Kai: Un'altra dal Signore del Riso. D'accordo! Joan, è il tuo turno.
 
 122
 00:12:59,090 --> 00:13:04,120
-Joan: What about Swampshark Grilled Fillet? S'il vous plaît.
+Joan: Che mi dici del filetto grigliato di Squalo di palude? S'il vous plaît.
 
 123
 00:13:04,120 --> 00:13:07,060
-Kai: Mais oui, bien sûr! And for drink?
+Kai: Mais oui, bien sûr! E da bere?
 
 124
 00:13:07,060 --> 00:13:12,060
-Joan: Yeah, and for drink maybe some vegetable juice that we can find around here.
+Joan: Si, da bere magari un succo vegetale di quello che possiamo trovare qua.
 
 125
 00:13:12,060 --> 00:13:13,240
-Kai: Okay. Working on it.
+Kai: Ok. In arrivo.
 
 126
 00:13:13,240 --> 00:13:18,290
-Reinhard: Now, let's talk about the Nyras Prolog, which was the demo that we showed to press and streamers at Gamescom.
+Reinhard: Ora, parliamo del prologo di Nyras, che è stata la demo che avete mostrato alla stampa e agli streamers alla Gamescom.
 
 127
 00:13:18,290 --> 00:13:23,230
