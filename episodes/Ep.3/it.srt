@@ -504,39 +504,39 @@ Reinhard: Ora, parliamo del prologo di Nyras, che è stata la demo che avete mos
 
 127
 00:13:18,290 --> 00:13:23,230
-Kai: Yeah, actually, I think that needs some more introduction. (Reinhard: Yes.) So what is the ... What is it?
+Kai: Si, anche se, credo serva una qualche introduzione. (Reinhard: Si.) Cos'è il... cos'è?
 
 128
 00:13:23,230 --> 00:13:35,070
-Reinhard: So, the Nyras Prolog is really a slice of the game that contains almost all elements in a close to final form, and it features not the nameless hero, but the character called Nyras.
+Reinhard: Allora, il Prolog di Nyras e una bella porzione del gioco che contiene quasi tutti gli elementi vicini alla loro fase finale, e ci mostra un personaggio chiamato Nyras, non l'eroe senza nome.
 
 129
 00:13:35,070 --> 00:13:46,210
-Reinhard: And we chose this because the start of the game is not really something that has a big - like - progression curve, because it expects you to go to the Old Camp and do some talking there.
+Reinhard: L'abbiamo scelto perché l'inizio del gioco non è qualcosa con una grossa curva di progressione, perché si aspetta che tu vada a Campo Vecchio e faccia delle domande la.
 
 130
 00:13:46,210 --> 00:13:55,010
-Reinhard: Our goal was that within 30 minutes you get to see every element of the game and we could achieve this with this setup. (Kai: Yeah, that makes a lot of sense.)
+Reinhard: Volevamo riuscire in 30 minuti a mostrare tutti gli elementi del gioco e in questo modo ci siamo riusciti. (Kai: Si, ha senso.)
 
 131
 00:13:55,010 --> 00:13:59,140
-Kai: The first food's ready. Ehm, Paella was for you, Dani, right? (Dani: Exactly, yes!)
+Kai: Il primo piatto è pronto. Ehm, la paella era per te, Dani, giusto?? (Dani: Esatto, si!)
 
 132
 00:13:59,140 --> 00:14:04,060
-Kai: There you go. (Dani: Thanks.) Reinhard, why did we choose Nyras for the prolog?
+Kai: Ecco a te. (Dani: Grazie.) Reinhard, perché abbiamo scelto Nyras per il prologo?
 
 133
 00:14:04,060 --> 00:14:12,200
-Reinhard: We had obviously several options because before the Nameless Hero gets sent into the colony, obviously other characters get sent into the colony.
+Reinhard: C'erano ovviamente molte opzioni perché prima che l'Eroe Senza Nome venga mandato nella colonia, c'erano ovviamente altri personaggi già all'interno di essa.
 
 134
 00:14:12,220 --> 00:14:21,010
-Reinhard: (Kai talking to others in the background, giving out food and drinks.) Reinhard: And so it was a guy named Nyras that later turned his attention to the swamp and plays a very important part later down the road in the game.
+Reinhard: (Kai parla in sottofondo, dando del cibo a tutti.) Reinhard: E quindi abbiamo scelto Nyras che successivamente volgerà le sue attenzioni verso la palude e giocherà un ruolo molto importante successivamente nel gioco.
 
 135
 00:14:21,050 --> 00:14:25,130
-Kai: Cool. Thank you. Here's your meal. (Reinhard: Thanks.) That should be everything.
+Kai: Capito. Grazie. Ecco il tuo pasto. (Reinhard: Grazie.) Dovrebbe essere tutto.
 
 136
 00:14:25,130 --> 00:14:29,110
@@ -544,123 +544,123 @@ Reinhard: So what was the main goal of the Nyras Prolog and how did we start?
 
 137
 00:14:29,110 --> 00:14:40,130
-Javi: Well, I think our main goal was to show all the progress of the game and a little bit how the game has changed from the PT - from the playable teaser.
+Javi: Beh, il nostro obiettivo principale era mostrare il progresso del gioco e un po' anche le differenze dal teaser giocabile.
 
 138
 00:14:40,150 --> 00:14:57,150
-Javi: So we have a lot of things to show, and one of the more important things that we wanted to show was the Exchange Zone at the end, because it changed a lot from the previous version we had done. This limit of the level, the space, and we build from there.
+Javi: Avevamo un sacco di cose da mostrare, e una delle cose più importanti era la Zona di Scambio alla fine, perché è cambiata molto dalla versione che avevamo precedentemente fatto. Abbio costruito dallo spazio limitato di questo punto.
 
 139
 00:14:57,170 --> 00:14:59,140
-Javi: There are a lot of things that we want to show there.
+Javi: Ci sono un sacco di cose che vogliamo mostrare.
 
 140
 00:14:59,140 --> 00:15:05,030
-Javi: Well, we can talk about all the mechanics or systems.
+Javi: Beh, possiamo parlare di tutte le meccaniche o dei sistemi.
 
 141
 00:15:05,030 --> 00:15:08,150
-Javi: I don't know which one do you want to start talking about?
+Javi: Non so, da quale vorresti iniziare?
 
 142
 00:15:08,150 --> 00:15:12,000
-Reinhard: I think we should start exactly with that. The Exchange Zone.
+Reinhard: Credo che dovremmo iniziare proprio da la, La Zona di Scambio.
 
 143
 00:15:12,000 --> 00:15:14,300
-Reinhard: So is it a completely new exchange zone?
+Reinhard: Quindi è una zona completamente nuova?
 
 144
 00:15:14,300 --> 00:15:17,000
-Javi: Well, it's pretty much the same.
+Javi: Beh, è pressocché identica.
 
 145
 00:15:17,000 --> 00:15:24,180
-Javi: I think all the players will recognize it. It's the place they imagine, like a new version but the same place.
+Javi: Credo che tutti i giocatori la riconosceranno. È il posto che immaginano, stesso luogo ma nuova versione.
 
 146
 00:15:24,230 --> 00:15:39,120
-Javi: (Dani: Yeah.) We want to build from the original. We have created this Exchange Zone where - well - in the prolog Whistler and Diego were there. And we keep most of the rhythm of the level.
+Javi: (Dani: Già.) Volevamo costruirlo seguendo l'originale. Abbiamo creato questa Zona di Scambio dove si ritrovano Whistler e Diego. E abbiamo mantenuto la maggior parte del ritmo del livello.
 
 147
 00:15:39,140 --> 00:15:43,140
-Javi: We keep the abandoned mine entrance, the bridge...
+Javi: Abbiamo tenuto l'ingresso della miniera abbandonata, il ponte...
 
 148
 00:15:43,140 --> 00:15:47,250
-Javi: Well, I think all the players will recognize it perfectly. (Dani: Oh yeah, yeah, yeah.)
+Javi: Credo che, tutti i giocatori la riconosceranno perfettamente. (Dani: Oh si si si.)
 
 149
 00:15:47,250 --> 00:15:57,090
-Javi: Yeah, we have these, these different areas that we work with. Because we have also the top area where - you know - all the players remember there was there Goblin in there.
+Javi: Si, abbiamo queste, queste differenti zone su cui lavoriamo. Perché abbiamo anche la zona superiore dove -sai- tutti i giocatori ricordano ci sia un goblin.
 
 150
 00:15:57,090 --> 00:16:01,210
-Javi: We have also the tree with the Scavengers and... Yeah!
+Javi: Abbiamo anche l'albero con i saprofagi e... già!
 
 151
 00:16:01,210 --> 00:16:10,280
-Javi: From our level perspective we keep the same and we want to show it and create a story for the beginning of any prisoner when they go inside the colony.
+Javi: Dal punto di vista del nostro livello manteniamo lo stesso e vogliamo mostrarlo e creare una storia per l'inizio di ogni prigioniero quando entrano nella colonia.
 
 152
 00:16:11,040 --> 00:16:13,210
-Reinhard: Cool. So what was the process?
+Reinhard: Fico. Qual è il processo?
 
 153
 00:16:13,210 --> 00:16:27,150
-Javi: Well, from the level perspective, what we create is taking the original, we create a blockout and we try to keep as much as possible (true) to the original one.
+Javi: Beh, dal punto di vista del livello, quello che facciamo è prendere l'originale, creiamo una bozza e cerchiamo di mantenere quanto possibile dell'originale.
 
 154
 00:16:27,150 --> 00:16:35,170
-Javi: But also we want to improve it, giving these areas more... more deepness and more flavor for what they are, really.
+Javi: Ma vogliamo anche migliorarla, dando a queste aree qualcosa di... più profondo e con più dettagli per ciò che sono in realtà.
 
 155
 00:16:35,200 --> 00:16:46,080
-Javi: And then we talk with the art team when we have this blockout to start working on the - okay - the decoration, the framing, more stuff in a in a visual way.
+Javi: E poi parliamo con il team artistico quando abbiamo queste bozze per cominciare i lavori su -sai- decorazione, inquadrature, più cose in senso visivo.
 
 156
 00:16:46,100 --> 00:16:51,020
-Javi: Also we..., when we are doing these blockouts, we also thought about the
+Javi: Inoltre noi..., quando facciamo queste bozze, pensiamo anche
 
 157
 00:16:51,020 --> 00:16:53,110
-Javi: the creatures who are there. Because for us it's very important
+Javi: alle creature che sono li. Perché per noi è molto importante
 
 158
 00:16:53,110 --> 00:16:59,240
-Javi: to create this habitat for the creatures. Like where they live, where they sleep, where they eat,
+Javi: creare questo habitat per le creature. Come il dove vivono, dove dormono, dove mangiano,
 
 159
 00:16:59,260 --> 00:17:03,010
-Javi: how is their daily routine also for the creatures? Because at the end
+Javi: qual è la loro routine quotidiana? Perché alla fine
 
 160
 00:17:03,010 --> 00:17:09,150
-Javi: they are living creatures also. And, and yeah, and also one of the of the important things for for this
+Javi: anche loro sono creature viventi. E, beh, un'altra cosa importante per questo prologo
 
 161
 00:17:09,150 --> 00:17:23,270
-Javi: prolog is to create this pacing for the quests. But it's also very important for us, for when we create a space, we have also in mind the quest that will be there and... Yeah, that's our process.
+Javi: è il creare ritmo per le missioni. Ma è anche molto importante per noi, per quando creiamo uno spazio, l'avere in mente le missioni che saranno li e... beh, questo è il nostro processo.
 
 162
 00:17:23,270 --> 00:17:32,090
-Javi: We create this, we place the people, we try it, we iterate, we talk with the art team, they create awesome visuals for these spaces.
+Javi: Creiamo questa cosa, ci mettiamo le persone, la proviamo, la reiteriamo, parliamo con il team artistico, loro creano estetiche incredibili per questi spazi.
 
 163
 00:17:32,090 --> 00:17:39,070
-Javi: And yeah, it's something like... We start from from the blockout and from there we continue with, with all these things.
+Javi: Si. è qualcosa come... cominciamo da questa bozza e da la continuiamo con, con tutte queste cose.
 
 164
 00:17:39,140 --> 00:17:43,240
-Dani: Yeah. The cool thing is that when we start preparing the blockout phase,
+Dani: Esatto. La cosa figa è quando iniziamo a preparare la bozza,
 
 165
 00:17:43,240 --> 00:17:49,020
-Dani: I mean, we meet together with the designers, with the level designers, so we can share the same vision
+Dani: voglio dire, c'incontriamo assieme ai designer, con i level designer, così da condividere la stessa visione
 
 166
 00:17:49,020 --> 00:17:55,020
-Dani: about how this space should be explored, how this a space should look and feel.
+Dani: sul come questo spazio andrebbe esplorato, come dovrebbe sembrare e sapere.
 
 167
 00:17:55,050 --> 00:17:59,260
