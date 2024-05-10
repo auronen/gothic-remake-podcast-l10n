@@ -664,139 +664,139 @@ Dani: sul come questo spazio andrebbe esplorato, come dovrebbe sembrare e sapere
 
 167
 00:17:55,050 --> 00:17:59,260
-Dani: So when they give the blockout to us, we are basically working on the same page.
+Dani: Quando ci danno la bozza, lavoriamo praticamente sulla stessa pagina.
 
 168
 00:17:59,260 --> 00:18:04,130
-Dani: So we start our process of, you know, searching for believable environments.
+Dani: Quindi iniziamo un processo di, ricerca di ambientazioni credibili.
 
 169
 00:18:04,130 --> 00:18:11,020
-Dani: I mean, we should transform this blockout into believable environments, into believable constructions.
+Dani: Cioè, dovremmo trasformare questa bozza in ambientazioni credibili, in costruzioni credibili.
 
 170
 00:18:11,040 --> 00:18:16,190
-Dani: So we'll start, you know, drawing and sketching and searching for references.
+Dani: Quindi iniziamo a, disegnare, abbozzare e ricercare per dei riferimenti.
 
 171
 00:18:16,190 --> 00:18:20,290
-Dani: It's super important to always search for realistic references.
+Dani: È molto importante la ricerca di riferimenti realistici.
 
 172
 00:18:20,290 --> 00:18:26,210
-Dani: And we start playing with materials and trying to create the right sensation, the right mood, the right structures.
+Dani: E poi iniziamo a giocare con i materiali e cerchiamo di creare la giusta sensazione, la giusta atmosfera, le giuste strutture.
 
 173
 00:18:26,210 --> 00:18:30,130
-Dani: And sometimes we go a little overboard with the details.
+Dani: E delle volte esageriamo un po' con i dettagli.
 
 174
 00:18:30,130 --> 00:18:36,190
-Dani: But in general, the cool thing is that here we work together as a great team. We share the same vision.
+Dani: Ma in generale, la cosa bella è che qui lavoriamo assieme come un grande team. Condividiamo la stessa visione.
 
 175
 00:18:36,190 --> 00:18:42,150
-Dani: So basically when we start decorating, we already know how this should end up looking.
+Dani: Quindi quando iniziamo a decorare, sappiamo già come sarà alla fine.
 
 176
 00:18:42,150 --> 00:18:44,140
-Reinhard: That's great. Thanks for the insight.
+Reinhard: Grandioso. Grazie per l'approfondimento.
 
 177
 00:18:44,140 --> 00:18:48,180
-Reinhard: The changed Exchange Zone does have a new fireplace right? (Javi: Right.)
+Reinhard: La Zona di Scambio cambiata ha un nuovo falò giusto?(Javi: Giusto.)
 
 178
 00:18:48,180 --> 00:18:56,020
-Javi: This fire point in the Exchange Zone that we placed there for the players to be able to cook some recipes.
+Javi: Questo falò nella Zona di Scambio lo abbiamo messo per permettere ai giocatori di cucinare qualche ricetta.
 
 179
 00:18:56,030 --> 00:19:00,120
-Javi: There are a lot of creatures in the Exchange Zone that give you meat.
+Javi: Ci sono un sacco di creature nella Zona di Scambio che danno carne.
 
 180
 00:19:00,120 --> 00:19:03,250
-Javi: Like the Scavengers and the Molerats also.
+Javi: Come i Saprofagi e i Ratti Talpa.
 
 181
 00:19:03,250 --> 00:19:11,050
-Javi: But this is one of our bases. Because we want the player to get this meat and prepare the recipes, the dishes.
+Javi: Ma questa è una delle nostre basi. Perché vogliamo che il giocatore prenda questa carne e prepari dei piatti.
 
 182
 00:19:11,050 --> 00:19:13,120
-Javi: And it's a way to survive in the wildlands.
+Javi: È un modo di sopravvivere nelle terre selvagge.
 
 183
 00:19:13,120 --> 00:19:20,230
-Javi: Also we are having a lot of interest in developing better the hunting skills because it's something
+Javi: Inoltre è nostro interesse sviluppare meglio le abilità di caccia perché è qualcosa che
 
 184
 00:19:20,230 --> 00:19:24,290
-Javi: that we think is important for the game because at the end you are in the wildlands, you need to survive.
+Javi: crediamo sia importante per il gioco dato che sei nelle terre selvagge, devi sopravvivere.
 
 185
 00:19:24,290 --> 00:19:27,130
-Javi: You need to get these material from the creatures.
+Javi: Devi recuperare questi materiali dalle creature.
 
 186
 00:19:27,130 --> 00:19:33,130
-Javi: And for us, it's very, very important to give this feeling of adventure of... Okay, you have to get prepared with this.
+Javi: E per noi, è molto, molto importante il dare questa sensazione di avventura, di... ok, ti devi preparare a dovere.
 
 187
 00:19:33,150 --> 00:19:42,070
-Javi: And we will use these materials for many kinds of crafting because we will have not just cooking, we will have more crafting there.
+Javi: Utilizzeremo questi materiali per molte creazioni perché non ci sarà solo la cucina, ci sarà molta creazione.
 
 188
 00:19:42,070 --> 00:19:47,250
-Javi: Yeah, it's something important for us and we will give this a little bit more and land
+Javi: Si, è qualcosa d'importante per noi e vogliamo dargli più spazio
 
 189
 00:19:47,250 --> 00:19:52,030
-Javi: because at the end you can prepare different dishes with different materials.
+Javi: perché alla fine puoi preparare diversi piatti con diversi materiali.
 
 190
 00:19:52,060 --> 00:19:58,160
-Kai: And I got to say: The way it is executed in the Nyras Prolog, the cooking mechanic, already works very well. (Javi: Yes.)
+Kai: E devo dire: il modo in cui viene eseguita nel Prologo di Nyras, la meccanica della cucina, funziona già molto bene. (Javi: Si.)
 
 191
 00:19:58,160 --> 00:20:01,280
-Kai: Why did we choose the Exchange Zone for the demo ground?
+Kai: Perché abbiamo scelto la Zona di Scambio come zona della demo?
 
 192
 00:20:01,280 --> 00:20:07,160
-Reinhard: Using the exchange zone as the scenery for the Prolog was a natural choice because it can
+Reinhard: L'utilizzo della Zona di Scambio come scenario per il Prologo è stata una scelta naturale perché
 
 193
 00:20:07,160 --> 00:20:13,070
-Reinhard: very well be separated from the rest of the world and doesn't need to get borders everywhere.
+Reinhard: può venire facilmente separata dal resto del mondo e non ha bisogno di confini ovunque.
 
 194
 00:20:13,070 --> 00:20:18,010
-Reinhard: It already has very natural borders, almost anywhere other than in the mountain path.
+Reinhard: Ha già dei confini naturali, quasi ovunque tranne che nel passo montano.
 
 195
 00:20:18,010 --> 00:20:24,130
-Reinhard: So we only had to find an explanation of why this path is blocked. (Kai: And what is that explanation?)
+Reinhard: Dovevamo solo trovare una spiegazione del perché la via fosse bloccata. (Kai: E qual è questa spiegazione?)
 
 196
 00:20:24,190 --> 00:20:31,210
-Reinhard: So, the setup was that the rockslide happened and rocks were basically blocking the way down.
+Reinhard: Allora, l'idea è che è avvenuta una frana e le rocce hanno semplicemente bloccato il passaggio.
 
 197
 00:20:31,240 --> 00:20:38,280
-Reinhard: And since there were people kind of like busy with some dealings in there, they are now trapped in this environment.
+Reinhard: E dato che c'erano delle persone indaffarate in quella zona, ora sono bloccate.
 
 198
 00:20:38,280 --> 00:20:41,120
-Kai: Yeah, yeah, I guess that works.
+Kai: Si, si, immagino funzioni.
 
 199
 00:20:41,120 --> 00:20:43,250
-Reinhard: Joan, you were an important part of that.
+Reinhard: Joan, parte del merito è tuo.
 
 200
 00:20:43,250 --> 00:20:48,050
-Reinhard: You contributed the concept of the cinematic camera system.
+Reinhard: Hai contribuito al concept del sistema cinematografico della telecamera.
 
 201
 00:20:48,050 --> 00:20:55,210
