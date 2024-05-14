@@ -156,7 +156,7 @@ Joan: Quindi volevamo lo stesso: mostrare la vita dentro Campo Vecchio, ma volev
 
 40
 00:04:26,270 --> 00:04:37,240
-Joan: Per questo pensavamo a nuovi modi sul come fare, no?  Così come tutti - in special modo, io (ride) -, amiamo il cinema.
+Joan: Per questo pensavamo a nuovi modi sul come fare, no? Così come tutti - in special modo, io (ride) -, amiamo il cinema.
 
 41
 00:04:37,240 --> 00:04:44,110
@@ -540,7 +540,7 @@ Kai: Capito. Grazie. Ecco il tuo pasto. (Reinhard: Grazie.) Dovrebbe essere tutt
 
 136
 00:14:25,130 --> 00:14:29,110
-Reinhard: So what was the main goal of the Nyras Prolog and how did we start?
+Reinhard: Qual era l'obiettivo principale del Prologo di Nyras e come abbiamo cominciato?
 
 137
 00:14:29,110 --> 00:14:40,130
@@ -648,7 +648,7 @@ Javi: Creiamo questa cosa, ci mettiamo le persone, la proviamo, la reiteriamo, p
 
 163
 00:17:32,090 --> 00:17:39,070
-Javi: Si. è qualcosa come... cominciamo da questa bozza e da la continuiamo con, con tutte queste cose.
+Javi: Si, è qualcosa come... cominciamo da questa bozza e da la continuiamo con, tutte queste cose.
 
 164
 00:17:39,140 --> 00:17:43,240
@@ -800,492 +800,492 @@ Reinhard: Hai contribuito al concept del sistema cinematografico della telecamer
 
 201
 00:20:48,050 --> 00:20:55,210
-Joan: Yeah. Well, I think the challenge for the cinematic dialogs that we wanted to have was specially... Normally in cinema,
+Joan: Si. Beh, credo che la sfida per i dialoghi cinematografici che volevamo fosse... Normalmente nel cinema,
 
 202
 00:20:55,240 --> 00:21:01,010
-Joan: when you have a shot-by-shot situation, you also have an editing, right?
+Joan: quando hai situazioni di scene una dietro l'altra, hai anche dell'editing, giusto?
 
 203
 00:21:01,010 --> 00:21:10,040
-Joan: (Kai: Yes.) An editing that has some sense and reasons inside the cinematic rules that we all know.
+Joan: (Kai: Si.) Un editing che abbia senso e ragione nelle regole del cinema che conosciamo.
 
 204
 00:21:10,060 --> 00:21:16,120
-Joan: So for us, this was the main challenge because we wanted to have
+Joan: Per noi, questa è stata la sfida più grande, perché volevamo avere
 
 205
 00:21:16,140 --> 00:21:22,020
-Joan: a lot of diferent cameras as you can experience in cinema, not just two or three.
+Joan: un sacco di telecamere differenti come puoi vederle la cinema, non solo due e tre.
 
 206
 00:21:22,020 --> 00:21:29,020
-Joan: And at the end this was difficult to achieve, even though for the game we are going to have it!
+Joan: E alla fine è stato difficile ottenerlo, anche se per il gioco lo avremo!
 
 207
 00:21:29,040 --> 00:21:36,070
-Joan: But for the demo we did some tests and finally to achieve the quality that we wanted to achieve,
+Joan: Ma per la demo abbiamo fatto dei test e per ottenere la qualità che volevamo,
 
 208
 00:21:36,140 --> 00:21:42,010
-Joan: we needed to cut the idea and we have have, I think, two or three cameras for the demo.
+Joan: dovevamo tagliare l'idea che originale e ora abbiamo, credo, due o tre telecamere per la demo.
 
 209
 00:21:42,010 --> 00:21:51,160
-Joan: But also when we were doing our research, looking into other third person RPG games for inspiration,
+Joan: Inoltre, quando stavamo facendo le nostre ricerche, guardavamo anche gli altri GDR in terza persona come ispirazione,
 
 210
 00:21:51,180 --> 00:22:00,110
-Joan: we noticed that maybe the most important thing for... for the dialog scenes to look cinematic was the light.
+Joan: abbiamo notato che forse la cosa più importante per... per rendere i dialoghi cinematografici era la luce.
 
 211
 00:22:00,130 --> 00:22:01,020
-Dani: Exactly. Yes.
+Dani: Esatto. Si.
 
 212
 00:22:01,020 --> 00:22:07,090
-Joan: We discovered that in most of these games add new lights when the dialog starts.
+Joan: Abbiamo scoperto che in molti di questi giochi quando iniziano i dialoghi vengono aggiunte nuove luci.
 
 213
 00:22:07,110 --> 00:22:12,090
-Joan: And for us, this was key. So that was another thing that we needed to add
+Joan: E per noi, questa era la chiave. Quindi questa era un'altra cosa che dovevamo aggiungere
 
 214
 00:22:12,090 --> 00:22:18,090
-Joan: on top of the cameras in order to achieve a super nice cinematic dialogs.
+Joan: oltre alle telecamere in modo da avere dei bei dialoghi super cinematografici.
 
 215
 00:22:18,160 --> 00:22:21,010
-Joan: So now we are working hard on that.
+Joan: Quindi ora stiamo lavorando sodo su questo.
 
 216
 00:22:21,010 --> 00:22:30,280
-Joan: We are designing our systems in order to achieve this. And yeah, I hope you like it in the final game.
+Joan: Stiamo progettando i nostri sistemi in modo da raggiungere questo obiettivo. E si, spero che vi possa piacere nel gioco finito.
 
 217
 00:22:31,000 --> 00:22:35,210
-Reinhard: Yes! So the Nyras demo contains a slice of everything - and for the first time also the UI, right?
+Reinhard: Si! Inoltre la demo di Nyras contiene un po' di tutto - e per la prima volta una UI, giusto?
 
 218
 00:22:35,210 --> 00:22:44,030
-Javi: Right! And for us is very important to show it. Because one of the most important things
+Javi: Esatto! E per noi è molto importante mostralo. Perché è una delle cose più importanti
 
 219
 00:22:44,030 --> 00:22:47,220
-Javi: from Gothic is immersion, and we want to keep the immersion very clear.
+Javi: per Gothic è l'immersione, e vogliamo mantenerla con chiarezza.
 
 220
 00:22:47,220 --> 00:22:53,220
-Javi: We don't want to have these full screen menus that doesn't allow to to continue playing.
+Javi: Non vogliamo avere questi menu a tutto schermo che non ti permettono di continuare a giocare.
 
 221
 00:22:53,220 --> 00:22:56,010
-Javi: Instead, checking your inventory is part of the game.
+Javi: Invece, il controllo dell'inventario è parte del gioco.
 
 222
 00:22:56,010 --> 00:23:01,040
-Javi: You cannot just pause the game and check what you have. It's in the middle of the game. You can do it close to an enemy,
+Javi: Non puoi mettere in pausa il gioco e controllare cos'hai. Avviene durante il gioco. Puoi farlo vicino ad un nemico,
 
 223
 00:23:01,040 --> 00:23:06,200
-Javi: but it's on your own risk. And also, well - we give a review to it.
+Javi: ma a tuo rischio. Inoltre, beh - lo rivedremo sicuramente.
 
 224
 00:23:06,200 --> 00:23:10,120
-Javi: But yeah, we have this in mind. That's something very important from the original.
+Javi: Ma si, vogliamo fare così. È una cosa molto importante nell'originale.
 
 225
 00:23:10,120 --> 00:23:16,160
-Javi: Like, we don't want to have a lot of numbers or text or health bars in the middle of the screens.
+Javi: Cioè, non vogliamo avere molti numeri o testo o barre della salute in mezzo allo schermo.
 
 226
 00:23:16,160 --> 00:23:20,090
-Javi: We want to keep it as clean as possible and it's something that I want to show in the prolog.
+Javi: Vogliamo mantenere tutto il più pulito possibile ed è qualcosa che voglio mostrare nel prologo.
 
 227
 00:23:20,090 --> 00:23:26,290
-Kai: That's great. One thing we haven't yet talked about is combat!
+Kai: Grandioso. Una cosa di cui non abbiamo ancora parlato è il combattimento!
 
 228
 00:23:26,290 --> 00:23:32,130
-Kai: The Nyras Prolog also had - like - a first iteration of the new combat system. (Javi: Yes, exactly.)
+Kai: Il Prologo di Nyras aveva - tipo - una prima iterazione del nuovo sistema di combattimento. (Javi: Si, esatto.)
 
 229
 00:23:32,130 --> 00:23:35,000
-Reinhard: So how did you get the combat to work?
+Reinhard: Allora come funziona il combattimento?
 
 230
 00:23:35,000 --> 00:23:40,180
-Javi: Yeah. For the combat, what's also something very important for us to show to the audience
+Javi: Si. Per il combattimento, ciò che per noi era importante mostrare al pubblico
 
 231
 00:23:40,210 --> 00:23:45,180
-Javi: was the gestures, the postures for the combat, the stance.
+Javi: erano i movimenti, le posture combattimento, la posa.
 
 232
 00:23:45,180 --> 00:23:50,090
-Javi: I mean, like... we want the player to know that at the beginning it would be rough!
+Javi: Voglio dire... vogliamo che il giocatore sappia che all'inizio sarà dura!
 
 233
 00:23:50,090 --> 00:23:54,000
-Javi: You would not be a master with the sword or even with the pickaxe,
+Javi: Non sarai un maestro con una spada o nemmeno con un piccone,
 
 234
 00:23:54,000 --> 00:23:58,070
-Javi: because one of the first weapons you can find in the Exchange Zone is a pickaxe.
+perché una delle prime armi che si trovano nella Zona di Scambio è un piccone.
 
 235
 00:23:58,070 --> 00:24:02,000
-Javi: So for us it's a challenge to make this, but I think we accomplish it.
+Javi: Per noi è una sfida riuscirci, ma credo che ci siamo riusciti.
 
 236
 00:24:02,000 --> 00:24:04,150
-Javi: Because the player can start fighting,
+Javi: Perché il giocatore può iniziare un combattimento,
 
 237
 00:24:04,150 --> 00:24:09,110
-Javi: they movement is not feeling as good as you think, because you are watching a non-specialist warrior.
+Javi: e il movimento non sembrerà buono come pensava, perché sta guardando un guerriero non addestrato.
 
 238
 00:24:09,110 --> 00:24:12,280
-Javi: You're watching a... just a prisoner in the colony. And also, in the prolog
+Javi: Starà guardando... solo un prigioniero nella colonia. Inoltre, nel prologo
 
 239
 00:24:12,280 --> 00:24:21,000
-Javi: we work to have this combat versus Kirgo and you can learn combat from him and he will teach you...
+Javi: abbiamo lavorato per avere un combattimento contro Kirgo dal quale puoi apprendere e ti insegnerà...
 
 240
 00:24:21,000 --> 00:24:27,270
-Javi: Okay, this is how you can use a one-handed weapon and then you evolve as a... as a fighter.
+Javi: "Ok, è così che devi usare una spada ad una mano" e così evolvi come... combattente.
 
 241
 00:24:27,290 --> 00:24:32,240
-Javi: And yeah, these's a lot of things, because also we have these special movesets for different kinds of weapons.
+Javi: E si, sono molte cose, anche perché abbiamo movimenti speciali per diversi tipi di armi.
 
 242
 00:24:32,240 --> 00:24:37,070
-Javi: It's not the same for a mace, a sword, an axe.
+Javi: Mazze, spade e asce non sono la stessa cosa.
 
 243
 00:24:37,070 --> 00:24:40,170
-Javi: And of course, for all (two weapons) ... two-handed weapons.
+Javi: E ovviamente, per tutte le due mani... armi a due mani.
 
 244
 00:24:40,170 --> 00:24:44,010
-Javi: So we wanted to show all these evolutions for all these kinds of weapons.
+Javi: Quindi volevamo mostrare tutte queste evoluzioni per tutte queste tipologie di armi.
 
 245
 00:24:44,010 --> 00:24:47,220
-Javi: And it's a challenge, but I think it feels really, really good at the hands
+Javi: Ed è una sida, ma credo che la sensazione sia, molto appagante quando
 
 246
 00:24:47,220 --> 00:24:50,210
-Javi: when you are a beginner with a weapon and you...
+Javi: sei un novizio con un'arma e...
 
 247
 00:24:50,210 --> 00:24:54,120
-Javi: and you start to know how to fight. Because we want to keep the game
+Javi: ed inizi a capire come combattere. Perché mantenere nel gioco
 
 248
 00:24:54,120 --> 00:24:58,250
-Javi: as relying on the ability of the player, but also it's an RPG.
+Javi: la possibilità di basarsi sull'abilità del giocatore, ma è anche un GDR.
 
 249
 00:24:58,250 --> 00:25:02,030
-Javi: So you have to learn how to use a weapon. (Kai: Yeah.)
+Javi: Quindi devi imparare come usare le armi. (Kai: Si.)
 
 250
 00:25:02,030 --> 00:25:07,150
-Kai: And so many people out there wanted to see the new combat system in action.
+Kai: E molte persone vogliono vedere il nuovo sistema di combattimento in azione.
 
 251
 00:25:07,150 --> 00:25:10,270
-Kai: Why haven't we shown any gameplay to the public audience yet?
+Kai: Perché non avete mostrato alcun gameplay al pubblico fin'ora?
 
 252
 00:25:10,270 --> 00:25:13,250
-Reinhard: So we showed some screenshots of what we presented.
+Reinhard: Abbiamo mostrato delle immagini di cosa abbiamo presentato.
 
 253
 00:25:13,250 --> 00:25:16,130
-Reinhard: They were 1-to-1 from this prolog.
+Reinhard: Erano 1 ad 1 da questo prologo.
 
 254
 00:25:16,130 --> 00:25:22,240
-Reinhard: There are some things where we didn't achieve the quality that we wanted to achieve or
+Reinhard: Ci sono alcune cose che non hanno raggiunto la qualità che volevamo raggiungere o
 
 255
 00:25:22,240 --> 00:25:29,050
-Reinhard: contained some bugs or unpolished things, and we don't want to overshadow the public opinion by that.
+Reinhard: contenevano dei bugs o cose non rifinite, e non vogliamo oscurare l'opinione pubblica con questi.
 
 256
 00:25:29,070 --> 00:25:35,290
-Reinhard: So we chose to not release any footage to the public. But we'll have later down the road a real gameplay reveal
+Reinhard: Perciò abbiamo deciso di non rilasciare nessun filmato al pubblico. Ma abbiamo in programma di rivelare i gameplay
 
 257
 00:25:36,010 --> 00:25:39,270
-Reinhard: where people get to see unedited gameplay of the Gothic 1 Remake.
+Reinhard: dove si potrà vedere tutto Gothic 1 Ramake senza editing.
 
 258
 00:25:39,270 --> 00:25:42,150
-Dani: So, Reinhard, what is going to happen with the Nyras Prolog?
+Dani: Allora, Reinhard, cosa accadrà al Prologo di Nyras?
 
 259
 00:25:42,150 --> 00:25:47,150
-Reinhard: So, we haven't really decided what will happen with the Nyras Prolog.
+Reinhard: Beh, non abbiamo ancora deciso cosa accadrà al Prologo di Nyras.
 
 260
 00:25:47,150 --> 00:25:48,280
-Reinhard: We have this done now.
+Reinhard: Per ora abbiamo fatto questo.
 
 261
 00:25:48,280 --> 00:25:54,230
-Reinhard: We're working on that there's some things will be improved because we improve them for the game anyways.
+Reinhard: Ci stiamo lavorando e ci sono alcune cose che saranno migliorate perché le abbiamo comunque migliorate per il gioco.
 
 262
 00:25:54,230 --> 00:26:00,230
-Reinhard: There are several options. One could be a public release, and one could actually be... well...
+Reinhard: Ci sono diverse opzioni. Una potrebbe essere la pubblicazione, e una potrebbe essere... beh...
 
 263
 00:26:01,000 --> 00:26:09,090
-Reinhard: as a kind of like a special data sample that is living in the game and can be accessed somehow.
+Reinhard: una specie di campione di dati che vive nel gioco e al quale si può accedere in qualche modo.
 
 264
 00:26:09,110 --> 00:26:11,230
-Kai: Okay, you're making a big secret out of it.
+Kai: Ok, ne stai facendo un grande segreto.
 
 265
 00:26:11,230 --> 00:26:18,100
-Reinhard: Yeah, it's cool. And I don't like to make big promises, you know me! (Kai: Fair enough.)
+Reinhard: Si, lo so. E non mi piace fare grandi promesse, mi conosci! (Kai: Giusto.)
 
 266
 00:26:18,100 --> 00:26:21,080
-Kai: Better this way than the other way around.
+Kai: Meglio così che niente.
 
 267
 00:26:21,080 --> 00:26:26,220
-Reinhard: Yeah. Over the history of the Gothic franchise, we know how big promises end, right?
+Reinhard: Già. Nella storia del franchise di Gothic, sappiamo come sono finite le grandi promesse, vero?
 
 268
 00:26:26,220 --> 00:26:29,190
-Everyone: Oh yeah, yeah, yeah. Very true.
+Everyone: Oh si si si. Verissimo.
 
 269
 00:26:29,190 --> 00:26:33,180
-Kai: Alright, so... almost half an hour. What else do we have to talk about?
+Kai: D'accordo, allora... quasi mezz'ora. Di cos'altro dobbiamo parlare?
 
 270
 00:26:33,180 --> 00:26:38,240
-Timur: I have some questions from our community. (Kai: Oh yeah, yeah. Great!) Let's go through some of them.
+Timur: Ho alcune domande dalla nostra community. (Kai: Oh, giusto, giusto. Grandioso!) Rispondiamo ad alcune di queste.
 
 271
 00:26:38,240 --> 00:26:40,240
-Kai: Okay. Sounds good.
+Kai: D'accordo. Va bene.
 
 272
 00:26:40,240 --> 00:26:46,230
-Timur: So, the question with the most upvotes was from a user with the nickname Shaolyn:
+Timur: Allora, la domanda con più voti viene da un utente chiamato Shaolyn:
 
 273
 00:26:46,230 --> 00:26:56,190
-Timur: ""Will the game have mod support for the modding community to create them easily and for community content to be added over the years? And will there be a marvin mode?"" (submitted by Shaolyn)
+Timur: ""Il gioco avrà supporto alle mod per facilitare la creazione di esse da parte della community dei modders e per i contenuti della comunità per l'aggiunta di contenuti nel corso degli anni? E ci sarà mai una marvin mode?"" (inviata da Shaolyn)
 
 274
 00:26:56,190 --> 00:27:00,130
-Reinhard: So mod support is actually something really important to us.
+Reinhard: Il supporto alle mod è qualcosa di molto importante per noi.
 
 275
 00:27:00,130 --> 00:27:05,140
-Reinhard: We understand there's a big community creating mods since many, many years.
+Reinhard: Capiamo che c'è una grossa community che crea mod da molti, molti anni.
 
 276
 00:27:05,140 --> 00:27:14,080
-Reinhard: In fact, around 20 years ago I used to create my own mods for gothic, but we have some limitation to fight with.
+Reinhard: Infatti, circa 20 anni fa io stesso creavo le mie mod per Gothic, ma abbiamo alcune limitazioni con cui combattere.
 
 277
 00:27:14,110 --> 00:27:18,220
-Reinhard: We work with Unreal Engine and Unreal Engine is not the best engine for modding.
+Reinhard: Lavoriamo su Unreal Engine e non è il migliore per quanto riguarda le mod.
 
 278
 00:27:18,220 --> 00:27:25,100
-Reinhard: But anyways, we found a pretty cool way where we can expose something like a scripting language to players
+Reinhard: Ma comunque, abbiamo trovato un modo molto figo dove possiamo esporre qualcosa come linguaggio di scripting ai giocatori
 
 279
 00:27:25,100 --> 00:27:28,060
-Reinhard: and they can just toy around with that.
+Reinhard: così da farli divertire con esso.
 
 280
 00:27:28,080 --> 00:27:35,180
-Reinhard: About the marvin mode: Yeah, I mean there are some sort of debug commands. We'll see.
+Reinhard: Per quanto riguarda la marvin node: si, nel senso che ci sono delle specie di comandi di debug. Vedremo.
 
 281
 00:27:35,180 --> 00:27:37,150
-Timur: Yeah. Thank you, Shaolyn, for your question.
+Timur: Si. Grazie Shaolyn, per la tua domanda.
 
 282
 00:27:37,150 --> 00:27:43,100
-Timur: And the second question is from a very active Discord member: Asnen.
+Timur: E la seconda domanda è da un membro molto attivo nel server Discord: Asnen.
 
 283
 00:27:43,100 --> 00:27:56,260
-Timur: And the question is:""What motivated the significant changes in the appearance of monsters in the Gothic Remake in comparison to the original in terms of your art direction choices?"". Asnen, thank you for your question.
+Timur: LA domanda è :""Cos'ha motivato il significativo cambiamento dell'aspetto dei mostri in Gothic Remake a confronto all'originale in termini delle vostre scelte di direzione artistica?"". Asnen, grazie per la tua domanda.
 
 284
 00:27:56,290 --> 00:28:00,080
-Timur: Oh, maybe this question is for you, Dani.
+Timur: Oh, forse questa domanda è per te, Dani.
 
 285
 00:28:00,080 --> 00:28:04,230
-Dani: Well, that's a tricky question. And of course there's not a simple answer to that.
+Dani: Beh, è una domanda difficile. E non c'è una risposta semplice.
 
 286
 00:28:04,230 --> 00:28:10,150
-Dani: But when you are redesigning creatures, monsters that were designed more than 20 years ago,
+Dani: Ma quando ricrei delle creature, mostri che sono stati ideati più di 20 anni fa,
 
 287
 00:28:10,150 --> 00:28:16,040
-Dani: you are facing some esthetic decisions, technical limitations that maybe were valid then,
+Dani: affronti delle decisioni estetiche, limiti tecnici che forse erano validi allora,
 
 288
 00:28:16,040 --> 00:28:20,010
-Dani: but maybe they can feel a little outdated now.
+Dani: ma che forse possono sembrare obsoleti adesso.
 
 289
 00:28:20,010 --> 00:28:24,040
-Dani: This is one part of the answer: the evolution of the esthetics and technique,
+Dani: Questa è una parte della risposta; l'evoluzione dell'estetica e della tecnica,
 
 290
 00:28:24,040 --> 00:28:27,180
-Dani: the way we can render creatures now, technically and artistically
+Dani: il modo in cui possiamo renderizzare le creature ora, tecnicamente e artisticamente
 
 291
 00:28:27,180 --> 00:28:30,140
-Dani: that wasn't possible back then gives you the opportunity
+Dani: in un modo non ottenibile al tempo, ti da l'opportunità
 
 292
 00:28:30,140 --> 00:28:35,010
-Dani: to go deep into the original designs and make them evolve and going the extra mile.
+Dani: di andare affondo nel design originali e di farli evolvere e fare quel passo in più.
 
 293
 00:28:35,010 --> 00:28:41,240
-Dani: But having said that, we designed the creatures trying to find the sweet spot between three main vectors:
+Dani: Ma detto ciò, abbiamo progettato le creature cercando di trovare il giusto compromesso attraverso tre vettori:
 
 294
 00:28:41,270 --> 00:28:47,120
-Dani: 1: The principles of evolutionary biology, especially thinking in the adaptations.
+Dani: 1: I principi della biologia evoluzionistica, specialmente pensando agli adattamenti.
 
 295
 00:28:47,120 --> 00:28:51,200
-Dani: I mean - by""adaptations"" I mean those features that have evolved in the species
+Dani: Intendo - per ""adattamenti"" quelle caratteristiche che sono evolute nelle creature
 
 296
 00:28:51,200 --> 00:28:55,060
-Dani: over time in response to specific environmental pressures
+Dani: nel corso del tempo in risposta a specifiche pressioni ambientali
 
 297
 00:28:55,060 --> 00:29:02,190
-Dani: that provide some functional advantage for them. 2: Adding to that mix a controlled amount of fantasy.
+Dani: che provvedeva loro qualche vantaggio funzionale. 2: Aggiungere ciò una dose controllata di fantasia.
 
 298
 00:29:02,210 --> 00:29:05,260
-Dani: So essentially the creatures should feel believable,
+Dani: In sunto le creature devono sembrare credibili,
 
 299
 00:29:05,260 --> 00:29:11,000
-Dani: believable inside the world of Gothic, that in essence is a dark medieval tale.
+Dani: credibili nel mondo di Gothic, che nel cuore è una storia medioevale dark.
 
 300
 00:29:11,000 --> 00:29:18,110
-Dani: And 3: Those two previous vectors should go toe to toe with the original idea behind the original designs.
+Dani: And 3: Questi due vettori dovrebbero andare assieme con l'idea originale dietro ai design originali.
 
 301
 00:29:18,130 --> 00:29:20,140
-Dani: So we can change a little the look of a creature,
+Dani: Quindi possiamo cambiare un po' l'aspetto di una creatura,
 
 302
 00:29:20,140 --> 00:29:27,030
-Dani: but once you see it moving and behaving in a world, we are confident you will recognize it immediately.
+Dani: ma una volta che la vedi muoversi e comportarsi in un mondo, siamo certi che la riconoscerete immediatamente.
 
 303
 00:29:27,050 --> 00:29:28,240
-Timur: Thanks, Dani.
+Timur: Grazie, Dani.
 
 304
 00:29:28,240 --> 00:29:31,060
-Timur: So the question number three is from Jasoon.
+Timur: La domanda numero 3 è da parte di Jasoon.
 
 305
 00:29:31,060 --> 00:29:43,280
-Timur: ""How much do you plan to expand the plot on the Nameless One's four friends: Diego, Milten, Gorn and Lester? For example, their past, their own side quests, greater involvement in the story."" (submitted by Jasoon)
+Timur: ""Quanto pensate di espandere la storia dei quattro amici dell'Eroe senza Nome: Diego, Milten, Gorn e Lester? Per esempio, il loro passa, le loro missioni secondarie, un maggior coinvolgimento nella storia"" (inviato da Jasoon)
 
 306
 00:29:43,280 --> 00:29:45,090
-Reinhard: That's a really good question.
+Reinhard: Questa è un'ottima domanda.
 
 307
 00:29:45,090 --> 00:29:51,070
-Reinhard: So for us, the Four Friends is some of the lasting moments of the Gothic series, I think.
+Reinhard: Allora, per noi i Quattro Amici sono uno dei momenti più memorabili della serie di Gothic, credo.
 
 308
 00:29:51,070 --> 00:29:55,160
-Reinhard: But in fact it didn't receive such a proper introduction.
+Reinhard: Ma in effetti non ha mai ricevuto una corretta introduzione.
 
 309
 00:29:55,160 --> 00:29:59,060
-Reinhard: So this is definitely something that we want to provide something better.
+Reinhard: Quindi questa è una cosa che sicuramente vogliamo migliorare.
 
 310
 00:29:59,060 --> 00:30:05,200
-Reinhard: And a good moment where all four of them with the hero are together and having to solve something.
+Reinhard: E un bel momento dove loro quattro assieme all'eroe sono assieme tentando di risolvere qualcosa.
 
 311
 00:30:05,220 --> 00:30:12,200
-Reinhard: And besides that, I mean, yes, there will be a more in-depth background stories for those four friends.
+Reinhard: Oltre a ciò, voglio dire, si, ci sarà più esplorazione delle storie passate di quei quattro amici.
 
 312
 00:30:12,220 --> 00:30:16,150
-Timur: Thanks, Reinhard, and thanks Jasoon for your question.
+Timur: Grazie, Reinhard, e grazie Jasoon per la tua domanda.
 
 313
 00:30:16,150 --> 00:30:20,000
-Timur: And the last question is from user Xardosh.
+Timur: E l'ultima domanda è dall'utente Xardosh.
 
 314
 00:30:20,000 --> 00:30:27,290
-Timur: ""Do we have a way to customize the nameless hero like a head shave or tattoos, for example, after joining the sect camp?"" (submitted by Xardosh)
+Timur: ""Abbiamo un modo di personalizzare l'eroe senza nome come una testa rasata o tatuaggi, per esempio, dopo essersi uniti in un campo?"" (inviata da Xardosh)
 
 315
 00:30:28,010 --> 00:30:33,050
-Kai: I think I can answer this one. (Timur: Xardosh, thank you for your question!) Yeah, thank you.
+Kai: Credo che possiamo rispondere a questa. (Timur: Xardosh, grazie per la domanda!) Si, grazie.
 
 316
 00:30:33,050 --> 00:30:36,270
-Kai: So this one is very easy to answer because it's a no.
+Kai: A questa è molto semplice rispondere perché è un no.
 
 317
 00:30:36,270 --> 00:30:41,190
-Kai: There's no such thing as customization for the Nameless Hero planned.
+Kai: Non c'è nessuna personalizzazione in programma per l'Eroe senza Nome.
 
 318
 00:30:41,190 --> 00:30:44,030
-Timur: Yeah. Thanks everyone, for sending your questions.
+Timur: Si. Grazie a tutti, per averci mandato queste domande.
 
 319
 00:30:44,030 --> 00:30:47,000
-Timur: We will try to answer the rest of them in later episodes.
+Timur: Cercheremo di rispondere alle altre nei prossimi episodi.
 
 320
 00:30:47,000 --> 00:30:50,020
-Reinhard: Okay, let's wrap it up. That's it.
+Reinhard: Ok, concludiamo qua. Questo è tutto.
 
 321
 00:30:50,020 --> 00:30:53,020
-Reinhard: Thanks for joining us on this campfire chat.
+Reinhard: Grazie per esservi uniti a questa chiacchierata attorno al fuoco.
 
 322
 00:30:53,020 --> 00:31:01,220
-Reinhard: We hope we gave you some additional insights into how we created the Nyras Prolog and the Old Camp trailer.
+Reinhard: Speriamo di avervi dato delle informazioni aggiuntive sul come abbiamo creato il Prologo di Nyras e il trailer di Campo Vecchio.
 
 323
 00:31:01,240 --> 00:31:09,210
-Reinhard: We look forward to have you on the next regular episode of the Gothic 1 Remake Podcast and bring you some more news about Gothic.
+Reinhard: Non vediamo l'ora di avervi nuovamente nel prossimo episodio del Gothic 1 Remake Podcast e di portarvi nuove notizie su Gothic.
