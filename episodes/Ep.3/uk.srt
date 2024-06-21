@@ -472,7 +472,7 @@ Joan: Якби у мене була можливість повернутися,
 
 119
 00:12:47,250 --> 00:12:50,220
-Кай: Yeah, it's going to be the same for me! Dani?
+Кай: Так, я ,мабуть,те ж саме! Дені?
 
 120
 00:12:50,220 --> 00:12:56,020
@@ -480,7 +480,7 @@ Joan: Якби у мене була можливість повернутися,
 
 121
 00:12:56,020 --> 00:12:59,090
-Кай: One more from the Rice Lord. Okay! Joan, your turn.
+Кай: Ще одну, Рисового Лорда. Добре! Твоя черга, Джоан.
 
 122
 00:12:59,090 --> 00:13:04,120
@@ -488,7 +488,7 @@ Joan: Якби у мене була можливість повернутися,
 
 123
 00:13:04,120 --> 00:13:07,060
-Кай: Mais oui, bien sûr! And for drink?
+Кай: Mais oui, bien sûr! А випити?
 
 124
 00:13:07,060 --> 00:13:12,060
@@ -496,71 +496,71 @@ Joan: Якби у мене була можливість повернутися,
 
 125
 00:13:12,060 --> 00:13:13,240
-Кай: Okay. Working on it.
+Кай: Добре. Готуємо.
 
 126
 00:13:13,240 --> 00:13:18,290
-Рейнгард: Now, let's talk about the Nyras Prolog, which was the demo that we showed to press and streamers at Gamescom.
+Рейнгард: Тепер давайте поговоримо про Nyras Prolog, демо-версію якого ми показували пресі та стрімерам на Gamescom.
 
 127
 00:13:18,290 --> 00:13:23,230
-Кай: Yeah, actually, I think that needs some more introduction. (Рейнгард: Yes.) So what is the ... What is it?
+Кай: Так, насправді, думаю, що це потребує додаткового пояснення. (Рейнгард: Так.) Так що ж таке ... Що це таке?
 
 128
 00:13:23,230 --> 00:13:35,070
-Рейнгард: So, the Nyras Prolog is really a slice of the game that contains almost all elements in a close to final form, and it features not the nameless hero, but the character called Nyras.
+Рейнгард: Отже, "Пролог Ніраса" - це дійсно шматок гри, який містить майже всі елементи у близькій до фінальної формі, і в ньому фігурує не безіменний герой, а персонаж на ім'я Нірас.
 
 129
 00:13:35,070 --> 00:13:46,210
-Рейнгард: And we chose this because the start of the game is not really something that has a big - like - progression curve, because it expects you to go to the Old Camp and do some talking there.
+Рейнгард: Райнхард: Ми обрали цей варіант, тому що початок гри не є чимось таким, що має велику криву прогресу, тому що ви маєте піти до Старого Табору і поговорити там.
 
 130
 00:13:46,210 --> 00:13:55,010
-Рейнгард: Our goal was that within 30 minutes you get to see every element of the game and we could achieve this with this setup. (Кай: Yeah, that makes a lot of sense.)
+Рейнгард: Наша мета полягала в тому, щоб за 30 хвилин ви побачили кожен елемент гри, і ми змогли досягти цього за допомогою цієї схеми. (Кай: Так, у цьому є сенс.)
 
 131
 00:13:55,010 --> 00:13:59,140
-Кай: The first food's ready. Ehm, Paella was for you, Dani, right? (Dani: Exactly, yes!)
+Кай: Перша страва готова. Паелья була для тебе, Дені, так? (Дені: Саме так!)
 
 132
 00:13:59,140 --> 00:14:04,060
-Кай: There you go. (Dani: Thanks.) Reinhard, why did we choose Nyras for the prolog?
+Кай: Прошу. (Дені: Дякую.) Рейнгарде, чому ми обрали Ніраса для прологу?
 
 133
 00:14:04,060 --> 00:14:12,200
-Рейнгард: We had obviously several options because before the Nameless Hero gets sent into the colony, obviously other characters get sent into the colony.
+Рейнгард: Очевидно, що у нас було кілька варіантів, тому що перед тим, як Безіменний герой потрапляє до колонії, очевидно, що інші персонажі потрапляють до колонії.
 
 134
 00:14:12,220 --> 00:14:21,010
-Рейнгард: (Kai talking to others in the background, giving out food and drinks.) Рейнгард: And so it was a guy named Nyras that later turned his attention to the swamp and plays a very important part later down the road in the game.
+Рейнгард: (Кай розмовляє з іншими на задньому плані, роздає їжу та напої.) Рейнгард: Саме хлопець на ім'я Нірас згодом звернув увагу на болото і відіграє дуже важливу роль у подальшій грі.
 
 135
 00:14:21,050 --> 00:14:25,130
-Кай: Cool. Thank you. Here's your meal. (Рейнгард: Thanks.) That should be everything.
+Кай: Круто. Дякую. Ось твоя їжа. (Рейнгард: Дякую). Це мабуть все.
 
 136
 00:14:25,130 --> 00:14:29,110
-Рейнгард: So what was the main goal of the Nyras Prolog and how did we start?
+Рейнгард: Тож якою була головна мета Прологу і як ми починали?
 
 137
 00:14:29,110 --> 00:14:40,130
-Хаві: Well, I think our main goal was to show all the progress of the game and a little bit how the game has changed from the PT - from the playable teaser.
+Хаві: Я думаю, що нашою головною метою було показати весь прогрес гри і трохи показати, як гра змінилася порівняно з тизером.
 
 138
 00:14:40,150 --> 00:14:57,150
-Хаві: So we have a lot of things to show, and one of the more important things that we wanted to show was the Exchange Zone at the end, because it changed a lot from the previous version we had done. This limit of the level, the space, and we build from there.
+Хаві: Тож нам є що показати, і одна з найважливіших речей, яку ми хотіли показати, - це Зона обміну в кінці, тому що вона дуже змінилася порівняно з попередньою версією, яку ми робили. Це межа рівня, простору, і ми відштовхуємося від неї.
 
 139
 00:14:57,170 --> 00:14:59,140
-Хаві: There are a lot of things that we want to show there.
+Хаві: Є багато речей, які ми хочемо там показати.
 
 140
 00:14:59,140 --> 00:15:05,030
-Хаві: Well, we can talk about all the mechanics or systems.
+Хаві: Ну, ми можемо говорити про всі механізми чи системи.
 
 141
 00:15:05,030 --> 00:15:08,150
-Хаві: I don't know which one do you want to start talking about?
+Хаві: Я не знаю, про яку з них ти хочеш почати говорити?
 
 142
 00:15:08,150 --> 00:15:12,000
