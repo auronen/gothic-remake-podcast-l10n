@@ -84,7 +84,7 @@
 
 22
 00:02:36,140 --> 00:02:44,070
-Джоан: Ти дійсно відчуваєш себе маленьким, коли граєш там, і я думаю, що всі згадують про це з ностальгією.
+Джоан: Ти дійсно відчуваєш себе маленьким, коли граєш там, і я думаю, що всі згадують про це з ностальгією
 
 23
 00:02:44,070 --> 00:02:53,000
@@ -564,95 +564,95 @@ Joan: Якби у мене була можливість повернутися,
 
 142
 00:15:08,150 --> 00:15:12,000
-Рейнгард: I think we should start exactly with that. The Exchange Zone.
+Рейнгард: Я думаю, що ми повинні почати саме з цього. Зона обміну.
 
 143
 00:15:12,000 --> 00:15:14,300
-Рейнгард: So is it a completely new exchange zone?
+Рейнгард: Тобто це абсолютно нова зона обміну?
 
 144
 00:15:14,300 --> 00:15:17,000
-Хаві: Well, it's pretty much the same.
+Хаві: Ну, це майже те саме.
 
 145
 00:15:17,000 --> 00:15:24,180
-Хаві: I think all the players will recognize it. It's the place they imagine, like a new version but the same place.
+Хаві: Я думаю, що всі гравці впізнають. Це місце, яке вони собі уявляють, як нову версію, але це те саме місце.
 
 146
 00:15:24,230 --> 00:15:39,120
-Хаві: (Dani: Yeah.) We want to build from the original. We have created this Exchange Zone where - well - in the prolog Whistler and Diego were there. And we keep most of the rhythm of the level.
+Хаві: (Дені: Так.) Ми хочемо відштовхуватися від оригіналу. Ми створили цю зону обміну, де в пролозі були Вістлер і Дієго. І ми зберігаємо більшу частину ритму рівня.
 
 147
 00:15:39,140 --> 00:15:43,140
-Хаві: We keep the abandoned mine entrance, the bridge...
+Хаві: Ми залишаємо покинутий вхід до шахти, місток...
 
 148
 00:15:43,140 --> 00:15:47,250
-Хаві: Well, I think all the players will recognize it perfectly. (Dani: Oh yeah, yeah, yeah.)
+Хаві: Ну, я думаю, що всі гравці чудово його впізнають. (Дені: О, так, так, так.)
 
 149
 00:15:47,250 --> 00:15:57,090
-Хаві: Yeah, we have these, these different areas that we work with. Because we have also the top area where - you know - all the players remember there was there Goblin in there.
+Хаві: Так, у нас є різні зони, з якими ми працюємо. Тому що у нас також є верхня зона, де - мали б знати - всі гравці пам'ятають, що там був Гоблін.
 
 150
 00:15:57,090 --> 00:16:01,210
-Хаві: We have also the tree with the Scavengers and... Yeah!
+Хаві: У нас ще є дерево з Стервожером і.... Так!
 
 151
 00:16:01,210 --> 00:16:10,280
-Хаві: From our level perspective we keep the same and we want to show it and create a story for the beginning of any prisoner when they go inside the colony.
+Хаві: З точки зору нашого рівня, ми залишаємося незмінними, і ми хочемо показати це і створити історію для початку для будь-якого ув'язненого, коли він потрапляє в колонію.
 
 152
 00:16:11,040 --> 00:16:13,210
-Рейнгард: Cool. So what was the process?
+Рейнгард: Круто. То як проходив процес?
 
 153
 00:16:13,210 --> 00:16:27,150
-Хаві: Well, from the level perspective, what we create is taking the original, we create a blockout and we try to keep as much as possible (true) to the original one.
+Хаві: Ну, з точки зору рівня, те, що ми створюємо, це беремо оригінал, створюємо блок-аут і намагаємося зберегти якомога більше (істинного) від оригіналу.
 
 154
 00:16:27,150 --> 00:16:35,170
-Хаві: But also we want to improve it, giving these areas more... more deepness and more flavor for what they are, really.
+Хаві: Але ми також хочемо вдосконалити його, надавши цим областям більше... більше глибини і більше колориту за те, чим вони є насправді.
 
 155
 00:16:35,200 --> 00:16:46,080
-Хаві: And then we talk with the art team when we have this blockout to start working on the - okay - the decoration, the framing, more stuff in a in a visual way.
+Хаві: А потім ми говоримо з художньою командою, коли у нас є цей блок-аут, щоб почати працювати над оздобленням, обрамленням та іншими речами у візуальному плані.
 
 156
 00:16:46,100 --> 00:16:51,020
-Хаві: Also we..., when we are doing these blockouts, we also thought about the
+Хаві: Також ми..., коли ми робили ці блок-аути, ми також думали про
 
 157
 00:16:51,020 --> 00:16:53,110
-Хаві: the creatures who are there. Because for us it's very important
+Хаві: істот, які там перебувають. Тому що для нас дуже важливо
 
 158
 00:16:53,110 --> 00:16:59,240
-Хаві: to create this habitat for the creatures. Like where they live, where they sleep, where they eat,
+Хаві: щоб створити це середовище існування для істот. Де вони живуть, де сплять, де їдять,
 
 159
 00:16:59,260 --> 00:17:03,010
-Хаві: how is their daily routine also for the creatures? Because at the end
+Хаві: Який їхній розпорядок дня? Тому що зрештою вони
 
 160
 00:17:03,010 --> 00:17:09,150
-Хаві: they are living creatures also. And, and yeah, and also one of the of the important things for for this
+Хаві: теж живі істоти. І, так, і ще одна з важливих речей для цього
 
 161
 00:17:09,150 --> 00:17:23,270
-Хаві: prolog is to create this pacing for the quests. But it's also very important for us, for when we create a space, we have also in mind the quest that will be there and... Yeah, that's our process.
+Хаві: прологу - створити цей темп для квестів. Але для нас це також дуже важливо, тому що коли ми створюємо простір, ми також думаємо про квест, який там буде, і... Так, це наш процес.
 
 162
 00:17:23,270 --> 00:17:32,090
-Хаві: We create this, we place the people, we try it, we iterate, we talk with the art team, they create awesome visuals for these spaces.
+Хаві: Ми створюємо це, ми розміщуємо людей, ми пробуємо, ми ітеруємо, ми говоримо з художньою командою, вони створюють чудові візуальні ефекти для цих просторів.
 
 163
 00:17:32,090 --> 00:17:39,070
-Хаві: And yeah, it's something like... We start from from the blockout and from there we continue with, with all these things.
+Хаві: І так, це щось на кшталт... Ми починаємо з блок-ауту і звідти продовжуємо з усіма цими речами.
 
 164
 00:17:39,140 --> 00:17:43,240
-Дані: Так. Найкрутіша частина - це коли ми починаємо готуватись до фази блокування,
+Дані: Так. Найкрутіша частина - це коли ми починаємо готуватись до фази блок-ауту,
 
 165
 00:17:43,240 --> 00:17:49,020
@@ -664,7 +664,7 @@ Joan: Якби у мене була можливість повернутися,
 
 167
 00:17:55,050 --> 00:17:59,260
-Дані: Тож, коли нас блокують, ми працюємо над тим самим.
+Дані: Тож коли вони дають нам блок-аут, ми, по суті, працюємо над тим самим.
 
 168
 00:17:59,260 --> 00:18:04,130
@@ -672,7 +672,7 @@ Joan: Якби у мене була можливість повернутися,
 
 169
 00:18:04,130 --> 00:18:11,020
-Дані: Я вважаю, що нам потрібно перетворити цю блокаду на середовище, яке заслуговує на довіру, на надійну конструкцію.
+Дані: Я вважаю, що нам потрібно перетворити цей блок-аут на середовище, яке заслуговує на довіру, на надійну конструкцію.
 
 170
 00:18:11,040 --> 00:18:16,190
@@ -700,103 +700,103 @@ Joan: Якби у мене була можливість повернутися,
 
 176
 00:18:42,150 --> 00:18:44,140
-Рейнгард: That's great. Thanks for the insight.
+Рейнгард: Чудово. Дякую за розуміння.
 
 177
 00:18:44,140 --> 00:18:48,180
-Рейнгард: The changed Exchange Zone does have a new fireplace right? (Хаві: Right.)
+Рейнгард: У зміненій Зоні обміну з'явилось нове вогнище, чи не так? (Хаві: Так.)
 
 178
 00:18:48,180 --> 00:18:56,020
-Хаві: This fire point in the Exchange Zone that we placed there for the players to be able to cook some recipes.
+Хаві: Це вогнище в Зоні обміну, яке ми розмістили там для того, щоб гравці могли готувати деякі рецепти.
 
 179
 00:18:56,030 --> 00:19:00,120
-Хаві: There are a lot of creatures in the Exchange Zone that give you meat.
+Хаві: У Зоні обміну є багато істот, які дають вам м'ясо.
 
 180
 00:19:00,120 --> 00:19:03,250
-Хаві: Like the Scavengers and the Molerats also.
+Хаві: Такі як Стервожери та Кротощури.
 
 181
 00:19:03,250 --> 00:19:11,050
-Хаві: But this is one of our bases. Because we want the player to get this meat and prepare the recipes, the dishes.
+Хаві: Але це одна з наших баз. Тому що ми хочемо, щоб гравець дістав це м'ясо і приготував рецепти, страви.
 
 182
 00:19:11,050 --> 00:19:13,120
-Хаві: And it's a way to survive in the wildlands.
+Хаві: І це спосіб вижити в дикій природі.
 
 183
 00:19:13,120 --> 00:19:20,230
-Хаві: Also we are having a lot of interest in developing better the hunting skills because it's something
+Хаві: Також ми дуже зацікавлені в тому, щоб розвивати навички полювання, тому що це те, що
 
 184
 00:19:20,230 --> 00:19:24,290
-Хаві: that we think is important for the game because at the end you are in the wildlands, you need to survive.
+Хаві: на нашу думку, важливо для гри, тому що в кінці ви опиняєтеся в дикій місцевості, і вам потрібно вижити.
 
 185
 00:19:24,290 --> 00:19:27,130
-Хаві: You need to get these material from the creatures.
+Хаві: Потрібно отримати цей ресурс з істот.
 
 186
 00:19:27,130 --> 00:19:33,130
-Хаві: And for us, it's very, very important to give this feeling of adventure of... Okay, you have to get prepared with this.
+Хаві: І для нас дуже, дуже важливо дати це відчуття пригоди... Що ж, до цього треба готуватися.
 
 187
 00:19:33,150 --> 00:19:42,070
-Хаві: And we will use these materials for many kinds of crafting because we will have not just cooking, we will have more crafting there.
+Хаві: І ми будемо використовувати ці матеріали для багатьох видів ремесел, тому що у нас буде не просто приготування їжі, у нас буде більше ремесел.
 
 188
 00:19:42,070 --> 00:19:47,250
-Хаві: Yeah, it's something important for us and we will give this a little bit more and land
+Хаві: Так, це дуже важливо для нас, і ми хочемо зробити трохи більше, і щоб це спрацювало
 
 189
 00:19:47,250 --> 00:19:52,030
-Хаві: because at the end you can prepare different dishes with different materials.
+Хаві: тому що в кінці можна приготувати різні страви з різних інгредієнтів.
 
 190
 00:19:52,060 --> 00:19:58,160
-Кай: And I got to say: The way it is executed in the Nyras Prolog, the cooking mechanic, already works very well. (Хаві: Yes.)
+Кай: І я повинен сказати: Те, як це реалізовано в Пролозі Ніраса, механіці приготування їжі, вже працює дуже добре. (Хаві: Так.)
 
 191
 00:19:58,160 --> 00:20:01,280
-Кай: Why did we choose the Exchange Zone for the demo ground?
+Кай: Чому ми обрали Зону обміну для демо-показу?
 
 192
 00:20:01,280 --> 00:20:07,160
-Рейнгард: Using the exchange zone as the scenery for the Prolog was a natural choice because it can
+Рейнгард: Використання зони обміну в якості декорацій для Прологу було природним вибором, тому що вона може
 
 193
 00:20:07,160 --> 00:20:13,070
-Рейнгард: very well be separated from the rest of the world and doesn't need to get borders everywhere.
+Рейнгард: надзвичайно добре відокремлена від решти світу і не потребує повсюдного зведення додаткових кордонів.
 
 194
 00:20:13,070 --> 00:20:18,010
-Рейнгард: It already has very natural borders, almost anywhere other than in the mountain path.
+Рейнгард: Вона вже має дуже природні кордони, майже скрізь, окрім гірської стежки.
 
 195
 00:20:18,010 --> 00:20:24,130
-Рейнгард: So we only had to find an explanation of why this path is blocked. (Кай: And what is that explanation?)
+Рейнгард: Тож нам залишалося лише знайти пояснення, чому цей шлях заблокований. (Кай: І що це за пояснення?)
 
 196
 00:20:24,190 --> 00:20:31,210
-Рейнгард: So, the setup was that the rockslide happened and rocks were basically blocking the way down.
+Рейнгард: Отже, ситуація полягала в тому, що стався обвал і каміння фактично заблокувало шлях донизу.
 
 197
 00:20:31,240 --> 00:20:38,280
-Рейнгард: And since there were people kind of like busy with some dealings in there, they are now trapped in this environment.
+Рейнгард: А оскільки там були люди, зайняті якимись справами, вони опинилися в пастці в цьому середовищі.
 
 198
 00:20:38,280 --> 00:20:41,120
-Кай: Yeah, yeah, I guess that works.
+Кай: Так, так, гадаю, це працює.
 
 199
 00:20:41,120 --> 00:20:43,250
-Рейнгард: Joan, you were an important part of that.
+Рейнгард: Джоан, ти був важливою частиною цього.
 
 200
 00:20:43,250 --> 00:20:48,050
-Рейнгард: You contributed the concept of the cinematic camera system.
+Рейнгард: Ти розробив концепцію кінематографічної системи камер.
 
 201
 00:20:48,050 --> 00:20:55,210
@@ -808,7 +808,7 @@ Joan: Якби у мене була можливість повернутися,
 
 203
 00:21:01,010 --> 00:21:10,040
-Joan: (Кай: Yes.) An editing that has some sense and reasons inside the cinematic rules that we all know.
+Joan: (Кай: Так.) Монтаж, який має певний сенс і причини всередині кінематографічних правил, які ми всі знаємо.
 
 204
 00:21:10,060 --> 00:21:16,120
@@ -844,7 +844,7 @@ Joan: (Кай: Yes.) An editing that has some sense and reasons inside the cinem
 
 212
 00:22:01,020 --> 00:22:07,090
-Джоан: Виявилося, що в більшості з цих ігор додаються нові світла, коли починається діалог.
+Джоан: Виявилося, що в більшості з цих ігор додається нове світло, коли починається діалог.
 
 213
 00:22:07,110 --> 00:22:12,090
@@ -864,167 +864,167 @@ Joan: (Кай: Yes.) An editing that has some sense and reasons inside the cinem
 
 217
 00:22:31,000 --> 00:22:35,210
-Рейнгард: Yes! So the Nyras demo contains a slice of everything - and for the first time also the UI, right?
+Рейнгард: Так! Отже, демо-версія Ніраса містить у собі все - і також користувальницький інтерфейс, чи не так?
 
 218
 00:22:35,210 --> 00:22:44,030
-Хаві: Right! And for us is very important to show it. Because one of the most important things
+Хаві: Точно! І для нас дуже важливо це показати. Тому що одна з найважливіших речей
 
 219
 00:22:44,030 --> 00:22:47,220
-Хаві: from Gothic is immersion, and we want to keep the immersion very clear.
+Хаві: від ґотики - це занурення, і ми хочемо, щоб це занурення було дуже чітким.
 
 220
 00:22:47,220 --> 00:22:53,220
-Хаві: We don't want to have these full screen menus that doesn't allow to to continue playing.
+Хаві: Ми не хочемо мати ці повноекранні меню, які не дозволяють продовжувати гру.
 
 221
 00:22:53,220 --> 00:22:56,010
-Хаві: Instead, checking your inventory is part of the game.
+Хаві: Натомість перевірка інвентарю є частиною гри.
 
 222
 00:22:56,010 --> 00:23:01,040
-Хаві: You cannot just pause the game and check what you have. It's in the middle of the game. You can do it close to an enemy,
+Хаві: Ти не можеш просто поставити гру на паузу і перевірити, що у тебе є. Це відбувається посеред гри. Це можна зробити впритул до ворога,
 
 223
 00:23:01,040 --> 00:23:06,200
-Хаві: but it's on your own risk. And also, well - we give a review to it.
+Хаві: але це на свій страх і ризик. А також... що ж, ми це оцінимо.
 
 224
 00:23:06,200 --> 00:23:10,120
-Хаві: But yeah, we have this in mind. That's something very important from the original.
+Хаві: Але так, ми маємо це на увазі. Це щось дуже важливе з оригіналу.
 
 225
 00:23:10,120 --> 00:23:16,160
-Хаві: Like, we don't want to have a lot of numbers or text or health bars in the middle of the screens.
+Хаві: Наприклад, ми не хочемо мати багато цифр, тексту або смужок здоров'я посередині екранів.
 
 226
 00:23:16,160 --> 00:23:20,090
-Хаві: We want to keep it as clean as possible and it's something that I want to show in the prolog.
+Хаві: Ми хочемо зберегти його якомога чистішим, і це те, що я хочу показати в пролозі.
 
 227
 00:23:20,090 --> 00:23:26,290
-Кай: That's great. One thing we haven't yet talked about is combat!
+Кай: Чудово. Єдине, про що ми ще не говорили - це про бій!
 
 228
 00:23:26,290 --> 00:23:32,130
-Кай: The Nyras Prolog also had - like - a first iteration of the new combat system. (Хаві: Yes, exactly.)
+Кай: У "Пролозі Ніраса" також була, як би, перша ітерація нової бойової системи. (Хаві: Так, саме так.)
 
 229
 00:23:32,130 --> 00:23:35,000
-Рейнгард: So how did you get the combat to work?
+Рейнгард: Тож як вам вдалося домогтися того, щоб бій запрацював?
 
 230
 00:23:35,000 --> 00:23:40,180
-Хаві: Yeah. For the combat, what's also something very important for us to show to the audience
+Хаві: Так. Для бою, що також дуже важливо для нас, показати глядачам
 
 231
 00:23:40,210 --> 00:23:45,180
-Хаві: was the gestures, the postures for the combat, the stance.
+Хаві: ці жести, пози для бою, стійки.
 
 232
 00:23:45,180 --> 00:23:50,090
-Хаві: I mean, like... we want the player to know that at the beginning it would be rough!
+Хаві: Я маю на увазі... ми хочемо, щоб гравець знав, що на початку буде важко!
 
 233
 00:23:50,090 --> 00:23:54,000
-Хаві: You would not be a master with the sword or even with the pickaxe,
+Хаві: Ви не станете майстром з мечем чи навіть з киркою,
 
 234
 00:23:54,000 --> 00:23:58,070
-Хаві: because one of the first weapons you can find in the Exchange Zone is a pickaxe.
+Хаві: тому що одна з перших зброй, яку ви можете знайти в Зоні обміну, - це кирка.
 
 235
 00:23:58,070 --> 00:24:02,000
-Хаві: So for us it's a challenge to make this, but I think we accomplish it.
+Хаві: Тож для нас це виклик, але я думаю, що ми з ним впораємося.
 
 236
 00:24:02,000 --> 00:24:04,150
-Хаві: Because the player can start fighting,
+Хаві: Бо як тільки гравець починає бій
 
 237
 00:24:04,150 --> 00:24:09,110
-Хаві: they movement is not feeling as good as you think, because you are watching a non-specialist warrior.
+Хаві: рухи не такі приємні, як здається, бо дивишся на неспеціалізованого воїна.
 
 238
 00:24:09,110 --> 00:24:12,280
-Хаві: You're watching a... just a prisoner in the colony. And also, in the prolog
+Хаві: Перед вами... просто ув'язнений у колонії. А ще, в пролозі
 
 239
 00:24:12,280 --> 00:24:21,000
-Хаві: we work to have this combat versus Kirgo and you can learn combat from him and he will teach you...
+Хаві: ми працюємо над тим, щоб провести цей бій проти Кірґо, і можна навчитися бою у нього, а він навчить тебе...
 
 240
 00:24:21,000 --> 00:24:27,270
-Хаві: Okay, this is how you can use a one-handed weapon and then you evolve as a... as a fighter.
+Хаві: Гаразд, ось як ти можеш використовувати одноручну зброю, і тоді ти розвиваєшся як... як боєць.
 
 241
 00:24:27,290 --> 00:24:32,240
-Хаві: And yeah, these's a lot of things, because also we have these special movesets for different kinds of weapons.
+Хаві: І так, це дуже багато речей, тому що у нас також є спеціальні набори рухів для різних видів зброї.
 
 242
 00:24:32,240 --> 00:24:37,070
-Хаві: It's not the same for a mace, a sword, an axe.
+Хаві: Це не однаково для булави, меча, сокири.
 
 243
 00:24:37,070 --> 00:24:40,170
-Хаві: And of course, for all (two weapons) ... two-handed weapons.
+Хаві: І, звичайно, для всіх (двох видів зброї) ... дворучної зброї.
 
 244
 00:24:40,170 --> 00:24:44,010
-Хаві: So we wanted to show all these evolutions for all these kinds of weapons.
+Хаві: Тож ми хотіли показати всі ці еволюції для всіх цих видів зброї.
 
 245
 00:24:44,010 --> 00:24:47,220
-Хаві: And it's a challenge, but I think it feels really, really good at the hands
+Хаві: І це виклик, але я думаю, що він відчувається дуже, дуже добре в руках
 
 246
 00:24:47,220 --> 00:24:50,210
-Хаві: when you are a beginner with a weapon and you...
+Хаві: коли ти новачок зі зброєю і ти...
 
 247
 00:24:50,210 --> 00:24:54,120
-Хаві: and you start to know how to fight. Because we want to keep the game
+Хаві:починаєш знати, як битися. Тому що ми хочемо зберегти гру
 
 248
 00:24:54,120 --> 00:24:58,250
-Хаві: as relying on the ability of the player, but also it's an RPG.
+Хаві: покладаючись на здібності гравця, але в той же час це рольова гра.
 
 249
 00:24:58,250 --> 00:25:02,030
-Хаві: So you have to learn how to use a weapon. (Кай: Yeah.)
+Хаві: Тож ти маєш навчитися користуватися зброєю. (Кай: Так.)
 
 250
 00:25:02,030 --> 00:25:07,150
-Кай: And so many people out there wanted to see the new combat system in action.
+Кай: І так багато людей хотіли побачити нову бойову систему в дії.
 
 251
 00:25:07,150 --> 00:25:10,270
-Кай: Why haven't we shown any gameplay to the public audience yet?
+Кай: Чому ми досі не показали жодного геймплею аудиторії?
 
 252
 00:25:10,270 --> 00:25:13,250
-Рейнгард: So we showed some screenshots of what we presented.
+Рейнгард: Ми показували скріншоти того, що презентували.
 
 253
 00:25:13,250 --> 00:25:16,130
-Рейнгард: They were 1-to-1 from this prolog.
+Рейнгард: В цьому пролозі вони були 1 в 1.
 
 254
 00:25:16,130 --> 00:25:22,240
-Рейнгард: There are some things where we didn't achieve the quality that we wanted to achieve or
+Рейнгард: Є речі, де ми не досягли тієї якості, якої хотіли досягти, або
 
 255
 00:25:22,240 --> 00:25:29,050
-Рейнгард: contained some bugs or unpolished things, and we don't want to overshadow the public opinion by that.
+Рейнгард: містили деякі помилки або недопрацьовані речі, і ми не хочемо затьмарювати цим думку гравців.
 
 256
 00:25:29,070 --> 00:25:35,290
-Рейнгард: So we chose to not release any footage to the public. But we'll have later down the road a real gameplay reveal
+Рейнгард: Тому ми вирішили не випускати жодних кадрів для публіки. Але згодом ми покажемо справжній геймплей
 
 257
 00:25:36,010 --> 00:25:39,270
-Рейнгард: where people get to see unedited gameplay of the Gothic 1 Remake.
+Рейнгард: де люди можуть побачити невідредагований геймплей ремейку Gothic 1.
 
 258
 00:25:39,270 --> 00:25:42,150
@@ -1032,39 +1032,39 @@ Joan: (Кай: Yes.) An editing that has some sense and reasons inside the cinem
 
 259
 00:25:42,150 --> 00:25:47,150
-Рейнгард: So, we haven't really decided what will happen with the Nyras Prolog.
+Рейнгард: Ми ще не вирішили, що буде з Прологом Ніраса.
 
 260
 00:25:47,150 --> 00:25:48,280
-Рейнгард: We have this done now.
+Рейнгард: У нас все готово.
 
 261
 00:25:48,280 --> 00:25:54,230
-Рейнгард: We're working on that there's some things will be improved because we improve them for the game anyways.
+Рейнгард: Ми працюємо над тим, щоб деякі речі були покращені, тому що ми покращуємо їх для гри в будь-якому випадку.
 
 262
 00:25:54,230 --> 00:26:00,230
-Рейнгард: There are several options. One could be a public release, and one could actually be... well...
+Рейнгард: Є кілька варіантів. Один з них може бути публічним релізом, а інший може бути... ну...
 
 263
 00:26:01,000 --> 00:26:09,090
-Рейнгард: as a kind of like a special data sample that is living in the game and can be accessed somehow.
+Рейнгард: як щось на кшталт спеціальної вибірки даних, яка живе в грі і до якої можна якось отримати доступ.
 
 264
 00:26:09,110 --> 00:26:11,230
-Кай: Okay, you're making a big secret out of it.
+Кай: Ти робиш з цього велику таємницю.
 
 265
 00:26:11,230 --> 00:26:18,100
-Рейнгард: Yeah, it's cool. And I don't like to make big promises, you know me! (Кай: Fair enough.)
+Рейнгард: Так, це круто. А я не люблю давати багато обіцянок, ти ж мене знаєш! (Кай: Справедливо.)
 
 266
 00:26:18,100 --> 00:26:21,080
-Кай: Better this way than the other way around.
+Кай: Краще так, ніж інакше.
 
 267
 00:26:21,080 --> 00:26:26,220
-Рейнгард: Yeah. Over the history of the Gothic franchise, we know how big promises end, right?
+Рейнгард: Так. З історії франшизи "Ґотика" ми знаємо, чим закінчуються великі обіцянки, чи не так?
 
 268
 00:26:26,220 --> 00:26:29,190
@@ -1072,15 +1072,15 @@ Joan: (Кай: Yes.) An editing that has some sense and reasons inside the cinem
 
 269
 00:26:29,190 --> 00:26:33,180
-Кай: Alright, so... almost half an hour. What else do we have to talk about?
+Кай: Добре, отже... майже півгодини. Про що ще нам треба поговорити?
 
 270
 00:26:33,180 --> 00:26:38,240
-Timur: I have some questions from our community. (Кай: Oh yeah, yeah. Great!) Let's go through some of them.
+Timur: У мене є кілька запитань від нашої спільноти. (Кай: О, так, так. Чудово!) Давайте розглянемо деякі з них.
 
 271
 00:26:38,240 --> 00:26:40,240
-Кай: Okay. Sounds good.
+Кай: Добре. Звучить непогано.
 
 272
 00:26:40,240 --> 00:26:46,230
@@ -1092,31 +1092,31 @@ Timur: I have some questions from our community. (Кай: Oh yeah, yeah. Great!)
 
 274
 00:26:56,190 --> 00:27:00,130
-Рейнгард: So mod support is actually something really important to us.
+Рейнгард: Підтримка модів насправді дуже важлива для нас.
 
 275
 00:27:00,130 --> 00:27:05,140
-Рейнгард: We understand there's a big community creating mods since many, many years.
+Рейнгард: Ми розуміємо, що існує велика спільнота, яка створює модифікації вже багато-багато років.
 
 276
 00:27:05,140 --> 00:27:14,080
-Рейнгард: In fact, around 20 years ago I used to create my own mods for gothic, but we have some limitation to fight with.
+Рейнгард: Насправді, близько 20 років тому я створював власні моди для ґотики, але у нас є певні обмеження, з якими доводиться боротися.
 
 277
 00:27:14,110 --> 00:27:18,220
-Рейнгард: We work with Unreal Engine and Unreal Engine is not the best engine for modding.
+Рейнгард: Ми працюємо з Unreal Engine, а Unreal Engine - не найкращий рушій для моддингу.
 
 278
 00:27:18,220 --> 00:27:25,100
-Рейнгард: But anyways, we found a pretty cool way where we can expose something like a scripting language to players
+Рейнгард: Але так чи інакше, ми знайшли досить крутий спосіб, за допомогою якого ми можемо надати гравцям щось на кшталт скриптової мови
 
 279
 00:27:25,100 --> 00:27:28,060
-Рейнгард: and they can just toy around with that.
+Рейнгард: і вони можуть просто гратися з цим.
 
 280
 00:27:28,080 --> 00:27:35,180
-Рейнгард: About the marvin mode: Yeah, I mean there are some sort of debug commands. We'll see.
+Рейнгард: Про режим марвіна: Так, я маю на увазі, що є якісь налагоджувальні команди. Подивимося.
 
 281
 00:27:35,180 --> 00:27:37,150
@@ -1216,35 +1216,35 @@ Timur: I have some questions from our community. (Кай: Oh yeah, yeah. Great!)
 
 305
 00:29:31,060 --> 00:29:43,280
-Тимур: "Наскільки планується розширити сюжет про чотирьох друзів Безіменного: Дієґо, Мільтена, Ґорна та Лестера? Наприклад, їхнє минуле, їхні власні побічні квести, більша залученість в історію?"" (надано Джасуном).
+Тимур: "Наскільки планується розширити сюжет про чотирьох друзів Безіменного: Дієґо, Мільтена, Ґорна та Лестера? Наприклад, їхнє минуле, їхні власні побічні квести, більша залученість в історію?"" (надано Джасуном)
 
 306
 00:29:43,280 --> 00:29:45,090
-Рейнгард: That's a really good question.
+Рейнгард: Це дійсно гарне запитання.
 
 307
 00:29:45,090 --> 00:29:51,070
-Рейнгард: So for us, the Four Friends is some of the lasting moments of the Gothic series, I think.
+Рейнгард: Гадаю, для нас "Чотири друзі" - це один із найяскравіших моментів у ґотичній серії.
 
 308
 00:29:51,070 --> 00:29:55,160
-Рейнгард: But in fact it didn't receive such a proper introduction.
+Рейнгард: Але насправді він не отримав такого належного представлення.
 
 309
 00:29:55,160 --> 00:29:59,060
-Рейнгард: So this is definitely something that we want to provide something better.
+Рейнгард:Тож це, безумовно, те, що ми хочемо запропонувати як найкраще.
 
 310
 00:29:59,060 --> 00:30:05,200
-Рейнгард: And a good moment where all four of them with the hero are together and having to solve something.
+Рейнгард: І гарний момент, коли вони всі четверо з героєм разом і мають щось вирішувати.
 
 311
 00:30:05,220 --> 00:30:12,200
-Рейнгард: And besides that, I mean, yes, there will be a more in-depth background stories for those four friends.
+Рейнгард: А крім того, я маю на увазі, що так, будуть більш глибокі історії цих чотирьох друзів.
 
 312
 00:30:12,220 --> 00:30:16,150
-Тимур: Дякую, Рейнгардк, і дякую, Джасун, за твоє запитання.
+Тимур: Дякую, Рейнгарде, і дякую, Джасуну, за твоє запитання.
 
 313
 00:30:16,150 --> 00:30:20,000
@@ -1252,19 +1252,19 @@ Timur: I have some questions from our community. (Кай: Oh yeah, yeah. Great!)
 
 314
 00:30:20,000 --> 00:30:27,290
-Тимур: ""Чи є у нас спосіб кастомізувати безіменного героя, наприклад, поголити голову або зробити татуювання, наприклад, після вступу до табору секти?"" (запитав Ксардош).
+Тимур: ""Чи є у нас спосіб кастомізувати безіменного героя, наприклад, поголити голову або зробити татуювання, після вступу до табору секти?"" (запитав Ксардош)
 
 315
 00:30:28,010 --> 00:30:33,050
-Кай: I think I can answer this one. (Timur: Xardosh, thank you for your question!) Yeah, thank you.
+Кай: Я думаю, що можу відповісти на це питання. (Тимур: Ксардош, дякую за запитання!) Так, дякую.
 
 316
 00:30:33,050 --> 00:30:36,270
-Кай: So this one is very easy to answer because it's a no.
+Кай: На це запитання дуже легко відповісти, бо це "ні".
 
 317
 00:30:36,270 --> 00:30:41,190
-Кай: There's no such thing as customization for the Nameless Hero planned.
+Кай: Кастомізація для Безіменного Героя не планується.
 
 318
 00:30:41,190 --> 00:30:44,030
@@ -1276,17 +1276,17 @@ Timur: I have some questions from our community. (Кай: Oh yeah, yeah. Great!)
 
 320
 00:30:47,000 --> 00:30:50,020
-Рейнгард: Okay, let's wrap it up. That's it.
+Рейнгард: Гаразд, давайте закруглятися. На цьому все.
 
 321
 00:30:50,020 --> 00:30:53,020
-Рейнгард: Thanks for joining us on this campfire chat.
+Рейнгард: Дякуємо, що приєдналися до нас в цей чат біля вогнища.
 
 322
 00:30:53,020 --> 00:31:01,220
-Рейнгард: We hope we gave you some additional insights into how we created the Nyras Prolog and the Old Camp trailer.
+Рейнгард: Сподіваємося, ми дали вам додаткову інформацію про те, як ми створювали пролог "Нірас" і трейлер "Старого табору".
 
 323
 00:31:01,240 --> 00:31:09,210
-Рейнгард: We look forward to have you on the next regular episode of the Gothic 1 Remake Podcast and bring you some more news about Gothic.
+Рейнгард: Ми будемо раді бачити вас на наступному випуску подкасту "Gothic 1 Remake Podcast" і розкажемо вам ще більше новин про Ґотику.
 
