@@ -1,0 +1,851 @@
+0
+00:00:27,14 --> 00:00:30,12
+Xardas: Kapitel 4.
+
+1
+00:00:30,15 --> 00:00:54,03
+Reinhard: Willkommen zum Gothic 1 Remake Podcast. Ich bin Reinhard Pollice, und für die Neulinge hier: Ich bin Gründer und Studioleiter von Alkimia Interactive. Und jetzt warte ich auf Kai Rosenkranz, unseren Komponisten. Ich bin im Schloss des Alten Lagers, und Kai sollte eigentlich jeden Moment hier sein. Während wir warten, möchte ich euch vielen Hörern da draußen gern danke sagen.
+
+2
+00:00:54,06 --> 00:01:06,24
+Reinhard: Wir genießen es, uns immer mal wieder die Zeit zu nehmen, abseits der Entwicklung mal durch die Kolonie zu schlendern und über das Gothic 1 Remake zu reden. Und das macht so viel mehr Spaß, wenn es euch auch Freude bereitet. Also: Danke, dass ihr dabei seid.
+
+3
+00:01:06,28 --> 00:01:09,29
+Kai: Puh, ich bin da. Sorry für die Verspätung.
+
+4
+00:01:10,01 --> 00:01:13,09
+Reinhard: Kein Ding, wir haben gerade angefangen.
+
+5
+00:01:13,11 --> 00:01:19,02
+Kai: Thorus hat mich nicht ins Schloss-Set gelassen. Ich musste ihn erst überzeugen, dass ich wirklich der Komponist des Remakes bin.
+
+6
+00:01:19,05 --> 00:01:22,09
+Reinhard: Oha. Und wie hast du das angestellt?
+
+7
+00:01:22,12 --> 00:01:28,09
+Kai: Sagen wir einfach, ich brauchte die 1.000 Erzbrocken eh nicht mehr. Jetzt muss ich sie nicht den ganzen Tag mitschleppen.
+
+8
+00:01:28,12 --> 00:01:37,10
+Reinhard: Ha! Er nimmt seinen Job wirklich sehr ernst. Dani, komm rüber. Er ist hier.
+
+9
+00:01:37,13 --> 00:01:38,26
+Dani: Hey Leute, wie läuft's?
+
+10
+00:01:38,29 --> 00:01:41,12
+Reinhard: Willkommen zum Podcast, Dani. (Kai: Hi.)
+
+11
+00:01:41,18 --> 00:01:44,01
+Dani: Hey, Kai. Hast du tatsächlich im Außenring übernachtet?
+
+12
+00:01:44,03 --> 00:01:47,28
+Kai: Ja, das war schon immer ein Traum, den ich mal verwirklichen wollte.
+
+13
+00:01:48,00 --> 00:01:50,28
+Dani: Aber... in welcher Hütte hast du geschlafen?
+
+14
+00:01:51,00 --> 00:01:56,00
+Kai: Ich weiß, es gab eine Hütte extra für mich an der Arena, aber Mud war irgendwie sehr beharrlich.
+
+15
+00:01:56,05 --> 00:02:02,27
+Reinhard: Ok, dann frage ich besser nicht, ob du genug Schlaf bekommen hast, oder ob er dich die ganze Nacht gelöchert hat.
+
+16
+00:02:03,00 --> 00:02:07,08
+Kai: Nein. Nicht wirklich, nein. Also, wurdest du schon vorgestellt?
+
+17
+00:02:07,10 --> 00:02:08,18
+Dani: Ich? Bisher noch nicht.
+
+18
+00:02:08,20 --> 00:02:14,23
+Reinhard: Richtig. Also, das ist Daniel Candil, unser Art Director. Danke, dass du bei dieser Episode dabei bist.
+
+19
+00:02:14,25 --> 00:02:16,07
+Dani: Mit Vergnügen.
+
+20
+00:02:16,09 --> 00:02:24,24
+Reinhard: Lasst uns zum Turm hochsteigen. Welchen besseren Ort könnte es geben, um über die Grafik des Spiels zu reden, als von da oben? Man kann dort alles überblicken.
+
+21
+00:02:24,27 --> 00:02:26,20
+Dani: Oh ja, das klingt gut.
+
+22
+00:02:30,00 --> 00:02:32,04
+Kai: Was macht ein Art Director eigentlich so?
+
+23
+00:02:32,06 --> 00:03:05,14
+Dani: Naja, gute Frage. Im Allgemeinen kann man sagen, dass der Art Director eines Spiels die treibende Kraft hinter der Ästhetik ist. Aber dazu kommt noch mehr. Unser Job ist es, eine ästhetische Vision zu erschaffen, in der alles zusammen passt. Ich arbeite zum Glück mit einem unglaublichen Team aus Artists zusammen, und ich bin verantwortlich dafür, die visuelle Ausrichtung des Spiels zu definieren und zu überwachen. Das bezieht sich auf alle Bereiche, von Charakteren über die Szenerien, Farben, sogar das Licht oder das User-Interface.
+
+24
+00:03:05,16 --> 00:03:29,19
+Dani: Alles fügt sich in einer einheitlichen Vision zusammen. (Kai: Mhm.) Man könnte denken, ich verbringe den Tag damit, coole 2D- oder 3D-grafiken zu bauen. Ja, und nein. Denn als Art Director muss ich die anderen Artists betreuen und unterstützen. Dazu gehört das Begutachten der Arbeiten, Feedback geben und die Konsistenz der Vision sicherzustellen. Und der wichtigste Teil...
+
+25
+00:03:29,21 --> 00:03:42,22
+Dani: Es muss mir gelingen, dieses Team aus herausragenden Artists mit verschiedensten Spezialisierungen zu motivieren und zu steuern. Ich könnte ewig darüber erzählen, denn - du weißt ja - Art ist meine Leidenschaft. Aber ich denke, das Wichtigste ist rübergekommen.
+
+26
+00:03:42,25 --> 00:03:45,02
+Kai: Ja, vollkommen. Danke.
+
+27
+00:03:45,04 --> 00:03:53,10
+Reinhard: Diese Episode wird ziemlich knifflig, da wir ja über etwas Visuelles reden müssen - in einem Podcast. Wie packen wir das an?
+
+28
+00:03:53,12 --> 00:03:59,12
+Dani: Naja, es ist ja schon einiges an visuellem Material verfügbar. Darüber können wir reden, und die Leute können es sich dazu anschauen.
+
+29
+00:03:59,18 --> 00:04:04,16
+Kai: Ja, das könnte klappen. Die Alte Miene wurde ja zum Beispiel vor Ewigkeiten schon in einem Teaser gezeigt.
+
+30
+00:04:04,22 --> 00:04:07,09
+Reinhard: Das Alte Lager kam auch schon in einem Trailer vor.
+
+31
+00:04:07,12 --> 00:04:09,03
+Dani: Das ist doch schon mal ein guter Ausgangspunkt.
+
+32
+00:04:09,05 --> 00:04:19,04
+Kai: Wir sind ja gerade im Alten Lager, genaugenommen im Schloss. Wir könnten das doch als Beispiel nutzen, um den Erschaffungsprozess der Charaktere und Rüstungen zu erläutern.
+
+33
+00:04:19,06 --> 00:04:38,25
+Dani: Alles klar. Also, alles beginnt mit einer vollständigen Analyse dessen, was es schon gibt. Ihr wisst ja, wir machen ein originalgetreues Remake. Wir müssen also erst mal die Entscheidungen verstehen, die damals getroffen wurden. Dann können wir einschätzen, ob diese heute noch funktionieren. Wir modernisieren, was eine Modernisierung braucht. Alles andere bleibt im Kern erhalten.
+
+34
+00:04:39,00 --> 00:04:59,26
+Dani: Was ich damit sagen will: Du siehst einen Schatten und erkennst ihn als Schatten. Wenn wir mit dieser Analyse fertig sind, bereiten Artists Konzeptzeichnungen vor und sammelt Informationen. Wenn das abgeschlossen ist, bauen wir die hochdetaillierten Modelle. Aus diesen backen wir dann die vereinfachten Ingame-Modelle und texturieren sie. Wie gesagt: Wir wollen bei den Rüstungen einen wirklich hohen Detailgrad erreichen.
+
+35
+00:04:59,29 --> 00:05:07,00
+Dani: Nach dem ganzen Prozess fügen wir die Teile in die Engine ein, polieren sie auf und finalisieren den Look.
+
+36
+00:05:07,02 --> 00:05:12,12
+Kai: Mit großem Erfolg. Sie sehen im Spiel fantastisch aus.
+
+37
+00:05:12,14 --> 00:05:16,08
+Reinhard: Da sind wir, auf der Plattform des Turms im Alten Lager.
+
+38
+00:05:16,10 --> 00:05:20,20
+Kai: Wahnsinn, schaut euch das an. Was für eine Aussicht.
+
+39
+00:05:20,22 --> 00:05:25,07
+Dani: Ja, ziemlich nice. Beachtet die fehlenden Landschaftsteile da drüben einfach nicht.
+
+40
+00:05:25,09 --> 00:05:27,12
+Kai: (lacht) Klar.
+
+41
+00:05:27,14 --> 00:05:33,20
+Reinhard: Ähm, wie viele Leute arbeiten aktuell eigentlich im Art Department hier bei Alkimia? Und was für Rollen sind vertreten?
+
+42
+00:05:33,22 --> 00:06:00,00
+Dani: Oh Mann, wir sind wirklich viele Leute. Ich würde sagen, mehr als 30 Personen würde ich zum in-house Art-Team zählen. Gleichzeitig arbeiten wir mit verschiedenen externen Outsourcing-Studios zusammen. Die Gesamtzahl der Artists ist also ziemlich hoch. Was die Rollen angeht: Wir haben 2D- und 3D-Artists, Spezialisten für Charaktere, Landschaften, Kunst, Technologie, Beleuchtung, Spezialeffekte, Animation und Filmsequenzen.
+
+43
+00:06:00,20 --> 00:06:06,01
+Dani: Und zu guter Letzt: Jeden Tag retten unsere zwei fantastischen Art-Koordinatoren mir das Leben.
+
+44
+00:06:06,03 --> 00:06:17,20
+Kai: Ja, das kann ich mir vorstellen, dass es eine große Hilfe ist, wenn dir ein Teil des Koordinationsaufwands abgenommen wird. (Dani: Ja.) Übrigens, von hier oben kann man fast die komplette magische Barriere sehen.
+
+45
+00:06:17,22 --> 00:06:23,21
+Dani: Ah, die Barriere, Mann. Sie ist immer da, umgibt uns wie ein lebendiges, atmendes Wesen. (Kai: Stimmt.) Und erinnert uns daran, dass wir gefangen sind.
+
+46
+00:06:23,23 --> 00:06:26,04
+Kai: Ja, das auch!
+
+47
+00:06:26,06 --> 00:06:33,19
+Reinhard: Also, Dani, auf welches Stück Art für das Gothic 1 Remake bist du bisher am stolzesten?
+
+48
+00:06:33,21 --> 00:06:47,16
+Dani: Naja, alle fertigen Stücke haben einen festen Platz in meinem Herzen. Aber ich kann es kaum erwarten, das Neue Lager zu enthüllen. Die Reisfelder... die liebe ich. Ich habe auch ein ziemlich gutes Gefühl beim Turm von Xardas. Ihr werdet sehen.
+
+49
+00:06:47,19 --> 00:07:01,10
+Kai: Ja! Ich denke, ich weiß genau was du meinst. Ich war erst vor Kurzem in beiden von Xardas Türmen, um Soundeffekte zu plazieren. Und ... yeah! Yeah yeah yeah! Was hat sich denn bisher als die größte Herausforderung herausgestellt?
+
+50
+00:07:01,13 --> 00:07:18,14
+Dani: Auf jeden Fall die Charaktere! Wir gehen hier über unsere Grenzen. Wir werden tausende Charaktere haben, die alle eigenständig aussehen sollen. Stell' dir die Arbeit dahinter nur mal vor. Zum Glück hilft uns unsere Schwesterfirma Gate 21, und ich bin überzeugt, dass wir es gemeinsam schaffen werden. (Kai: Yeah!)
+
+51
+00:07:18,18 --> 00:07:32,11
+Reinhard: Danke, sehr spannend. Ihr wisst ja noch: Als erstes haben wir den Leuten den Playable Teaser gezeigt. Danach haben wir noch mal neu begonnen, mit einer dunkleren Grundstimmung.
+
+52
+00:07:32,13 --> 00:07:33,20
+Dani: Ja, komplett neu.
+
+53
+00:07:33,22 --> 00:07:37,18
+Reinhard: Wie lief das ab, und wie würdest du den neuen Style beschreiben?
+
+54
+00:07:37,20 --> 00:07:57,21
+Dani: Also, beim PT - also beim Playable Teaser - haben wir noch eine andere Richtung ausprobiert. Es wurde zwar schon mal erzählt, aber wir wollten die Grenzen ausloten und herausfinden, wie weit wir gehen können. Mehr in Richtung eines unabhängigen Remakes? Also einer kompletten Neuinterpretation der Geschichte in einem modernen und farbenfroheren Gewand?
+
+55
+00:07:57,24 --> 00:08:22,18
+Dani: Oder sollten wir lieber tiefer in die düstere, rauhe Dunkelheit des Originals absteigen, mit seiner stimmungsvollen Atmosphäre, die Gothic so besonders gemacht hat? Nun, jetzt kennen wir die Antwort. Die Community war da sehr deutlich und hat uns auf den rechten Weg gebracht. Diesmal wird es also düsterer, und deutlich geerdeter in der schroffen Realität von Gothic. Ich würde es jetzt nicht depressiv nennen, aber definitiv nicht so knallig und heiter wie der Playable Teaser.
+
+56
+00:08:22,21 --> 00:08:36,00
+Dani: Wir möchten das Gefühl des Originals weiterentwickeln. Ihr habt es ja in den Trailern gesehen: Wir folgen dem Pfad, aber wir müssen auch noch mehr Arbeit investieren, bis es perfekt ist. Das Feedback der Fans ernst zu nehmen ist dabei in zentraler Bestandteil, und glaubt mir - das tun wir.
+
+57
+00:08:36,02 --> 00:08:37,00
+Kai: Oh ja!
+
+58
+00:08:37,02 --> 00:08:50,40
+Dani: Und was den Style angeht: Ich würde sagen wir verfolgen eine Art "angereicherte Realität". Etwas, das dank der hohen Detailfrequenz glaubwürdig und realistisch wirkt, aber trotzdem nicht real wirkt. Es fühlt sich aber real an.
+
+59
+00:08:50,50 --> 00:08:56,14
+Kai: Angereicherte Realität! Okay, das muss ich in mein Vokabelheft schreiben. Habt ihr eine "Art Bible"?
+
+60
+00:08:56,16 --> 00:08:57,16
+Dani: Natürlich haben wir eine.
+
+61
+00:08:57,19 --> 00:09:00,11
+Kai: Ok. Was versteht man darunter? Und was deckt sie ab?
+
+62
+00:09:00,13 --> 00:09:18,26
+Dani: Lass es mich so sagen: Wir haben eine Art Bible, und darin klären wir die Nutzung von Farben, Formen, Dekorierungsprinzipien, visuelle Strategien bei der Erschaffung von Szenerien, Materialien, und so weiter. Ein komplexes Dokument. Aber das Gute ist: Es ist ein lebendes, ständig erweitertes Dokument. Es wächst mit dem Spiel.
+
+63
+00:09:18,28 --> 00:09:26,03
+Kai: Das ist super interessant! Kannst du uns mal ein Beispiel von etwas geben, das in der Art Bible steht und sich im Spiel wiederspiegelt?
+
+64
+00:09:26,05 --> 00:09:47,29
+Dani: Klar. Zum Beispiel sind in der Art Bible Strategien zur Farbgebung und sogar Plazierung von Dekorationsobjekten definiert. Darüber ereichen wir, dass die Umgebungen sich größer anfühlen als sie wirklich sind. Natürlich haben wir das nicht erfunden. Das gibt es schon seit John Hench es in den 60ern für Freizeitparks in "The Art of the Show" beschrieben hat.
+
+65
+00:09:48,01 --> 00:09:56,08
+Dani: Es ist also eine getestete Methode, die auch in der echten Welt funktioniert. Ihr könnt es euch im Disneyland anschauen, und wir verwenden es auch.
+
+66
+00:09:56,11 --> 00:09:58,22
+Kai: Sehr interessant. Danke für das Beispiel.
+
+67
+00:09:58,24 --> 00:10:07,15
+Dani: Da fällt mir ein: Was geht dir durch den Kopf, wenn du dich umschaust? Fällt dir irgendetwas auf, was du interessant findest?
+
+68
+00:10:07,17 --> 00:10:16,06
+Kai: Hmmm... es sieht hübsch aus. (Dani: Danke, Mann. Was noch?) Es ist alles sehr vielseitig und sozusagen variantenreich.
+
+69
+00:10:16,11 --> 00:10:19,17
+Dani: Ja, ganz genau. Man kann die verschiedenen Biome klar erkennen.
+
+70
+00:10:19,19 --> 00:10:21,17
+Reinhard: Ja, absolut.
+
+71
+00:10:21,19 --> 00:10:25,20
+Dani: Oh, die Biome. So hübsch anzusehen, aber eine ganz schöne Herausforderung.
+
+72
+00:10:25,27 --> 00:10:38,20
+Kai: Sind es denn noch die gleichen Biome wie im OG? Also die gleichen Abstufungen von Braun-Grau, aber in verschiedenen Landschaftstypen? Oder hat sich auch der Look und Vibe der Biome geändert?
+
+73
+00:10:38,22 --> 00:10:58,30
+Dani: Die Biome sind die gleichen wie im Original. Und selbstverständlich möchten wir die Unterschiede noch hervorheben, damit der Spieler sich in andere Welten versetzt fühlt - so richtig eingetaucht in eine andere Welt. Dabei müssen die Biome natürlich trotzdem zusammen passen. Letztendlich ist das Minental ja - nun - relativ klein.
+
+74
+00:10:58,30 --> 00:11:03,19
+Dani: Aber es ist ja eh alles innerhalb der magischen Barriere. Ist es also vielleicht die Magie, die die Biome beeinflusst? Man wird sehen.
+
+75
+00:11:03,21 --> 00:11:10,13
+Kai: Oh, seht mal. Es fängt an zu regnen. Das Wettersystem ist also schon am Start.
+
+76
+00:11:10,15 --> 00:11:23,29
+Dani: Natürlich gibt's das schon. Es wäre ja kein Gothic ohne plötzlich ausbrechende Regenschauer. Hey, ihr könnt sehen, wie sich die Buddler in ihre Hütten verkriechen oder unterstellen. Das Wettersystem ist drin und ich erwarte in den nächsten Monaten noch Verbesserungen.
+
+77
+00:11:24,01 --> 00:11:46,03
+Reinhard: Und das Beste: Im Remake reagieren alle Tagesabläufe auf das Wettersystem. Schaut mal, wie sich alle einen Unterstand suchen und über das Wetter motzen. Doch nun zu etwas, das wir von hier oben nicht sehen können: Wir haben ja alle die Alte Mine im Teaser-Trailer gesehen, und den Leuten hat gefallen, wie akurat wir die Mine nachgebaut haben. Was sind denn die Dinge, die wir an der Mine geändert haben, und warum?
+
+78
+00:11:46,06 --> 00:11:52,06
+Dani: Vielleicht sollten wir besser in die Alte Mine gehen und da weiter reden. Es regnet ja eh, da ist es drinnen angenehmer.
+
+79
+00:11:52,08 --> 00:11:54,10
+Kai: Aber... bis zur Mine ist es ein weiter Weg. Durch den Regen!
+
+80
+00:11:54,18 --> 00:11:56,29
+Dani: Ja, aber ich bin vorbereitet.
+
+81
+00:11:58,04 --> 00:11:58,23
+Dani: Das sollte helfen.
+
+82
+00:11:58,27 --> 00:12:09,03
+Kai: Whoa whoa whoa whoa! Ich habe noch nie eine Teleport-Rune verwendet. Ich denke nicht, dass wir... (Reinhard: DANI - WARTE!)
+
+83
+00:12:09,05 --> 00:12:10,40
+Kai: Was zum T...
+
+84
+00:12:10,40 --> 00:12:18,10
+Reinhard: Pssst! Dani, wohin genau hat uns die Rune teleportiert?
+
+85
+00:12:17,00 --> 00:12:19,65
+Dani: Normalerweise zum letzten Ort, an dem ...
+
+86
+00:12:19,65 --> 00:12:21,80
+Kai: Dani, sprich leise!
+
+87
+00:12:21,27 --> 00:12:23,19
+Dani: Mann, ist das dunkel!
+
+88
+00:12:23,21 --> 00:12:25,15
+Reinhard: Das ist der Bau der Minecrawler-Königin!
+
+89
+00:12:25,21 --> 00:12:26,12
+Kai: Ach nö.
+
+90
+00:12:26,13 --> 00:12:30,18
+Dani: Verdammter Mist, du hast recht. Seid leise!
+
+91
+00:12:30,20 --> 00:12:33,06
+Kai: Oh Mann! (Reinhard: Pssst.)
+
+92
+00:12:37,09 --> 00:12:46,23
+Kai: Nein nein nein nein! Javi, beeil' dich. Wir haben einen Notfall! Schick' die Templer in die Minecrawlertunnel, JETZT! (Javi: Oh, ok. Mache ich!)
+
+93
+00:12:46,25 --> 00:13:03,03
+Dani: Flieht, ihr Narren!
+
+94
+00:13:03,05 --> 00:13:06,10
+Kai: Heilige Molerat. Das war VIEL zu knapp.
+
+95
+00:13:06,12 --> 00:13:07,00
+Reinhard: Sowasvon!
+
+96
+00:13:07,01 --> 00:13:12,10
+Dani: Sorry, Leute. Beim letzten Mal hat mich die Rune noch zur oberen Ebene gebracht. Das war erst gestern.
+
+97
+00:13:12,20 --> 00:13:18,20
+Kai: Hmm. Aber warum sollte jemand vom Team letzte Nacht noch mal im Minecrawlerbereich gewesen sein? Der Teil ist doch längst fertig.
+
+98
+00:13:18,27 --> 00:13:19,17
+Dani: Keine Ahnung.
+
+99
+00:13:19,19 --> 00:13:21,18
+Reinhard: Geh' und frag' Alberto. Wir brauchen Antworten!
+
+100
+00:13:21,23 --> 00:13:23,19
+Dani: Vielleicht weiß Elena auch was.
+
+101
+00:13:23,20 --> 00:13:24,06
+Reinhard: Ja!
+
+102
+00:13:24,07 --> 00:13:27,20
+Kai: Leute, wir sind gerade in der Mitte einer Podcast-Aufnahme. Wisst ihr noch?
+
+103
+00:13:27,21 --> 00:13:28,09
+Reinhard: Oh, ja.
+
+104
+00:13:28,09 --> 00:13:29,04
+Dani: Stimmt ja.
+
+105
+00:13:29,04 --> 00:13:29,26
+Reinhard: Richtig!
+
+106
+00:13:29,27 --> 00:13:34,05
+Dani: Sekunde mal. Hier, Fackeln für euch zwei.
+
+107
+00:13:34,08 --> 00:13:36,21
+Kai: Ah, super. Danke. (Reinhard: Sehr nützlich, danke.)
+
+108
+00:13:36,23 --> 00:13:40,12
+Kai: Schau dir diese bewegten Echtzeitschatten an. Die Dynamische Beleuchtung zeigt sich in ihrem besten Licht.
+
+109
+00:13:40,18 --> 00:13:42,08
+Dani: Ja, das sieht ziemlich cool aus, oder?
+
+110
+00:13:42,12 --> 00:13:47,12
+Kai: Oh ja. Kannst du uns ein bisschen über eure Beleuchtungskonzepte und die Features der Unreal Engine erzählen?
+
+111
+00:13:47,18 --> 00:14:08,04
+Dani: Na klar. Wir sind vor Monaten auf die Unreal Engine 5 umgezogen. Es war uns zwar bewusst, dass das riskant ist. Uns hat aber das Gefühl angetrieben, dass die Fans etwas wirklich Herausragendes verdienen. Dank der neuen Technologie können wir mehr Details anzeigen. Außerdem verfügen wir nun über den Heiligen Gral der Licht- und Rendertechnik: Global Illumination in Echtzeit dank "Lumen".
+
+112
+00:14:08,11 --> 00:14:36,00
+Dani: Vor drei Jahren hätte sich das noch wie ein Fiebertraum angehört, aber jetzt haben wir es - und kosten es richtig aus. Ich würde unser Lichtkonzept als "Spiel mit der Dunkelheit" bezeichnen. Wir gehen dabei voll Barock. Die finsteren Abschnitte sind so richtig stockdunkel und die Nacht fühlt sich gefährlich an. Schaut euch für die Innenräume Caravaggio oder Velasquez an, und Claude Lorrain mit den dunklen Szenerien und orangenem Himmel für die Außenwelt. Die vermitteln einen guten Eindruck.
+
+113
+00:14:36,02 --> 00:14:42,23
+Dani: Für die Zuhörer: Schaut euch diese Meister der Malerei in der Google Bildersuche an, und ihr werdet sehen.
+
+114
+00:14:42,26 --> 00:14:50,05
+Reinhard: Wir benutzen für den Levelbau ja ein modulares Konzept, richtig? Was heißt das genau, und wie kommt das in der Alten Mine zum Einsatz?
+
+115
+00:14:50,07 --> 00:15:11,23
+Dani: Unterschätze niemals die Kraft einer einzelnen Holzplanke! Fast alles was wir bauen wird kreuz und quer in der Welt benutzt, gedreht und skaliert. Moderne Grafikengines verlangen von dir, smart und modular zu denken. Für die Alte Mine haben wir gerade mal sieben Felsen und zehn Holtstrukturen gebaut.
+
+116
+00:15:11,25 --> 00:15:20,00
+Dani: Ihr könnt euch ja vorstellen, wie viel Speicherbedarf und Texturen wir dadurch sparen. Gib uns drei verschiedene Holzbalken, und wir bauen dir eine Welt daraus!
+
+117
+00:15:20,03 --> 00:15:22,06
+Kai: Großartig. (Reinhard: Männer, wir müssen hier hoch!)
+
+118
+00:15:22,12 --> 00:15:23,21
+Dani: Ja, mir nach!
+
+119
+00:15:23,23 --> 00:15:26,09
+Kai: Moment. Kann man die Leitern unfallfrei benutzen?
+
+120
+00:15:26,12 --> 00:15:28,22
+Reinhard: Kai, wir haben nicht mehr 2001.
+
+121
+00:15:28,24 --> 00:15:29,80
+Kai: Hm, okay.
+
+122
+00:15:33,15 --> 00:15:36,00
+Kai: Das klappt ja wie am Schnürchen. Toll!
+
+123
+00:15:36,02 --> 00:15:46,04
+Reinhard: Sag' ich doch. Unser Programmierteam, ganz besonders Andre (Taulien), hat schon jetzt etliche Stunden investiert, damit die Leitern nicht so ein Reinfall werden wie in 2001.
+
+124
+00:15:46,05 --> 00:15:54,00
+Kai: Okay. Neulich im Alten Lager hat Javi doch so ein Kletterfeature erwähnt. Können wir das später auch hier in der Mine anwenden?
+
+125
+00:15:54,07 --> 00:16:01,27
+Reinhard: Nicht so wirklich in der Alten Mine, aber es gibt draußen einige Gebirgsabschnitte, wo echtes Klettern eine neue Form der Bewegung wird.
+
+126
+00:16:01,29 --> 00:16:11,03
+Kai: Jetzt, wo ich sie das hier aus der Nähe sehe: Der Nachbau der Alten Mine ist echt ziemlich perfekt. Sehr originalgetreu, aber an den richtigen Stellen sehr überzeugend verbessert.
+
+127
+00:16:11,06 --> 00:16:11,27
+Dani: Dankeschön!
+
+128
+00:16:12,00 --> 00:16:18,70
+Kai: Wirklich, gefällt mir. Wie lief denn die Gestaltung der Alten Mine ab? Wie habt ihr entschieden, was behalten und was erweitert werden soll?
+
+129
+00:16:18,70 --> 00:16:42,14
+Dani: Es beginnt immer mit "Blockouts" des Designteams. Wir setzen uns dann alle zusammen, damit wir eine einheitliche Vision teilen. Die Designer bauen diese Blockouts, dann stellen wir Task Forces aus Artists zusammen, um an bestimmten Regionen zu arbeiten. Die suchen dann Referenzmaterial und bauen die ersten Vorstufen. Wir beginnen mit dem sogenannten "Natur-Layer", der Dinge wie Felsen enthält.
+
+130
+00:16:42,14 --> 00:17:06,25
+Dani: Wenn das abgesegnet ist, geht's mit dem "Struktur-Layer" weiter. Darin sind alle von Menschenhand erschaffenen Konstruktionen enthalten. (Kai: Mhm.) Beim Erschaffen dieser Gegenden ist es wirklich wichtig, die besonderen Merkmale und "Hingucker" des Originals zu verstehen. Wald Disney hat die mal die "Winnies" der Freizeitparks genannt. Man kann sie sich einfach als Orientierungspunkte vorstellen, an die man sich erinnern kann.
+
+131
+00:17:07,00 --> 00:17:22,04
+Dani: Ich meine, du kennst ja vermutlich nicht mehr jede Position der verworrenen Holzpfade, die die Alte Mine herabführen. Aber an den Ofen am Ende erinnert sich jeder... (Kai: Ja!) ... und an den Orksklaven ... (Kai: Jaa!) Diese Dinge sollten im Design verwirklicht sein.
+
+132
+00:17:22,06 --> 00:17:24,29
+Kai: Kapiert. Und wie viele Leute waren am Bau der Alten Mine beteiligt?
+
+133
+00:17:24,29 --> 00:17:36,02
+Dani: Soweit ich mich erinnere bestand die Task Force aus 6 Artists und hat sich um alles gekümmert, vom Aufbau der Umgebung bis hin zu einzelnen Partikel- und Soundeffekten.
+
+134
+00:17:36,08 --> 00:17:40,04
+Kai: Alles klar. Danke für den EINBLICK. Genießen wir nun den AUSBLICK.
+
+135
+00:17:40,10 --> 00:17:43,18
+Reinhard: Wow, Kai.
+
+136
+00:17:43,20 --> 00:17:45,09
+Kai: (Atmet ein)... Aaah, frische Luft.
+
+137
+00:17:45,09 --> 00:17:48,10
+Reinhard: Ja. Ich schlage vor, wir laufen zurück zum Alten Lager.
+
+138
+00:17:48,12 --> 00:17:55,22
+Dani: Ja, lass uns zu Fuß gehen. Ich gehe ein Stück voran, dann muss ich aber woanders hin. Ich habe noch Dinge im Neuen Lager zu tun.
+
+139
+00:17:55,24 --> 00:17:58,23
+Kai: Spannend. Ist das Lager schon fertig?
+
+140
+00:17:58,25 --> 00:18:10,06
+Dani: Ich kann es wirklich kaum erwarten, es euch zu zeigen. Aber um die Frage zu beantworten: Ja, es ist fertig. Ein paar Beleuchtungskünstler tüfteln vielleicht noch daran rum, aber für mich ist es fertig.
+
+141
+00:18:10,13 --> 00:18:12,15
+Reinhard: Kai, wenn du magst, kannst du auch mit Dani gehen.
+
+142
+00:18:12,16 --> 00:18:13,20
+Kai: JA! Okay.
+
+143
+00:18:13,21 --> 00:18:16,14
+Reinhard: Ich muss zurück zum Alten Lager und diesen Brief abgeben.
+
+144
+00:18:16,19 --> 00:18:18,06
+Kai: Ach ja. Der Brief!
+
+145
+00:18:18,13 --> 00:18:21,12
+Reinhard: Genau, aber ich kann dich dann heute Nachmittag im Neuen Lager abholen.
+
+146
+00:18:21,15 --> 00:18:29,24
+Kai: Ok, klingt gut. Obwohl ich wirklich sehr neugierig bin, für wen der Brief ist. Du machst ja ein riesen Geheimnis daraus.
+
+147
+00:18:29,26 --> 00:18:36,16
+Reinhard: Naja, da stehen auch wichtige Neuigkeiten drin. Aber die Person soll sie als erstes erfahren, bevor sie die Runde machen.
+
+148
+00:18:36,18 --> 00:18:38,17
+Dani: Interessant.
+
+149
+00:18:38,20 --> 00:18:40,07
+Kai: Ja, total.
+
+150
+00:18:40,09 --> 00:18:47,08
+Reinhard: Wisst ihr was? Ich begleite euch noch zum Neuen Lager, dann können wir danach zusammen zum Empfänger im Alten Lager gehen.
+
+151
+00:18:47,11 --> 00:18:55,02
+Kai: YES! Perfekt. Danke dir. Ich schreibe Timur eine Nachricht. Ich glaube, er ist im Neuen Lager und kann uns dort mit den Community-Fragen empfangen.
+
+152
+00:18:55,07 --> 00:18:56,07
+Dani: Alles klar, danke.
+
+153
+00:18:56,10 --> 00:19:13,01
+Kai: So, Dani. Beim Betrachten dieser malerischen Gegenden frage ich mich: Wie packt ihr das Thema Welt-Design an? Wie realistisch soll alles sein, im Gegensatz zu stilisiert und künstlerisch? Ich weiß, du hast schon ausführlich über die Art Bible gesprochen, aber ich meine jetzt eher die ästhetischen Einflüsse und Inspirationen.
+
+154
+00:19:13,04 --> 00:19:32,10
+Dani: Das ist eine gute Frage, Kai. Darüber haben Elena - meine rechte Hand hier im Team - und ich wirklich ausführlich debattiert. Wo liegen die Grenzen des Realismus? Fällt dieses bestimmte Asset eher in den stilisierten Bereich? Darüber müssen wir uns ständig im Klaren sein. Wie schon gesagt verwurzeln wir alles...
+
+155
+00:19:32,11 --> 00:19:51,25
+Dani: ... in diesem sogenannten angereicherten Realismus. Diese Entscheidung ermöglicht es uns, bei Formen, Materialien, Licht und Farben sehr realitätsnah zu arbeiten, aber gleichzeitig auch Raum für Stilisierung zu lassen. Zum Beispiel, wenn es um Magie, Götter und den ganzen Fantasy-Content geht.
+
+156
+00:19:51,27 --> 00:19:52,20
+Kai: M-hm, macht Sinn.
+
+157
+00:19:52,23 --> 00:20:14,24
+Dani: Ich würde sagen, es muss glaubwürdig sein. (Kai: Genau.) Wir bewegen uns immer innerhalb der Grenzen dessen, was noch Gothic ist. Aber es darf auch nicht zu realistisch sein. Wir fragen uns also nie, ob etwas authentisch ins Europa des 12. Jahrhunderts passt. Und was die Referenzen angeht: Darüber könnte ich stundenlang quatschen, aber beschränken wir uns mal auf die Maler des Barock. (Kai: Klar.)
+
+158
+00:20:14,26 --> 00:20:41,17
+Dani: Den Umgang mit Licht, dramatischem Effekt, Bildkomposition, das Spiel mit Licht und Schatten, das alles haben sie so wunderbar verstanden. Ich denke, Caravaggio und Velazquez sind gute Beispiele dafür. Ihre Bilder fühlen sich echt an, sie sind jedoch dramatisch inszeniert und überzogen. Nicht realistisch, aber glaubwürdig. Für Künstler wie Claude Lorrain mit seinen Landschaften gilt das gleiche. Du solltest mich hier lieber bremsen, Kai, sonst rede ich ewig weiter darüber, was wir alles von ihnen lernen können.
+
+159
+00:20:41,18 --> 00:20:47,24
+Kai: Ja, den Eindruck habe ich auch. Das könnte fast ein eigener Ableger des Podcasts sein.
+
+160
+00:20:47,27 --> 00:20:50,08
+Dani: Da vorne hinter der Ecke kann man schon das Neue Lager sehen.
+
+161
+00:20:50,14 --> 00:20:57,10
+Kai: Ja! Ich kann's kaum erwarten, es zu sehen. Aber bevor wir ankommen und du mit anderen Dingen beschäftigt bist, habe ich noch ein paar Fragen zu Charakteren und Animationen.
+
+162
+00:20:57,17 --> 00:21:02,27
+Dani: Alles klar. Gerard ist der bessere Ansprechpartner für Animationen, aber ich tue was ich kann.
+
+163
+00:21:03,00 --> 00:21:23,26
+Kai: Danke. Zunächst mal zu Charakteren: Das Original hatte einen etwas cartoonigen Charakterstil. Knallige Farben, übertriebene Gesichtsformen, klare Silhouetten, und sowas. Wie plant ihr das für das Remake? Die Charaktere, die ich bisher gesehen habe, sind klar erkennbar und super real. Man kann erkennen, was sie sind und welchem Lager sie angehören. Es sieht aber auch alles etwas zurückhaltender aus.
+
+164
+00:21:24,03 --> 00:21:47,30
+Dani: Natürlich wird man die Charaktere erkennen, da gibt es keinen Grund zur Sorge. Wir halten das Originaldesign so gut es geht in Ehren. Ein Guru wird aussehen wie ein Guru, und ein Schatten wie ein Schatten. Die Herausforderung besteht darin, Charaktere auf neue Weise so zu gestalten, dass sie im Gedächtnis bleiben und dem Original gerecht werden. Gleichzeitig sollen sie aber auch neue, unverbrauchte Versionen von sich selbst sein. Ich bin sehr zufrieden mit der Arbeit des Teams. Wartet ab!
+
+165
+00:21:47,30 --> 00:21:48,40
+Kai: Hm, okay.
+
+166
+00:21:48,40 --> 00:21:54,21
+Reinhard: Dani, du hast ja den modularen Ansatz für die Locations beschrieben. Wie funktioniert dieser gleiche Ansatz bei Charakteren?
+
+167
+00:21:54,27 --> 00:22:20,02
+Dani: Nun, das ist ein ziemlich komplexes Thema. Du kannst dir ja vorstellen, 600 Charaktere auszustatten ist nicht gerade einfach. (Kai: Nein.) Aber wir verwenden "Mutable", eine Technologie für modulare Charaktere, Kleidung und Rüstungsteile. Das war ein harter Kampf. Aber zum Glück kommt jetzt alles zusammen. 600 verschiedene Gesichter, viele verschiedene Frisuren, Bärte, und tausende kleiner Klamotten- und Rüstungsteile.
+
+168
+00:22:20,04 --> 00:22:24,24
+Dani: Jetzt sehen wir das Licht am Ende des Tunnels. Aber der wilde Ritt hat auch Spaß gemacht.
+
+169
+00:22:24,27 --> 00:22:31,27
+Kai: Das freut mich, zu hören. Die Reisfelder, genau wie ich sie in Erinnerung haben. Aber was ist das? Das ist neu!
+
+170
+00:22:32,00 --> 00:22:34,13
+Reinhard: Pssst. Darüber reden wir noch nicht.
+
+171
+00:22:34,14 --> 00:22:40,00
+Kai: Alles klar. Aber... wow, ist das des Reislords... (Dani: Oh, ja!) Wow, interessant. Warum habt ihr...
+
+172
+00:22:40,00 --> 00:22:43,18
+Reinhard: Kai, shht! Das ist noch nicht zur Veröffentlichung freigegeben.
+
+173
+00:22:43,23 --> 00:22:56,12
+Kai: Okay, okay! Kurze Frage zu Gesichtern: Wie macht ihr so viele verschiedene Gesichter, die dann auch noch so gut aussehen? Ich weiß, das kam in der letzten Episode schon kurz vor, aber vielleicht kannst du ja noch was ergänzen.
+
+174
+00:22:56,18 --> 00:23:17,21
+Dani: Ja, glücklicherweise kämpfen wir diesen Kampf nicht allein. Die tollen Typen von Gate 21 stehen uns zur Seite. Das ist eine Schwesterfirma, die sich auf Gesichter spezialisiert hat. Mit denen haben wir gemeinsam an den Charakteren gearbeitet. Sie haben in spezielles Tool entwickelt, mit denen wir duzende Gesichter erschaffen, vermischen und manuell bearbeiten können.
+
+175
+00:23:17,23 --> 00:23:25,12
+Dani: Aber diese Technologie verwenden wir natürlich nicht für alle Gesichter. Mehr als 100 davon sind komplett handgemacht bis zum letzten Detail.
+
+176
+00:23:25,12 --> 00:23:26,25
+Kai: Wow! 100, total verrückt!
+
+177
+00:23:26,26 --> 00:23:44,27
+Dani: Stell' dir das als zwei Kategorien von Charakteren vor: Kategorie A und B. In Kategorie A befinden sich die wichtigsten Charaktere. Diese sind alle von Hand gestaltet und für die Animation vorbereitet. Alle anderen Charaktere sind in Kategorie B und werden mithilfe der großartigen Technologie umgesetzt.
+
+178
+00:23:45,00 --> 00:24:03,21
+Kai: Ok, das ergibt Sinn. Nun zu den Animationen. Ich frage später noch Gerard, aber du kannst uns ja schon mal den allgemeinen Prozess für die Bewegung von Kreaturen und Menschen erläutern. Animiert ihr von Hand? Oder nutzt ihr Motion- oder Performance-Capture? Berechnete Animationen? Oder schicken K.I.-Kram?
+
+179
+00:24:03,24 --> 00:24:26,30
+Dani: Stimmt, Gerard kann das besser beantworten. Ich kann nur sagen, wir verwenden all diese Dinge. (Kai: Aha.) Handgemachte Keyframe-Animationen? Check. Berechnet? Check. Motion Capture? Check. Du solltest mal sehen, was im Studio abgeht, wenn die Schauspieler rumschreien und kämpfen. Wenn dann ein Amazon-Bote reinkommt und von einem bewaffneten Schwertkämpfer empfangen wird, kann's schon mal verrückt werden.
+
+180
+00:24:26,30 --> 00:24:39,11
+Dani: Und K.I.-gesteuerte Animationen? Haben wir auch. Es ist ein komplizierter Prozess, da wir tausende Lebewesen und Charaktere haben, die sich durch komplizierte Umgebungen bewegen und mit ihnen interagieren. Aber am Ende heißt es... "Alles wird gut"!
+
+181
+00:24:39,13 --> 00:24:41,20
+Kai: Ha, das Gothic 2 Zitat habe ich erkannt!
+
+182
+00:24:41,22 --> 00:24:44,05
+Reinhard: So, da sind wir. Im Neuen Lager.
+
+183
+00:24:44,06 --> 00:24:53,25
+Kai: Oh ja, wunderschön. Es bedeutet mir verdammt viel, diese Orte so gestaltet zu sehen. Wiedererkennbar, aber auch sinnvoll erweitert.
+
+184
+00:24:53,28 --> 00:24:56,02
+Dani: Vielen Dank. Ich bin froh, dass es dir gefällt.
+
+185
+00:24:56,04 --> 00:24:57,00
+Kai: Ich steh' drauf!
+
+186
+00:24:57,07 --> 00:25:01,27
+Dani: Anscheinend hast du auch schon neue Musik geschrieben, oder? Ich höre sie im Hintergrund.
+
+187
+00:25:02,03 --> 00:25:02,14
+Kai: Genau.
+
+188
+00:25:02,18 --> 00:25:05,06
+Reinhard: Sollen wir diese Episode wieder mit Musik abschließen?
+
+189
+00:25:05,09 --> 00:25:17,00
+Kai: Ja, machen wir. Aber jetzt müssen wir erst mal Timur mit den Community-Fragen treffen, oder? (Dani und Reinhard: Oh, stimmt.) Ah, da ist er ja schon. Hey, Timur! (Timur: Hey Kai.) Was geht ab in der Community?
+
+190
+00:25:17,02 --> 00:25:22,00
+Reinhard: Unsere Community brennt darauf, mehr über das Spiel zu erfahren. Ich habe einige Fragen dabei.
+
+191
+00:25:22,06 --> 00:25:23,20
+Kai: Großartig. Dann mal her damit.
+
+192
+00:25:23,22 --> 00:25:37,06
+Reinhard: Hier ist eine Frage von unserem Moderator Drago: "Erscheinen Items, die der Spieler angelegt hat, auch am Charakter? Besonders Ringe und Amulette? Im Original blieben sie ja unsichtbar."
+
+193
+00:25:37,08 --> 00:25:38,08
+Kai: Reinhard, mach du.
+
+194
+00:25:38,10 --> 00:25:57,80
+Reinhard: Ok, also... Runge und Amulette würde man ja eh nicht wirklich sehen, weil sie ständig von der Kleidung oder Rüstung verdeckt sind. Die wird man also nicht erkennen. Alles, was größer ist, wird auch am Charakter dargestellt. (Kai: Cool.)
+
+195
+00:25:57,80 --> 00:26:04,15
+Timur: Ja, danke. Eine der beliebtesten Fragen in der Community ist: "Wann zeigen wir endlich Gameplay?"
+
+196
+00:26:04,15 --> 00:26:10,25
+Reinhard: Oh ja, Gameplay. Wir haben vor, es beim THQ Nordic Showcase im August zu enthüllen.
+
+197
+00:26:10,27 --> 00:26:12,17
+Kai: Na endlich!
+
+198
+00:26:12,19 --> 00:26:35,06
+Reinhard: Oh, ich bin sicher, das wird gut ankommen. Und jetzt eine Frage von Moderator LurkerShnig: "Wie funktioniert das Dialogsystem? Ist der Übergang zwischen dem Moment des Knopfdrucks und der Dialogszene fließend? (Reinhard: Nun...) oder wird es eher so wie zum Beispiel bei Elex?"
+
+199
+00:26:35,08 --> 00:26:54,90
+Reinhard: Wenn man vom Gameplay in den Dialog wechselt, passiert das flüssig und übergangslos. Wir haben jetzt keine Fake-Szene extra für Dialoge, aber wir wenden ein paar Tricks an. Beispielsweise fügen wir Lichtquellen hinzu und verwenden spezielle Regeln für die Kamera, damit wir Emotion und Ausdruck der Charaktere bestmöglich einfangen können.
+
+200
+00:26:54,90 --> 00:27:02,00
+Timur: Danke für die Antwort. Übrigens, die folgende Frage haben wir noch nie gehört: "Wann kommt das Gameplay-Material?"
+
+201
+00:27:02,00 --> 00:27:25,18
+Reinhard: Ach so, ja. Im August. Wir zeigen es im August beim THQ Nordic Showcase.
+
+202
+00:27:06,00 --> 00:27:20,20
+Timur: Oh, ok. Und noch eine Frage vom sehr aktiven User Hombre: "Wie wird das Tagebuch aussehen? Eher wie in Gothic 1 oder 2? Oder wie in Gothic 3?"
+
+203
+00:27:20,30 --> 00:27:35,19
+Reinhard: Ich würde sagen, das Tagebuch ist auf jeden Fall an Gothic 1 und 2 angelehnt. Es zeigt nicht nur 1 zu 1 die Dialogzeilen, wie in Gothic 3. Aber auf gewisse Weise ist es eher so, als würde der Held sich Notizen machen.
+
+204
+00:27:35,21 --> 00:27:36,10
+Kai: Interessant.
+
+205
+00:27:36,10 --> 00:27:42,70
+Timur: Ja, super. Oh, und bevor ich es vergesse: "Wann droppen wir Gameplay-Szenen?"
+
+206
+00:27:42,70 --> 00:27:53,15
+Reinhard: Richtig, Gameplay! Wir zeigen der Öffentlichkeit zum ersten Mal Gameplay im August dieses Jahres, beim THQ Nordic Showcase. Schaltet ein!
+
+207
+00:27:53,17 --> 00:27:59,22
+Kai: Dann sehen wir uns ja alle dort im Livestream. Timur, vielen Dank für das Zusammenstellen der Fragen.
+
+208
+00:27:59,24 --> 00:28:00,17
+Timur: Ja, danke dir auch.
+
+209
+00:28:00,24 --> 00:28:03,06
+Kai: Dani, schön, dass du dir Zeit genommen hast. Danke, das war super.
+
+210
+00:28:03,06 --> 00:28:04,19
+Dani: Danke, ebenfalls.
+
+211
+00:28:04,20 --> 00:28:10,07
+Reinhard: Ok, dann mach' die Musik mal lauter. Ich führe euch ein bisschen rum. Wir sehen uns dann in der nächsten Folge.
+
+212
+00:28:10,30 --> 00:28:14,00
+All: Tschüss zusammen. Passt auf euch auf.
