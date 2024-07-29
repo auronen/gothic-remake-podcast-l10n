@@ -1,98 +1,98 @@
 1
 00:00:27,140 --> 00:00:30,120
-Xardas: Capitolo 4.
+Xardas: Capitolo Quattro.
 
 2
 00:00:30,150 --> 00:00:54,030
-Reinhard: Welcome to the Gothic 1 Remake podcast. I'm Reinhard Pollice, and for the first time listeners, I'm the founder and studio director at Alkimia Interactive. And I'm waiting for our composer, Kai Rosenkranz. I'm in the Old Camp Castle, and Kai should be here any minute. While we were waiting... Let me start with saying thank you to all you many listeners out there.
+Reinhard: Benvenuti al Gothic 1 Remake podcast. Io sono Reinhard Pollice, e per la prima volta, sono il fondatore e studio director in Alkimia Interactive. Sto aspettando il nostro compositore, Kai Rosenkranz. Sono nel Castello di Campo Vecchio, e Kai dovrebbe arrivare a breve. Mentre aspettiamo... Fatemi cominciare con un grazie a tutti voi ascoltatori.
 
 3
 00:00:54,060 --> 00:01:06,240
-Reinhard: We enjoy taking the time out of our normal schedules to stroll around in the colony and chat about the development of the Gothic 1 Remake, and it's so much more fun knowing that you guys actually enjoy it. So thanks for following along.
+Reinhard: Ci piace prenderci una pausa dalle nostre routine quotidiane per passeggiare nella colonia e parlare dello sviluppo di Gothic 1 Remake, ed è molto più divertente sapendo che a voi piace. Quindi grazie per seguirci.
 
 4
 00:01:06,280 --> 00:01:09,290
-Kai: Whew, I'm here! Sorry I'm late.
+Kai: Uuhhf, sono qui! Scusa per il ritardo.
 
 5
 00:01:10,010 --> 00:01:13,090
-Reinhard: No worries. We just started.
+Reinhard: Nessun problema. Abbiamo appena cominciato.
 
 6
 00:01:13,110 --> 00:01:19,020
-Kai: Thorus wouldn't let me into the castle set. I had to convince him that I'm actually the composer for the remake.
+Kai: Thorus non mi faceva entrare nel castello. Ho dovuto convincerlo che fossi il compositore del remake.
 
 7
 00:01:19,050 --> 00:01:22,090
-Reinhard: Oh, my. How did you do it?
+Reinhard: Oh, cavolo. Come ci sei riuscito?
 
 8
 00:01:22,120 --> 00:01:28,090
-Kai: Let's just say I didn't need those 1.000 ore anyways. So it's good I don't have to carry them around all day.
+Kai: Diciamo solo che in fondo non mi servivano quei 1000 pezzi di minerale. Quindi non devo più portarmeli in giro.
 
 9
 00:01:28,120 --> 00:01:37,100
-Reinhard: Ha! He takes his job really very seriously. Dani, come on over here. He's here.
+Reinhard: Ha! Prende il suo lavoro molto sul serio. Dani, vieni qui. È qui.
 
 10
 00:01:37,130 --> 00:01:38,260
-Dani: Hey, guys. What's up?
+Dani: Hei ragazzi. Come va?
 
 11
 00:01:38,290 --> 00:01:41,120
-Reinhard: Welcome to the podcast, Dani. (Kai: Hi.)
+Reinhard: Benvenuto al podcast Dani. (Kai: Ciao.)
 
 12
 00:01:41,180 --> 00:01:44,010
-Dani: Hey, Kai. Do you actually sleep in the Old Camp ring?
+Dani: Hei, Kai. Dormi sul serio nell'anello di Campo Vecchio?
 
 13
 00:01:44,030 --> 00:01:47,280
-Kai: Yes. It was a dream come true. I always wanted to do it.
+Kai: Si. È stato un sogno che si avvera. Ho sempre voluto farlo.
 
 14
 00:01:48,000 --> 00:01:50,280
-Dani: But which hut where you sleeping in?
+Dani: Ma in quale baracca stai dormendo?
 
 15
 00:01:51,000 --> 00:01:56,000
-Kai: I know there was a hut for me near the arena, but Mud ended up being very persistent.
+Kai: So che c'era una baracca per me vicino l'arena, ma Mud è stato molto persistente.
 
 16
 00:01:56,050 --> 00:02:02,270
-Reinhard: Okay, I won't ask then if you got any rest or if he had some more questions for you.
+Reinhard: D'accordo, allora non ti chiederò se sei riuscito a dormire o se avesse altre domande.
 
 17
 00:02:03,000 --> 00:02:07,080
-Kai: No. Not really. No. So have you already been introduced?
+Kai: No. Non molto. No. Allora sei già stato presentato?
 
 18
 00:02:07,100 --> 00:02:08,180
-Dani: Me? Not yet.
+Dani: Io? Non ancora.
 
 19
 00:02:08,200 --> 00:02:14,230
-Reinhard: Right! So this is Daniel Candil, our art director. Thanks for joining us in this episode.
+Reinhard: D'accordo! Questo è Daniel Candill, il nostro art director. Grazie per esserti unito a noi in questo episodio.
 
 20
 00:02:14,250 --> 00:02:16,070
-Dani: It's my pleasure.
+Dani: Piacere mio.
 
 21
 00:02:16,090 --> 00:02:24,240
-Reinhard: So let's climb up to the tower. What better place to talk about the visual side of the game than up there, where we can have a great view over the whole world?
+Reinhard: Allora scaliamo la torre. Quale posto migliore per parlare della parte visiva del gioco se non lassù, dove possiamo avere una vista meravigliosa dell'intero mondo?
 
 22
 00:02:24,270 --> 00:02:26,200
-Dani: Oh, yeah. That sounds great.
+Dani: Oh, si. Sembra perfetto.
 
 23
 00:02:30,000 --> 00:02:32,040
-Kai: What does an art director do exactly?
+Kai: Cosa fa un art director esattamente?
 
 24
 00:02:32,060 --> 00:03:05,140
-Dani: Well. Good question. In general, we could say that the art director in a video game is the driving force behind the game's aesthetics. But more than that, the job for an art director is about crafting and creating coherence in the game's aesthetic vision. In our case, I would say that I work within an incredible team of artists and I am just a responsible for defining and overseeing the visual direction of the game, or ensuring all visual aspects from characters and settings to environments, the color, or even the light, or even the user interface.
+Dani: Beh. Ottima domanda. In generale, possiamo dire che l'art director di un videogioco è la forza portante dietro l'estetica del gioco. Ma c'è di più, il lavoro di un art director è quello di creare coerenze nella visione estetica del gioco. Nel nostro caso, direi che lavoro con un team incredibile di artisti ed io sono solo responsabile di definire e controllare la direzione visiva del gioco, o garantire tutti gli aspetti visivi dei personaggi e degli scenari, il colore, o perfino la luce, o anche l'interfaccia utente.
 
 25
 00:03:05,160 --> 00:03:29,190
