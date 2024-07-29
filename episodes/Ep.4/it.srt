@@ -264,95 +264,95 @@ Dani: So it's a tested thing, and it works in a real scenario. You can go to Dis
 
 67
 00:09:56,110 --> 00:09:58,220
-Kai: Interesting. Thank you for that example.
+Kai: Interessante. Grazie per l'esempio.
 
 68
 00:09:58,240 --> 00:10:07,150
-Dani: By the way, what comes to your mind when you look around? I mean, anything about this world that you find interesting?
+Dani: Tra l'altro, cosa ti viene in mente quando ti guardi attorno? Nel senso, qualcosa riguardante questo mondo che trovi interessante?
 
 69
 00:10:07,170 --> 00:10:16,060
-Kai: Mmm... It looks beautiful. (Dani: Thanks, man. What else?) It's very diverse and - kind of - varied.
+Kai: Mmm... Sembra bellissimo. (Dani: Grazie, amico. Che altro?) È molto diverso e - tipo - variegato.
 
 70
 00:10:16,110 --> 00:10:19,170
-Dani: Yes, exactly. You can clearly recognize the different biomes.
+Dani: Sì, esatto. Puoi riconoscere chiaramente i diversi biomi.
 
 71
 00:10:19,190 --> 00:10:21,170
-Reinhard: Yeah, absolutely.
+Reinhard: Sì, assolutamente.
 
 72
 00:10:21,190 --> 00:10:25,200
-Dani: Oh... the biomes. So beautiful and at the same time, so challenging.
+Dani: Oh... i biomi. Così belli e, al tempo stesso, così impegnativi.
 
 73
 00:10:25,270 --> 00:10:38,200
-Kai: Are they still the same biomes as in the OG? Like different tones of brown-gray, but in different types of landscapes? Or have you changed the overall - like - look and vibe of these biomes?
+Kai: Sono ancora gli stessi biomi del gioco originale? Tipo differenti toni di marrone-grigio ma in diversi tipi di paesaggi? Oppure avete cambiato l'aspetto e l'atmosfera generale di questi biomi?
 
 74
 00:10:38,220 --> 00:10:58,300
-Dani: The biomes will be the same as in the original. And, of course, we wanted to elevate those differences between them so the player feels - like - transported. Like really immersed into another part of the world, but always maintaining coherence between them. Because in the end, the Valley of the Mines is, well, relatively small.
+Dani: I biomi saranno gli stessi come nell'originale. E, naturalmente, vorremmo esaltare le differenze tra essi, così che il giocatore possa sentirsi, come dire, trasportato. Come se fosse davvero immerso in un'altra parte del mondo, pur sempre mantenendo la corenza tra loro. Perché in fin dei conti, la Valle Delle Miniere è, beh, relativamente piccola.
 
 75
 00:10:58,300 --> 00:11:03,190
-Dani: But, you know, it's all inside the magic barrier. So, is this magic affecting somehow the biomes? We'll see.
+Dani: Ma, sai, è tutto all'interno della Barriera. Quindi, questa magia influenza in qualche modo i biomi? Vedremo.
 
 76
 00:11:03,210 --> 00:11:10,130
-Kai: Oh, look, it starts raining. So the weather system is already in place.
+Kai: Oh, guarda, inizia a piovere. Quindi il sistema meteorologico è già operativo.
 
 77
 00:11:10,150 --> 00:11:23,290
-Dani: Of course it is in place! This wouldn't be Gothic without it suddenly starting to rain and ... Hey, you can see diggers going to their huts and looking for a safe spot. The weather system is in place and I expect improvements in the next months.
+Dani: Certo che è operativo! Non sarebbe Gothic senza che inizi improvvisamente a piovere e... Ehi, si vedono i minatori che vanno alle loro baracche cercando un posto sicuro. Il sistema meteorologico è funzionante e mi aspetto miglioramenti nei prossimi mesi.
 
 78
 00:11:24,010 --> 00:11:46,030
-Reinhard: And the best part: In the remake, all the daily routines are reacting to the weather. Look how they take shelter and how they complain about the weather. But now to something we can't see from up here: We've all seen the Old Mine in the teaser trailer, and people appreciate the accuracy in which it was recreated. What are the things you decided to change about the Old Mine, though, and why?
+Reinhard: E la parte migliore: Nel remake, tutte le routine giornaliere reagiscono al meteo. Guarda come si riparano e come si lamentano a proposito del tempo. Ma ora passiamo a qualcosa che non possiamo vedere da qui: Abbiamo visto tutti la Vecchia Miniera nel trailer, e le persone hanno apprezzato l'accuratezza di come è stata ricreata. Quali sono le cose che avete deciso di cambiare a proposito della Vecchia Miniera, e perché?
 
 79
 00:11:46,060 --> 00:11:52,060
-Dani: Maybe we should go to the Old Mine while we talk about it. It rains anyway, so it will be more convenient inside.
+Dani: Forse dovremmo recarci alla Vecchia Miniera mentre ne parliamo. Sta piovendo, sarà comunque più comodo all'interno.
 
 80
 00:11:52,080 --> 00:11:54,100
-Kai: But that's a long walk through the rain.
+Kai: Ma è una lunga camminata sotto la pioggia.
 
 81
 00:11:54,180 --> 00:11:56,290
-Dani: Yes, but I came prepared.
+Dani: Vero, ma sono venuto preparato.
 
 82
 00:11:58,040 --> 00:11:58,230
-Dani: This should help.
+Dani: Questo dovrebbe aiutare.
 
 83
 00:11:58,270 --> 00:12:09,030
-Kai: Whoa whoa whoa whoa whoa. I have never used the Teleportation rune before. I don't think we should... (Reinhard: DANI - WAIT!)
+Kai: Whoa whoa whoa whoa whoa. Non ho mai usato una Runa di Teletrasporto prima. Non credo che dovremmo... (Reinhard: DANI - ASPETTA!)
 
 84
 00:12:09,050 --> 00:12:10,400
-Kai: What the h...
+Kai: Ma che c...
 
 85
 00:12:10,400 --> 00:12:18,100
-Reinhard: Shhht! Dani, where exactly did this rune take us to?
+Reinhard: Shhht! Dani, dove ci ha portato esattamente questa runa?
 
 86
 00:12:17,000 --> 00:12:19,650
-Dani: Well, usually to the most recent place that...
+Dani: Beh, normalmente nel posto più recente che...
 
 87
 00:12:19,650 --> 00:12:21,800
-Kai: Dani. Speak quietly!
+Kai: Dani. Parla sottovoce!
 
 88
 00:12:21,270 --> 00:12:23,190
-Dani: Damn, this is dark.
+Dani: Dannazione, è buio.
 
 89
 00:12:23,210 --> 00:12:25,150
-Reinhard: This is the minecrawler queen's lair.
+Reinhard: Questa è la tana della Regina degli Scavaragno.
 
 90
 00:12:25,210 --> 00:12:26,120
@@ -360,31 +360,31 @@ Kai: Oh, no.
 
 91
 00:12:26,130 --> 00:12:30,180
-Dani: Oh, crap. You're right. Be quiet everyone!
+Dani: Oh, merda. Hai ragione. Fate tutti silenzio!
 
 92
 00:12:30,200 --> 00:12:33,060
-Kai: Oh crap! (Reinhard: Shhht.)
+Kai: Oh merda! (Reinhard: Shhht.)
 
 93
 00:12:37,090 --> 00:12:46,230
-Kai: No no no no no no no! Javi, hurry! We have an emergency. Sent the Templars to the minecrawler tunnels. Now! (Javi: Oh, okay. Will do!)
+Kai: No no no no no no no! Javi, sbrigati! Abbiamo un'emergenza. Manda i Templari al tunnel degli scavaragno. Adesso! (Javi: Oh, d'accordo. Sarà fatto!)
 
 94
 00:12:46,250 --> 00:13:03,030
-Dani: Everybody RUN!
+Dani: CORRETE tutti!
 
 95
 00:13:03,050 --> 00:13:06,100
-Kai: Holy molerat. That was way too close.
+Kai: Santo ratto talpa. Ci siamo andanti decisamente vicino.
 
 96
 00:13:06,120 --> 00:13:07,000
-Reinhard: Definitely.
+Reinhard: Sicuramente.
 
 97
 00:13:07,010 --> 00:13:12,100
-Dani: Sorry, guys. Last time I use the rune, it took me to the upper levels. That was just yesterday.
+Dani: Scusate, ragazzi. L'ultima volta che ho usato la runa, mi ha portato ai livelli superiori. È stato giusto ieri.
 
 98
 00:13:12,200 --> 00:13:18,200
