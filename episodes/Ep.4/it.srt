@@ -388,135 +388,135 @@ Dani: Scusate, ragazzi. L'ultima volta che ho usato la runa, mi ha portato ai li
 
 98
 00:13:12,200 --> 00:13:18,200
-Kai: Hmmm! But why did someone from the team enter the minecrawler section last night? That part of the mine has long been completed.
+Kai: Hmmm! Ma perché qualcuno del team è entrato nella zona degli scavaragno la scorsa notte? Quella parte di miniera è stata completata da tempo.
 
 99
 00:13:18,270 --> 00:13:19,170
-Dani: I don't know.
+Dani: Non lo so.
 
 100
 00:13:19,190 --> 00:13:21,180
-Reinhard: Go and ask Alberto. We need answers.
+Reinhard: Vai a chiedere ad Alberto. Ci servono risposte.
 
 101
 00:13:21,230 --> 00:13:23,190
-Dani: Maybe Elena knows something.
+Dani: Forse Elena sa qualcosa.
 
 102
 00:13:23,200 --> 00:13:24,060
-Reinhard: Yes!
+Reinhard: Sì!
 
 103
 00:13:24,070 --> 00:13:27,200
-Kai: Guys! We're in the middle of recording a podcast episode, remember?
+Kai: Ragazzi! Siamo nel bel mezzo della registrazione di un episodio del podcast, ricordate?
 
 104
 00:13:27,210 --> 00:13:28,090
-Reinhard: Oh, yeah.
+Reinhard: Oh, sì.
 
 105
 00:13:28,090 --> 00:13:29,040
-Dani: Yeah, right.
+Dani: Sì, giusto.
 
 106
 00:13:29,040 --> 00:13:29,260
-Reinhard: Very true.
+Reinhard: Molto giusto.
 
 107
 00:13:29,270 --> 00:13:34,050
-Dani: One second! Here, torches for both of you guys.
+Dani: Un secondo! Ecco, torce per entrambi, ragazzi.
 
 108
 00:13:34,080 --> 00:13:36,210
-Kai: Ah, nice! Thank you. (Reinhard: That's handy, thanks.)
+Kai: Ah, bene! Grazie. (Reinhard: Questo è utile, grazie.)
 
 109
 00:13:36,230 --> 00:13:40,120
-Kai: Ooh, look at those shadows moving around. Dynamic lighting at its best.
+Kai: Ooh, guardate quelle ombre che si muovono in giro. L'illuminazione dinamica al suo meglio.
 
 110
 00:13:40,180 --> 00:13:42,080
-Dani: Yeah, that looks pretty cool, right?
+Dani: Sì, sembra molto bello, vero?
 
 111
 00:13:42,120 --> 00:13:47,120
-Kai: Oh, yes. Can you talk a little bit about your lighting concepts and Unreal Engine's lighting features?
+Kai: Oh, sì. Puoi parlarci un po' a proprosito del tuo concetto di illuminazione e delle caratteristiche di illuminazione dell'Unreal Engine?
 
 112
 00:13:47,180 --> 00:14:08,040
-Dani: Yes. Of course. I mean, we moved to Unreal Engine 5 months ago because - knowing it was a risky move - we felt that the fans deserve something truly great. And the new technologies that came with UE5 let us show more detailed environments. And finally, we have the Holy Grail of light and rendering. We have global illumination in real time with "Lumen".
+Dani: Sì. Certamenti. Voglio dire, siamo passati al Unreal Engine 5 mesi fa perché - pur sapendo che era una mossa rischiosa - sentivamo che i fan meritassero qualcosa di veramente grande. E la nuova tecnologia che UE5 ha portato ci permette di mostrare un ambiente più dettagliato. E infine, abbiamo il Santo Graal della luce e del rendering. Abbiamo l'illuminazione globale in tempo reale con i "Lumen".
 
 113
 00:14:08,110 --> 00:14:36,000
-Dani: Three years ago, this could have been seen like a feverish dream, but we have it now and we are using it fully. Our approach in light I would define it as: "embrace the darkness". We are going full baroque where the darks are pretty obscure, where the night feels dangerous. Think about Caravaggio or Velasquez for the interiors, and Claude Lorrain for the exteriors, with those dark environments and the orange skies.
+Dani: Tre anni fa, poteva essere visto come un sogno febbrile, ma ora ce l'abbiamo e lo stiamo utilizzando appieno. Definirei il nostro approccio alla luce come: "abbracciare l'oscurità". Stiamo andando verso un barocco completo in cui le tenebre sono piuttosto oscure, in cui la notte si percepisce pericolosa. Pensiamo a Caravaggio o Velasquez per gli interni, e a Claude Lorrain per gli esterni, con quegli ambienti scuri e i cieli arancioni.
 
 114
 00:14:36,020 --> 00:14:42,230
-Dani: For the people listening here: If you go to Google images and search for those three masters of painting, you will see.
+Dani: Per le persone che ci ascoltano: Se andate su Google immagini e cercate questi tre maestri della pittura, vedrete.
 
 115
 00:14:42,260 --> 00:14:50,050
-Reinhard: So we are using a modular approach to level building, right? What does that mean and how did we apply that to the Old Mine?
+Reinhard: Quindi stiamo usando un approccio modulare per livellare gli edifici, giusto? Cosa significa e coime lo applichiamo alla Vecchia Miniera?
 
 116
 00:14:50,070 --> 00:15:11,230
-Dani: Never underestimate the power of a simple wood plank. So basically, almost all we model and design is going to be used in different places - scaled, rotated. The modern graphic engine kind of asks you to be smart and be modular. So we created the Old Mine with seven different types of rock and ten different assets of wood structure.
+Dani: Mai sottovalutare il potere di una semplice asse di legno. Praticamente, tutto quello che modelliamo e progettiamo verrà utilizzato in posti differente - scalato, ruotato. Il motore grafico moderno ci chiede di essere intelligenti e modulari. Quindi abbiamo creato la Vecchia Miniera con sette differenti tipi di roccia e dieci tipi diversi di strutture di legno.
 
 117
 00:15:11,250 --> 00:15:20,000
-Dani: So you can imagine how many memory and textures we are saving here. So give us three different wood planks and we will create a world for you.
+Dani: Quindi potete immaginare quanta memoria e texture stiamo risparmiando qui. Dateci tre tipi differenti di assi di legno e vi creeremo un mondo.
 
 118
 00:15:20,030 --> 00:15:22,060
-Kai: Awesome (Reinhard: Guys, we have to go up here!)
+Kai: Fantastico (Reinhard: Ragazzi, Dobbiamo risalire da qui!)
 
 119
 00:15:22,120 --> 00:15:23,210
-Dani: Yes. Follow me.
+Dani: Sì. Seguitemi.
 
 120
 00:15:23,230 --> 00:15:26,090
-Kai: Wait, is it safe to use the ladders?
+Kai: Aspetta, è sicirp usare le scale?
 
 121
 00:15:26,120 --> 00:15:28,220
-Reinhard: Kai! It's not 2001 anymore.
+Reinhard: Kai! Non è più il 2001.
 
 122
 00:15:28,240 --> 00:15:29,800
-Kai: Hm, okay.
+Kai: Hm, d'accordo.
 
 123
 00:15:33,150 --> 00:15:36,000
-Kai: It works like a charm. Nice!
+Kai: Funziona a meraviglia. Bello!
 
 124
 00:15:36,020 --> 00:15:46,040
-Reinhard: I told you, our programing team - and especially Andre (Taulien) - already spent countless of hours on making sure ladder climbing won't be a disaster like in 2001.
+Reinhard: Te l'ho detto, il nostro team di programmazione - specialmente Andre (Taulien) - ha già speso innumerevoli ore ad assicurarsilike che la salita delle scale non fosse un disastro come nel 2001.
 
 125
 00:15:46,050 --> 00:15:54,000
-Kai: Okay. Back in the Old Camp, Javi mentioned a new wall climbing feature. Will players be able to use that feature somewhere here in the Old Mine?
+Kai: D'accordo. Tornando a Campo Vecchio, Javi ha menzionato una nuova funzionalità di scalata. I giocatori saranno in grando di usare questa abilità da qualche parte qui nella Vecchia Miniera?
 
 126
 00:15:54,070 --> 00:16:01,270
-Reinhard: Not so much in the Old Mine, actually, but there are mountain areas where real climbing is another form of traversal.
+Reinhard: Non molto nella Vecchia Miniera, in realtà, ma ci sono aree montuose in cui la vera scalata è un'altra forma di attraversamento.
 
 127
 00:16:01,290 --> 00:16:11,030
-Kai: Now that I'm here in person, I have to say that the recreation of the Old Mine is really just perfect. Very true to the original, but enhanced in a really convincing and intriguing way.
+Kai: Ora che sono qui di persona, devo dire che la ricostruzione della Vecchia Miniera è veramente perfetta. Molto fedele all'originale, ma migliorata in modo convincente ed intrigante.
 
 128
 00:16:11,060 --> 00:16:11,270
-Dani: Thanks.
+Dani: Grazie.
 
 129
 00:16:12,000 --> 00:16:18,700
-Kai: Really, it's great! What was your process of designing the new Old Mine? How did you decide what to keep and what to extend?
+Kai: Davvero, è grandioso! Qual è stato il processo di progettazione della nuova Vecchia Miniera? Come avete deciso cosa mantenere e cosa estendere?
 
 130
 00:16:18,700 --> 00:16:42,140
-Dani: Well, we always start with blockouts made by the design team. We meet all together since this is always a joint effort so we can share the same vision. They provide those blockouts and then we create a task force of artist to work on that specific environment. They gather references, they create the first layer, as we called it, the "nature layer", where we place all the natural rock formations ground and so...
+Dani: Beh, iniziamo sempre con i bozzetti creati dal design team. Ci incontriamo tutti insieme, poiché si tratta sempre di uno sforzo congiunto, in modo da condividere la stessa visione. Loro ci forniscono quei bozzetti e poi noi creiamo una task force di artisti per lavorare su quell'ambiente specifico. Raccolgono i riferimenti, creano il primo strato, come lo abbiamo chiamato, lo "strato della natura", in cui inseriamo tutte le formazioni rocciose naturali e così via...
 
 131
 00:16:42,140 --> 00:17:06,250
