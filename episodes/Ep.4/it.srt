@@ -628,71 +628,71 @@ Kai: M-hm. Capito.
 
 158
 00:19:52,230 --> 00:20:14,240
-Dani: I would say we need to be believable. (Kai: Yeah.) Always moving inside the limits of what is Gothic and what is not. But we should not go too real to that point where we ask ourselves if this or that design could really happen in the 12th century Europe parameters. And about references: I will pass two hours talking about references, man, but let's stay with the baroque painters. (Kai: Sure.)
+Dani: Direi che dobbiamo essere credibiliI. (Kai: Sì.) Sempre muovendosi nei limiti di cosa è Gothic e cosa non lo è. Ma non dovremmo arrivare ad essere troppo realistici, al punto da chiederci se questo o quel design potessero esserci realmente nei parametri dell'Europa del XII secolo. E a proposito di riferimenti: passerei due ore a parlare di riferimenti, ragazzi, ma restiamo sui pittori barocchi. (Kai: Sure.)
 
 159
 00:20:14,260 --> 00:20:41,170
-Dani: The way they understood the light, the dramatic effect, the theatrical composition, the play between bright and dark... I think Caravaggio and Velazquez are good examples of that. Their paintings feel real, but they were dramatic, staged and definitive. Not realistic, but they were believable. The same with artists like Claude Lorrain and his landscapes. I mean, better stop here because - Kai - I could be hours talking about the old masters and how much we should learn from them.
+Dani: Il modo in cui hanno inteso la luce, l'effetto drammatico, la compostizione teatrale, il gioco tra luce e buio... Penso che Caravaggio e Velazquez siano buoni esempi per questo. I loro dipindi sembrano reali, ma erano drammatici, messi in scena e definitivi. Non realistici ma credibili. Lo stesso con artisti come Claude Lorrain e i suoi paesaggi. Intendo, meglio fermarci qui perché, Kai, potrei stare ore a parlare dei vecchi maestri e di come dovremmo imparare da loro.
 
 160
 00:20:41,180 --> 00:20:47,240
-Kai: Yeah. Seems so. I guess that's a topic for its very own, like, spinoff episode.
+Kai: Sì. Sembrerebbe. Credo che sia un argomento che possa avere uno spinoff tutto suo.
 
 161
 00:20:47,270 --> 00:20:50,080
-Dani: There, you can see the New Camp behind that corner.
+Dani: Laggiù, potete vedere Campo Nuovo dietro quell'angolo.
 
 162
 00:20:50,140 --> 00:20:57,100
-Kai: Yes. Can't wait to see it. But before we get there and you'll be busy with other things, I have a few questions about characters and animations.
+Kai: Sì. Non vedo l'ora di vederlo. Ma prima di arrivare là e che sarai preso con altre cose, ho alcune domande a proposito di personaggi e animazioni.
 
 163
 00:20:57,170 --> 00:21:02,270
-Dani: Sure. You'll have to talk to Gerard for detailed questions about animations, but I'll see what I can do.
+Dani: Certo. Dovrai parlare con Gerard per domande dettagliate a proposito di animazioni, ma vedrò cosa posso fare.
 
 164
 00:21:03,000 --> 00:21:23,260
-Kai: Thanks. First about characters: The original game had a bit of a cartoonish character style. Vivid colors, exaggerated face shapes, distinctive silhouettes, and so on. What's the plan for the remake? The characters I've seen are clearly distinguishable and super real. It's easy to tell which camp they're from and what they are, although everything seems to be a little toned down.
+Kai: Grazie. Prima a proposito di personaggi: Il gioco originale aveva uno stile dei personaggi un po' cartoonesco. Colori vivaci, forme del viso esagerato, silhouette particolari e così via. Qual è il piano per il remake? I personaggi che ho visto sono chiaramente distinguibili e reali. È facile dire da quale campo provengano e cosa sono, anche se tutto appare un po' attenuato.
 
 165
 00:21:24,030 --> 00:21:47,300
-Dani: Sure, you will be able to recognize the characters for sure. I mean, don't worry about that. We are respecting as much as possible the original design. So a guru will look like a guru and a shadow like a shadow. The challenge here was to recreate those memorable characters in a new way that felt totally respectful of the original, but at the same time offers a fresh version and I'm very happy with all the work the team did. You will see!
+Dani: Certo, riuscirai a riconoscere i personaggi di sicuro. Voglio dire, non preoccuparti di quello. Stiamo rispettando il più possibile il design originale. Quindi, un Guru sembrerà un Guru e un'Ombra sembrerà un'Ombra. La sfida qui era di ricreare quei personaggi memorabili in un modo nuovo che fosse totalmente rispettoso dell'originale, ma al tempo stesso offrisse una versione fresca e sono molto contento del lavoro che il team ha svolto. Vedrai!
 
 166
 00:21:47,300 --> 00:21:48,400
-Kai: Hm, okay.
+Kai: Hm, d'accordo.
 
 167
 00:21:48,400 --> 00:21:54,210
-Reinhard: Dani, you've described the modular approach to building locations. Would you like to shed some light on the modular approach for characters?
+Reinhard: Dani, hai descritto l'approccio modulare nel costruire le ambientazioni. Vorresti fare un po' di chiarezza sull'approccio modulare per i personaggi?
 
 168
 00:21:54,270 --> 00:22:20,020
-Dani: Well, that's a very complex topic because as you can imagine, dressing 600 characters is not the easiest thing in the world. (Kai: No.) But we are using "Mutable", an epic technology designed for creating modular characters, clothes and armor pieces, and it has been a hard fight. But luckily pieces finally are coming together. 600 different faces, a lot of different hairstyles, beards, and thousands of small pieces of armor and cloth.
+Dani: Beh, questo è un argomento molto complesso perché, come potrete immaginare, vestire 600 personaggi non è la cosa più semplice al mondo. (Kai: No.) Ma stiamo usando "Mutable", una tecnologia epica progettata per creare personaggi modularei, vestiti e pezzi di armatura, ed è stata una dura lotta. Ma fortunatamente i pezzi si stanno unendo. 600 facce diverse, una gran varietà di capigliature, barbe, e migliaia di piccoli pezzi di armatura e vestiti.
 
 169
 00:22:20,040 --> 00:22:24,240
-Dani: Now we see the light at the end of the tunnel, but we could say this has been a very fun ride.
+Dani: Ora vediamo la luce in fondo al tunnel, ma possiamo dire che è stato un viaggio molto divertente.
 
 170
 00:22:24,270 --> 00:22:31,270
-Kai: And that's good to hear. The rice fields, just like I remember them. But what's that? That's new!
+Kai: Ed è un bene sentirlo. I campi di riso, proprio come li ricordavo. Ma cos'è quello? È nuovo!
 
 171
 00:22:32,000 --> 00:22:34,130
-Reinhard: Shhh! We don't want to talk about that now.
+Reinhard: Shhh! Non vogliamo parlare di quello adesso.
 
 172
 00:22:34,140 --> 00:22:40,000
-Kai: Right! But ... wow, is that the Ricelord... (Dani: Oh, yes!) Wow. Interesting. Why did y...
+Kai: Giusto! Ma... wow, quello è il signore del riso... (Dani: Oh, sì!) Wow. Interessante. Perché lo...
 
 173
 00:22:40,000 --> 00:22:43,180
-Reinhard: Kai! Shh! This hasn't been released for publication just yet.
+Reinhard: Kai! Shh! Non è ancora stato rilasciato per la pubblicazione.
 
 174
 00:22:43,230 --> 00:22:56,120
-Kai: Okay, okay! So quick question about the faces in particular. How do you make so many different faces and make them look so good? I know you've already touched on that in the previous episode, but maybe you can elaborate a little bit.
+Kai: D'accordo, d'accordo! Quindi una domanda veloce sui volti in particolare. Come avete fatto così tanti volti differente facendoli sembrare così belli? So che abbiamo già toccato la cosa in un episodio precedente, ma forse potresti approfondire un po'.
 
 175
 00:22:56,180 --> 00:23:17,210
