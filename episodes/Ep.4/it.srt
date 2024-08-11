@@ -104,163 +104,163 @@ Dani: Devo essere capace di motivare e muovere un team di incredibili artisti co
 
 27
 00:03:42,250 --> 00:03:45,020
-Kai: Yes, absolutely. Thank you.
+Kai: Si, assolutamente. Grazie.
 
 28
 00:03:45,040 --> 00:03:53,100
-Reinhard: So, this episode might be a bit challenging since we'll have to talk about visual aspects in a podcast. How do we go about this?
+Reinhard: Allora, questo episodio potrebbe essere un po' complicato dato che dobbiamo parlare di aspetti visivi in un podcast. Come vogliamo procedere?
 
 29
 00:03:53,120 --> 00:03:59,120
-Dani: Well, some visual material is already out there. So we can talk about that and people can look at it while we do.
+Dani: Beh, una parte del materiale visivo è già disponibile. Quindi possiamo parlare di quello che le persone possono vedere mentre ne parliamo.
 
 30
 00:03:59,180 --> 00:04:04,160
-Kai: Yeah. Great idea. For example, the Old Mine was shown in the Old Mine teaser quite a while ago.
+Kai: Si. Ottima idea. Per esempio, la Vecchia Miniera è stata mostrata nel teaser della Vecchia Miniera un bel po' di tempo fa.
 
 31
 00:04:04,220 --> 00:04:07,090
-Reinhard: We showed off the Old Camp in a trailer too.
+Reinhard: L'abbiamo mostrata anche nel trailer di Campo Vecchio.
 
 32
 00:04:07,120 --> 00:04:09,030
-Dani: Yeah, that's a good starting point.
+Dani: Si, quello è un buon punto di partenza.
 
 33
 00:04:09,050 --> 00:04:19,040
-Kai: So, we are in the Old Camp - in the castle, to be precise - so why not use this to explain the creation process of, for example, the characters and the armors and your role in it?
+Kai: Allora, siamo a Campo Vecchio - nel castello, per essere precisi - quindi perché non lo usiamo per spiegare il processo creativo di, per esempio, dei personaggi e delle armature e dl tuo ruolo in ciò?
 
 34
 00:04:19,060 --> 00:04:38,250
-Dani: So, well, everything starts with a complete analysis of what was previously done. Remember that we are doing a very faithful remake. So first we need to understand the decisions made back in the day and if those can work in today's world. So we are trying to modernize what should be modernized, but maintaining the essence of what should be maintained.
+Dani: Beh, allora, tutto comincia con un'analisi completa di ciò che è stato precedentemente fatto. Ricorda che stiamo facendo un remake molto fedele. Quindi prima dobbiamo capire le decisioni fatte in quei giorni e se possano poi funzionare nel mondo moderno. Quindi stiamo cercando di modernizzare cosa dovrebbe essere modernizzato, ma mantenendo l'essenza di ciò che dovrebbe essere mantenuto.
 
 35
 00:04:39,000 --> 00:04:59,260
-Dani: I mean, the idea is you will see a shadow and you will recognize it as a shadow. And when we finish that process, an artist starts creating concepts, gathering information, and once the design is approved, we go to the high model phase. Then we bake everything into an in-game model, we texture it. Remember: We are aiming always for very high detail armors.
+Dani: Voglio dire, l'idea è che tu veda un'ombra e riconosca come un'ombra. E quando finiamo questo processo, un'artista comincia a creare i concept, raccogliere informazioni, e una volta che il design è approvato, andiamo nella fase del modello alto. Poi inseriamo tutto nel modello di gioco, lo testurizziamo. Ricorda: puntiamo sempre a fare armature molto dettagliate.
 
 36
 00:04:59,290 --> 00:05:07,000
-Dani: And once the process is done, we integrate the pieces into the engine where we finish polishing and tweaking the final look.
+Dani: E una volta che il processo è completato, integriamo i pezzi nel motore di gioco dove finiamo di ripulire e sistemare l'aspetto finale.
 
 37
 00:05:07,020 --> 00:05:12,120
-Kai: And very successfully indeed. It looks fantastic in the game.
+Kai: E in maniera eccellente. L'aspetto nel gioco è fantastico.
 
 38
 00:05:12,140 --> 00:05:16,080
-Reinhard: There we are at the top of the old camp tower.
+Reinhard: Ed eccoci in cima alla torre di Campo Vecchio.
 
 39
 00:05:16,100 --> 00:05:20,200
-Kai: Oh, wow, look at that. What a view.
+Kai: Oh, wow, ma guarda qua. Che vista.
 
 40
 00:05:20,220 --> 00:05:25,070
-Dani: Yeah, it's pretty neat. Just ignore the missing pieces of landscape over there, right?
+Dani: Già, molto bella. Ignora la parte mancante del paesaggio laggiù, d'accordo?
 
 41
 00:05:25,090 --> 00:05:27,120
-Kai: (laughs) Sure.
+Kai: (ride) Certamente.
 
 42
 00:05:27,140 --> 00:05:33,200
-Reinhard: Ehm, how many people are actually working in the art department here at Alkimia? And what sort of roles do we have in here?
+Reinhard: Ehm, quante persone stanno lavorando nel reparto artistico in Alkimia? E che tipo di ruoli ci sono?
 
 43
 00:05:33,220 --> 00:06:00,000
-Dani: Yeah, we are a lot of people, man. I mean, more than 30 working as I would define as the in-house team. But at the same time, we are working with different external outsourcing studios. So the number of artists involved in this is pretty high. And about roles here: We have from 2D artist to 3D artist, people who are more into character creation, people into environment, art, tech artists, lighting artists, effects artists, animators, riggers, cinematic artists.
+Dani: Oh, un sacco di persone. Allora, più di 30 lavorano come team interno diciamo. Ma allo stesso tempo, lavoriamo con diversi studi esterni. Quindi il numero di artisti coinvolti nel progetto è piuttosto alto. Parlando dei ruoli invece: abbiamo dagli artisti 2D a quelli 3D, persone più coinvolte con la creazione dei personaggi, persone per gli ambienti, arte, artisti tecnologici, artisti delle luci, artisti degli effetti, animatori, riggers, artisti cinematografici.
 
 44
 00:06:00,200 --> 00:06:06,010
-Dani: And the last time, believe me, the ones who save my life day after day: We have two amazing art coordinators.
+Dani: E per un'ultima volta, credimi, coloro che mi salvano la vita giorno dopo giorno: abbiamo due incredibili coordinatori artistici.
 
 45
 00:06:06,030 --> 00:06:17,200
-Kai: Yeah, I can imagine getting some of that coordination hassle off of your own personal desk is really helpful. (Dani: Yes.) By the way, from up here you can pretty much see all of the magic barrier.
+Kai: Si, posso immaginare che vedere parte dei problemi da coordinatore portati via dalla tua scrivania sia molto d'aiuto. (Dani: Si.) Comunque, da quassù puoi praticamente vedere tutta la barriera magica.
 
 46
 00:06:17,220 --> 00:06:23,210
-Dani: Oh, the barrier, man. It's always there. Like... alive, like... breathing. (Kai: Yeah.) Remembering us we are trapped!
+Dani: Oh, la barriera. È sempre la. Come fosse... viva, come se... respirasse. (Kai: Già.) Ricordandoci che siamo in trappola!
 
 47
 00:06:23,230 --> 00:06:26,040
-Kai: Yeah, that that as well.
+Kai: Si, anche quello.
 
 48
 00:06:26,060 --> 00:06:33,190
-Reinhard: So, Dani, which specific piece of art for the Gothic 1 Remake are you most proud of - for now?
+Reinhard: Allora, Dani, di quale parte artistica specifica di Gothic 1 Remake sei più fiero - per ora?
 
 49
 00:06:33,210 --> 00:06:47,160
-Dani: Well, all of the pieces done have a special place in my heart, you know? But I cannot wait to see people walking through the New Camp. The rice fields... I love it! I love that place. And I have a very good feeling about Xardas' tower. You will see.
+Dani: Beh, tutti i pezzi che ho fatto hanno un posto speciale nel mio cuore, sai? Ma non posso aspettare di vedere le persone camminare per Campo Nuovo. I campi di riso... lo amo! Amo quel posto. Ed ho una buona sensazione per la torre di Xardas. Vedrai.
 
 50
 00:06:47,190 --> 00:07:01,100
-Kai: Yeah, I think I know what you mean. I've been in both of Xardas' towers just recently to place some sound effects and... yeah! Yeah yeah yeah yeah. And which part of the asset creation turned out to be the most challenging so far?
+Kai: Si, credo di sapere cosa intendi. Sono stato in entrambe le torri di Xardas recentemente per mettere alcuni effetti sonori e... si! Si si si si. E quale parte della creazione di asset si è dimostrata la più complicata fin'ora?
 
 51
 00:07:01,130 --> 00:07:18,140
-Dani: The characters, no doubt. We are trying to push our boundaries here. And we will have thousands of characters and we are trying to make each one of them unique. So imagine the work behind this. The good thing is that we have our sister company, Gate 21, helping us with that fight. So I'm convinced together will rise to victory. (Kai: Yeah.)
+Dani: I personaggi, senza dubbio. Stiamo cercando di spingerci al limite. Avremo migliaia di personaggi e stiamo cercando di renderli tutti unici. Quindi immagina il lavoro che c'è dietro. La cosa positiva è che abbiamo una compagnia sorella, Gate 21, che ci aiuta in questo scontro. Quindi sono convinto che assieme saremo vittoriosi. (Kai: Già.)
 
 52
 00:07:18,180 --> 00:07:32,110
-Reinhard: Thanks. Very interesting. As you all know, the first thing people saw from the remake was the playable teaser. After that, we started from scratch and transitioned over to a new, more dark visual esthetics.
+Reinhard: Grazie. Molto interessante. Come sai, la prima cosa che le persone videro del remake era il teaser giocabile. Dopo di quello, abbiamo cominciato da zero e ci siamo spostati verso una nuova estetica, molto più cupa.
 
 53
 00:07:32,130 --> 00:07:33,200
-Dani: Yeah, completely.
+Dani: Si, completamente.
 
 54
 00:07:33,220 --> 00:07:37,180
-Reinhard: What was the process like and how would you describe the new style?
+Reinhard: Qual è stato il processo e come descriveresti il nuovo stile?
 
 55
 00:07:37,200 --> 00:07:57,210
-Dani: Yeah, on the PT - well, the Playable Teaser - we were trying to move things into a different direction. I think it has been said, but we wanted to discover the limits and see what people wanted and how far we should go. Was there a remake or was a complete reimagination of the story more in line with a modern and colorful and cheery approach?
+Dani: Si, nella PT - beh, il Teaser Giocabile - cercavamo di muovere le cose in una direzione differente. Credo sia stato detto, ma volevamo scoprire i limiti e vedere cosa volevano le persone e quando lontano dovremmo andare. C'è stato un remake o una completa reimmaginazione della storia più in linea con un approccio più moderno colorato e allegro?
 
 56
 00:07:57,240 --> 00:08:22,180
-Dani: Or maybe we should go deeper into the darkness, gritty, believable and moody atmosphere of the original has, respecting what made Gothic so special? Well, now the answer should be clear because we asked the community and they showed us the right path. So this time we're going for something darker. Definitely more grounded, realistic, even gritty. I wouldn't say depressive, but definitely not lush or cheer as the PT was.
+Dani: O forse dovremmo andare più affondo nell'atmosfera scura, cupa e credibile che aveva l'originale, rispettando ciò che ha resto Gothic così speciale? Beh, ora la risposta dovrebbe essere chiara perché abbiamo chiesto alla community e ci hanno mostrato la giusta via. Quindi stavolta faremo qualcosa di più cupo. Sicuramente più, concreto, realistico, coraggioso. Non direi depressivo, ma sicuramente non lussureggiante o allegro come fu la PT.
 
 57
 00:08:22,210 --> 00:08:36,000
-Dani: We want to enhance the original feeling and and as you saw in the trailers, we are following that path, but we have still work to do until we nail the perfect atmosphere. Listening to the fans is an important part here and believe me, we do!
+Dani: Vogliamo migliorare la sensazione dell'originale e come hai visto nei trailer, stiamo seguendo la via, ma abbiamo ancora del lavoro da fare affinché possa arrivare l'atmosfera perfetta. Ascoltare i fan è una parte importante in ciò e credimi, lo facciamo!
 
 58
 00:08:36,020 --> 00:08:37,000
-Kai: Oh yeah.
+Kai: Oh certamente.
 
 59
 00:08:37,020 --> 00:08:50,400
-Dani: In terms of style, I would say we are pursuing a "heightened realism", something that feels believable with a very high detail frequency, but that not means necessarily it's real. It just feels like it is.
+Dani: In termini di stile, direi che stiamo inseguendo un "realismo aumentato", qualcosa che possa sembrare credibile con un'alta frequenza di dettagli, ma ciò non vuol dire necessariamente reale. Sembrerà che lo sia.
 
 60
 00:08:50,500 --> 00:08:56,140
-Kai: Heightened Realism! Okay, gotta put that in my vocabulary book. Do you have like an art Bible?
+Kai: Realismo Aumentato! Ok, lo metterò nel mio vocabolario. Avete qualcosa tipo una Bibbia artistica?
 
 61
 00:08:56,160 --> 00:08:57,160
-Dani: Of course we have it.
+Dani: Ma certo che l'abbiamo.
 
 62
 00:08:57,190 --> 00:09:00,110
-Kai: Okay. What's that? And what's covered by it?
+Kai: Ok. Quello cos'è? E da cosa è coperto?
 
 63
 00:09:00,130 --> 00:09:18,260
-Dani: Sure. I mean, we have in an art bible. And in that bible we cover the use of color, the main shapes for elements, the way we decorate, the visual strategies we use to create environments, the types of materials... It's a very complex document. And the good part is that it's an evolving document that grows naturally with the game.
+Dani: Certo. Nel senso, abbiamo una bibbia artistica. E in quella bibbia si parla dell'uso del colore, della forma base per gli elementi, il modo in cui decoriamo, le strategie visive che usiamo per creare gli ambienti, i tipi di materiali... è un documento molto complesso. E la parte bella è che si tratta di un documento che si evolve e cresce naturalmente con il gioco.
 
 64
 00:09:18,280 --> 00:09:26,030
-Kai: That's super interesting! Can you give us an example of something that's in the art bible, and how you translate it into the actual game?
+Kai: Questo è molto interessante! Potresti darci un esempio di qualcosa che è nella bibbia, e come la traducete nel gioco?
 
 65
 00:09:26,050 --> 00:09:47,290
-Dani: Sure. For example, in the art bible we define different strategies of color use or even decoration placement in a way that the viewer can feel the environment are bigger than they really are. And, of course, this is not something we invented. It's something that has been used in theme parks since John Hench defined "The Art of the Show" in the 60s.
+Dani: Certo. Per esempio, nella bibbia definiamo diverse strategie di uso colore o anche il piazzamento delle decorazioni in modo che lo spettatore possa sentire un ambiente più grande di quanto non sia. E, ovviamente, non è una cosa che abbiamo inventato. È un qualcosa che è stata usata nei parchi a tema sin dai tempi di "The Art of the Show" di John Hench negli anni 60.
 
 66
 00:09:48,010 --> 00:09:56,080
-Dani: So it's a tested thing, and it works in a real scenario. You can go to Disneyland and see it, and we use this and it just works.
+Dani: Quindi è una cosa collaudata, e funziona in un contesto reale. Puoi andare a Disneyland e vederlo, lo usiamo e funziona.
 
 67
 00:09:56,110 --> 00:09:58,220
@@ -352,7 +352,7 @@ Dani: Dannazione, è buio.
 
 89
 00:12:23,210 --> 00:12:25,150
-Reinhard: Questa è la tana della Regina degli Scavaragno.
+Reinhard: Questa è la tana della Regina Scavaragno.
 
 90
 00:12:25,210 --> 00:12:26,120
