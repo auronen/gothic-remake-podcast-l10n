@@ -476,7 +476,7 @@ Dani: Sì. Seguitemi.
 
 120
 00:15:23,230 --> 00:15:26,090
-Kai: Aspetta, è sicirp usare le scale?
+Kai: Aspetta, è sicuro usare le scale?
 
 121
 00:15:26,120 --> 00:15:28,220
@@ -696,157 +696,157 @@ Kai: D'accordo, d'accordo! Quindi una domanda veloce sui volti in particolare. C
 
 175
 00:22:56,180 --> 00:23:17,210
-Dani: Yeah, luckily we are not alone in this fight. I mean, we have the support of the nice folks at Gate 21. They are a sister company that specializes in creating faces. So together we have been working on those characters. They developed a very specific tool that lets us create dozens of different faces, mixing them, having details, changing manually specific traits...
+Dani: Sì, fortunatamente non siamo soli in questa battaglia. Intendo, abbiamo il supporto dei simpatici ragazzi di Gate 21. Sono una società sorella specializzata nella creazione di volti. Quindi insieme abbiamo lavorato su questi personaggi. Hanno sviluppato uno strumento molto specifico che ci permette di creare dozzine di volti diversi, di mescolarli, di avere dettagli e di cambiare manualmente tratti specifici...
 
 176
 00:23:17,230 --> 00:23:25,120
-Dani: But of course, not all the models were done using this tech. More than 100 were fully manually worked on until the very last detail.
+Dani: Ma ovviamente, non tutti i modelli sono stati creati usando questa tecnologia. Più di 100 sono stati lavorati completamente a mano fino all'ultimo dettaglio.
 
 177
 00:23:25,120 --> 00:23:26,250
-Kai: Whoa! 100, that's crazy!
+Kai: Whoa! 100, è pazzesco!
 
 178
 00:23:26,260 --> 00:23:44,270
-Dani: Imagine we have two tiers of characters! The tier A and the tier B. Tier A are the most important characters. Those 100 characters are designed, rigged and created fully manually. And then we have the tier B characters. Those are done using this amazing technology that helps in the process.
+Dani: Immagina di avere due livellidi personaggi! Il livello A e il livello B. Il livello A contiene i personaggi più importati. Questi 100 personaggi sono progettati, truccati e creati completamente a mano. E poi abbiamo i personaggi del livello B. Questi sono creati usando questa tecnologia straordinaria che ci aiuta nel processo.
 
 179
 00:23:45,000 --> 00:24:03,210
-Kai: Okay, that makes sense. Now about animations. I'll ask Gerard all the details, but you will let us know what your general process and pipeline is for making like people and creatures move. Are you handcrafting keyframe animations? Motion or performance capturing? Procedural animations? Fancy deep learning stuff?
+Kai: D'accordo, ha senso. Ora a proposito di animazioni. Chiederò a Gerard tutti i dettagli, ma ci faresti sapere qual è il vostro processo generale e la pipeline per far muovere persone e creature. State realizzandro animazioni con fotogrammi chiave a mano? Cattura del movimento? Animazioni procedurali? Cose da deep learning?
 
 180
 00:24:03,240 --> 00:24:26,300
-Dani: Yeah, I'm sure Gerard can be more specific on that topic, but I can tell you we are using all of those cases you mentioned. (Kai: Aha.) Handcrafted keyframe animations? Check. Procedural? Check. Motion capture? Well, you should see the actors screaming and fighting in the recording zone. It's pretty crazy when an Amazon guy enters the studio to deliver something and is received by a guy is screaming, holding a weapon.
+Dani: Sì, sono sicuro che Gerard saprà essere più specifico su questo argomento, ma posso dirti che stiamo usando tutte le cose che hai menzionato. (Kai: Aha.) Animazioni con fotogrammi chiave a mano? Fatto. Procedurali? Fatto. Cattura del movimento? Beh, dovresti vedere gli attori urlare e combatere nella zona registrazioni. È un po' assurdo quando un ragazzo di Amazon entra nello studio per consegnare qualcosa ed è accolto da un tizio che urla, impugnando un'arma.
 
 181
 00:24:26,300 --> 00:24:39,110
-Dani: And deep learning stuff? Also check. It's a complicated process because we have tons of creatures, characters, complicated environments and interactions, but in the end, we hope everything will turn out all right.
+Dani: E la roba da deep learning? Anch'essa fatta. È un processo complicato perché abbiamo tonnellate di creature, personaggi, ambienti e interazioni complicati, ma alla fine, speriamo che tutto si sistemerà.
 
 182
 00:24:39,130 --> 00:24:41,200
-Kai: Ha! Caught your little Gothic 2 quote there!
+Kai: Ha! Ho colto la tua piccola citazione di Gothic 2!
 
 183
 00:24:41,220 --> 00:24:44,050
-Reinhard: All right. Here we are in the New Camp cave.
+Reinhard: Va bene. Eccoci nella caverna di Campo Nuovo.
 
 184
 00:24:44,060 --> 00:24:53,250
-Kai: Yes. Wonderful! Gosh, it means so much to me. Seeing all these places recreated so accurately and yet improved in such a fantastic way.
+Kai: Sì. Meraviglioso! Caspita, significa tanto per me. Vedere tutti questi posti ricreati così accuratamente e al tempo stesso migliorati in modo così fantastico.
 
 185
 00:24:53,280 --> 00:24:56,020
-Dani: Thank you so much. I'm glad you like it.
+Dani: Grazie mille. Sono felice che ti piaccia.
 
 186
 00:24:56,040 --> 00:24:57,000
-Kai: I love it!
+Kai: Lo adoro!
 
 187
 00:24:57,070 --> 00:25:01,270
-Dani: And apparently you've already made new music, right? I can hear it playing in the background.
+Dani: E a quanto pare hai già preparato una nuova musica, vero? La sento suonare in sottofondo.
 
 188
 00:25:02,030 --> 00:25:02,140
-Kai: Yeah.
+Kai: Sì.
 
 189
 00:25:02,180 --> 00:25:05,060
-Reinhard: Shall we end this episode with some music?
+Reinhard: Dovremmo finire questo episodio con un po' di musica?
 
 190
 00:25:05,090 --> 00:25:17,000
-Kai: Okay, let's do it. But first we have to meet Timur for some community questions, right? (Dani and Reinhard: Oh, yeah.) Oh, there he is. Hey, Timur! (Timur: Hey Kai.) So what's going on in the community?
+Kai: D'accordo, facciamolo. Ma prima dobbiamo incontrare Timur per alcune domande della community, giusto? (Dani e Reinhard: Oh, sì.) Oh, eccolo lì. Ehi, Timur! (Timur: Ehi Kai.) Come vanno le cose nella community?
 
 191
 00:25:17,020 --> 00:25:22,000
-Reinhard: Our community's dying to find out more about the game. I have some questions prepared.
+Reinhard: La nostra community muore dalla voglia di sapere di più sul gioco. Ho preparato alcune domande.
 
 192
 00:25:22,060 --> 00:25:23,200
-Kai: That's great. Bring it on.
+Kai: È fantastico. Fatevi sotto.
 
 193
 00:25:23,220 --> 00:25:37,060
-Reinhard: So here is a question from our moderator, Drago. Will the items that the player equips appear on the character itself? Secifically rings or amulets? Like, ... in original they were invisible.
+Reinhard: Quindi ecco una domanda dal nostro moderatore, Drago. Gli oggetti che il giocatore equipaggerà appariranno sul personaggio stesso? Precisamente anelli o amuleti? Tipo, ... nell'originale erano invisibili.
 
 194
 00:25:37,080 --> 00:25:38,080
-Kai: Reinhard, go for it.
+Kai: Reinhard, vai pure.
 
 195
 00:25:38,100 --> 00:25:57,800
-Reinhard: Okay, so ... The thing is, I mean rings and amulets, you usually don't really see them because there's always some piece of cloth and armor above them. So you won't necessarily see those. But for all other things that kind of are like a little bigger, you will see them on the character. (Kai: Nice!)
+Reinhard: D'accordo, allora... Il fatto è che, voglio dire, gli anelli e gli amuleti di solito non si vedono perché c'è sempre un pezzo di vestito e un'armatura sopra di loro. Quindi non li vedrai necessariamente. Ma per tutte le altre cose che sono un po' più grandi, le vedrai sul personaggio. (Kai: Bello!)
 
 196
 00:25:57,800 --> 00:26:04,150
-Timur: Yeah, thank you. And one of the most popular questions in our community is: When is the gameplay footage coming?
+Timur: Sì, grazie. E una delle domande più popolari della community è: Quando arriveranno i filmati di Gameplay?
 
 197
 00:26:04,150 --> 00:26:10,250
-Reinhard: Oh, yeah. Gameplay. So the idea is to show it at, like, the THQ Nordic Showcase in August.
+Reinhard: Oh, Sì. Gameplay. L'idea è di mostrarli allo Showcase di THQ Nordic ad Agosto.
 
 198
 00:26:10,270 --> 00:26:12,170
-Kai: Oh, yes. Finally.
+Kai: Oh, sì. Finalmente.
 
 199
 00:26:12,190 --> 00:26:35,060
-Reinhard: Oh, I'm sure they will love it. And one more question from our moderator LurkerShnig: How will the dialog system work? Will there be a smooth transition between the moment when you press an action button and when the dialog begins? (Reinhard: So...) Or will it be closer to Elex, for example?
+Reinhard: Oh, sono sicuro che lo adoreranno. E un'altra domanda dal nostro moderatore LurkerShnig: Come funzionerà il sistema di dialogo? Ci sarà una transizione fluida tra il momento in cui si preme un pulsante di azione e l'inizio del dialogo? (Reinhard: Quindi...) O sarà più simile a quello di Elex, per esempio?
 
 200
 00:26:35,080 --> 00:26:54,900
-Reinhard: Going from gameplay to a dialog scene will be smooth and seamless. So we don't have any like fake scene that we set up, but we are applying some tricks. So for example, we use like very special lighting conditions and we obviously have a special rule set for the cameras so that we capture the emotions and the characters in the best possible way.
+Reinhard: Il passaggio dal gameplay a una scena di dialogo sarà fluido e senza interruzioni. Quindi non abbiamo una scena fittizia che abbiamo allestito, ma stiamo applicando alcuni trucchi. Per esempio, usiamo condizioni di illuminazione molto particolari e ovviamente abbiamo un set di regole speciali per le telecamere, in modo da catturare le emozioni e i personaggi nel miglior modo possibile.
 
 201
 00:26:54,900 --> 00:27:02,000
-Timur: Thank you for the answer. By the way, we have never heard about this one: When is the gameplay footage coming?
+Timur: Grazie per la risposta. Aproposito, non abbiamo mai sentito parlare di questa: Quando arriveranno i filmati di gioco?
 
 202
 00:27:02,000 --> 00:27:25,180
-Reinhard: Oh yeah, it's August. We're showing it in August at the THQ Nordic Showcase.
+Reinhard: Oh sì, ad Agosto. Li mostreremo ad Agosto nello Showcase di THQ Nordic.
 
 203
 00:27:06,000 --> 00:27:20,200
-Timur: Oh, okay. And one more question from our active user Hombre: "How will the diary or the journal look like? Will it be closer to Gothic 1 or 2 or something closer to Gothic 3?"
+Timur: Oh, d'accordo. E un'altra domanda dal nostro utente attivo Hombre: "Come sarà il diario o la lista missioni? Sarà più simile a Gothic 1 e 2 o qualcosa di simile a Gothic 3?"
 
 204
 00:27:20,300 --> 00:27:35,190
-Reinhard: I would say the diary is kind of like inspired by Gothic 1 and 2. So it's not like just a copy of what we just heard, like in Gothic three, but it's in some ways it's, the hero is really taking actual notes.
+Reinhard: Direi che il diario è qualcosa di più ispirato a Gothic 1 e 2. Quindi non sarà una semplice copia di quello che abbiamo appena sentito, come in Gothic 3, ma in qualche modo è come se l'eroe stesse prendendo realmente appunti.
 
 205
 00:27:35,210 --> 00:27:36,100
-Kai: Interesting.
+Kai: Interessante.
 
 206
 00:27:36,100 --> 00:27:42,700
-Timur: Yeah, great! Oh, and before I forget... When is the gameplay footage dropping?
+Timur: Sì, fantastico! Oh, e prima che mi dimentichi... Quando uscirà il filmato di gameplay?
 
 207
 00:27:42,700 --> 00:27:53,150
-Reinhard: Right, gameplay footage! So we are showing our gameplay footage for the very first time to the public in August this year at the THQ Nordic Showcase. Tune in!
+Reinhard: Giusto, il filmato di gameplay! Mostreremo il filmato di gameplay per la prima volta al pubblico ad Agosto di quest'anno, allo Showcase di THQ Nordic. Restate sintonizzati!
 
 208
 00:27:53,170 --> 00:27:59,220
-Kai: So I guess we'll see you all there then in the livestream. Timur, thanks a lot for bringing those questions.
+Kai: Allora ci vediamo tutti lì, alla livestream. Timur, grazie mille per le domande.
 
 209
 00:27:59,240 --> 00:28:00,170
-Timur: Yeah. Thank you.
+Timur: Sì. Grazie.
 
 210
 00:28:00,240 --> 00:28:03,060
-Kai: Dani, thank you so much for your time. That was great.
+Kai: Dani, grazie mille per il tuo tempo. È stato fantastico.
 
 211
 00:28:03,060 --> 00:28:04,190
-Dani: Thank you. And likewise.
+Dani: Allo stesso modo, grazie a te.
 
 212
 00:28:04,200 --> 00:28:10,070
-Reinhard: Okay, turn up the music. I'll show you around. Thanks. See you all in the next episode.
+Reinhard: D'accordo, accendi la musica. Vi faccio fare un giro. Grazie, grazie a tutti. Ci vediamo nella prossima puntata.
 
 213
 00:28:10,300 --> 00:28:14,000
-All: Bye bye, everyone. Take care.
+All: Ciao a tutti. Statemi bene.
 
