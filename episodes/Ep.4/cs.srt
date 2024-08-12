@@ -1,94 +1,94 @@
 1
 00:00:27,140 --> 00:00:30,120
-Xardas: Chapter Four.
+Xardas: Kapitola Čtvrtá.
 
 2
 00:00:30,150 --> 00:00:54,030
-Reinhard: Welcome to the Gothic 1 Remake podcast. I'm Reinhard Pollice, and for the first time listeners, I'm the founder and studio director at Alkimia Interactive. And I'm waiting for our composer, Kai Rosenkranz. I'm in the Old Camp Castle, and Kai should be here any minute. While we were waiting... Let me start with saying thank you to all you many listeners out there.
+Reinhard: Vítejte u Gothic 1 Remake podcastu. Jmenuji se Reinhard Pollice a pro nové posluchače, jsem zakladatel a ředitel studia Alkimia Interactive. A momentálně čekám na našeho skladatele, Kaie Rosenkranze. Jsem na hradě ve Starém Táboře, a Kai by tu měl být každou minutou. Takže, když už tu čekáme... Rád bych začal poděkováním a to Vám všem co posloucháte tento podcast.
 
 3
 00:00:54,060 --> 00:01:06,240
-Reinhard: We enjoy taking the time out of our normal schedules to stroll around in the colony and chat about the development of the Gothic 1 Remake, and it's so much more fun knowing that you guys actually enjoy it. So thanks for following along.
+Reinhard: Rádi si bereme čas z naší pracovní doby, jen abychom bloumali po Kolonii a bavili se o vývoji Gothic 1 Remakeu, a je to o to lepší, když víme, že i vy si to užíváte. Takže děkujeme, že nás doprovázíte na naší procházce.
 
 4
 00:01:06,280 --> 00:01:09,290
-Kai: Whew, I'm here! Sorry I'm late.
+Kai: Uh, už jsem zde! Omlouvám se za zpoždění.
 
 5
 00:01:10,010 --> 00:01:13,090
-Reinhard: No worries. We just started.
+Reinhard: O nic jsi nepřišel. Akorát jsme začali.
 
 6
 00:01:13,110 --> 00:01:19,020
-Kai: Thorus wouldn't let me into the castle set. I had to convince him that I'm actually the composer for the remake.
+Kai: Thorus mě nechtěl pustit do hradu. Musel jsem ho přesvědčit, že jsem opravdu hudebním skladatelem pro Remake.
 
 7
 00:01:19,050 --> 00:01:22,090
-Reinhard: Oh, my. How did you do it?
+Reinhard: Oh. A jak jsi ho přesvědčil?
 
 8
 00:01:22,120 --> 00:01:28,090
-Kai: Let's just say I didn't need those 1.000 ore anyways. So it's good I don't have to carry them around all day.
+Kai: Řekněme, že jsem vážně nepotřeboval ten 1000 rudy. Takže jsem rád, že se s nimi nemusím celý den tahat.
 
 9
 00:01:28,120 --> 00:01:37,100
-Reinhard: Ha! He takes his job really very seriously. Dani, come on over here. He's here.
+Reinhard: CHE! Bere se až moc vážně. Dani, pojď blíž. Už přišel.
 
 10
 00:01:37,130 --> 00:01:38,260
-Dani: Hey, guys. What's up?
+Dani: Zdravím, panové. Co je?
 
 11
 00:01:38,290 --> 00:01:41,120
-Reinhard: Welcome to the podcast, Dani. (Kai: Hi.)
+Reinhard: Vítej v podcastu, Dani. (Kai: Čau.)
 
 12
 00:01:41,180 --> 00:01:44,010
-Dani: Hey, Kai. Do you actually sleep in the Old Camp ring?
+Dani: Hej, Kai. Vážně přespáváš ve vnějším okruhu Starého Tábora?
 
 13
 00:01:44,030 --> 00:01:47,280
-Kai: Yes. It was a dream come true. I always wanted to do it.
+Kai: Ano, tak. Vždy jsem o tom snil. Tak jsem využil příležitosti si svůj sen vyplnit.
 
 14
 00:01:48,000 --> 00:01:50,280
-Dani: But which hut where you sleeping in?
+Dani: A ve které chatce jsi prosímtě přespával?
 
 15
 00:01:51,000 --> 00:01:56,000
-Kai: I know there was a hut for me near the arena, but Mud ended up being very persistent.
+Kai: Vím, že pro mě byla volná chatrč poblíže arény, ale Mud se ukázal býti až moc vytrvalý.
 
 16
 00:01:56,050 --> 00:02:02,270
-Reinhard: Okay, I won't ask then if you got any rest or if he had some more questions for you.
+Reinhard: Dobrá, nezeptám se, jestli jsi se vůbec vyspal, či zda měl na tebe ještě další otázky.
 
 17
 00:02:03,000 --> 00:02:07,080
-Kai: No. Not really. No. So have you already been introduced?
+Kai: Ne. Moc ne. Ne. Takže jsi už byla představen??
 
 18
 00:02:07,100 --> 00:02:08,180
-Dani: Me? Not yet.
+Dani: Já? Ještě ne.
 
 19
 00:02:08,200 --> 00:02:14,230
-Reinhard: Right! So this is Daniel Candil, our art director. Thanks for joining us in this episode.
+Reinhard: Správně! Takže s náni tu je Daniel Candil, náš umělecký ředitel. Jsem vděčný, že jsi se k nám mohl na tuto epizodu připojit.
 
 20
 00:02:14,250 --> 00:02:16,070
-Dani: It's my pleasure.
+Dani: Potěšení na mé straně.
 
 21
 00:02:16,090 --> 00:02:24,240
-Reinhard: So let's climb up to the tower. What better place to talk about the visual side of the game than up there, where we can have a great view over the whole world?
+Reinhard: Tak pojďme do věže. Nemyslím si, že by se zde našlo lepší místo na konverzaci o vizuálu hry, než tam nahoře, odkud máme krásný výhled na celou Kolonii?
 
 22
 00:02:24,270 --> 00:02:26,200
-Dani: Oh, yeah. That sounds great.
+Dani: Oh yeah! To zní dobře.
 
 23
 00:02:30,000 --> 00:02:32,040
-Kai: What does an art director do exactly?
+Kai: Co přesně takový umělecký ředitel dělá?
 
 24
 00:02:32,060 --> 00:03:05,140
