@@ -4,7 +4,7 @@ Xardas: Kapitola Čtvrtá.
 
 2
 00:00:30,150 --> 00:00:54,030
-Reinhard: Vítejte u Gothic 1 Remake podcastu. Jmenuji se Reinhard Pollice a pro nové posluchače, jsem zakladatel a ředitel studia Alkimia Interactive. A momentálně čekám na našeho skladatele, Kaie Rosenkranze. Jsem na hradě ve Starém Táboře, a Kai by tu měl být každou minutou. Takže, když už tu čekáme... Rád bych začal poděkováním a to Vám všem co posloucháte tento podcast.
+Reinhard: Vítejte u Gothic 1 Remake podcastu. Jmenuji se Reinhard Pollice a pro nové posluchače, jsem zakladatel a ředitel studia Alkimia Interactive. Momentálně čekám na našeho skladatele, Kaie Rosenkranze. Jsem na hradě ve Starém Táboře, a Kai by tu měl být každou chvili. Takže, když už tu čekáme... Rád bych začal poděkováním a to Vám všem co posloucháte tento podcast.
 
 3
 00:00:54,060 --> 00:01:06,240
@@ -32,7 +32,7 @@ Kai: Řekněme, že těch 1000 kusů rudy jsem nakonec ani nepotřeboval.. Takž
 
 9
 00:01:28,120 --> 00:01:37,100
-Reinhard: CHE! Bere se až moc vážně. Dani, pojď blíž. Už přišel.
+Reinhard: CHE! Bere se až moc vážně. Dani, pojď sem. Kai přišel.
 
 10
 00:01:37,130 --> 00:01:38,260
@@ -84,7 +84,7 @@ Reinhard: Tak pojďme do věže. Nemyslím si, že by se zde našlo lepší mís
 
 22
 00:02:24,270 --> 00:02:26,200
-Dani: Oh yeah! To zní dobře.
+Dani: Ano, to zní dobře.
 
 23
 00:02:30,000 --> 00:02:32,040
@@ -404,7 +404,7 @@ Dani: Možná Elena něco ví.
 
 102
 00:13:23,200 --> 00:13:24,060
-Reinhard: Yes!
+Reinhard: Ano!
 
 103
 00:13:24,070 --> 00:13:27,200
