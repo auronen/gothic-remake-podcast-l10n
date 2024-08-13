@@ -8,7 +8,7 @@ Reinhard: Vítejte u Gothic 1 Remake podcastu. Jmenuji se Reinhard Pollice a pro
 
 3
 00:00:54,060 --> 00:01:06,240
-Reinhard: Rádi si bereme čas z naší pracovní doby, jen abychom bloumali po Kolonii a bavili se o vývoji Gothic 1 Remakeu, a je to o to lepší, když víme, že i vy si to užíváte. Takže děkujeme, že nás doprovázíte na naší procházce.
+Reinhard: Rádi si bereme čas z naší pracovní doby, jen abychom bloumali po Kolonii a bavili se o vývoji Gothic 1 Remake, a je to o to lepší, když víme, že i vy si to užíváte. Takže děkujeme, že nás doprovázíte na naší procházce.
 
 4
 00:01:06,280 --> 00:01:09,290
@@ -28,7 +28,7 @@ Reinhard: Oh. A jak jsi ho přesvědčil?
 
 8
 00:01:22,120 --> 00:01:28,090
-Kai: Řekněme, že jsem vážně nepotřeboval ten 1000 rudy. Takže jsem rád, že se s nimi nemusím celý den tahat.
+Kai: Řekněme, že těch 1000 kusů rudy jsem nakonec ani nepotřeboval.. Takže jsem rád, že se s nimi nemusím celý den tahat.
 
 9
 00:01:28,120 --> 00:01:37,100
@@ -48,7 +48,7 @@ Dani: Hej, Kai. Vážně přespáváš ve vnějším okruhu Starého Tábora?
 
 13
 00:01:44,030 --> 00:01:47,280
-Kai: Ano, tak. Vždy jsem o tom snil. Tak jsem využil příležitosti si svůj sen vyplnit.
+Kai: Ano, tak. Vždy jsem o tom snil. Tak jsem využil příležitosti si svůj sen splnit.
 
 14
 00:01:48,000 --> 00:01:50,280
@@ -60,11 +60,11 @@ Kai: Vím, že pro mě byla volná chatrč poblíže arény, ale Mud se ukázal 
 
 16
 00:01:56,050 --> 00:02:02,270
-Reinhard: Dobrá, nezeptám se, jestli jsi se vůbec vyspal, či zda měl na tebe ještě další otázky.
+Reinhard: Dobrá, nebudu se ptát, jestli jsi se vůbec vyspal, či zda měl na tebe ještě další otázky.
 
 17
 00:02:03,000 --> 00:02:07,080
-Kai: Ne. Moc ne. Ne. Takže jsi už byla představen??
+Kai: Ne. Moc ne. Ne. Takže už jsi byl představen?
 
 18
 00:02:07,100 --> 00:02:08,180
@@ -72,7 +72,7 @@ Dani: Já? Ještě ne.
 
 19
 00:02:08,200 --> 00:02:14,230
-Reinhard: Správně! Takže s náni tu je Daniel Candil, náš umělecký ředitel. Jsem vděčný, že jsi se k nám mohl na tuto epizodu připojit.
+Reinhard: Správně! Takže s námi tu je Daniel Candil, náš umělecký ředitel. Jsem vděčný, že jsi se k nám mohl na tuto epizodu připojit.
 
 20
 00:02:14,250 --> 00:02:16,070
@@ -92,315 +92,315 @@ Kai: Co přesně takový umělecký ředitel dělá?
 
 24
 00:02:32,060 --> 00:03:05,140
-Dani: Well. Good question. In general, we could say that the art director in a video game is the driving force behind the game's aesthetics. But more than that, the job for an art director is about crafting and creating coherence in the game's aesthetic vision. In our case, I would say that I work within an incredible team of artists and I am just a responsible for defining and overseeing the visual direction of the game, or ensuring all visual aspects from characters and settings to environments, the color, or even the light, or even the user interface.
+Dani: No. Dobrá otázka. Obecně by se dalo říct, že umělecký ředitel ve videohře je hnací silou estetiky hry. Ale i více než to, práce uměleckého ředitele spočívá v tvorbě a zajištění soudržnosti estetické vize hry. V našem případě bych řekl, že pracuji v neuvěřitelném týmu grafiků a jsem zodpovědný za definování a dohled nad vizuálním směřováním hry, neboli za zajištění všech vizuálních aspektů od postav a kulis až po prostředí, barvy, nebo dokonce světlo, či dokonce uživatelské rozhraní.
 
 25
 00:03:05,160 --> 00:03:29,190
-Dani: Everything is aligning within unified vision. (Kai: M-hm.) And maybe you could think, okay then, so you spend your day modeling and doing cool 3D or 2D art. And yes... and no. Because the art director is also tasked with guiding and supervising the team of artists. And this can include reviewing our work, providing feedback, ensuring the game's vision remains consistent. And the most important part...
+Dani: Všechno je v souladu s jednotnou vizí. (Kai: M-hm.) A možná byste si mohli říct: Dobře, takže tedy trávíte den modelováním a děláním cool 3D nebo 2D grafiky. A ano... a ne. Protože umělecký ředitel má také za úkol vést a dohlížet na tým umělců. A to může zahrnovat přezkoumávání naší práce, poskytování zpětné vazby, zajištění konzistentní vize hry. A to nejdůležitější...
 
 26
 00:03:29,210 --> 00:03:42,220
-Dani: I need to be capable of motivating and steering the amazing team of artists with different specialties we have here at Alkimia. So, I could go hours and hours because, you know, art is my passion, but I think you get the point.
+Dani: Musím být schopný motivovat a řídit úžasný tým umělců s různými specializacemi, který v Alkimii máme. Takže bych mohl mluvit hodiny a hodiny, protože umění je moje vášeň, ale myslím, že už tomu rozumíte.
 
 27
 00:03:42,250 --> 00:03:45,020
-Kai: Yes, absolutely. Thank you.
+Kai: Ano, naprosto. Díky.
 
 28
 00:03:45,040 --> 00:03:53,100
-Reinhard: So, this episode might be a bit challenging since we'll have to talk about visual aspects in a podcast. How do we go about this?
+Reinhard: Tento díl bude možná trochu náročný, protože v podcastu budeme muset mluvit o vizuálních aspektech. Jak na to půjdeme?
 
 29
 00:03:53,120 --> 00:03:59,120
-Dani: Well, some visual material is already out there. So we can talk about that and people can look at it while we do.
+Dani: No, nějaký vizuální materiál už existuje. Takže můžeme mluvit o tom a lidé se na to mohou dívat, zatímco my budeme mluvit.
 
 30
 00:03:59,180 --> 00:04:04,160
-Kai: Yeah. Great idea. For example, the Old Mine was shown in the Old Mine teaser quite a while ago.
+Kai: Jo. Skvělý nápad. Například Starý důl byl před časem ukázán v teaseru na Starý důl.
 
 31
 00:04:04,220 --> 00:04:07,090
-Reinhard: We showed off the Old Camp in a trailer too.
+Reinhard: Starý tábor jsme také ukázali v traileru.
 
 32
 00:04:07,120 --> 00:04:09,030
-Dani: Yeah, that's a good starting point.
+Dani: Jo, to je dobrý začátek.
 
 33
 00:04:09,050 --> 00:04:19,040
-Kai: So, we are in the Old Camp - in the castle, to be precise - so why not use this to explain the creation process of, for example, the characters and the armors and your role in it?
+Kai: Takže, nacházíme se ve Starém táboře - přesněji řečeno na hradě - tak proč toho nevyužít k vysvětlení procesu tvorby, například postav a zbrojí, a tvé role v tom všem?
 
 34
 00:04:19,060 --> 00:04:38,250
-Dani: So, well, everything starts with a complete analysis of what was previously done. Remember that we are doing a very faithful remake. So first we need to understand the decisions made back in the day and if those can work in today's world. So we are trying to modernize what should be modernized, but maintaining the essence of what should be maintained.
+Dani: Takže všechno začíná kompletní analýzou toho, co bylo udělané již dříve. Nezapomeňte, že děláme velmi věrný remake. Takže nejprve musíme pochopit tehdejší rozhodnutí a zjistit, zda mohou fungovat v dnešním světě. Takže se snažíme modernizovat to, co by mělo být modernizováno, ale se zachováním podstaty toho, co by mělo být zachováno.
 
 35
 00:04:39,000 --> 00:04:59,260
-Dani: I mean, the idea is you will see a shadow and you will recognize it as a shadow. And when we finish that process, an artist starts creating concepts, gathering information, and once the design is approved, we go to the high model phase. Then we bake everything into an in-game model, we texture it. Remember: We are aiming always for very high detail armors.
+Dani: Jde o to, že když uvidíte Stína, poznáte ho jako Stína. A když tento proces dokončíme, výtvarník začne vytvářet koncepty, shromažďovat informace, a jakmile je návrh schválen, přejdeme do fáze špičkového modelu. Pak vše vypálíme do herního modelu a otexturujeme ho. Nezapomeňte: Naším cílem je vždy velmi detailní brnění.
 
 36
 00:04:59,290 --> 00:05:07,000
-Dani: And once the process is done, we integrate the pieces into the engine where we finish polishing and tweaking the final look.
+Dani: A jakmile je proces dokončen, integrujeme jednotlivé části do enginu, kde doděláme finální ladění a úpravu vzhledu.
 
 37
 00:05:07,020 --> 00:05:12,120
-Kai: And very successfully indeed. It looks fantastic in the game.
+Kai: A skutečně velmi úspěšně. Ve hře to vypadá fantasticky.
 
 38
 00:05:12,140 --> 00:05:16,080
-Reinhard: There we are at the top of the old camp tower.
+Reinhard: Právě se nacházíme na vrcholu věže Starého tábora.
 
 39
 00:05:16,100 --> 00:05:20,200
-Kai: Oh, wow, look at that. What a view.
+Kai: Páni, podívej se na to. To je ale výhled.
 
 40
 00:05:20,220 --> 00:05:25,070
-Dani: Yeah, it's pretty neat. Just ignore the missing pieces of landscape over there, right?
+Dani: Jo, je to dost parádní. Jen si nevšímej těch chybějících kousků terénu támhle, dobře?
 
 41
 00:05:25,090 --> 00:05:27,120
-Kai: (laughs) Sure.
+Kai: (směje se) Jistě.
 
 42
 00:05:27,140 --> 00:05:33,200
-Reinhard: Ehm, how many people are actually working in the art department here at Alkimia? And what sort of roles do we have in here?
+Reinhard: Ehm, kolik lidí vlastně pracuje v uměleckém oddělení Alkimie? A jaké role tu máme?
 
 43
 00:05:33,220 --> 00:06:00,000
-Dani: Yeah, we are a lot of people, man. I mean, more than 30 working as I would define as the in-house team. But at the same time, we are working with different external outsourcing studios. So the number of artists involved in this is pretty high. And about roles here: We have from 2D artist to 3D artist, people who are more into character creation, people into environment, art, tech artists, lighting artists, effects artists, animators, riggers, cinematic artists.
+Dani: Jo, je nás tu fakt spousta. Myslím, že více než 30 lidí, kteří pracují jako interní tým. Ale zároveň spolupracujeme s různými externími studii. Takže počet umělců, kteří se na tom podílejí, je dost vysoký. A co se týče rolí: Máme tu od 2D umělců po 3D umělce, lidi, kteří se věnují spíše tvorbě postav, lidi, kteří se věnují prostředí, výtvarníky, technické umělce, grafiky zabývající se osvětlením, tvůrce efektů, animátory, filmové umělce.
 
 44
 00:06:00,200 --> 00:06:06,010
-Dani: And the last time, believe me, the ones who save my life day after day: We have two amazing art coordinators.
+Dani: A naposled, věřte mi, ti, kteří mi den co den zachraňují život: Máme dva úžasné umělecké koordinátory.
 
 45
 00:06:06,030 --> 00:06:17,200
-Kai: Yeah, I can imagine getting some of that coordination hassle off of your own personal desk is really helpful. (Dani: Yes.) By the way, from up here you can pretty much see all of the magic barrier.
+Kai: Ano, dokážu si představit, že je velmi užitečné, když se zbavíš některých koordinačních problémů na svém pracovním stole. (Dani: Ano.) Mimochodem, odsud shora je vidět na celá magická bariéra.
 
 46
 00:06:17,220 --> 00:06:23,210
-Dani: Oh, the barrier, man. It's always there. Like... alive, like... breathing. (Kai: Yeah.) Remembering us we are trapped!
+Dani: Ach, ta bariéra, čéče. Pořád tam je. Jako... živá, jako... dýchající. (Kai: Jo.) Připomíná nám, že jsme uvězněni!
 
 47
 00:06:23,230 --> 00:06:26,040
-Kai: Yeah, that that as well.
+Kai: Jo, to taky.
 
 48
 00:06:26,060 --> 00:06:33,190
-Reinhard: So, Dani, which specific piece of art for the Gothic 1 Remake are you most proud of - for now?
+Reinhard: Dani, na který konkrétní umělecký kousek pro Gothic 1 Remake jsi prozatím nejvíce hrdý?
 
 49
 00:06:33,210 --> 00:06:47,160
-Dani: Well, all of the pieces done have a special place in my heart, you know? But I cannot wait to see people walking through the New Camp. The rice fields... I love it! I love that place. And I have a very good feeling about Xardas' tower. You will see.
+Dani: No, všechny ty kousky mají v mém srdci zvláštní místo, víš? Ale už se nemůžu dočkat, až uvidím lidi procházet Novým táborem. Rýžová pole... Ty miluju! Miluju to místo. A z Xardasovy věže mám velmi dobrý pocit. Uvidíte.
 
 50
 00:06:47,190 --> 00:07:01,100
-Kai: Yeah, I think I know what you mean. I've been in both of Xardas' towers just recently to place some sound effects and... yeah! Yeah yeah yeah yeah. And which part of the asset creation turned out to be the most challenging so far?
+Kai: Jo, myslím, že vím, co myslíš. Zrovna nedávno jsem byl v obou Xardasových věžích, abych tam umístil nějaké zvukové efekty a... jo! Jo, jo, jo, jo. A která část tvorby grafických prvků se zatím ukázala jako nejnáročnější?
 
 51
 00:07:01,130 --> 00:07:18,140
-Dani: The characters, no doubt. We are trying to push our boundaries here. And we will have thousands of characters and we are trying to make each one of them unique. So imagine the work behind this. The good thing is that we have our sister company, Gate 21, helping us with that fight. So I'm convinced together will rise to victory. (Kai: Yeah.)
+Dani: Postavy, bezpochyby. Snažíme se zde posouvat naše hranice. Budeme mít tisíce postav a snažíme se, aby každá z nich byla jedinečná. Takže si představte tu práci, která za tím stojí. Dobré je, že nám s tímto bojem pomáhá naše sesterská společnost Gate 21. Takže jsem přesvědčen, že se společně vyšvihneme k vítězství. (Kai: Ano.)
 
 52
 00:07:18,180 --> 00:07:32,110
-Reinhard: Thanks. Very interesting. As you all know, the first thing people saw from the remake was the playable teaser. After that, we started from scratch and transitioned over to a new, more dark visual esthetics.
+Reinhard: Díky. Velmi zajímavé. Jak všichni víte, první, co lidé z remaku viděli, byl hratelný teaser. Poté jsme začali od nuly a přešli na novou, temnější vizuální estetiku.
 
 53
 00:07:32,130 --> 00:07:33,200
-Dani: Yeah, completely.
+Dani: Jo, naprosto.
 
 54
 00:07:33,220 --> 00:07:37,180
-Reinhard: What was the process like and how would you describe the new style?
+Reinhard: Jaký byl proces tvorby a jak bys popsal ten nový styl?
 
 55
 00:07:37,200 --> 00:07:57,210
-Dani: Yeah, on the PT - well, the Playable Teaser - we were trying to move things into a different direction. I think it has been said, but we wanted to discover the limits and see what people wanted and how far we should go. Was there a remake or was a complete reimagination of the story more in line with a modern and colorful and cheery approach?
+Dani: Jo, v PT - tedy v hratelném teaseru - jsme se snažili posunout věci jiným směrem. Myslím, že to už bylo řečeno, ale chtěli jsme objevit hranice a zjistit, co lidé chtějí a kam až bychom měli zajít. Mělo jít o remake, nebo o kompletní předělání příběhu, které by více odpovídalo modernímu, barevnému a veselému přístupu?
 
 56
 00:07:57,240 --> 00:08:22,180
-Dani: Or maybe we should go deeper into the darkness, gritty, believable and moody atmosphere of the original has, respecting what made Gothic so special? Well, now the answer should be clear because we asked the community and they showed us the right path. So this time we're going for something darker. Definitely more grounded, realistic, even gritty. I wouldn't say depressive, but definitely not lush or cheer as the PT was.
+Dani: Nebo bychom snad měli jít hlouběji do temnoty, drsné, uvěřitelné a pochmurné atmosféry originálu a respektovat to, co dělalo Gothic tak výjimečným? No, teď už by měla být odpověď jasná, protože jsme se zeptali komunity a ta nám ukázala správnou cestu. Takže tentokrát se vydáváme za něčím temnějším. Rozhodně uzemněnější, realističtější, a dokonce i drsnější. Neřekl bych depresivní, ale rozhodně ne bujaré nebo rozjásané, jako byl PT.
 
 57
 00:08:22,210 --> 00:08:36,000
-Dani: We want to enhance the original feeling and and as you saw in the trailers, we are following that path, but we have still work to do until we nail the perfect atmosphere. Listening to the fans is an important part here and believe me, we do!
+Dani: Chceme posílit původní atmosféru, a jak jste viděli v trailerech, jdeme touto cestou, ale stále máme co dělat, než se nám podaří vytvořit dokonalou atmosféru. Naslouchání fanouškům je zde důležitou součástí a věřte mi, že nasloucháme!
 
 58
 00:08:36,020 --> 00:08:37,000
-Kai: Oh yeah.
+Kai: Ó, ano.
 
 59
 00:08:37,020 --> 00:08:50,400
-Dani: In terms of style, I would say we are pursuing a "heightened realism", something that feels believable with a very high detail frequency, but that not means necessarily it's real. It just feels like it is.
+Dani: Co se týče stylu, řekl bych, že se snažíme o "umocněný realismus", něco, co působí věrohodně s velmi vysokou mírou detailů, ale to nutně neznamená, že je to skutečné. Jen to tak působí.
 
 60
 00:08:50,500 --> 00:08:56,140
-Kai: Heightened Realism! Okay, gotta put that in my vocabulary book. Do you have like an art Bible?
+Kai: Umocněný realismus! Dobře, tohle si musím zapsat do slovníčku. Máš něco jako uměleckou bibli?
 
 61
 00:08:56,160 --> 00:08:57,160
-Dani: Of course we have it.
+Dani: Jasně, že máme.
 
 62
 00:08:57,190 --> 00:09:00,110
-Kai: Okay. What's that? And what's covered by it?
+Kai: Ok. Co je to? A co všechno to pokrývá?
 
 63
 00:09:00,130 --> 00:09:18,260
-Dani: Sure. I mean, we have in an art bible. And in that bible we cover the use of color, the main shapes for elements, the way we decorate, the visual strategies we use to create environments, the types of materials... It's a very complex document. And the good part is that it's an evolving document that grows naturally with the game.
+Dani: Jistě. Máme přece uměleckou bibli. A v té bibli se zabýváme používáním barev, hlavními tvary prvků, způsobem výzdoby, vizuálními strategiemi, které používáme k vytváření prostředí, druhy materiálů... Je to velmi komplexní dokument. A dobré na tom je, že je to dokument, který se vyvíjí a přirozeně roste spolu s hrou.
 
 64
 00:09:18,280 --> 00:09:26,030
-Kai: That's super interesting! Can you give us an example of something that's in the art bible, and how you translate it into the actual game?
+Kai: To je velmi zajímavé! Můžeš nám dát příklad něčeho, co je v té umělecké bibli, a jak to převádíš do skutečné hry?
 
 65
 00:09:26,050 --> 00:09:47,290
-Dani: Sure. For example, in the art bible we define different strategies of color use or even decoration placement in a way that the viewer can feel the environment are bigger than they really are. And, of course, this is not something we invented. It's something that has been used in theme parks since John Hench defined "The Art of the Show" in the 60s.
+Dani: Jistě. Například, v umělecké bibli definujeme různé strategie použití barev nebo dokonce umístění dekorací tak, aby divák mohl mít pocit, že prostředí je větší, než ve skutečnosti je. To samozřejmě není něco, co bychom vymysleli. Je to něco, co se v zábavních parcích používá už od doby, kdy John Hench v 60. letech definoval "The Art of the Show".
 
 66
 00:09:48,010 --> 00:09:56,080
-Dani: So it's a tested thing, and it works in a real scenario. You can go to Disneyland and see it, and we use this and it just works.
+Dani: Takže je to odzkoušené a funguje to v reálném scénáři. Můžete se jít podívat do Disneylandu, kde se to používá, my to používáme také a prostě to funguje.
 
 67
 00:09:56,110 --> 00:09:58,220
-Kai: Interesting. Thank you for that example.
+Kai: Zajímavé. Díky za tento příklad.
 
 68
 00:09:58,240 --> 00:10:07,150
-Dani: By the way, what comes to your mind when you look around? I mean, anything about this world that you find interesting?
+Dani: Mimochodem, co tě napadne, když se rozhlédneš kolem sebe? Myslím tím něco, co ti na tomto světě připadá zajímavé?
 
 69
 00:10:07,170 --> 00:10:16,060
-Kai: Mmm... It looks beautiful. (Dani: Thanks, man. What else?) It's very diverse and - kind of - varied.
+Kai: Hmm... Vypadá to krásně. (Dani: Díky, chlape. Co dál?) Je to velmi rozmanité a - tak trochu - pestré.
 
 70
 00:10:16,110 --> 00:10:19,170
-Dani: Yes, exactly. You can clearly recognize the different biomes.
+Dani: Ano, přesně tak. Můžeš jasně rozeznat různé biomy.
 
 71
 00:10:19,190 --> 00:10:21,170
-Reinhard: Yeah, absolutely.
+Reinhard: Jo, rozhodně.
 
 72
 00:10:21,190 --> 00:10:25,200
-Dani: Oh... the biomes. So beautiful and at the same time, so challenging.
+Dani: Ach... biomy. Tak krásné a zároveň tak náročné.
 
 73
 00:10:25,270 --> 00:10:38,200
-Kai: Are they still the same biomes as in the OG? Like different tones of brown-gray, but in different types of landscapes? Or have you changed the overall - like - look and vibe of these biomes?
+Kai: Jsou to stále stejné biomy jako v původní hře? Jako třeba různé odstíny hnědošedé, ale v různých typech krajiny? Nebo jste změnili celkový - jakože - vzhled a atmosféru těchto biomů?
 
 74
 00:10:38,220 --> 00:10:58,300
-Dani: The biomes will be the same as in the original. And, of course, we wanted to elevate those differences between them so the player feels - like - transported. Like really immersed into another part of the world, but always maintaining coherence between them. Because in the end, the Valley of the Mines is, well, relatively small.
+Dani: Biomy budou stejné jako v původní hře. A samozřejmě jsme chtěli vyzdvihnout ty rozdíly mezi nimi, aby se hráč cítil - jako - přenesený. Jako by se skutečně ponořil do jiné části světa, ale vždy mezi nimi zachovával soudržnost. Protože koneckonců Hornické údolí je, no, relativně malé.
 
 75
 00:10:58,300 --> 00:11:03,190
-Dani: But, you know, it's all inside the magic barrier. So, is this magic affecting somehow the biomes? We'll see.
+Dani: Ale však víte, všechno je to uvnitř magické bariéry. Takže ovlivňuje ta magie nějak i biomy? Uvidíme.
 
 76
 00:11:03,210 --> 00:11:10,130
-Kai: Oh, look, it starts raining. So the weather system is already in place.
+Kai: Podívej, začíná pršet. Takže systém počasí už funguje.
 
 77
 00:11:10,150 --> 00:11:23,290
-Dani: Of course it is in place! This wouldn't be Gothic without it suddenly starting to rain and ... Hey, you can see diggers going to their huts and looking for a safe spot. The weather system is in place and I expect improvements in the next months.
+Dani: Samozřejmě, že funguje! Nebyl by to Gothic, kdyby najednou nezačalo pršet a ... Hele, tady vidíš, jak kopáči jdou do svých chatek a hledají bezpečné místo. Systém počasí je na místě a v příštích měsících očekávám zlepšení.
 
 78
 00:11:24,010 --> 00:11:46,030
-Reinhard: And the best part: In the remake, all the daily routines are reacting to the weather. Look how they take shelter and how they complain about the weather. But now to something we can't see from up here: We've all seen the Old Mine in the teaser trailer, and people appreciate the accuracy in which it was recreated. What are the things you decided to change about the Old Mine, though, and why?
+Reinhard: A to nejlepší: V remaku všechny denní rutiny reagují na počasí. Podívej se, jak se ukrývají a jak si stěžují na počasí. Ale teď k něčemu, co odsud shora neuvidíme: Všichni jsme viděli Starý důl v teaser traileru a lidé oceňují přesnost, s jakou byl ztvárněn. Co jste se ale rozhodli na Starém dole změnit a proč?
 
 79
 00:11:46,060 --> 00:11:52,060
-Dani: Maybe we should go to the Old Mine while we talk about it. It rains anyway, so it will be more convenient inside.
+Dani: Možná bychom měli jít do Starého dolu, zatímco si o tom budeme povídat. Stejně prší, takže uvnitř to bude pohodlnější.
 
 80
 00:11:52,080 --> 00:11:54,100
-Kai: But that's a long walk through the rain.
+Kai: Ale to je dlouhá procházka v dešti.
 
 81
 00:11:54,180 --> 00:11:56,290
-Dani: Yes, but I came prepared.
+Dani: Ano, ale já přišel připravený.
 
 82
 00:11:58,040 --> 00:11:58,230
-Dani: This should help.
+Dani: Tohle by mělo pomoct.
 
 83
 00:11:58,270 --> 00:12:09,030
-Kai: Whoa whoa whoa whoa whoa. I have never used the Teleportation rune before. I don't think we should... (Reinhard: DANI - WAIT!)
+Kai: Hej, hej, hej, hej, hej. Teleportační runu jsem ještě nikdy nepoužil. Nemyslím si, že bychom měli... (Reinhard: DANI - POČKEJ!)
 
 84
 00:12:09,050 --> 00:12:10,400
-Kai: What the h...
+Kai: Co to do...
 
 85
 00:12:10,400 --> 00:12:18,100
-Reinhard: Shhht! Dani, where exactly did this rune take us to?
+Reinhard: Pšššt! Dani, kam přesně nás ta runa vzala?
 
 86
 00:12:17,000 --> 00:12:19,650
-Dani: Well, usually to the most recent place that...
+Dani: No, obvykle na poslední místo, které...
 
 87
 00:12:19,650 --> 00:12:21,800
-Kai: Dani. Speak quietly!
+Kai: Dani. Mluv potichu!
 
 88
 00:12:21,270 --> 00:12:23,190
-Dani: Damn, this is dark.
+Dani: Sakra, tady je tma.
 
 89
 00:12:23,210 --> 00:12:25,150
-Reinhard: This is the minecrawler queen's lair.
+Reinhard: Tohle je doupě královny důlních červů.
 
 90
 00:12:25,210 --> 00:12:26,120
-Kai: Oh, no.
+Kai: Ale, ne.
 
 91
 00:12:26,130 --> 00:12:30,180
-Dani: Oh, crap. You're right. Be quiet everyone!
+Dani: A sakra. Máš pravdu. Buďte všichni zticha!
 
 92
 00:12:30,200 --> 00:12:33,060
-Kai: Oh crap! (Reinhard: Shhht.)
+Kai: A sakra! (Reinhard: Pšššt.)
 
 93
 00:12:37,090 --> 00:12:46,230
-Kai: No no no no no no no! Javi, hurry! We have an emergency. Sent the Templars to the minecrawler tunnels. Now! (Javi: Oh, okay. Will do!)
+Kai: Ne, ne, ne, ne, ne, ne, ne! Javi, pospěš si! Máme naléhavý problém. Pošli templáře do tunelů důlních červů. Hned! (Javi: Dobře, udělám to!)
 
 94
 00:12:46,250 --> 00:13:03,030
-Dani: Everybody RUN!
+Dani: Všichni utíkejte!
 
 95
 00:13:03,050 --> 00:13:06,100
-Kai: Holy molerat. That was way too close.
+Kai: Do krysokrtího sádla. To bylo příliš těsné.
 
 96
 00:13:06,120 --> 00:13:07,000
-Reinhard: Definitely.
+Reinhard: Rozhodně.
 
 97
 00:13:07,010 --> 00:13:12,100
-Dani: Sorry, guys. Last time I use the rune, it took me to the upper levels. That was just yesterday.
+Dani: Sory, chlapi. Když jsem runu použil naposledy, dostala mě do vyšších úrovní. A to bylo zrovna včera.
 
 98
 00:13:12,200 --> 00:13:18,200
-Kai: Hmmm! But why did someone from the team enter the minecrawler section last night? That part of the mine has long been completed.
+Kai: Hmmm! Ale proč někdo z týmu včera večer vstupoval do sekce s důlními červi? Vždyť ta část dolu je už dávno hotová.
 
 99
 00:13:18,270 --> 00:13:19,170
-Dani: I don't know.
+Dani: To nevím.
 
 100
 00:13:19,190 --> 00:13:21,180
-Reinhard: Go and ask Alberto. We need answers.
+Reinhard: Jdi se zeptat Alberta. Potřebujeme odpovědi.
 
 101
 00:13:21,230 --> 00:13:23,190
-Dani: Maybe Elena knows something.
+Dani: Možná Elena něco ví.
 
 102
 00:13:23,200 --> 00:13:24,060
