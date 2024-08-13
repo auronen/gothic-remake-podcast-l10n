@@ -408,259 +408,259 @@ Reinhard: Ano!
 
 103
 00:13:24,070 --> 00:13:27,200
-Kai: Guys! We're in the middle of recording a podcast episode, remember?
+Kai: Lidi! Jsme uprostřed nahrávání podcastu, pamatujete?
 
 104
 00:13:27,210 --> 00:13:28,090
-Reinhard: Oh, yeah.
+Reinhard: A, tak.
 
 105
 00:13:28,090 --> 00:13:29,040
-Dani: Yeah, right.
+Dani: Máš pravdu.
 
 106
 00:13:29,040 --> 00:13:29,260
-Reinhard: Very true.
+Reinhard: Pravda pravdoucí.
 
 107
 00:13:29,270 --> 00:13:34,050
-Dani: One second! Here, torches for both of you guys.
+Dani: Moment! Tady jsou pochodně pro každého z vás.
 
 108
 00:13:34,080 --> 00:13:36,210
-Kai: Ah, nice! Thank you. (Reinhard: That's handy, thanks.)
+Kai: Pěkné! Díky. (Reinhard: To se hodí, díky.)
 
 109
 00:13:36,230 --> 00:13:40,120
-Kai: Ooh, look at those shadows moving around. Dynamic lighting at its best.
+Kai: Podívej se na ty stíny, jak se pohybují. Špičkové dynamické osvětlení.
 
 110
 00:13:40,180 --> 00:13:42,080
-Dani: Yeah, that looks pretty cool, right?
+Dani: Jo, to vypadá docela dobře, že?
 
 111
 00:13:42,120 --> 00:13:47,120
-Kai: Oh, yes. Can you talk a little bit about your lighting concepts and Unreal Engine's lighting features?
+Kai: Ach, ano. Mohl bys něco říct o svých představách o osvětlení a o funkcích osvětlení v Unreal Enginu?
 
 112
 00:13:47,180 --> 00:14:08,040
-Dani: Yes. Of course. I mean, we moved to Unreal Engine 5 months ago because - knowing it was a risky move - we felt that the fans deserve something truly great. And the new technologies that came with UE5 let us show more detailed environments. And finally, we have the Holy Grail of light and rendering. We have global illumination in real time with "Lumen".
+Dani: Ano. Samozřejmě. Před pěti měsíci jsme přešli na Unreal Engine 5 - s vědomím, že je to riskantní krok - ale cítili jsme, že si fanoušci zaslouží něco opravdu skvělého. A nové technologie, které přišly s UE5, nám umožnily ukázat detailnější prostředí. A konečně máme svatý grál osvětlení a vykreslování. Máme globální osvětlení v reálném čase díky funkci "Lumen".
 
 113
 00:14:08,110 --> 00:14:36,000
-Dani: Three years ago, this could have been seen like a feverish dream, but we have it now and we are using it fully. Our approach in light I would define it as: "embrace the darkness". We are going full baroque where the darks are pretty obscure, where the night feels dangerous. Think about Caravaggio or Velasquez for the interiors, and Claude Lorrain for the exteriors, with those dark environments and the orange skies.
+Dani: Před třemi lety se to mohlo zdát jen jako bláhový sen, ale teď ho máme a plně ho využíváme. Náš přístup v oblasti osvětlení bych definoval takto: "přijmout temnotu". Snažíme se jít stylem baroka, kde je tma dost nejasná, a kde noc působí nebezpečně. Pro interiéry si představte Caravaggia nebo Velasqueze a pro exteriéry Clauda Lorraina s těmi temnými prostředími a oranžovou oblohou.
 
 114
 00:14:36,020 --> 00:14:42,230
-Dani: For the people listening here: If you go to Google images and search for those three masters of painting, you will see.
+Dani: Pro posluchače: Když si na Googlu vyhledáte tyto tři mistry malíře, uvidíte, co mám na mysli.
 
 115
 00:14:42,260 --> 00:14:50,050
-Reinhard: So we are using a modular approach to level building, right? What does that mean and how did we apply that to the Old Mine?
+Reinhard: Takže používáme modulární přístup k vytváření úrovní, že? Co to znamená a jak jsme to aplikovali na Starý důl?
 
 116
 00:14:50,070 --> 00:15:11,230
-Dani: Never underestimate the power of a simple wood plank. So basically, almost all we model and design is going to be used in different places - scaled, rotated. The modern graphic engine kind of asks you to be smart and be modular. So we created the Old Mine with seven different types of rock and ten different assets of wood structure.
+Dani: Nikdy nepodceňte sílu obyčejného dřevěného prkna. Takže v podstatě téměř vše, co modelujeme a navrhujeme, bude použito na různých místech - zmenšené, zvětšené, otočené. Moderní grafický engine po vás tak trochu chce, abyste byli chytří a modulární. Takže jsme vytvořili Starý důl se sedmi různými typy horniny a deseti různými dřevěnými strukturami.
 
 117
 00:15:11,250 --> 00:15:20,000
-Dani: So you can imagine how many memory and textures we are saving here. So give us three different wood planks and we will create a world for you.
+Dani: Takže si dokážete představit, kolik paměti a textur zde šetříme. Takže když nám dáte tři různá dřevěná prkna, vytvoříme pro vás svět.
 
 118
 00:15:20,030 --> 00:15:22,060
-Kai: Awesome (Reinhard: Guys, we have to go up here!)
+Kai: Super. (Reinhard: Kluci, musíme jít sem nahoru!)
 
 119
 00:15:22,120 --> 00:15:23,210
-Dani: Yes. Follow me.
+Dani: Tak. Za mnou.
 
 120
 00:15:23,230 --> 00:15:26,090
-Kai: Wait, is it safe to use the ladders?
+Kai: Počkej, je bezpečné používat žebříky?
 
 121
 00:15:26,120 --> 00:15:28,220
-Reinhard: Kai! It's not 2001 anymore.
+Reinhard: Kai! Už není rok 2001.
 
 122
 00:15:28,240 --> 00:15:29,800
-Kai: Hm, okay.
+Kai: Hm, ok.
 
 123
 00:15:33,150 --> 00:15:36,000
-Kai: It works like a charm. Nice!
+Kai: Funguje to jako po másle. Pěkné!
 
 124
 00:15:36,020 --> 00:15:46,040
-Reinhard: I told you, our programing team - and especially Andre (Taulien) - already spent countless of hours on making sure ladder climbing won't be a disaster like in 2001.
+Reinhard: Říkal jsem ti, že náš programátorský tým - a zejména Andre (Taulien) - už strávili nespočet hodin tím, jen aby se ujistili, že lezení po žebříku nebude taková katastrofa jako v roce 2001.
 
 125
 00:15:46,050 --> 00:15:54,000
-Kai: Okay. Back in the Old Camp, Javi mentioned a new wall climbing feature. Will players be able to use that feature somewhere here in the Old Mine?
+Kai: Dobrá. Ve starém táboře se Javi zmínil o nové funkci lezení po stěnách. Budou hráči moci tuto funkci používat někde tady ve Starém dole?
 
 126
 00:15:54,070 --> 00:16:01,270
-Reinhard: Not so much in the Old Mine, actually, but there are mountain areas where real climbing is another form of traversal.
+Reinhard: Ve Starém dole vlastně moc ne, ale máme tady horské oblasti, kde je skutečné lezení další formou cestování.
 
 127
 00:16:01,290 --> 00:16:11,030
-Kai: Now that I'm here in person, I have to say that the recreation of the Old Mine is really just perfect. Very true to the original, but enhanced in a really convincing and intriguing way.
+Kai: Teď, když jsem tady osobně, musím říct, že rekonstrukce Starého dolu je opravdu perfektní. Velmi věrná předloze, ale vylepšená opravdu přesvědčivým a poutavým způsobem.
 
 128
 00:16:11,060 --> 00:16:11,270
-Dani: Thanks.
+Dani: Díky.
 
 129
 00:16:12,000 --> 00:16:18,700
-Kai: Really, it's great! What was your process of designing the new Old Mine? How did you decide what to keep and what to extend?
+Kai: Opravdu, je to skvělé! Jaký byl váš postup při návrhu nového Starého dolu? Jak jste se rozhodovali, co zachovat a co rozšířit?
 
 130
 00:16:18,700 --> 00:16:42,140
-Dani: Well, we always start with blockouts made by the design team. We meet all together since this is always a joint effort so we can share the same vision. They provide those blockouts and then we create a task force of artist to work on that specific environment. They gather references, they create the first layer, as we called it, the "nature layer", where we place all the natural rock formations ground and so...
+Dani: Práci vždy začínáme tím, že tým designérů připraví jednoduché ilustrační modely. To se týká i našich společných schůzek, protože vždy pracujeme společně, abychom sdíleli ucelenou vizi. Tým dodá prvotní modely a my pak sestavíme tým výtvarníků, kteří dané místo posunou dál. Shromáždí referenční materiály, vytvoří první vrstvu, kterou nazýváme "přírodní vrstva", kam umístíme všechny přírodní skalní útvary, půdu a tak.....
 
 131
 00:16:42,140 --> 00:17:06,250
-Dani: And once approved, we go to the "structures layer" where we design all the man-made constructions. (Kai: Mhm.) In recreating those spaces, it's very, very important to be constantly seeing and analyzing the original environments and detecting the landmarks. Walt Disney call those the "winnies" in his parks. But imagine those focal points that fans will remember when playing.
+Dani: Po schválení se přesuneme do "vrstvy struktur", kde navrhujeme všechny umělé struktury. (Kai: Mhm.) Při znovuvytváření původních lokací je velmi důležité pozorně se dívat a analyzovat prvky prostředí z první hry a identifikovat orientační body. Walt Disney nazýval analogické prvky ve svých parcích "Pú". Ale vy si představte ty charakteristické lokace, které si hráči stále pamatují z původní hry.
 
 132
 00:17:07,000 --> 00:17:22,040
-Dani: I mean, maybe you don't remember exactly the position of the intricate pasarels that descend into the Old Mine, but I'm sure you remember the oven at the end... (Kai: Yeah!) ... and the Orc slave... (Kai: Yeah.) So those things should be there in our design too.
+Dani: Možná si přesně nepamatuješ polohu všech spletitých pasáží, které se linou Starým dolem, ale určitě si pamatuješ pec úplně dole... (Kai: Jo!) ... a skřetího otroka... (Kai: Jo!) Takže tyhle věci by v našem návrhu neměly chybět.
 
 133
 00:17:22,060 --> 00:17:24,290
-Kai: Gotcha! And how many people were involved in building the Old Mine?
+Kai: Chápu! A kolik lidí se podílelo na budování Starého dolu?
 
 134
 00:17:24,290 --> 00:17:36,020
-Dani: If I remember well, we assembled a task force of six artists that were involved in the artistic side of the mine, from creation of the environment to the placing of ambient particle and sound effects.
+Dani: Pokud si dobře vzpomínám, sestavili jsme pracovní skupinu šesti umělců, kteří se podíleli na výtvarné stránce dolu, od vytvoření prostředí až po rozmístění částicových efektů a zvukových vrstev v něm.
 
 135
 00:17:36,080 --> 00:17:40,040
-Kai: All right. Thanks for the INSIGHT. We're now approaching the OUTSIDE.
+Kai: Dobře. Díky za VHLED. A s východem na světlo se podíváme na vnější VZHLED.
 
 136
 00:17:40,100 --> 00:17:43,180
-Reinhard: Wow, Kai.
+Reinhard: Teda, Kai.
 
 137
 00:17:43,200 --> 00:17:45,090
-Kai: (Inhales)... Aah, fresh air.
+Kai: (Nadechne se)... Ach, čerstvý vzduch.
 
 138
 00:17:45,090 --> 00:17:48,100
-Reinhard: Yeah. I suggest we walk back to the Old Camp.
+Reinhard: Jo. Navrhuji, abychom se vrátili do Starého tábora.
 
 139
 00:17:48,120 --> 00:17:55,220
-Dani: Yeah. Let's walk. I'll guide you for a bit, but then I have to take a different path. I have some things to do in the New Camp.
+Dani: Jo. Projděme se. Chvíli vás doprovodím, ale pak musím jít jinou cestou. Mám ještě něco na práci v Novém táboře.
 
 140
 00:17:55,240 --> 00:17:58,230
-Kai: interesting. Has the camp already been finished?
+Kai: Zajímavé. Byl už tábor dokončen?
 
 141
 00:17:58,250 --> 00:18:10,060
-Dani: Well, I cannot wait for you to see it, but answering your question: Yes! It's done. Maybe some lighting artist is there giving the final touches here and there, but I consider it done.
+Dani: Nemůžu se dočkat, až ho uvidíte, ale abych odpověděl na tvou otázku: Ano! Je hotový. Možná tam ještě nějaký technik tu a tam dodělává poslední úpravy s osvětlením, ale já jej považuji za hotový.
 
 142
 00:18:10,130 --> 00:18:12,150
-Reinhard: Kai, if you want, you can go with Dani.
+Reinhard: Kai, jestli chceš, můžeš jít s Danim.
 
 143
 00:18:12,160 --> 00:18:13,200
-Kai: Yes. Okay.
+Kai: Dobře.
 
 144
 00:18:13,210 --> 00:18:16,140
-Reinhard: I have to go back to the Old Camp and hand over that letter.
+Reinhard: Musím se vrátit do Starého tábora a předat tam ten dopis.
 
 145
 00:18:16,190 --> 00:18:18,060
-Kai: Oh, yeah. The letter!
+Kai: No jo. Ten dopis!
 
 146
 00:18:18,130 --> 00:18:21,120
-Reinhard: Yes, but I can pick you up at the New Camp this afternoon.
+Reinhard: Ano, ale odpoledne vás mohu vyzvednout v Novém táboře.
 
 147
 00:18:21,150 --> 00:18:29,240
-Kai: Okay. Sounds good. Although I'm very curious who that letter is for. You've been making such a big secret out of it for a while now.
+Kai: Fajn, to zní dobře. I když by mě moc zajímalo, pro koho je ten dopis. Už nějakou dobu z toho děláš pěkně velké tajemství.
 
 148
 00:18:29,260 --> 00:18:36,160
-Reinhard: Well, yeah. It contains some significant news, but I want the person to get them first before anyone else gets them.
+Reinhard: No, to ano. Obsahuje několik významných novinek, ale chci, aby je ten člověk dostal dříve, než je dostane někdo jiný.
 
 149
 00:18:36,180 --> 00:18:38,170
-Dani: Interesting.
+Dani: Zajímavé.
 
 150
 00:18:38,200 --> 00:18:40,070
-Kai: Yes, very.
+Kai: Ano, tak.
 
 151
 00:18:40,090 --> 00:18:47,080
-Reinhard: You know what? I'll accompany you to the New Camp and we can go meet the recipient in the old camp together afterwards.
+Reinhard: Víte co? Doprovodím vás do Nového tábora, a potom se můžeme společně setkat adresátem dopisu ve Starém táboře.
 
 152
 00:18:47,110 --> 00:18:55,020
-Kai: Yes. Perfect. Thank you. I'll text Timur. I think he's in the New Camp. He can meet us there with the community questions.
+Kai: Jo. Perfektní. Díky. Napíšu Timurovi. Myslím, že je v Novém táboře. Může se tam s námi setkat a pobavíme se o otázkách od komunity.
 
 153
 00:18:55,070 --> 00:18:56,070
-Dani: All right. Thanks.
+Dani: Dobře. Díky.
 
 154
 00:18:56,100 --> 00:19:13,010
-Kai: So, Dani, looking at this picturesque landscape, what's your approach to world design? How realistic do you want it to be - versus, like, stylized and artistic? I know we've talked about the design process and your art bible earlier, but this question is more about your artistic influences and inspirations.
+Kai: Dani, zatímco se díváš na tuhle malebnou krajinu, řekni, jaký je tvůj přístup k designu světa? Jak moc realistický má být - a jak moc stylizovaný a umělecký? Vím, že jsme dříve mluvili o procesu navrhování a tvé umělecké bibli, ale tato otázka se týká spíše inspirací a vlivů na tvůj umělecký styl.
 
 155
 00:19:13,040 --> 00:19:32,100
-Dani: That's a good question, Kai. And it's something that me and Elena, you know, she's my right hand here in the team... we have debated it a lot. Where are the limits of realism? Are these or that asset falling into the stylized realm? It's something that you should be aware of constantly. As I said before, we are rooting for...
+Dani: To je dobrá otázka, Kai. A je to něco, o čem jsme s Elenou, víš, ona je moje pravá ruka tady v týmu... hodně jsme o tom debatovali. Kde jsou hranice realismu? Spadají tyhle nebo tamty předměty do stylizované sféry? Je to něco, co byste si měli neustále uvědomovat. Jak už jsem řekl dříve, usilujeme o něco...
 
 156
 00:19:32,110 --> 00:19:51,250
-Dani: ... what we call heightened realism. And this choice gives us the opportunity to work in a realistic way when we talk about materials, shape, color, light... but at the same time give us room to move into a slightly degree of stylization when we talk about magic, gods and all the fantasy themed related content.
+Dani: ... čemu říkáme umocněný realismus. A tato volba nám dává možnost pracovat realisticky, když mluvíme o materiálech, tvarech, barvách, světle... ale zároveň nám dává prostor k mírné stylizaci, když mluvíme o magii, bozích a veškerém obsahu souvisejícím s fantasy.
 
 157
 00:19:51,270 --> 00:19:52,200
-Kai: M-hm. Understood.
+Kai: Aha. Rozumím.
 
 158
 00:19:52,230 --> 00:20:14,240
-Dani: I would say we need to be believable. (Kai: Yeah.) Always moving inside the limits of what is Gothic and what is not. But we should not go too real to that point where we ask ourselves if this or that design could really happen in the 12th century Europe parameters. And about references: I will pass two hours talking about references, man, but let's stay with the baroque painters. (Kai: Sure.)
+Dani: Řekl bych, že se musíme snažit být věrohodní. (Kai: Jo.) Vždycky se pohybovat v mezích toho, co Gothic je, a co ne. Ale neměli bychom jít příliš do detailu, kdy bychom se sami sebe ptali, jestli by se ten či onen návrh mohl skutečně odehrát v Evropě 12. století. A co se týče referencí: Klidně budu dvě hodiny mluvit o referencích, člověče, ale zůstaňme u těch barokních malířů. (Kai: Jistě.)
 
 159
 00:20:14,260 --> 00:20:41,170
-Dani: The way they understood the light, the dramatic effect, the theatrical composition, the play between bright and dark... I think Caravaggio and Velazquez are good examples of that. Their paintings feel real, but they were dramatic, staged and definitive. Not realistic, but they were believable. The same with artists like Claude Lorrain and his landscapes. I mean, better stop here because - Kai - I could be hours talking about the old masters and how much we should learn from them.
+Dani: Způsob, jakým chápali světlo, dramatický efekt, divadelní kompozici, hru světla a tmy... Myslím, že Caravaggio a Velazquez jsou toho dobrým příkladem. Jejich obrazy působí reálně, ale byly dramatické, inscenované a jednoznačné. Nebyly realistické, ale byly věrohodné. Totéž platí pro umělce jako byl Claude Lorrain a jeho krajiny. Tedy, tady raději skončím, protože - Kai - mohl bych hodiny mluvit o starých mistrech a o tom, kolik bychom se toho od nich mohli naučit.
 
 160
 00:20:41,180 --> 00:20:47,240
-Kai: Yeah. Seems so. I guess that's a topic for its very own, like, spinoff episode.
+Kai: Jo. Vypadá to tak. Myslím, že to je téma na vlastní spin-off epizodu.
 
 161
 00:20:47,270 --> 00:20:50,080
-Dani: There, you can see the New Camp behind that corner.
+Dani: Tak, tady za tím rohem můžete vidět Nový tábor.
 
 162
 00:20:50,140 --> 00:20:57,100
-Kai: Yes. Can't wait to see it. But before we get there and you'll be busy with other things, I have a few questions about characters and animations.
+Kai: Ano. Nemůžu se dočkat, až ho uvidím. Ale než se tam dostaneme a ty budeš mít plné ruce práce s jinými věcmi, mám pár otázek ohledně postav a animací.
 
 163
 00:20:57,170 --> 00:21:02,270
-Dani: Sure. You'll have to talk to Gerard for detailed questions about animations, but I'll see what I can do.
+Dani: Jistě. Na podrobné otázky ohledně animací si budeš muset promluvit s Gerardem, ale uvidím, co dovedu zodpovědět.
 
 164
 00:21:03,000 --> 00:21:23,260
-Kai: Thanks. First about characters: The original game had a bit of a cartoonish character style. Vivid colors, exaggerated face shapes, distinctive silhouettes, and so on. What's the plan for the remake? The characters I've seen are clearly distinguishable and super real. It's easy to tell which camp they're from and what they are, although everything seems to be a little toned down.
+Kai: Díky. Nejprve o postavách: Původní hra měla trochu kreslený styl postav. Živé barvy, přehnané tvary obličejů, výrazné siluety a tak dále. Jaký je plán pro remake? Postavy, které jsem viděl, jsou jasně rozlišitelné a velmi reálné. Snadno poznáte, do kterého tábora patří a kdo jsou, i když oproti originálu působí méně přehnaně.
 
 165
 00:21:24,030 --> 00:21:47,300
-Dani: Sure, you will be able to recognize the characters for sure. I mean, don't worry about that. We are respecting as much as possible the original design. So a guru will look like a guru and a shadow like a shadow. The challenge here was to recreate those memorable characters in a new way that felt totally respectful of the original, but at the same time offers a fresh version and I'm very happy with all the work the team did. You will see!
+Dani: Určitě poznáte postavy z jedničky. S tím si nedělejte starosti. V maximální možné míře respektujeme jejich původní návrhy. Guru bude vypadat jako guru a stín bude vypadat jako stín. Výzvou pro nás bylo tyto nezapomenutelné postavy ztvárnit novým způsobem, který by respektoval originál a zároveň nabídl jejich osvěženou verzi. Já sám jsem velmi spokojen s veškerou prací, kterou náš tým odvedl. O tom se brzy přesvědčíte i vy!
 
 166
 00:21:47,300 --> 00:21:48,400
-Kai: Hm, okay.
+Kai: Hm, ok.
 
 167
 00:21:48,400 --> 00:21:54,210
