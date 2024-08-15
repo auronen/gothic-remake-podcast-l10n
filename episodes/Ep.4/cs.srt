@@ -36,7 +36,7 @@ Reinhard: CHE! Bere se až moc vážně. Dani, pojď sem. Kai přišel.
 
 10
 00:01:37,130 --> 00:01:38,260
-Dani: Zdravím, panové. Co je?
+Dani: Zdravím, panové. Jak je?
 
 11
 00:01:38,290 --> 00:01:41,120
@@ -52,7 +52,7 @@ Kai: Ano, tak. Vždy jsem o tom snil. Tak jsem využil příležitosti si svůj 
 
 14
 00:01:48,000 --> 00:01:50,280
-Dani: A ve které chatce jsi prosímtě přespával?
+Dani: A ve které chatce jsi přespával?
 
 15
 00:01:51,000 --> 00:01:56,000
@@ -664,189 +664,189 @@ Kai: Hm, ok.
 
 167
 00:21:48,400 --> 00:21:54,210
-Reinhard: Dani, you've described the modular approach to building locations. Would you like to shed some light on the modular approach for characters?
+Reinhard: Dani, předtím jsi popsal modulární přístup k tvorbě prostředí. Mohl bys nám trochu objasnit jak přistupujete modulátně k postavám?
 
 168
 00:21:54,270 --> 00:22:20,020
-Dani: Well, that's a very complex topic because as you can imagine, dressing 600 characters is not the easiest thing in the world. (Kai: No.) But we are using "Mutable", an epic technology designed for creating modular characters, clothes and armor pieces, and it has been a hard fight. But luckily pieces finally are coming together. 600 different faces, a lot of different hairstyles, beards, and thousands of small pieces of armor and cloth.
+Dani: No, to je celkem složité téma, protože jak si dovedeš představit, tak vymyslet oblečení pro 600 různých postav není nic jednoduchého. (Kai: To ne.) My využíváme technologii "Mutable" pro Unreal Engine 5 která slouží k ulehčení modulárního přístupu při tvorbě postav, oblečení a kusů zbroje, a musím říct že i s tím to opravdu není nic lehkého. Naštěstí už to všechno do sebe nějak zapadá. 600 různých obličejů, spousta různých účesů a vousů, a tisíce malých kousků zbrojí a oblečení.
 
 169
 00:22:20,040 --> 00:22:24,240
-Dani: Now we see the light at the end of the tunnel, but we could say this has been a very fun ride.
+Dani: Teď už konečně vidíme světlo na konci tunelu, ale lze říct že to byl zábavný proces.
 
 170
 00:22:24,270 --> 00:22:31,270
-Kai: And that's good to hear. The rice fields, just like I remember them. But what's that? That's new!
+Kai: To rád slyším. Hele, rýžová pole, přesně jak si je pamatuji. Ale co je tamto? To je nové!
 
 171
 00:22:32,000 --> 00:22:34,130
-Reinhard: Shhh! We don't want to talk about that now.
+Reinhard: Pššt! To teď nechceme rozebírat.
 
 172
 00:22:34,140 --> 00:22:40,000
-Kai: Right! But ... wow, is that the Ricelord... (Dani: Oh, yes!) Wow. Interesting. Why did y...
+Kai: Jasně! Ale ... wow, je tamhleto Rýžový lord... (Dani: Ano, tak!) Wow. Zajímavé. Proč jste...
 
 173
 00:22:40,000 --> 00:22:43,180
-Reinhard: Kai! Shh! This hasn't been released for publication just yet.
+Reinhard: Kai! Pššt! Tohle ještě nemůžeme zveřejnit.
 
 174
 00:22:43,230 --> 00:22:56,120
-Kai: Okay, okay! So quick question about the faces in particular. How do you make so many different faces and make them look so good? I know you've already touched on that in the previous episode, but maybe you can elaborate a little bit.
+Kai: Dobře, dobře! Mám ještě rychlou otázku ohledně tváří. Jak jste schopní udělat tolik rozdílných tváří a zařídit aby vypadaly tak dobře? Vím že jsi se o tom zmínil už v předchozí epizodě, ale možná bys to mohl trochu rozvést.
 
 175
 00:22:56,180 --> 00:23:17,210
-Dani: Yeah, luckily we are not alone in this fight. I mean, we have the support of the nice folks at Gate 21. They are a sister company that specializes in creating faces. So together we have been working on those characters. They developed a very specific tool that lets us create dozens of different faces, mixing them, having details, changing manually specific traits...
+Dani: Jasně. Naštěstí v naší snaze nejsme sami. Máme totiž podporu od lidí ve studiu Gate 21. Je to sesterská společnost zaměřená na tvorbu tváří. Společně jsme pracovali na postavách do Remaku. Vyvinuli velmi specifický nástroj který nám umožňuje vytvářet spoustu různých tváří a pak je prolínat, přidávat detaily, manuálně měnit některé vlastnosti...
 
 176
 00:23:17,230 --> 00:23:25,120
-Dani: But of course, not all the models were done using this tech. More than 100 were fully manually worked on until the very last detail.
+Dani: Ne všechny tváře ale byly vytvořeny tímto způsobem. Přes 100 bylo vytvořeno kompletně vlastnoručně až do posledního detailu.
 
 177
 00:23:25,120 --> 00:23:26,250
-Kai: Whoa! 100, that's crazy!
+Kai: Ty bláho! 100, to je šílené!
 
 178
 00:23:26,260 --> 00:23:44,270
-Dani: Imagine we have two tiers of characters! The tier A and the tier B. Tier A are the most important characters. Those 100 characters are designed, rigged and created fully manually. And then we have the tier B characters. Those are done using this amazing technology that helps in the process.
+Dani: Představme si že máme dvě úrovně postav - úroveň A a úroveň B. Postavy na úrovni A jsou ty nejdůležitější. Těchto 100 postav je navrhnuto, animováno a vytvořeno zcela manuálně. Postavy úrovně B jsou vytvořeny pomocí toho nástroje který nám s tím pomáhá.
 
 179
 00:23:45,000 --> 00:24:03,210
-Kai: Okay, that makes sense. Now about animations. I'll ask Gerard all the details, but you will let us know what your general process and pipeline is for making like people and creatures move. Are you handcrafting keyframe animations? Motion or performance capturing? Procedural animations? Fancy deep learning stuff?
+Kai: To dává smysl. Teď k animacím. Zeptám se Gerarda na detaily později, ale mohl bys nám popsat obecný postup rozpohybování lidí a tvorů? Děláte animace ručně pouze elektronicky? Nebo snímáte pohyb opravdových lidí? Nebo něco s umělou inteligencí?
 
 180
 00:24:03,240 --> 00:24:26,300
-Dani: Yeah, I'm sure Gerard can be more specific on that topic, but I can tell you we are using all of those cases you mentioned. (Kai: Aha.) Handcrafted keyframe animations? Check. Procedural? Check. Motion capture? Well, you should see the actors screaming and fighting in the recording zone. It's pretty crazy when an Amazon guy enters the studio to deliver something and is received by a guy is screaming, holding a weapon.
+Dani: Jsem si jist že Gerard bude moct být podrobnější, ale mohu ti říct že používáme všechno. (Kai: Aha) Ručně dělané animace? Máme. Procedurální? také. Snímání pohybu? No, měl by ses někdy podívat na herce jak křičí a bojují v nahrávací zóńě. Je docela vtipné když přijde balíček z Amazonu a pracovníka přijme křičící chlap se zbraní v ruce.
 
 181
 00:24:26,300 --> 00:24:39,110
-Dani: And deep learning stuff? Also check. It's a complicated process because we have tons of creatures, characters, complicated environments and interactions, but in the end, we hope everything will turn out all right.
+Dani: A umělá inteligence? Tu také používáme. Je to komplikovaný proces protože máme spoustu tvorů, postav, složitých prostředí a interakcí, ale doufáme že nakonec se vše povede.
 
 182
 00:24:39,130 --> 00:24:41,200
-Kai: Ha! Caught your little Gothic 2 quote there!
+Kai: Ha! Všim jsem si tvé citace Gothica 2!
 
 183
 00:24:41,220 --> 00:24:44,050
-Reinhard: All right. Here we are in the New Camp cave.
+Reinhard: Tak, a jsme v jeskyni Nového tábora.
 
 184
 00:24:44,060 --> 00:24:53,250
-Kai: Yes. Wonderful! Gosh, it means so much to me. Seeing all these places recreated so accurately and yet improved in such a fantastic way.
+Kai: Ano, báječné! Znamená to pro mě hodně vidět všechny ty místa tak přesně napodobené ale přitom tak úžasně vylepšené.
 
 185
 00:24:53,280 --> 00:24:56,020
-Dani: Thank you so much. I'm glad you like it.
+Dani: Děkuju, jsem rád že se ti to líbí.
 
 186
 00:24:56,040 --> 00:24:57,000
-Kai: I love it!
+Kai: Zbožňuju to!
 
 187
 00:24:57,070 --> 00:25:01,270
-Dani: And apparently you've already made new music, right? I can hear it playing in the background.
+Dani: Zřejmě jsi už vytvořil novou hudbu, co? Slyším ji hrát v pozadí.
 
 188
 00:25:02,030 --> 00:25:02,140
-Kai: Yeah.
+Kai: Ano.
 
 189
 00:25:02,180 --> 00:25:05,060
-Reinhard: Shall we end this episode with some music?
+Reinhard: Ukončíme tuto epizodu nějakou hudbou?
 
 190
 00:25:05,090 --> 00:25:17,000
-Kai: Okay, let's do it. But first we have to meet Timur for some community questions, right? (Dani and Reinhard: Oh, yeah.) Oh, there he is. Hey, Timur! (Timur: Hey Kai.) So what's going on in the community?
+Kai: To zní dobře. Nejdřiv se ale musíme sejít s Timurem kvůli pár otázkám komunity, že? (Dani a Reinhard: Jojo.) Ah, támhle je. Nazdar Timure! (Timur: Čau Kai.) Tak co se děje v komunitě?
 
 191
 00:25:17,020 --> 00:25:22,000
-Reinhard: Our community's dying to find out more about the game. I have some questions prepared.
+Reinhard: Všichni baží po více informacích o hře. Připravil jsem si pár jejich otázek.
 
 192
 00:25:22,060 --> 00:25:23,200
-Kai: That's great. Bring it on.
+Kai: Super, sem s nimi.
 
 193
 00:25:23,220 --> 00:25:37,060
-Reinhard: So here is a question from our moderator, Drago. Will the items that the player equips appear on the character itself? Secifically rings or amulets? Like, ... in original they were invisible.
+Reinhard: Takže, otázka od našeho moderátora, Draga. Budou věci kterými se hráč vybaví viditelné na samotné postavě? Konkrétně prsteny a amulety? V originále byly totiž neviditelné.
 
 194
 00:25:37,080 --> 00:25:38,080
-Kai: Reinhard, go for it.
+Kai: Reinharde, to je pro tebe.
 
 195
 00:25:38,100 --> 00:25:57,800
-Reinhard: Okay, so ... The thing is, I mean rings and amulets, you usually don't really see them because there's always some piece of cloth and armor above them. So you won't necessarily see those. But for all other things that kind of are like a little bigger, you will see them on the character. (Kai: Nice!)
+Reinhard: Dobře, takže... věc se má tak, že věci jako prsteny a amulety většinou nevidíš protože je přes ně nějaký kus oblečení či brnění. Takže tyhle neuvidíte, ale věci co jsou trochu větší už na postavě vidět budou.
 
 196
 00:25:57,800 --> 00:26:04,150
-Timur: Yeah, thank you. And one of the most popular questions in our community is: When is the gameplay footage coming?
+Timur: Super, díky. Jedna z nejčastějších otázek je, kdy bude zveřejněny záběry ze hry?
 
 197
 00:26:04,150 --> 00:26:10,250
-Reinhard: Oh, yeah. Gameplay. So the idea is to show it at, like, the THQ Nordic Showcase in August.
+Reinhard: No, záměr je je ukázat na výstavě THQ Nordic v srpnu.
 
 198
 00:26:10,270 --> 00:26:12,170
-Kai: Oh, yes. Finally.
+Kai: Ano, konečně.
 
 199
 00:26:12,190 --> 00:26:35,060
-Reinhard: Oh, I'm sure they will love it. And one more question from our moderator LurkerShnig: How will the dialog system work? Will there be a smooth transition between the moment when you press an action button and when the dialog begins? (Reinhard: So...) Or will it be closer to Elex, for example?
+Reinhard: Jsem si jist že se jim to bude líbit. Ještě jedna otázka od našeho moderátora LurkerShniga. Jak bude fungovat systém konverzací? Budou to plynulé přechody mezi okamzžikem kdy zmáčkneš tlačítko a kdy začne dialog? (Reinhard: Takže...) Nebo to bude blíž k Elexu, například?
 
 200
 00:26:35,080 --> 00:26:54,900
-Reinhard: Going from gameplay to a dialog scene will be smooth and seamless. So we don't have any like fake scene that we set up, but we are applying some tricks. So for example, we use like very special lighting conditions and we obviously have a special rule set for the cameras so that we capture the emotions and the characters in the best possible way.
+Reinhard: Přechod mezi hraním a konverzací bude plynulý. Takže nemáme žádné falešné scény, ale používáme pár triků. Například používáme speciální světelné podmínky a samozřejmě máme jiná pravidla pro pohyb kamery abychom zachytili emoce postav co nejlépe to jde.
 
 201
 00:26:54,900 --> 00:27:02,000
-Timur: Thank you for the answer. By the way, we have never heard about this one: When is the gameplay footage coming?
+Timur: Děkuji za odpověď. Mimochodem, tohle jsme ještě neslyšeli: Kdy budou záběry ze hry?
 
 202
 00:27:02,000 --> 00:27:25,180
-Reinhard: Oh yeah, it's August. We're showing it in August at the THQ Nordic Showcase.
+Reinhard: V srpnu, na výstavě THQ Nordic.
 
 203
 00:27:06,000 --> 00:27:20,200
-Timur: Oh, okay. And one more question from our active user Hombre: "How will the diary or the journal look like? Will it be closer to Gothic 1 or 2 or something closer to Gothic 3?"
+Timur: Jasně. A ještě jedna otázka od aktivního člena Hombreho: "Jak bude vypadat deník? Bude to blíže k tomu jak vypadal v Gothicu 1 a 2 nebo spíš něco jako ve trojce?"
 
 204
 00:27:20,300 --> 00:27:35,190
-Reinhard: I would say the diary is kind of like inspired by Gothic 1 and 2. So it's not like just a copy of what we just heard, like in Gothic three, but it's in some ways it's, the hero is really taking actual notes.
+Reinhard: Řekl bych že deník je inspirovaný Gothicem 1 a 2. Takže to nebudou jen kopie věcí co se zaslechlo jako to bylo ve trojce, ale spíš že si bezejmenný hrdina děla poznámky.
 
 205
 00:27:35,210 --> 00:27:36,100
-Kai: Interesting.
+Kai: Zajímavé.
 
 206
 00:27:36,100 --> 00:27:42,700
-Timur: Yeah, great! Oh, and before I forget... When is the gameplay footage dropping?
+Timur: Super! Jo, než zapomenu... kdy budou záběry ze hry?
 
 207
 00:27:42,700 --> 00:27:53,150
-Reinhard: Right, gameplay footage! So we are showing our gameplay footage for the very first time to the public in August this year at the THQ Nordic Showcase. Tune in!
+Reinhard: Jasně, záběry ze hry! Poprvé je veřejnosti ukážeme letos v srpnu na výstavě THQ Nordic. Nezměškejte to!
 
 208
 00:27:53,170 --> 00:27:59,220
-Kai: So I guess we'll see you all there then in the livestream. Timur, thanks a lot for bringing those questions.
+Kai: Takže se asi uvidíme potom v živém přenosu. Děkuji že jsi nám předal tyto otázky.
 
 209
 00:27:59,240 --> 00:28:00,170
-Timur: Yeah. Thank you.
+Timur: Jo, děkuji.
 
 210
 00:28:00,240 --> 00:28:03,060
-Kai: Dani, thank you so much for your time. That was great.
+Kai: Dani, moc ti děkuju za tvůj čas, bylo to super.
 
 211
 00:28:03,060 --> 00:28:04,190
-Dani: Thank you. And likewise.
+Dani: Děkuji, nápodobně.
 
 212
 00:28:04,200 --> 00:28:10,070
-Reinhard: Okay, turn up the music. I'll show you around. Thanks. See you all in the next episode.
+Reinhard: Tak jo, zesil hudbu. Provedu tě. Díky. Uvidíme se v další epizodě.
 
 213
 00:28:10,300 --> 00:28:14,000
-All: Bye bye, everyone. Take care.
+Všichni: Mějte se.
 
