@@ -224,7 +224,7 @@ Dani: Nebo bychom snad měli jít hlouběji do temnoty, drsné, uvěřitelné a 
 
 57
 00:08:22,210 --> 00:08:36,000
-Dani: Chceme vylepšit původní atmosféru, a jak jste viděli v trailerech, jdeme touto cestou, ale stále máme co dělat, než se nám podaří ji zdokonalit. Naslouchání fanouškům je velmi důležité, a věřte mi, že nasloucháme!
+Dani: Chceme vylepšit původní atmosféru, a jak jste viděli v trailerech, jdeme touto cestou, ale stále máme co dělat, než se nám podaří této perfektní atmosféry dosáhnout. Naslouchání fanouškům je velmi důležité, a věřte mi, že nasloucháme!
 
 58
 00:08:36,020 --> 00:08:37,000
@@ -600,7 +600,7 @@ Kai: Ano, tak.
 
 151
 00:18:40,090 --> 00:18:47,080
-Reinhard: Víte co? Doprovodím vás do Nového tábora, a potom se můžeme společně setkat adresátem dopisu ve Starém táboře.
+Reinhard: Víte co? Doprovodím vás do Nového tábora, a potom se můžeme společně setkat s adresátem dopisu ve Starém táboře.
 
 152
 00:18:47,110 --> 00:18:55,020
@@ -664,7 +664,7 @@ Kai: Hm, ok.
 
 167
 00:21:48,400 --> 00:21:54,210
-Reinhard: Dani, předtím jsi popsal modulární přístup k tvorbě prostředí. Mohl bys nám trochu objasnit jak přistupujete modulátně k postavám?
+Reinhard: Dani, předtím jsi popsal modulární přístup k tvorbě prostředí. Mohl bys nám trochu objasnit jak přistupujete modulárně k postavám?
 
 168
 00:21:54,270 --> 00:22:20,020
@@ -684,7 +684,7 @@ Reinhard: Pššt! To teď nechceme rozebírat.
 
 172
 00:22:34,140 --> 00:22:40,000
-Kai: Jasně! Ale ... wow, je tamhleto Rýžový lord... (Dani: Ano, tak!) Wow. Zajímavé. Proč jste...
+Kai: Jasně! Ale ... wow, jetamhle to Rýžový lord... (Dani: Ano, tak!) Wow. Zajímavé. Proč jste...
 
 173
 00:22:40,000 --> 00:22:43,180
@@ -716,7 +716,7 @@ Kai: To dává smysl. Teď k animacím. Zeptám se Gerarda na detaily později, 
 
 180
 00:24:03,240 --> 00:24:26,300
-Dani: Jsem si jist že Gerard bude moct být podrobnější, ale mohu ti říct že používáme všechno. (Kai: Aha) Ručně dělané animace? Máme. Procedurální? také. Snímání pohybu? No, měl by ses někdy podívat na herce jak křičí a bojují v nahrávací zóńě. Je docela vtipné když přijde balíček z Amazonu a pracovníka přijme křičící chlap se zbraní v ruce.
+Dani: Jsem si jist že Gerard bude moct být podrobnější, ale mohu ti říct že používáme všechno. (Kai: Aha.) Ručně dělané animace? Máme. Procedurální? Také. Snímání pohybu? No, měl by ses někdy podívat na herce jak křičí a bojují v nahrávací zóně. Je docela vtipné když přijde balíček z Amazonu a pracovníka přijme křičící chlap se zbraní v ruce.
 
 181
 00:24:26,300 --> 00:24:39,110
@@ -724,7 +724,7 @@ Dani: A umělá inteligence? Tu také používáme. Je to komplikovaný proces p
 
 182
 00:24:39,130 --> 00:24:41,200
-Kai: Ha! Všim jsem si tvé citace Gothica 2!
+Kai: Ha! Všiml jsem si tvé citace Gothica 2!
 
 183
 00:24:41,220 --> 00:24:44,050
@@ -756,7 +756,7 @@ Reinhard: Ukončíme tuto epizodu nějakou hudbou?
 
 190
 00:25:05,090 --> 00:25:17,000
-Kai: To zní dobře. Nejdřiv se ale musíme sejít s Timurem kvůli pár otázkám komunity, že? (Dani a Reinhard: Jojo.) Ah, támhle je. Nazdar Timure! (Timur: Čau Kai.) Tak co se děje v komunitě?
+Kai: To zní dobře. Nejdřív se ale musíme sejít s Timurem kvůli pár otázkám komunity, že? (Dani a Reinhard: Jojo.) Ah, támhle je. Nazdar Timure! (Timur: Čau Kai.) Tak co se děje v komunitě?
 
 191
 00:25:17,020 --> 00:25:22,000
@@ -776,15 +776,15 @@ Kai: Reinharde, to je pro tebe.
 
 195
 00:25:38,100 --> 00:25:57,800
-Reinhard: Dobře, takže... věc se má tak, že věci jako prsteny a amulety většinou nevidíš protože je přes ně nějaký kus oblečení či brnění. Takže tyhle neuvidíte, ale věci co jsou trochu větší už na postavě vidět budou.
+Reinhard: Dobře, takže... věc se má tak, že věci jako prsteny a amulety většinou nevidíš protože je přes ně nějaký kus oblečení či brnění. Takže tyhle neuvidíte, ale věci co jsou trochu větší už na postavě vidět budou. (Kai: Krása!)
 
 196
 00:25:57,800 --> 00:26:04,150
-Timur: Super, díky. Jedna z nejčastějších otázek je, kdy bude zveřejněny záběry ze hry?
+Timur: Super, díky. Jedna z nejčastějších otázek je, kdy bude zveřejněn záběr ze hry?
 
 197
 00:26:04,150 --> 00:26:10,250
-Reinhard: No, záměr je je ukázat na výstavě THQ Nordic v srpnu.
+Reinhard: No, záměr je ho ukázat na Showcase THQ Nordic v srpnu.
 
 198
 00:26:10,270 --> 00:26:12,170
@@ -792,7 +792,7 @@ Kai: Ano, konečně.
 
 199
 00:26:12,190 --> 00:26:35,060
-Reinhard: Jsem si jist že se jim to bude líbit. Ještě jedna otázka od našeho moderátora LurkerShniga. Jak bude fungovat systém konverzací? Budou to plynulé přechody mezi okamzžikem kdy zmáčkneš tlačítko a kdy začne dialog? (Reinhard: Takže...) Nebo to bude blíž k Elexu, například?
+Reinhard: Jsem si jist že se jim to bude líbit. Ještě jedna otázka od našeho moderátora LurkerShniga. Jak bude fungovat systém konverzací? Budou to plynulé přechody mezi okamžikem kdy zmáčkneš tlačítko a kdy začne dialog? (Reinhard: Takže...) Nebo to bude blíž k Elexu, například?
 
 200
 00:26:35,080 --> 00:26:54,900
@@ -804,7 +804,7 @@ Timur: Děkuji za odpověď. Mimochodem, tohle jsme ještě neslyšeli: Kdy budo
 
 202
 00:27:02,000 --> 00:27:25,180
-Reinhard: V srpnu, na výstavě THQ Nordic.
+Reinhard: V srpnu, na Showcase THQ Nordic.
 
 203
 00:27:06,000 --> 00:27:20,200
@@ -824,7 +824,7 @@ Timur: Super! Jo, než zapomenu... kdy budou záběry ze hry?
 
 207
 00:27:42,700 --> 00:27:53,150
-Reinhard: Jasně, záběry ze hry! Poprvé je veřejnosti ukážeme letos v srpnu na výstavě THQ Nordic. Nezměškejte to!
+Reinhard: Jasně, záběry ze hry! Poprvé je veřejnosti ukážeme letos v srpnu na Showcase THQ Nordic. Nezmeškejte to!
 
 208
 00:27:53,170 --> 00:27:59,220
