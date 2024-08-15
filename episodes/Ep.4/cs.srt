@@ -132,7 +132,7 @@ Kai: Takže, nacházíme se ve Starém táboře - přesněji řečeno na hradě 
 
 34
 00:04:19,060 --> 00:04:38,250
-Dani: Takže všechno začíná kompletní analýzou toho, co bylo udělané již dříve. Nezapomeňte, že děláme velmi věrný remake. Takže nejprve musíme pochopit tehdejší rozhodnutí a zjistit, zda mohou fungovat v dnešním světě. Takže se snažíme modernizovat to, co by mělo být modernizováno, ale se zachováním podstaty toho, co by mělo být zachováno.
+Dani: Takže všechno začíná kompletní analýzou toho, co bylo udělané již dříve. Nezapomeňte, že děláme velmi věrný remake. Takže nejprve musíme pochopit tehdejší rozhodnutí a zjistit, zda mohou fungovat v dnešní době. Takže se snažíme modernizovat to, co by mělo být modernizováno, ale se zachováním podstaty toho, co by mělo být zachováno.
 
 35
 00:04:39,000 --> 00:04:59,260
@@ -168,7 +168,7 @@ Reinhard: Ehm, kolik lidí vlastně pracuje v uměleckém oddělení Alkimie? A 
 
 43
 00:05:33,220 --> 00:06:00,000
-Dani: Jo, je nás tu fakt spousta. Myslím, že více než 30 lidí, kteří pracují jako interní tým. Ale zároveň spolupracujeme s různými externími studii. Takže počet umělců, kteří se na tom podílejí, je dost vysoký. A co se týče rolí: Máme tu od 2D umělců po 3D umělce, lidi, kteří se věnují spíše tvorbě postav, lidi, kteří se věnují prostředí, výtvarníky, technické umělce, grafiky zabývající se osvětlením, tvůrce efektů, animátory, filmové umělce.
+Dani: Jo, je nás tu fakt spousta. Myslím, že více než 30 lidí, kteří pracují jako interní tým. Ale zároveň spolupracujeme s různými externími studii. Takže počet umělců, kteří se na tom podílejí, je dost vysoký. A co se týče rolí: Máme  2D a 3D umělce, lidi, kteří se věnují spíše tvorbě postav, lidi, kteří se věnují prostředí, výtvarníky, technické umělce, grafiky zabývající se osvětlením, tvůrce efektů, animátory, filmové umělce.
 
 44
 00:06:00,200 --> 00:06:06,010
