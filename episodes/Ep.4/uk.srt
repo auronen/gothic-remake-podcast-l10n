@@ -1,850 +1,850 @@
 1
 00:00:27,140 --> 00:00:30,120
-Ксардас: Chapter Four.
+Ксардас: Розділ 4.
 
 2
 00:00:30,150 --> 00:00:54,030
-Рейнгард: Welcome to the Gothic 1 Remake podcast. I'm Reinhard Pollice, and for the first time listeners, I'm the founder and studio director at Alkimia Interactive. And I'm waiting for our composer, Kai Rosenkranz. I'm in the Old Camp Castle, and Kai should be here any minute. While we were waiting... Let me start with saying thank you to all you many listeners out there.
+Рейнгард: Ласкаво просимо до подкасту про ремейк Gothic 1. Я Рейнгард Полічче, і для тих, хто вперше чує, я засновник і директор студії Alkimia Interactive. Зараз я чекаю на нашого композитора, Кая Розенкранца. Я перебуваю в Старому замку табору, і Кай має з'явитися з хвилини на хвилину. Поки ми чекаємо... Дозвольте мені почати зі слів подяки всім вам, численним слухачам.
 
 3
 00:00:54,060 --> 00:01:06,240
-Рейнгард: We enjoy taking the time out of our normal schedules to stroll around in the colony and chat about the development of the Gothic 1 Remake, and it's so much more fun knowing that you guys actually enjoy it. So thanks for following along.
+Рейнгард: Нам подобається знаходити час поза нашим звичайним графіком, щоб прогулятися колонією та поспілкуватися про розробку ремейку Gothic 1, і це набагато веселіше, знаючи, що вам це подобається. Тож дякуємо, що ви з нами.
 
 4
 00:01:06,280 --> 00:01:09,290
-Кай: Whew, I'm here! Sorry I'm late.
+Кай: Ух, я тут! Вибачте, я запізнився.
 
 5
 00:01:10,010 --> 00:01:13,090
-Рейнгард: No worries. We just started.
+Рейнгард: Не хвилюйся. Ми тільки почали.
 
 6
 00:01:13,110 --> 00:01:19,020
-Кай: Thorus wouldn't let me into the castle set. I had to convince him that I'm actually the composer for the remake.
+Кай: Торус не пустив мене на майданчик замку. Мені довелося переконати його, що саме я є композитором римейку.
 
 7
 00:01:19,050 --> 00:01:22,090
-Рейнгард: Oh, my. How did you do it?
+Рейнгард: О, Боже. Як ти це зробив?
 
 8
 00:01:22,120 --> 00:01:28,090
-Кай: Let's just say I didn't need those 1.000 ore anyways. So it's good I don't have to carry them around all day.
+Кай: Скажімо так, мені все одно не потрібна була ця тисяча руди. Тож добре, що мені не доведеться носити її з собою цілий день.
 
 9
 00:01:28,120 --> 00:01:37,100
-Рейнгард: Ha! He takes his job really very seriously. Dani, come on over here. He's here.
+Рейнгард: Ха! Він дуже серйозно ставиться до своєї роботи. Дені, йди сюди. Він тут.
 
 10
 00:01:37,130 --> 00:01:38,260
-Дані: Hey, guys. What's up?
+Дані: Привіт, хлопці. Як справи?
 
 11
 00:01:38,290 --> 00:01:41,120
-Рейнгард: Welcome to the podcast, Dani. (Кай: Hi.)
+Рейнгард: Ласкаво просимо до подкасту, Дені. (Кай: Привіт.)
 
 12
 00:01:41,180 --> 00:01:44,010
-Дані: Hey, Kai. Do you actually sleep in the Old Camp ring?
+Дані: Гей, Кай. Ти справді спиш в кільці Старого табору?
 
 13
 00:01:44,030 --> 00:01:47,280
-Кай: Yes. It was a dream come true. I always wanted to do it.
+Кай: Так. Це була мрія, яка здійснилася. Я завжди хотів це зробити.
 
 14
 00:01:48,000 --> 00:01:50,280
-Дані: But which hut where you sleeping in?
+Дані: Але в якій хатині ти спиш?
 
 15
 00:01:51,000 --> 00:01:56,000
-Кай: I know there was a hut for me near the arena, but Mud ended up being very persistent.
+Кай: Я знаю, що для мене була хатинка біля арени, але Мад виявився дуже впертим.
 
 16
 00:01:56,050 --> 00:02:02,270
-Рейнгард: Okay, I won't ask then if you got any rest or if he had some more questions for you.
+Рейнгард: Гаразд, тоді я не буду питати, чи ви відпочили, чи у нього є ще якісь питання до вас.
 
 17
 00:02:03,000 --> 00:02:07,080
-Кай: No. Not really. No. So have you already been introduced?
+Кай: Ні. Не зовсім. Ні. То вас вже представили?
 
 18
 00:02:07,100 --> 00:02:08,180
-Дані: Me? Not yet.
+Дані: Мене? Ще ні.
 
 19
 00:02:08,200 --> 00:02:14,230
-Рейнгард: Right! So this is Daniel Candil, our art director. Thanks for joining us in this episode.
+Рейнгард: Так! Це Даніель Канділь, наш арт-директор. Дякуємо, що приєдналися до нас у цьому епізоді.
 
 20
 00:02:14,250 --> 00:02:16,070
-Дані: It's my pleasure.
+Дані: З радістю.
 
 21
 00:02:16,090 --> 00:02:24,240
-Рейнгард: So let's climb up to the tower. What better place to talk about the visual side of the game than up there, where we can have a great view over the whole world?
+Рейнгард: Тож давайте піднімемося на вежу. Що може бути кращим місцем для розмови про візуальну сторону гри, ніж нагорі, звідки відкривається чудовий вид на весь світ?
 
 22
 00:02:24,270 --> 00:02:26,200
-Дані: Oh, yeah. That sounds great.
+Дані: О, так. Звучить чудово.
 
 23
 00:02:30,000 --> 00:02:32,040
-Кай: What does an art director do exactly?
+Кай: Що саме робить арт-директор?
 
 24
 00:02:32,060 --> 00:03:05,140
-Дані: Well. Good question. In general, we could say that the art director in a video game is the driving force behind the game's aesthetics. But more than that, the job for an art director is about crafting and creating coherence in the game's aesthetic vision. In our case, I would say that I work within an incredible team of artists and I am just a responsible for defining and overseeing the visual direction of the game, or ensuring all visual aspects from characters and settings to environments, the color, or even the light, or even the user interface.
+Дані: Що ж. Гарне питання. Загалом, можна сказати, що арт-директор у відеогрі є рушійною силою естетики гри. Але більше того, робота арт-директора полягає у розробці та створенні узгодженості в естетичному баченні гри. У нашому випадку, я б сказав, що працюю в неймовірній команді художників, і я відповідаю за визначення та нагляд за візуальним напрямком гри, або забезпечення всіх візуальних аспектів - від персонажів і декорацій до оточення, кольору, світла і навіть користувацького інтерфейсу.
 
 25
 00:03:05,160 --> 00:03:29,190
-Дані: Everything is aligning within unified vision. (Кай: M-hm.) And maybe you could think, okay then, so you spend your day modeling and doing cool 3D or 2D art. And yes... and no. Because the art director is also tasked with guiding and supervising the team of artists. And this can include reviewing our work, providing feedback, ensuring the game's vision remains consistent. And the most important part...
+Дані: Усе підпорядковується єдиному баченню. (Кай: Угу.) І, можливо, ви можете подумати, що ви проводите весь день, моделюючи та створюючи круті 3D або 2D роботи. І так... і ні. Тому що завдання арт-директора також полягає в тому, щоб керувати і контролювати команду художників. А це може включати перевірку нашої роботи, надання фідбеку, забезпечення послідовності бачення гри. І найважливіша частина...
 
 26
 00:03:29,210 --> 00:03:42,220
-Дані: I need to be capable of motivating and steering the amazing team of artists with different specialties we have here at Alkimia. So, I could go hours and hours because, you know, art is my passion, but I think you get the point.
+Дані: Мені потрібно вміти мотивувати і керувати дивовижною командою художників з різними спеціалізаціями, які працюють в Alkimia. Я можу говорити про це годинами, тому що мистецтво - це моя пристрасть, але, думаю, ви зрозуміли, що я маю на увазі.
 
 27
 00:03:42,250 --> 00:03:45,020
-Кай: Yes, absolutely. Thank you.
+Кай: Так, звичайно. Дякую.
 
 28
 00:03:45,040 --> 00:03:53,100
-Рейнгард: So, this episode might be a bit challenging since we'll have to talk about visual aspects in a podcast. How do we go about this?
+Рейнгард: Отже, цей епізод може бути дещо складним, оскільки нам доведеться говорити про візуальні аспекти в подкасті. Як ми це зробимо?
 
 29
 00:03:53,120 --> 00:03:59,120
-Дані: Well, some visual material is already out there. So we can talk about that and people can look at it while we do.
+Дані: Ну, деякі візуальні матеріали вже є. Тож ми можемо говорити про це, а люди можуть дивитися на нього, поки ми говоримо.
 
 30
 00:03:59,180 --> 00:04:04,160
-Кай: Yeah. Great idea. For example, the Old Mine was shown in the Old Mine teaser quite a while ago.
+Кай: Так. Чудова ідея. Наприклад, Стара копальня була показана в трейлері досить давно.
 
 31
 00:04:04,220 --> 00:04:07,090
-Рейнгард: We showed off the Old Camp in a trailer too.
+Рейнгард: Ми також показали Старий табір у трейлері.
 
 32
 00:04:07,120 --> 00:04:09,030
-Дані: Yeah, that's a good starting point.
+Дані: Так, це гарна відправна точка.
 
 33
 00:04:09,050 --> 00:04:19,040
-Кай: So, we are in the Old Camp - in the castle, to be precise - so why not use this to explain the creation process of, for example, the characters and the armors and your role in it?
+Кай: Отже, ми знаходимося в Старому Таборі - в замку, якщо бути точним - так чому б не використати це, щоб пояснити процес створення, наприклад, персонажів і обладунків, а також вашу роль в ньому?
 
 34
 00:04:19,060 --> 00:04:38,250
-Дані: So, well, everything starts with a complete analysis of what was previously done. Remember that we are doing a very faithful remake. So first we need to understand the decisions made back in the day and if those can work in today's world. So we are trying to modernize what should be modernized, but maintaining the essence of what should be maintained.
+Дані: Отже, все починається з повного аналізу того, що було зроблено раніше. Пам'ятайте, що ми робимо дуже точний ремейк. Тож спершу нам потрібно зрозуміти, які рішення були прийняті колись і чи можуть вони працювати в сучасному світі. Тому ми намагаємося модернізувати те, що має бути модернізовано, але зі збереженням суті того, що має бути збережено.
 
 35
 00:04:39,000 --> 00:04:59,260
-Дані: I mean, the idea is you will see a shadow and you will recognize it as a shadow. And when we finish that process, an artist starts creating concepts, gathering information, and once the design is approved, we go to the high model phase. Then we bake everything into an in-game model, we texture it. Remember: We are aiming always for very high detail armors.
+Дані: Тобто, ідея полягає в тому, що ви побачите тінь і зрозумієте, що це тінь. І коли ми закінчуємо цей процес, художник починає створювати концепти, збирати інформацію, і коли дизайн затверджений, ми переходимо до фази високої моделі. Потім ми запікаємо все в ігрову модель, текстуруємо її. Пам'ятайте: Ми завжди прагнемо до дуже високої деталізації обладунків.
 
 36
 00:04:59,290 --> 00:05:07,000
-Дані: And once the process is done, we integrate the pieces into the engine where we finish polishing and tweaking the final look.
+Дані: І як тільки процес завершено, ми інтегруємо частини в двигун, де завершуємо полірування та налаштування остаточного вигляду.
 
 37
 00:05:07,020 --> 00:05:12,120
-Кай: And very successfully indeed. It looks fantastic in the game.
+Кай: І дуже успішно. У грі це виглядає фантастично.
 
 38
 00:05:12,140 --> 00:05:16,080
-Рейнгард: There we are at the top of the old camp tower.
+Рейнгард: Ось ми й на вершині старої вежі табору.
 
 39
 00:05:16,100 --> 00:05:20,200
-Кай: Oh, wow, look at that. What a view.
+Кай: Ого, подивись на це. Який краєвид.
 
 40
 00:05:20,220 --> 00:05:25,070
-Дані: Yeah, it's pretty neat. Just ignore the missing pieces of landscape over there, right?
+Дані: Так, дуже гарно. Просто не звертайте уваги на відсутні шматки пейзажу, так?
 
 41
 00:05:25,090 --> 00:05:27,120
-Кай: (laughs) Sure.
+Кай: (сміється) Звичайно.
 
 42
 00:05:27,140 --> 00:05:33,200
-Рейнгард: Ehm, how many people are actually working in the art department here at Alkimia? And what sort of roles do we have in here?
+Рейнгард: Хм, скільки людей насправді працює в арт-відділі тут, в Alkimia? І які ролі вони виконують?
 
 43
 00:05:33,220 --> 00:06:00,000
-Дані: Yeah, we are a lot of people, man. I mean, more than 30 working as I would define as the in-house team. But at the same time, we are working with different external outsourcing studios. So the number of artists involved in this is pretty high. And about roles here: We have from 2D artist to 3D artist, people who are more into character creation, people into environment, art, tech artists, lighting artists, effects artists, animators, riggers, cinematic artists.
+Дані: Так, нас багато людей. Я маю на увазі, що більше 30 людей, які працюють, як я б визначив, як внутрішня команда. Але в той же час ми працюємо з різними зовнішніми аутсорсинговими студіями. Тож кількість художників, які беруть участь у цьому, досить велика. Щодо ролей: У нас є художники від 2D-художника до 3D-художника, люди, які більше займаються створенням персонажів, люди, які займаються середовищем, мистецтвом, технічні художники, художники по світлу, художники по ефектах, аніматори, монтажники, кінематографічні художники.
 
 44
 00:06:00,200 --> 00:06:06,010
-Дані: And the last time, believe me, the ones who save my life day after day: We have two amazing art coordinators.
+Дані: І останнім часом, повірте мені, ті, хто рятують мені життя день за днем: Це два наших чудових арт-координатори.
 
 45
 00:06:06,030 --> 00:06:17,200
-Кай: Yeah, I can imagine getting some of that coordination hassle off of your own personal desk is really helpful. (Дані: Yes.) By the way, from up here you can pretty much see all of the magic barrier.
+Кай: Так, можу собі уявити, що зняти частину клопоту з координації з вашого особистого столу - це дуже корисно. (Дані: Так.) До речі, звідси добре видно весь магічний бар'єр.
 
 46
 00:06:17,220 --> 00:06:23,210
-Дані: Oh, the barrier, man. It's always there. Like... alive, like... breathing. (Кай: Yeah.) Remembering us we are trapped!
+Дані: О, бар'єр, чувак. Він завжди там. Як... живий, як... дихає. (Кай: Так.) Пам'ятаючи про нас, що в пастці!
 
 47
 00:06:23,230 --> 00:06:26,040
-Кай: Yeah, that that as well.
+Кай: Так, і це теж.
 
 48
 00:06:26,060 --> 00:06:33,190
-Рейнгард: So, Dani, which specific piece of art for the Gothic 1 Remake are you most proud of - for now?
+Рейнгард: Отже, Дані, яким конкретним елементом для ремейку Gothic 1 ти пишаєшся найбільше - на даний момент?
 
 49
 00:06:33,210 --> 00:06:47,160
-Дані: Well, all of the pieces done have a special place in my heart, you know? But I cannot wait to see people walking through the New Camp. The rice fields... I love it! I love that place. And I have a very good feeling about Xardas' tower. You will see.
+Дані: Ну, всі зроблені роботи займають особливе місце в моєму серці, розумієте? Але я не можу дочекатися, коли побачу, як люди ходитимуть по Новому табору. Рисові поля... Я обожнюю їх! Я люблю це місце. І у мене дуже гарне передчуття щодо вежі Ксардаса. Ось побачиш.
 
 50
 00:06:47,190 --> 00:07:01,100
-Кай: Yeah, I think I know what you mean. I've been in both of Xardas' towers just recently to place some sound effects and... yeah! Yeah yeah yeah yeah. And which part of the asset creation turned out to be the most challenging so far?
+Кай: Так, думаю, я розумію, що ти маєш на увазі. Нещодавно я був в обох вежах Ксардаса, щоб розмістити деякі звукові ефекти і... так! Так, так, так. І яка частина створення контенту виявилася найскладнішою на сьогоднішній день?
 
 51
 00:07:01,130 --> 00:07:18,140
-Дані: The characters, no doubt. We are trying to push our boundaries here. And we will have thousands of characters and we are trying to make each one of them unique. So imagine the work behind this. The good thing is that we have our sister company, Gate 21, helping us with that fight. So I'm convinced together will rise to victory. (Кай: Yeah.)
+Дані: Персонажі, без сумніву. Ми намагаємося розширити наші кордони. У нас будуть тисячі персонажів, і ми намагаємося зробити кожного з них унікальним. Тож уявіть, яка робота за цим стоїть. Добре, що у нас є наша сестринська компанія, Gate 21, яка допомагає нам у цій боротьбі. Тож я переконаний, що разом ми прийдемо до перемоги. (Кай: Точно.)
 
 52
 00:07:18,180 --> 00:07:32,110
-Рейнгард: Thanks. Very interesting. As you all know, the first thing people saw from the remake was the playable teaser. After that, we started from scratch and transitioned over to a new, more dark visual esthetics.
+Рейнгард: Дякую. Дуже цікаво. Як ви всі знаєте, перше, що люди побачили з ремейку, був ігровий тизер. Після цього ми почали з нуля і перейшли до нової, більш похмурої візуальної естетики.
 
 53
 00:07:32,130 --> 00:07:33,200
-Дані: Yeah, completely.
+Дані: Так, абсолютно.
 
 54
 00:07:33,220 --> 00:07:37,180
-Рейнгард: What was the process like and how would you describe the new style?
+Рейнгард: Як проходив цей процес і як би описати новий стиль?
 
 55
 00:07:37,200 --> 00:07:57,210
-Дані: Yeah, on the PT - well, the Playable Teaser - we were trying to move things into a different direction. I think it has been said, but we wanted to discover the limits and see what people wanted and how far we should go. Was there a remake or was a complete reimagination of the story more in line with a modern and colorful and cheery approach?
+Дані: Так, на ПТ - ну, Playable Teaser - ми намагалися рухати речі в іншому напрямку. Я думаю, що це вже було сказано, але ми хотіли відкрити для себе межі та побачити, чого хочуть люди і як далеко ми повинні зайти. Чи був це ремейк, чи повне переосмислення історії більше відповідало сучасному, барвистому та веселому підходу?
 
 56
 00:07:57,240 --> 00:08:22,180
-Дані: Or maybe we should go deeper into the darkness, gritty, believable and moody atmosphere of the original has, respecting what made Gothic so special? Well, now the answer should be clear because we asked the community and they showed us the right path. So this time we're going for something darker. Definitely more grounded, realistic, even gritty. I wouldn't say depressive, but definitely not lush or cheer as the PT was.
+Дані: Або, можливо, нам варто заглибитися в темну, грубу, правдоподібну і похмуру атмосферу оригіналу, поважаючи те, що зробило готику такою особливою? Що ж, тепер відповідь має бути зрозумілою, адже ми запитали спільноту, і вони вказали нам правильний шлях. Тож цього разу ми збираємося зробити щось більш похмуре. Безумовно, більш приземлене, реалістичне, навіть грубе. Я б не сказав, що депресивний, але точно не пишний і не веселий, як був ПТ.
 
 57
 00:08:22,210 --> 00:08:36,000
-Дані: We want to enhance the original feeling and and as you saw in the trailers, we are following that path, but we have still work to do until we nail the perfect atmosphere. Listening to the fans is an important part here and believe me, we do!
+Дані: Ми хочемо підсилити оригінальне відчуття, і, як ви бачили в трейлерах, ми йдемо цим шляхом, але нам ще треба попрацювати, щоб досягти ідеальної атмосфери. Прислухатися до фанатів - важлива частина роботи, і повірте, ми це робимо!
 
 58
 00:08:36,020 --> 00:08:37,000
-Кай: Oh yeah.
+Кай: О так.
 
 59
 00:08:37,020 --> 00:08:50,400
-Дані: In terms of style, I would say we are pursuing a "heightened realism", something that feels believable with a very high detail frequency, but that not means necessarily it's real. It just feels like it is.
+Дані: З погляду стилю, я б сказав, що ми прагнемо до «підвищеного реалізму», чогось, що здається правдоподібним з дуже високою частотою деталей, але це не означає, що це обов'язково є реальним. Просто здається, що так і є.
 
 60
 00:08:50,500 --> 00:08:56,140
-Кай: Heightened Realism! Okay, gotta put that in my vocabulary book. Do you have like an art Bible?
+Кай: Підвищений реалізм! Гаразд, треба записати це до мого словника. У вас є щось на зразок Біблії мистецтва?
 
 61
 00:08:56,160 --> 00:08:57,160
-Дані: Of course we have it.
+Дані: Звісно, є.
 
 62
 00:08:57,190 --> 00:09:00,110
-Кай: Okay. What's that? And what's covered by it?
+Кай: Гаразд. Що це? І що в ньому приховано?
 
 63
 00:09:00,130 --> 00:09:18,260
-Дані: Sure. I mean, we have in an art bible. And in that bible we cover the use of color, the main shapes for elements, the way we decorate, the visual strategies we use to create environments, the types of materials... It's a very complex document. And the good part is that it's an evolving document that grows naturally with the game.
+Дані: Звичайно. Я маю на увазі, що у нас є біблія мистецтва. І в цій біблії ми описуємо використання кольору, основні форми елементів, способи декорування, візуальні стратегії, які ми використовуємо для створення середовища, типи матеріалів... Це дуже комплексний документ. І хороша частина полягає в тому, що це документ, який розвивається, який росте природним чином разом з грою.
 
 64
 00:09:18,280 --> 00:09:26,030
-Кай: That's super interesting! Can you give us an example of something that's in the art bible, and how you translate it into the actual game?
+Кай: Це дуже цікаво! Чи можете ви навести приклад чогось, що є в біблії мистецтва, і як ви втілюєте це в реальній грі?
 
 65
 00:09:26,050 --> 00:09:47,290
-Дані: Sure. For example, in the art bible we define different strategies of color use or even decoration placement in a way that the viewer can feel the environment are bigger than they really are. And, of course, this is not something we invented. It's something that has been used in theme parks since John Hench defined "The Art of the Show" in the 60s.
+Дані: Звичайно. Наприклад, у Біблії мистецтва ми визначаємо різні стратегії використання кольору або навіть розміщення декору таким чином, щоб глядач міг відчути, що навколишнє середовище є більшим, ніж воно є насправді. І, звісно, це не те, що ми винайшли. Це те, що використовується в тематичних парках з тих пір, як Джон Хенч визначив «Мистецтво шоу» в 60-х роках.
 
 66
 00:09:48,010 --> 00:09:56,080
-Дані: So it's a tested thing, and it works in a real scenario. You can go to Disneyland and see it, and we use this and it just works.
+Дані: Тож це перевірена річ, і вона працює в реальному сценарії. Ви можете поїхати в Діснейленд і побачити це, і ми використовуємо це, і це просто працює.
 
 67
 00:09:56,110 --> 00:09:58,220
-Кай: Interesting. Thank you for that example.
+Кай: Цікаво. Дякую за цей приклад.
 
 68
 00:09:58,240 --> 00:10:07,150
-Дані: By the way, what comes to your mind when you look around? I mean, anything about this world that you find interesting?
+Дані: До речі, що спадає вам на думку, коли ви дивитеся навколо? Я маю на увазі, щось у цьому світі, що здається тобі цікавим?
 
 69
 00:10:07,170 --> 00:10:16,060
-Кай: Mmm... It looks beautiful. (Дані: Thanks, man. What else?) It's very diverse and - kind of - varied.
+Кай: Ммм... Виглядає гарно. (Дані: Дякую, друже. Що ще?) Воно дуже різноманітне і... типу... різнопланове.
 
 70
 00:10:16,110 --> 00:10:19,170
-Дані: Yes, exactly. You can clearly recognize the different biomes.
+Дані: Так, саме так. Ви можете чітко розпізнати різні біоми.
 
 71
 00:10:19,190 --> 00:10:21,170
-Рейнгард: Yeah, absolutely.
+Рейнгард: Так, безперечно.
 
 72
 00:10:21,190 --> 00:10:25,200
-Дані: Oh... the biomes. So beautiful and at the same time, so challenging.
+Дані: Ох... біоми. Такі красиві та водночас такі складні.
 
 73
 00:10:25,270 --> 00:10:38,200
-Кай: Are they still the same biomes as in the OG? Like different tones of brown-gray, but in different types of landscapes? Or have you changed the overall - like - look and vibe of these biomes?
+Кай: Це все ще ті ж самі біоми, що і в оригіналі? Як різні тони коричнево-сірого, але в різних типах ландшафтів? Чи ви змінили загальний вигляд і атмосферу цих біомов?
 
 74
 00:10:38,220 --> 00:10:58,300
-Дані: The biomes will be the same as in the original. And, of course, we wanted to elevate those differences between them so the player feels - like - transported. Like really immersed into another part of the world, but always maintaining coherence between them. Because in the end, the Valley of the Mines is, well, relatively small.
+Дані: Біоми будуть такими ж, як і в оригіналі. І, звичайно, ми хотіли підкреслити ці відмінності між ними, щоб гравець відчував себе ніби перенесеним. Ніби дійсно занурився в іншу частину світу, але завжди зберігаючи цілісність між ними. Тому що, зрештою, Долина Копалень, ну, відносно невелика.
 
 75
 00:10:58,300 --> 00:11:03,190
-Дані: But, you know, it's all inside the magic barrier. So, is this magic affecting somehow the biomes? We'll see.
+Дані: Але, знаєте, це все всередині магічного бар'єру. Отже, ця магія якось впливає на біоми? Побачимо.
 
 76
 00:11:03,210 --> 00:11:10,130
-Кай: Oh, look, it starts raining. So the weather system is already in place.
+Кай: О, дивись, починається дощ. Отже, погодна система вже створена.
 
 77
 00:11:10,150 --> 00:11:23,290
-Дані: Of course it is in place! This wouldn't be Gothic without it suddenly starting to rain and ... Hey, you can see diggers going to their huts and looking for a safe spot. The weather system is in place and I expect improvements in the next months.
+Дані: Звичайно, все на місці! Це не було б ґотикою, якби несподівано не почався дощ і ... Ось, можна побачити, як копачі йдуть до своїх хатин і шукають безпечне місце. Погодна система працює, і я очікую поліпшення в найближчі місяці.
 
 78
 00:11:24,010 --> 00:11:46,030
-Рейнгард: And the best part: In the remake, all the daily routines are reacting to the weather. Look how they take shelter and how they complain about the weather. But now to something we can't see from up here: We've all seen the Old Mine in the teaser trailer, and people appreciate the accuracy in which it was recreated. What are the things you decided to change about the Old Mine, though, and why?
+Рейнгард: І найцікавіше: У рімейку всі повсякденні справи реагують на погоду. Подивіться, як вони ховаються і як скаржаться на погоду. А тепер до того, чого нам звідси не видно: Ми всі бачили Стару копальню в тизер-трейлері, і люди оцінили точність, з якою вона була відтворена. Що саме ви вирішили змінити в Старій копальні та чому?
 
 79
 00:11:46,060 --> 00:11:52,060
-Дані: Maybe we should go to the Old Mine while we talk about it. It rains anyway, so it will be more convenient inside.
+Дані: Може, поки ми про це говоримо, підемо до Старої копальні? Дощ все одно йде, тож всередині буде зручніше.
 
 80
 00:11:52,080 --> 00:11:54,100
-Кай: But that's a long walk through the rain.
+Кай: Але це довга прогулянка під дощем.
 
 81
 00:11:54,180 --> 00:11:56,290
-Дані: Yes, but I came prepared.
+Дані: Так, але я прийшов підготовленим.
 
 82
 00:11:58,040 --> 00:11:58,230
-Дані: This should help.
+Дані: Це повинно допомогти.
 
 83
 00:11:58,270 --> 00:12:09,030
-Кай: Whoa whoa whoa whoa whoa. I have never used the Teleportation rune before. I don't think we should... (Рейнгард: DANI - WAIT!)
+Кай: Стоп, стоп, стоп, стоп, стоп. Я ніколи раніше не використовував руну телепортації. Не думаю, що нам варто... (Рейнгард: ДАНІ - ЗАЧЕКАЙ!)
 
 84
 00:12:09,050 --> 00:12:10,400
-Кай: What the h...
+Кай: Що за...
 
 85
 00:12:10,400 --> 00:12:18,100
-Рейнгард: Shhht! Dani, where exactly did this rune take us to?
+Рейнгард: Ш-ш-ш! Дані, куди саме привела нас ця руна?
 
 86
 00:12:17,000 --> 00:12:19,650
-Дані: Well, usually to the most recent place that...
+Дані: Ну, зазвичай до останнього місця, яке...
 
 87
 00:12:19,650 --> 00:12:21,800
-Кай: Dani. Speak quietly!
+Кай: Дані. Говори тихіше!
 
 88
 00:12:21,270 --> 00:12:23,190
-Дані: Damn, this is dark.
+Дані: Дідько, як темно.
 
 89
 00:12:23,210 --> 00:12:25,150
-Рейнгард: This is the minecrawler queen's lair.
+Рейнгард: Це лігво королеви повзунів.
 
 90
 00:12:25,210 --> 00:12:26,120
-Кай: Oh, no.
+Кай: О, ні.
 
 91
 00:12:26,130 --> 00:12:30,180
-Дані: Oh, crap. You're right. Be quiet everyone!
+Дані: От лайно. Твоя правда. Заспокойтеся всі!
 
 92
 00:12:30,200 --> 00:12:33,060
-Кай: Oh crap! (Рейнгард: Shhht.)
+Кай: От лайно! (Рейнгард: Шшшш.)
 
 93
 00:12:37,090 --> 00:12:46,230
-Кай: No no no no no no no! Javi, hurry! We have an emergency. Sent the Templars to the minecrawler tunnels. Now! (Javi: Oh, okay. Will do!)
+Кай: Ні, ні, ні, ні, ні, ні, ні, ні! Хаві, швидше! У нас надзвичайна ситуація. Відправте Храмівників до тунелів повзунів. Негайно! (Гаразд. Буде зроблено!)
 
 94
 00:12:46,250 --> 00:13:03,030
-Дані: Everybody RUN!
+Дані: Усім бігти!
 
 95
 00:13:03,050 --> 00:13:06,100
-Кай: Holy molerat. That was way too close.
+Кай: Святий кротощур. Це було близько.
 
 96
 00:13:06,120 --> 00:13:07,000
-Рейнгард: Definitely.
+Рейнгард: Точно.
 
 97
 00:13:07,010 --> 00:13:12,100
-Дані: Sorry, guys. Last time I use the rune, it took me to the upper levels. That was just yesterday.
+Дані: Вибачте, хлопці. Востаннє, коли я використовував руну, вона перенесла мене на верхні рівні. Це було лише вчора.
 
 98
 00:13:12,200 --> 00:13:18,200
-Кай: Hmmm! But why did someone from the team enter the minecrawler section last night? That part of the mine has long been completed.
+Кай: Хммм! Але чому хтось із команди вчора ввечері зайшов у секцію з повзунами? Ця частина шахти вже давно закінчена.
 
 99
 00:13:18,270 --> 00:13:19,170
-Дані: I don't know.
+Дані: Я не знаю.
 
 100
 00:13:19,190 --> 00:13:21,180
-Рейнгард: Go and ask Alberto. We need answers.
+Рейнгард: Іди й запитай Альберто. Нам потрібні відповіді.
 
 101
 00:13:21,230 --> 00:13:23,190
-Дані: Maybe Elena knows something.
+Дані: Може, Олена щось знає.
 
 102
 00:13:23,200 --> 00:13:24,060
-Рейнгард: Yes!
+Рейнгард: Так!
 
 103
 00:13:24,070 --> 00:13:27,200
-Кай: Guys! We're in the middle of recording a podcast episode, remember?
+Кай: Хлопці! Ми зараз записуємо новий епізод подкасту, пам'ятаєте?
 
 104
 00:13:27,210 --> 00:13:28,090
-Рейнгард: Oh, yeah.
+Рейнгард: О, так.
 
 105
 00:13:28,090 --> 00:13:29,040
-Дані: Yeah, right.
+Дані: Так, точно.
 
 106
 00:13:29,040 --> 00:13:29,260
-Рейнгард: Very true.
+Рейнгард: Це правда.
 
 107
 00:13:29,270 --> 00:13:34,050
-Дані: One second! Here, torches for both of you guys.
+Дані: Секундочку! Ось, смолоскипи для вас обох.
 
 108
 00:13:34,080 --> 00:13:36,210
-Кай: Ah, nice! Thank you. (Рейнгард: That's handy, thanks.)
+Кай: Чудово! Дякую. (Рейнгард: Так краще, дякую.)
 
 109
 00:13:36,230 --> 00:13:40,120
-Кай: Ooh, look at those shadows moving around. Dynamic lighting at its best.
+Кай: Подивіться, як рухаються тіні. Динамічне освітлення в найкращому вигляді.
 
 110
 00:13:40,180 --> 00:13:42,080
-Дані: Yeah, that looks pretty cool, right?
+Дані: Так, це виглядає досить круто, правда?
 
 111
 00:13:42,120 --> 00:13:47,120
-Кай: Oh, yes. Can you talk a little bit about your lighting concepts and Unreal Engine's lighting features?
+Кай: О, так. Чи можете ви розповісти трохи про ваші концепції освітлення та можливості Unreal Engine у сфері освітлення?
 
 112
 00:13:47,180 --> 00:14:08,040
-Дані: Yes. Of course. I mean, we moved to Unreal Engine 5 months ago because - knowing it was a risky move - we felt that the fans deserve something truly great. And the new technologies that came with UE5 let us show more detailed environments. And finally, we have the Holy Grail of light and rendering. We have global illumination in real time with "Lumen".
+Дані: Так. Звісно, що так. Ми перейшли на Unreal Engine 5 місяців тому, оскільки - знаючи, що це був ризикований крок, - ми відчували, що фанати заслуговують на щось справді велике. А нові технології, які прийшли з UE5, дозволяють нам показувати більш деталізовані середовища. І, нарешті, у нас є Святий Грааль світла та рендерингу. У нас є глобальне освітлення в реальному часі з «Lumen».
 
 113
 00:14:08,110 --> 00:14:36,000
-Дані: Three years ago, this could have been seen like a feverish dream, but we have it now and we are using it fully. Our approach in light I would define it as: "embrace the darkness". We are going full baroque where the darks are pretty obscure, where the night feels dangerous. Think about Caravaggio or Velasquez for the interiors, and Claude Lorrain for the exteriors, with those dark environments and the orange skies.
+Дані: Три роки тому це можна було б сприймати як лихоманкову мрію, але зараз ми це маємо і використовуємо повною мірою. Наш підхід у світлі я б визначив так: «обійняти темряву». Ми йдемо до повного бароко, де темрява досить непрозора, де ніч здається небезпечною. Подумайте про Караваджо чи Веласкеса для інтер'єрів та Клода Лоррена для екстер'єрів, з його темним середовищем та помаранчевим небом.
 
 114
 00:14:36,020 --> 00:14:42,230
-Дані: For the people listening here: If you go to Google images and search for those three masters of painting, you will see.
+Дані: Для людей, які нас слухають: Якщо ви зайдете в Google images і пошукаєте цих трьох майстрів живопису, то побачите.
 
 115
 00:14:42,260 --> 00:14:50,050
-Рейнгард: So we are using a modular approach to level building, right? What does that mean and how did we apply that to the Old Mine?
+Рейнгард: Отже, ми використовуємо модульний підхід до побудови рівнів, так? Що це означає і як ми застосували його на Старій копальні?
 
 116
 00:14:50,070 --> 00:15:11,230
-Дані: Never underestimate the power of a simple wood plank. So basically, almost all we model and design is going to be used in different places - scaled, rotated. The modern graphic engine kind of asks you to be smart and be modular. So we created the Old Mine with seven different types of rock and ten different assets of wood structure.
+Дані: Ніколи не варто недооцінювати можливості простої дерев'яної дошки. Отже, майже все, що ми моделюємо і проектуємо, буде використовуватися в різних місцях - масштабуватися, обертатися. Сучасний графічний рушій просить вас бути розумними та модульними. Тож ми створили Стару копальню з сімома різними типами гірських порід і десятьма різними активами дерев'яної структури.
 
 117
 00:15:11,250 --> 00:15:20,000
-Дані: So you can imagine how many memory and textures we are saving here. So give us three different wood planks and we will create a world for you.
+Дані: Тож можете собі уявити, скільки пам'яті та текстур ми тут економимо. Дайте нам три різні дерев'яні дошки, і ми створимо для вас світ.
 
 118
 00:15:20,030 --> 00:15:22,060
-Кай: Awesome (Рейнгард: Guys, we have to go up here!)
+Кай: Чудово (Рейнгард: Хлопці, ми повинні піднятися сюди!)
 
 119
 00:15:22,120 --> 00:15:23,210
-Дані: Yes. Follow me.
+Дані: Так. За мною.
 
 120
 00:15:23,230 --> 00:15:26,090
-Кай: Wait, is it safe to use the ladders?
+Кай: Чекай, а чи безпечно користуватися драбинами?
 
 121
 00:15:26,120 --> 00:15:28,220
-Рейнгард: Kai! It's not 2001 anymore.
+Рейнгард: Кай! Зараз не 2001 рік.
 
 122
 00:15:28,240 --> 00:15:29,800
-Кай: Hm, okay.
+Кай: Хм, добре.
 
 123
 00:15:33,150 --> 00:15:36,000
-Кай: It works like a charm. Nice!
+Кай: Працює бездоганно. Чудово!
 
 124
 00:15:36,020 --> 00:15:46,040
-Рейнгард: I told you, our programing team - and especially Andre (Taulien) - already spent countless of hours on making sure ladder climbing won't be a disaster like in 2001.
+Рейнгард: Я вже казав вам, що наша команда програмістів - і особливо Андре (Таульєн) - вже витратила незліченну кількість годин на те, щоб переконатися, що підйом по сходах не стане катастрофою, як у 2001 році.
 
 125
 00:15:46,050 --> 00:15:54,000
-Кай: Okay. Back in the Old Camp, Javi mentioned a new wall climbing feature. Will players be able to use that feature somewhere here in the Old Mine?
+Кай: Гаразд. У Старому Таборі Хаві згадував про нову функцію лазіння по стінах. Чи зможуть гравці використовувати цю можливість десь тут, у Старій Копальні?
 
 126
 00:15:54,070 --> 00:16:01,270
-Рейнгард: Not so much in the Old Mine, actually, but there are mountain areas where real climbing is another form of traversal.
+Рейнгард: У Старій Копальні - не так багато, але в грі є гірські райони, де лазіння по стрімких скелях буде одним із способів дослідження.
 
 127
 00:16:01,290 --> 00:16:11,030
-Кай: Now that I'm here in person, I have to say that the recreation of the Old Mine is really just perfect. Very true to the original, but enhanced in a really convincing and intriguing way.
+Кай: Тепер, коли я тут особисто, мушу сказати, що відтворення Старої копальні справді просто ідеальне. Дуже точне до оригіналу, але покращене у дійсно переконливий та інтригуючий спосіб.
 
 128
 00:16:11,060 --> 00:16:11,270
-Дані: Thanks.
+Дані: Дякую.
 
 129
 00:16:12,000 --> 00:16:18,700
-Кай: Really, it's great! What was your process of designing the new Old Mine? How did you decide what to keep and what to extend?
+Кай: Дійсно, це чудово! Як ви проектували нову Стару копальню? Як вирішували, що залишити, а що розширити?
 
 130
 00:16:18,700 --> 00:16:42,140
-Дані: Well, we always start with blockouts made by the design team. We meet all together since this is always a joint effort so we can share the same vision. They provide those blockouts and then we create a task force of artist to work on that specific environment. They gather references, they create the first layer, as we called it, the "nature layer", where we place all the natural rock formations ground and so...
+Дані: Ну, ми завжди починаємо з макетів, зроблених командою дизайнерів. Ми зустрічаємося всі разом, оскільки це завжди спільна робота, щоб мати спільне бачення. Вони надають ці макети, а потім ми створюємо робочу групу художників для роботи над цим конкретним середовищем. Вони збирають референси, створюють перший шар, як ми його назвали, «природний шар», де ми розміщуємо всі природні гірські породи на землі й так далі...
 
 131
 00:16:42,140 --> 00:17:06,250
-Дані: And once approved, we go to the "structures layer" where we design all the man-made constructions. (Кай: Mhm.) In recreating those spaces, it's very, very important to be constantly seeing and analyzing the original environments and detecting the landmarks. Walt Disney call those the "winnies" in his parks. But imagine those focal points that fans will remember when playing.
+Дані: Після затвердження ми переходимо до «шару структур», де проєктуємо всі штучні споруди. (Кай: Мм.) Відтворюючи ці простори, дуже, дуже важливо постійно бачити й аналізувати оригінальне середовище та виявляти орієнтири. Волт Дісней називав їх «вінні» у своїх парках. Але уявіть собі ті фокусні точки, які фанати запам'ятають під час гри.
 
 132
 00:17:07,000 --> 00:17:22,040
-Дані: I mean, maybe you don't remember exactly the position of the intricate pasarels that descend into the Old Mine, but I'm sure you remember the oven at the end... (Кай: Yeah!) ... and the Orc slave... (Кай: Yeah.) So those things should be there in our design too.
+Дані: Я маю на увазі, що, можливо, ви не пам'ятаєте точне розташування хитромудрих сходинок, які спускаються в Стару Копальню, але я впевнений, що ви пам'ятаєте піч в кінці... (Кай: Так!) ... і раба-орка... (Кай: Так.) Так що ці речі теж повинні бути в нашому дизайні.
 
 133
 00:17:22,060 --> 00:17:24,290
-Кай: Gotcha! And how many people were involved in building the Old Mine?
+Кай: Зрозумів! А скільки людей було задіяно в будівництві Старої копальні?
 
 134
 00:17:24,290 --> 00:17:36,020
-Дані: If I remember well, we assembled a task force of six artists that were involved in the artistic side of the mine, from creation of the environment to the placing of ambient particle and sound effects.
+Дані: Якщо я не помиляюся, ми зібрали робочу групу з шести художників, які займалися художнім оформленням копальні, починаючи від створення середовища і закінчуючи розміщенням звукових ефектів і частинок навколишнього середовища.
 
 135
 00:17:36,080 --> 00:17:40,040
-Кай: All right. Thanks for the INSIGHT. We're now approaching the OUTSIDE.
+Кай: Гаразд. Дякую за розуміння. А тепер ми виходимо на ПОВЕРХНЮ.
 
 136
 00:17:40,100 --> 00:17:43,180
-Рейнгард: Wow, Kai.
+Рейнгард: Ого, Кай.
 
 137
 00:17:43,200 --> 00:17:45,090
-Кай: (Inhales)... Aah, fresh air.
+Кай: (...) Свіже повітря.
 
 138
 00:17:45,090 --> 00:17:48,100
-Рейнгард: Yeah. I suggest we walk back to the Old Camp.
+Рейнгард: Так. Пропоную повернутися до Старого Табору.
 
 139
 00:17:48,120 --> 00:17:55,220
-Дані: Yeah. Let's walk. I'll guide you for a bit, but then I have to take a different path. I have some things to do in the New Camp.
+Дані: Так. Пройдімось. Я проведу тебе трохи, але потім мені треба буде піти іншою дорогою. У мене є справи в Новому Таборі.
 
 140
 00:17:55,240 --> 00:17:58,230
-Кай: interesting. Has the camp already been finished?
+Кай: Цікаво. Табір вже завершено?
 
 141
 00:17:58,250 --> 00:18:10,060
-Дані: Well, I cannot wait for you to see it, but answering your question: Yes! It's done. Maybe some lighting artist is there giving the final touches here and there, but I consider it done.
+Дані: Що ж, не можу дочекатися, коли ви його побачите, але відповідаю на ваше запитання: Так! Все готово. Можливо, якийсь художник по світлу ще додає останні штрихи, але я вважаю, що все готово.
 
 142
 00:18:10,130 --> 00:18:12,150
-Рейнгард: Kai, if you want, you can go with Dani.
+Рейнгард: Кай, якщо хочеш, можеш піти з Дані.
 
 143
 00:18:12,160 --> 00:18:13,200
-Кай: Yes. Okay.
+Кай: Так. Гаразд.
 
 144
 00:18:13,210 --> 00:18:16,140
-Рейнгард: I have to go back to the Old Camp and hand over that letter.
+Рейнгард: Я маю повернутися до Старого Табору і передати того листа.
 
 145
 00:18:16,190 --> 00:18:18,060
-Кай: Oh, yeah. The letter!
+Кай: О, так. Лист!
 
 146
 00:18:18,130 --> 00:18:21,120
-Рейнгард: Yes, but I can pick you up at the New Camp this afternoon.
+Рейнгард: Так, але я можу забрати тебе з Нового табору після обіду.
 
 147
 00:18:21,150 --> 00:18:29,240
-Кай: Okay. Sounds good. Although I'm very curious who that letter is for. You've been making such a big secret out of it for a while now.
+Кай: Окей. Добре. Хоча мені дуже цікаво, для кого цей лист. Ти вже давно робиш з нього таку велику таємницю.
 
 148
 00:18:29,260 --> 00:18:36,160
-Рейнгард: Well, yeah. It contains some significant news, but I want the person to get them first before anyone else gets them.
+Рейнгард: Ну, так. Він містить важливі новини, але я хочу, щоб людина дізналася їх першою, перш ніж хтось інший.
 
 149
 00:18:36,180 --> 00:18:38,170
-Дані: Interesting.
+Дані: Цікаво.
 
 150
 00:18:38,200 --> 00:18:40,070
-Кай: Yes, very.
+Кай: Так, дуже.
 
 151
 00:18:40,090 --> 00:18:47,080
-Рейнгард: You know what? I'll accompany you to the New Camp and we can go meet the recipient in the old camp together afterwards.
+Рейнгард: Знаєш що? Я супроводжуватиму тебе до Нового табору, а потім ми зможемо разом зустрітися з одержувачем у Старому таборі.
 
 152
 00:18:47,110 --> 00:18:55,020
-Кай: Yes. Perfect. Thank you. I'll text Timur. I think he's in the New Camp. He can meet us there with the community questions.
+Кай: Так. Чудово. Дякую. Я напишу Тимуру. Думаю, він у Новому таборі. Він може зустрітися з нами там із запитаннями спільноти.
 
 153
 00:18:55,070 --> 00:18:56,070
-Дані: All right. Thanks.
+Дані: Гаразд. Дякую.
 
 154
 00:18:56,100 --> 00:19:13,010
-Кай: So, Dani, looking at this picturesque landscape, what's your approach to world design? How realistic do you want it to be - versus, like, stylized and artistic? I know we've talked about the design process and your art bible earlier, but this question is more about your artistic influences and inspirations.
+Кай: Отже, Дані, дивлячись на цей мальовничий пейзаж, який ваш підхід до світового дизайну? Наскільки реалістичним ти хочеш його бачити - чи, навпаки, стилізованим і художнім? Я знаю, що ми вже говорили про процес проєктування та твою мистецьку біблію, але це питання більше про твої мистецькі впливи та натхнення.
 
 155
 00:19:13,040 --> 00:19:32,100
-Дані: That's a good question, Kai. And it's something that me and Elena, you know, she's my right hand here in the team... we have debated it a lot. Where are the limits of realism? Are these or that asset falling into the stylized realm? It's something that you should be aware of constantly. As I said before, we are rooting for...
+Дані: Це гарне питання, Кай. І це те, що ми з Оленою, знаєш, вона моя права рука в команді... ми багато обговорювали. Де межа реалізму? Чи потрапляють ті, чи інші об'єкти у сферу стилізації? Це те, про що треба постійно пам'ятати. Як я вже казав, ми вболіваємо за...
 
 156
 00:19:32,110 --> 00:19:51,250
-Дані: ... what we call heightened realism. And this choice gives us the opportunity to work in a realistic way when we talk about materials, shape, color, light... but at the same time give us room to move into a slightly degree of stylization when we talk about magic, gods and all the fantasy themed related content.
+Дані: ... те, що ми називаємо підвищеним реалізмом. І цей вибір дає нам можливість працювати в реалістичній манері, коли ми говоримо про матеріали, форму, колір, світло... але водночас дає нам простір для певної стилізації, коли ми говоримо про магію, богів і весь контент, пов'язаний з фентезійною тематикою.
 
 157
 00:19:51,270 --> 00:19:52,200
-Кай: M-hm. Understood.
+Кай: Угу. Зрозумів.
 
 158
 00:19:52,230 --> 00:20:14,240
-Дані: I would say we need to be believable. (Кай: Yeah.) Always moving inside the limits of what is Gothic and what is not. But we should not go too real to that point where we ask ourselves if this or that design could really happen in the 12th century Europe parameters. And about references: I will pass two hours talking about references, man, but let's stay with the baroque painters. (Кай: Sure.)
+Дані: Я б сказав, що ми повинні бути правдоподібними. (Кай: Так.) Завжди рухатися в межах того, що є ґотичним, а що ні. Але ми не повинні заглиблюватися в реалістичність до такої міри, щоб запитувати себе, чи міг той, чи інший дизайн дійсно існувати в параметрах Європи 12 століття. І про референції: Я можу дві години говорити про референси, але зупинімось на художниках бароко. (Кай: Звичайно.)
 
 159
 00:20:14,260 --> 00:20:41,170
-Дані: The way they understood the light, the dramatic effect, the theatrical composition, the play between bright and dark... I think Caravaggio and Velazquez are good examples of that. Their paintings feel real, but they were dramatic, staged and definitive. Not realistic, but they were believable. The same with artists like Claude Lorrain and his landscapes. I mean, better stop here because - Kai - I could be hours talking about the old masters and how much we should learn from them.
+Дані: Те, як вони розуміли світло, драматичний ефект, театральну композицію, гру між світлим і темним... Я думаю, що Караваджо і Веласкес є гарними прикладами цього. Їхні картини здаються реальними, але вони були драматичними, поставленими й остаточними. Не реалістичні, але правдоподібні. Те ж саме з такими художниками, як Клод Лоррен та його пейзажі. Я маю на увазі, що краще зупинитися на цьому, тому що, Кай, я міг би годинами говорити про старих майстрів і про те, як багато ми повинні вчитися у них.
 
 160
 00:20:41,180 --> 00:20:47,240
-Кай: Yeah. Seems so. I guess that's a topic for its very own, like, spinoff episode.
+Кай: Так. Схоже на те. Гадаю, це тема для окремого епізоду, типу спін-оффу.
 
 161
 00:20:47,270 --> 00:20:50,080
-Дані: There, you can see the New Camp behind that corner.
+Дані: Там, за рогом, можна побачити Новий табір.
 
 162
 00:20:50,140 --> 00:20:57,100
-Кай: Yes. Can't wait to see it. But before we get there and you'll be busy with other things, I have a few questions about characters and animations.
+Кай: Так. Не можу дочекатися, щоб побачити його. Але перш ніж ми туди потрапимо і ви будете зайняті іншими справами, у мене є кілька запитань про персонажів та анімацію.
 
 163
 00:20:57,170 --> 00:21:02,270
-Дані: Sure. You'll have to talk to Gerard for detailed questions about animations, but I'll see what I can do.
+Дані: Звичайно, тобі доведеться поговорити з Жераром, щоб отримати детальні відповіді на питання про анімацію, але я подивлюся, що можна зробити.
 
 164
 00:21:03,000 --> 00:21:23,260
-Кай: Thanks. First about characters: The original game had a bit of a cartoonish character style. Vivid colors, exaggerated face shapes, distinctive silhouettes, and so on. What's the plan for the remake? The characters I've seen are clearly distinguishable and super real. It's easy to tell which camp they're from and what they are, although everything seems to be a little toned down.
+Кай: Дякую. Спочатку про персонажів: Оригінальна гра мала дещо мультяшний стиль персонажів. Яскраві кольори, перебільшені форми облич, характерні силуети тощо. Який план щодо ремейку? Персонажі, яких я бачив, чітко розрізняються і є суперреальними. Легко сказати, з якого вони табору і що вони собою являють, хоча все здається трохи приглушеним.
 
 165
 00:21:24,030 --> 00:21:47,300
-Дані: Sure, you will be able to recognize the characters for sure. I mean, don't worry about that. We are respecting as much as possible the original design. So a guru will look like a guru and a shadow like a shadow. The challenge here was to recreate those memorable characters in a new way that felt totally respectful of the original, but at the same time offers a fresh version and I'm very happy with all the work the team did. You will see!
+Дані: Звісно, ти точно зможеш впізнати персонажів. Не хвилюйтеся про це. Ми максимально поважаємо оригінальний дизайн. Тому гуру буде виглядати як гуру, а тінь як тінь. Завдання полягало в тому, щоб відтворити цих пам'ятних персонажів по-новому, з повною повагою до оригіналу, однак запропонувати свіжу версію, і я дуже задоволений усією роботою, яку виконала команда. Ось побачите!
 
 166
 00:21:47,300 --> 00:21:48,400
-Кай: Hm, okay.
+Кай: Хм, гаразд.
 
 167
 00:21:48,400 --> 00:21:54,210
-Рейнгард: Dani, you've described the modular approach to building locations. Would you like to shed some light on the modular approach for characters?
+Рейнгард: Дані, ви описали модульний підхід до побудови локацій. Чи не хотіли б ви пролити трохи світла на модульний підхід для персонажів?
 
 168
 00:21:54,270 --> 00:22:20,020
-Дані: Well, that's a very complex topic because as you can imagine, dressing 600 characters is not the easiest thing in the world. (Кай: No.) But we are using "Mutable", an epic technology designed for creating modular characters, clothes and armor pieces, and it has been a hard fight. But luckily pieces finally are coming together. 600 different faces, a lot of different hairstyles, beards, and thousands of small pieces of armor and cloth.
+Дані: Ну, це дуже складна тема, тому що, як ви можете собі уявити, одягнути 600 персонажів - не найпростіша річ у світі. (Кай: Ні.) Але ми використовуємо «Mutable», епічну технологію, призначену для створення модульних персонажів, одягу та обладунків, і це була важка боротьба. Але, на щастя, шматочки нарешті збираються разом. 600 різних облич, безліч різних зачісок, борід і тисячі маленьких шматочків обладунків і тканини.
 
 169
 00:22:20,040 --> 00:22:24,240
-Дані: Now we see the light at the end of the tunnel, but we could say this has been a very fun ride.
+Дані: Зараз ми бачимо світло в кінці тунелю, але можна сказати, що це була дуже весела поїздка.
 
 170
 00:22:24,270 --> 00:22:31,270
-Кай: And that's good to hear. The rice fields, just like I remember them. But what's that? That's new!
+Кай: Приємно це чути. Рисові поля такі ж, як я їх пам'ятаю. А це що таке? Щось новеньке!
 
 171
 00:22:32,000 --> 00:22:34,130
-Рейнгард: Shhh! We don't want to talk about that now.
+Рейнгард: Тссс! Ми не хочемо зараз про це говорити.
 
 172
 00:22:34,140 --> 00:22:40,000
-Кай: Right! But ... wow, is that the Ricelord... (Дані: Oh, yes!) Wow. Interesting. Why did y...
+Кай: Точно! Але... вау, це що, Рисовий лор... (Дані: О, так!) Ого. Цікаво. Чому ти...
 
 173
 00:22:40,000 --> 00:22:43,180
-Рейнгард: Kai! Shh! This hasn't been released for publication just yet.
+Рейнгард: Кай! Шшш! Це ще не випущено для публікації.
 
 174
 00:22:43,230 --> 00:22:56,120
-Кай: Okay, okay! So quick question about the faces in particular. How do you make so many different faces and make them look so good? I know you've already touched on that in the previous episode, but maybe you can elaborate a little bit.
+Кай: Гаразд, гаразд! Коротеньке запитання про обличчя зокрема. Як вам вдається створювати стільки різних облич, і щоб вони виглядали так добре? Я знаю, що ви вже торкалися цього в попередньому епізоді, але, можливо, ви могли б розповісти трохи докладніше.
 
 175
 00:22:56,180 --> 00:23:17,210
-Дані: Yeah, luckily we are not alone in this fight. I mean, we have the support of the nice folks at Gate 21. They are a sister company that specializes in creating faces. So together we have been working on those characters. They developed a very specific tool that lets us create dozens of different faces, mixing them, having details, changing manually specific traits...
+Дані: Так, на щастя, ми не самотні в цій боротьбі. Нас підтримують чудові люди з Gate 21. Це сестринська компанія, яка спеціалізується на створенні облич. Тож ми разом працюємо над цими персонажами. Вони розробили дуже специфічний інструмент, який дозволяє нам створювати десятки різних облич, змішувати їх, додавати деталі, змінювати вручну певні риси...
 
 176
 00:23:17,230 --> 00:23:25,120
-Дані: But of course, not all the models were done using this tech. More than 100 were fully manually worked on until the very last detail.
+Дані: Але, звичайно, не всі моделі були зроблені за допомогою цієї технології. Понад 100 моделей були повністю зроблені вручну, до найменшої деталі.
 
 177
 00:23:25,120 --> 00:23:26,250
-Кай: Whoa! 100, that's crazy!
+Кай: Ого! 100, це божевілля!
 
 178
 00:23:26,260 --> 00:23:44,270
-Дані: Imagine we have two tiers of characters! The tier A and the tier B. Tier A are the most important characters. Those 100 characters are designed, rigged and created fully manually. And then we have the tier B characters. Those are done using this amazing technology that helps in the process.
+Дані: Уявіть, що у нас є два яруси персонажів! Рівень А і рівень Б. Рівень А - це найважливіші персонажі. Ці 100 персонажів розробляються, монтуються та створюються повністю вручну. А потім у нас є символи рівня B. Вони зроблені за допомогою цієї дивовижної технології, яка допомагає в процесі.
 
 179
 00:23:45,000 --> 00:24:03,210
-Кай: Okay, that makes sense. Now about animations. I'll ask Gerard all the details, but you will let us know what your general process and pipeline is for making like people and creatures move. Are you handcrafting keyframe animations? Motion or performance capturing? Procedural animations? Fancy deep learning stuff?
+Кай: Гаразд, це має сенс. Тепер щодо анімації. Я ще запитаю Жерара про деталі, але опишіть нам приблизно процес приведення персонажів та істот у рух. Ви робите ключові кадри анімації вручну? Чи використовуєте технологію захоплення руху або перформансу? Ви створюєте анімацію процедурно? Чи використовуєте неймовірні патенти на машинне навчання?
 
 180
 00:24:03,240 --> 00:24:26,300
-Дані: Yeah, I'm sure Gerard can be more specific on that topic, but I can tell you we are using all of those cases you mentioned. (Кай: Aha.) Handcrafted keyframe animations? Check. Procedural? Check. Motion capture? Well, you should see the actors screaming and fighting in the recording zone. It's pretty crazy when an Amazon guy enters the studio to deliver something and is received by a guy is screaming, holding a weapon.
+Дані: Так, я впевнений, що Жерар може бути більш конкретним на цю тему, але я можу сказати, що ми використовуємо всі ті кейси, які ви згадали. (Кай: Ага.) Анімація ключових кадрів ручної роботи? Так. Процедурні? Так. Захоплення руху? Ви б бачили, як актори кричать і б'ються в зоні запису. Це досить божевільно, коли хлопець з Amazon заходить до студії, щоб щось доставити, а його зустрічає хлопець, який кричить і тримає в руках зброю.
 
 181
 00:24:26,300 --> 00:24:39,110
-Дані: And deep learning stuff? Also check. It's a complicated process because we have tons of creatures, characters, complicated environments and interactions, but in the end, we hope everything will turn out all right.
+Дані:А машинне навчання? Ми теж ним користуємося. Це досить складний процес, тому що існує дуже багато істот, персонажів, складних середовищ і взаємодій, але зрештою ми сподіваємося на краще.
 
 182
 00:24:39,130 --> 00:24:41,200
-Кай: Ha! Caught your little Gothic 2 quote there!
+Кай: Ха! Зловив вашу маленьку цитату з Gothic 2!
 
 183
 00:24:41,220 --> 00:24:44,050
-Рейнгард: All right. Here we are in the New Camp cave.
+Рейнгард: Добре. Ось ми й в печері Нового табору.
 
 184
 00:24:44,060 --> 00:24:53,250
-Кай: Yes. Wonderful! Gosh, it means so much to me. Seeing all these places recreated so accurately and yet improved in such a fantastic way.
+Кай: Так. Чудово! Господи, це так багато значить для мене. Бачити всі ці місця, відтворені так точно і водночас покращені таким фантастичним чином.
 
 185
 00:24:53,280 --> 00:24:56,020
-Дані: Thank you so much. I'm glad you like it.
+Дані: Дуже дякую. Я радий, що тобі подобається.
 
 186
 00:24:56,040 --> 00:24:57,000
-Кай: I love it!
+Кай: Люблю це!
 
 187
 00:24:57,070 --> 00:25:01,270
-Дані: And apparently you've already made new music, right? I can hear it playing in the background.
+Дані: І, мабуть, нова музика вже створена, чи не так? Я чую, як вона грає у фоновому режимі.
 
 188
 00:25:02,030 --> 00:25:02,140
-Кай: Yeah.
+Кай: Так.
 
 189
 00:25:02,180 --> 00:25:05,060
-Рейнгард: Shall we end this episode with some music?
+Рейнгард: Закінчимо цей епізод музикою?
 
 190
 00:25:05,090 --> 00:25:17,000
-Кай: Okay, let's do it. But first we have to meet Timur for some community questions, right? (Dani and Рейнгард: Oh, yeah.) Oh, there he is. Hey, Timur! (Тимур: Hey Kai.) So what's going on in the community?
+Кай: Гаразд, давайте зробимо це. Але спершу ми маємо зустрітися з Тимуром, щоб відповісти на запитання спільноти, чи не так? (Дані та Рейнгард: О, так.) О, ось він. Гей, Тимур! (Тимур: Привіт, Кай.) То що відбувається в спільноті?
 
 191
 00:25:17,020 --> 00:25:22,000
-Рейнгард: Our community's dying to find out more about the game. I have some questions prepared.
+Рейнгард: Наша спільнота дуже хоче дізнатися більше про гру. У мене є підготовлені запитання.
 
 192
 00:25:22,060 --> 00:25:23,200
-Кай: That's great. Bring it on.
+Кай: Чудово. До справи.
 
 193
 00:25:23,220 --> 00:25:37,060
-Рейнгард: So here is a question from our moderator, Drago. Will the items that the player equips appear on the character itself? Secifically rings or amulets? Like, ... in original they were invisible.
+Рейнгард:Отже, ось запитання від нашого модератора Драґо. Чи з’являться предмети, які гравець екіпірує, на самому персонажі? Конкретні каблучки чи амулети? Мовляв, ... в оригіналі вони були невидимі.
 
 194
 00:25:37,080 --> 00:25:38,080
-Кай: Reinhard, go for it.
+Кай: Рейнгард, давай.
 
 195
 00:25:38,100 --> 00:25:57,800
-Рейнгард: Okay, so ... The thing is, I mean rings and amulets, you usually don't really see them because there's always some piece of cloth and armor above them. So you won't necessarily see those. But for all other things that kind of are like a little bigger, you will see them on the character. (Кай: Nice!)
+Рейнгард:Гаразд, отже... Справа в тому, що я маю на увазі каблучки та амулети, ви зазвичай їх не бачите, тому що над ними завжди є якийсь шматок тканини та обладунок. Тож ви не обов’язково їх побачите. Але всі інші речі, які є трохи більшими, ви побачите їх на персонажі. (Кай: Гарно!)
 
 196
 00:25:57,800 --> 00:26:04,150
-Тимур: Yeah, thank you. And one of the most popular questions in our community is: When is the gameplay footage coming?
+Тимур: Так, дякую. І одне з найпопулярніших запитань у нашій спільноті: коли з’являться кадри ігрового процесу?
 
 197
 00:26:04,150 --> 00:26:10,250
-Рейнгард: Oh, yeah. Gameplay. So the idea is to show it at, like, the THQ Nordic Showcase in August.
+Рейнгард: О, так. Геймплей. Тож ідея полягає в тому, щоб показати його на, наприклад, THQ Nordic Showcase у серпні.
 
 198
 00:26:10,270 --> 00:26:12,170
-Кай: Oh, yes. Finally.
+Кай: О, так. Нарешті.
 
 199
 00:26:12,190 --> 00:26:35,060
-Рейнгард: Oh, I'm sure they will love it. And one more question from our moderator LurkerShnig: How will the dialog system work? Will there be a smooth transition between the moment when you press an action button and when the dialog begins? (Рейнгард: So...) Or will it be closer to Elex, for example?
+Рейнгард: О, я впевнений, що їм це сподобається. І ще одне запитання від нашого модератора LurkerShnig: як буде працювати діалогова система? Чи буде плавний перехід між моментом натискання кнопки дії та початком діалогового вікна? (Рейнгард: Ну...) Або це буде ближче до Елекса, наприклад?
 
 200
 00:26:35,080 --> 00:26:54,900
-Рейнгард: Going from gameplay to a dialog scene will be smooth and seamless. So we don't have any like fake scene that we set up, but we are applying some tricks. So for example, we use like very special lighting conditions and we obviously have a special rule set for the cameras so that we capture the emotions and the characters in the best possible way.
+Рейнгард:Перехід від ігрового процесу до діалогової сцени буде плавним і плавним. Тож ми не маємо фальшивої сцени, яку ми влаштували, але ми застосовуємо деякі хитрощі. Так, наприклад, ми використовуємо дуже особливі умови освітлення, і ми, очевидно, маємо спеціальні правила для камер, щоб ми фіксували емоції та персонажів якнайкраще.
 
 201
 00:26:54,900 --> 00:27:02,000
-Тимур: Thank you for the answer. By the way, we have never heard about this one: When is the gameplay footage coming?
+Тимур: Дякую за відповідь. До речі, ми ніколи не чули про це: коли будуть кадри ігрового процесу?
 
 202
 00:27:02,000 --> 00:27:25,180
-Рейнгард: Oh yeah, it's August. We're showing it in August at the THQ Nordic Showcase.
+Рейнгард: О так, у Серпні. Ми покажемо його в серпні на THQ Nordic Showcase.
 
 203
 00:27:06,000 --> 00:27:20,200
-Тимур: Oh, okay. And one more question from our active user Hombre: "How will the diary or the journal look like? Will it be closer to Gothic 1 or 2 or something closer to Gothic 3?"
+Тимур: О добре. І ще одне запитання від нашого активного користувача Hombre: "Як буде виглядати щоденник чи журнал? Він буде ближче до Gothic 1 чи 2, чи щось ближче до Gothic 3?"
 
 204
 00:27:20,300 --> 00:27:35,190
-Рейнгард: I would say the diary is kind of like inspired by Gothic 1 and 2. So it's not like just a copy of what we just heard, like in Gothic three, but it's in some ways it's, the hero is really taking actual notes.
+Рейнгард: Я б сказав, що щоденник начебто натхненний Ґотикою 1 і 2. Тож це не просто копія того, що ми щойно почули, як у Ґотиці 3, але певною мірою це так, герой справді робить нотатки.
 
 205
 00:27:35,210 --> 00:27:36,100
-Кай: Interesting.
+Кай: Цікаво.
 
 206
 00:27:36,100 --> 00:27:42,700
-Тимур: Yeah, great! Oh, and before I forget... When is the gameplay footage dropping?
+Тимур: Так, чудово! О, поки я не забув... Коли будуть доступні кадри ігрового процесу?
 
 207
 00:27:42,700 --> 00:27:53,150
-Рейнгард: Right, gameplay footage! So we are showing our gameplay footage for the very first time to the public in August this year at the THQ Nordic Showcase. Tune in!
+Рейнгард: Так, кадри ігрового процесу! Тож у серпні цього року на виставці THQ Nordic Showcase ми вперше показуємо публіці наші кадри ігрового процесу. Налаштуйтеся!
 
 208
 00:27:53,170 --> 00:27:59,220
-Кай: So I guess we'll see you all there then in the livestream. Timur, thanks a lot for bringing those questions.
+Кай: Тож я думаю, ми побачимо вас там у прямому ефірі. Тимур, дуже дякую за запитання.
 
 209
 00:27:59,240 --> 00:28:00,170
-Тимур: Yeah. Thank you.
+Тимур: Так. Дякую.
 
 210
 00:28:00,240 --> 00:28:03,060
-Кай: Dani, thank you so much for your time. That was great.
+Кай: Дані, дуже дякую за твій час. Це було чудово.
 
 211
 00:28:03,060 --> 00:28:04,190
-Дані: Thank you. And likewise.
+Дані: Дякую, навзаєм.
 
 212
 00:28:04,200 --> 00:28:10,070
-Рейнгард: Okay, turn up the music. I'll show you around. Thanks. See you all in the next episode.
+Рейнгард: Добре, включай музику. Я проведу тебе. Дякую. До зустрічі в наступному епізоді.
 
 213
 00:28:10,300 --> 00:28:14,000
