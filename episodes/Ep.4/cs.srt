@@ -72,7 +72,7 @@ Dani: Já? Ještě ne.
 
 19
 00:02:08,200 --> 00:02:14,230
-Reinhard: Správně! Takže s námi tu je Daniel Candil, náš umělecký ředitel. Jsem vděčný, že jsi se k nám mohl na tuto epizodu připojit.
+Reinhard: Správně! Takže s námi tu je Daniel Candil, náš výtvarný ředitel. Jsem vděčný, že jsi se k nám mohl na tuto epizodu připojit.
 
 20
 00:02:14,250 --> 00:02:16,070
@@ -88,15 +88,15 @@ Dani: Ano, to zní dobře.
 
 23
 00:02:30,000 --> 00:02:32,040
-Kai: Co přesně takový umělecký ředitel dělá?
+Kai: Co přesně takový výtvarný ředitel dělá?
 
 24
 00:02:32,060 --> 00:03:05,140
-Dani: No. Dobrá otázka. Obecně by se dalo říct, že umělecký ředitel je hnací silou estetiky hry. Můj hlavní úkol spočívá ve vytvoření a zajišťování soudržnosti estetické vize hry. V našem případě bych řekl, že pracuji v úžasném týmu grafiků a jsem zodpovědný za definování a dohled nad vizuálním směřováním hry, neboli za zajištění všech vizuálních aspektů od postav a kulis až po prostředí, barvy, nebo dokonce světlo, či dokonce uživatelské rozhraní.
+Dani: No. Dobrá otázka. Obecně by se dalo říct, že výtvarný ředitel je hnací silou estetiky hry. Můj hlavní úkol spočívá ve vytvoření a zajišťování soudržnosti estetické vize hry. V našem případě bych řekl, že pracuji v úžasném týmu grafiků a jsem zodpovědný za definování a dohled nad vizuálním směřováním hry, neboli za zajištění všech vizuálních aspektů od postav a kulis až po prostředí, barvy, nebo dokonce světlo, či dokonce uživatelské rozhraní.
 
 25
 00:03:05,160 --> 00:03:29,190
-Dani: Všechno je v souladu s jednotnou vizí. (Kai: M-hm.) A možná byste si mohli říct: Dobře, takže tedy trávíte den modelováním a děláním cool 3D nebo 2D grafiky. A ano... a ne. Protože umělecký ředitel má také za úkol vést a dohlížet na tým umělců. To také zahrnuje přezkoumávání naší práce, poskytování zpětné vazby, zajištění konzistentní vize hry. A to nejdůležitější...
+Dani: Všechno je v souladu s jednotnou vizí. (Kai: M-hm.) A možná byste si mohli říct: Dobře, takže tedy trávíte den modelováním a děláním cool 3D nebo 2D grafiky. A ano... a ne. Protože výtvarný ředitel má také za úkol vést a dohlížet na tým umělců. To také zahrnuje přezkoumávání naší práce, poskytování zpětné vazby, zajištění konzistentní vize hry. A to nejdůležitější...
 
 26
 00:03:29,210 --> 00:03:42,220
