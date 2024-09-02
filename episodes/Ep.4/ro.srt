@@ -4,159 +4,159 @@ Xardas: Capitolul patru.
 
 2
 00:00:30,150 --> 00:00:54,030
-Reinhard: Welcome to the Gothic 1 Remake podcast. I'm Reinhard Pollice, and for the first time listeners, I'm the founder and studio director at Alkimia Interactive. And I'm waiting for our composer, Kai Rosenkranz. I'm in the Old Camp Castle, and Kai should be here any minute. While we were waiting... Let me start with saying thank you to all you many listeners out there.
+Reinhard: Bine ați venit la podcastul Gothic 1 Remake. Sunt Reinhard Pollice și, pentru cei care mă ascultă pentru prima dată, sunt fondatorul și directorul de studio al Alkimia Interactive. Și îl aștept pe compozitorul nostru, Kai Rosenkranz. Sunt în castelul Taberei Vechi, iar Kai ar trebui să fie aici în orice moment. În timp ce așteptăm... Permiteți-mi să încep prin a vă spune mulțumesc tuturor ascultătorilor.
 
 3
 00:00:54,060 --> 00:01:06,240
-Reinhard: We enjoy taking the time out of our normal schedules to stroll around in the colony and chat about the development of the Gothic 1 Remake, and it's so much more fun knowing that you guys actually enjoy it. So thanks for following along.
+Reinhard: Ne face plăcere să ne luăm timp din programul nostru normal pentru a ne plimba prin colonie și a discuta despre dezvoltarea Gothic 1 Remake, și este mult mai distractiv să știm că vouă chiar vă place. Așa că vă mulțumim că ne urmăriți.
 
 4
 00:01:06,280 --> 00:01:09,290
-Kai: Whew, I'm here! Sorry I'm late.
+Kai: Uff, sunt aici! Scuze pentru întârziere.
 
 5
 00:01:10,010 --> 00:01:13,090
-Reinhard: No worries. We just started.
+Reinhard: Nicio grijă. Abia am început.
 
 6
 00:01:13,110 --> 00:01:19,020
-Kai: Thorus wouldn't let me into the castle set. I had to convince him that I'm actually the composer for the remake.
+Kai: Thorus nu m-a lăsat să intru în decorul castelului. A trebuit să îl conving că eu sunt de fapt compozitorul pentru remake.
 
 7
 00:01:19,050 --> 00:01:22,090
-Reinhard: Oh, my. How did you do it?
+Reinhard: O, vai. Cum ai reușit să faci asta?
 
 8
 00:01:22,120 --> 00:01:28,090
-Kai: Let's just say I didn't need those 1.000 ore anyways. So it's good I don't have to carry them around all day.
+Kai: Să spunem doar că oricum nu aveam nevoie de cele 1000 pepite de minereu. Așa că mă bucur că nu trebuie să le port cu mine toată ziua.
 
 9
 00:01:28,120 --> 00:01:37,100
-Reinhard: Ha! He takes his job really very seriously. Dani, come on over here. He's here.
+Reinhard: Ha! Își ia slujba foarte în serios. Dani, vino încoace. A ajuns.
 
 10
 00:01:37,130 --> 00:01:38,260
-Dani: Hey, guys. What's up?
+Dani: Hei, băieți. Care-i treaba?
 
 11
 00:01:38,290 --> 00:01:41,120
-Reinhard: Welcome to the podcast, Dani. (Kai: Hi.)
+Reinhard: Bine ai venit la podcast, Dani. (Kai: Salut.)
 
 12
 00:01:41,180 --> 00:01:44,010
-Dani: Hey, Kai. Do you actually sleep in the Old Camp ring?
+Dani: Hei, Kai. Tu chiar dormi în inelul Taberei Vechi?
 
 13
 00:01:44,030 --> 00:01:47,280
-Kai: Yes. It was a dream come true. I always wanted to do it.
+Kai: Da. A fost un vis devenit realitate. Tot timpul mi-am dorit să fac asta.
 
 14
 00:01:48,000 --> 00:01:50,280
-Dani: But which hut where you sleeping in?
+Dani: Dar în ce colibă dormi?
 
 15
 00:01:51,000 --> 00:01:56,000
-Kai: I know there was a hut for me near the arena, but Mud ended up being very persistent.
+Kai: Știu că era o cabană pentru mine lângă arenă, dar Mud a ajuns să fie foarte insistent.
 
 16
 00:01:56,050 --> 00:02:02,270
-Reinhard: Okay, I won't ask then if you got any rest or if he had some more questions for you.
+Reinhard: Bine, nu te voi întreba atunci dacă te-ai odihnit sau dacă mai are întrebări pentru tine.
 
 17
 00:02:03,000 --> 00:02:07,080
-Kai: No. Not really. No. So have you already been introduced?
+Kai: Nu. Nu chiar. Nu. Deci, ai fost deja prezentat?
 
 18
 00:02:07,100 --> 00:02:08,180
-Dani: Me? Not yet.
+Dani: Eu? Nu încă.
 
 19
 00:02:08,200 --> 00:02:14,230
-Reinhard: Right! So this is Daniel Candil, our art director. Thanks for joining us in this episode.
+Reinhard: Bine! Deci, acesta este Daniel Candil, directorul nostru artistic. Mulțumim că ni te-ai alăturat în episodul de față.
 
 20
 00:02:14,250 --> 00:02:16,070
-Dani: It's my pleasure.
+Dani: Plăcerea e de partea mea.
 
 21
 00:02:16,090 --> 00:02:24,240
-Reinhard: So let's climb up to the tower. What better place to talk about the visual side of the game than up there, where we can have a great view over the whole world?
+Reinhard: Așadar, să urcăm în turn. Ce loc mai bun pentru a vorbi despre partea vizuală a jocului decât acolo sus, unde putem avea o priveliște minunată asupra întregii lumi?
 
 22
 00:02:24,270 --> 00:02:26,200
-Dani: Oh, yeah. That sounds great.
+Dani: O, da. Sună grozav.
 
 23
 00:02:30,000 --> 00:02:32,040
-Kai: What does an art director do exactly?
+Kai: Ce face mai exact un director artistic?
 
 24
 00:02:32,060 --> 00:03:05,140
-Dani: Well. Good question. In general, we could say that the art director in a video game is the driving force behind the game's aesthetics. But more than that, the job for an art director is about crafting and creating coherence in the game's aesthetic vision. In our case, I would say that I work within an incredible team of artists and I am just a responsible for defining and overseeing the visual direction of the game, or ensuring all visual aspects from characters and settings to environments, the color, or even the light, or even the user interface.
+Dani: Ei bine. Bună întrebare. În general, am putea spune că directorul artistic al unui joc video este motorul din spatele esteticii jocului. Dar mai mult decât atât, munca unui director artistic constă în elaborarea și realizarea coerenței în viziunea estetică a jocului. În cazul nostru, aș spune că lucrez în cadrul unei echipe incredibile de artiști și sunt responsabil doar pentru definirea și supravegherea direcției vizuale a jocului, sau pentru garantarea tuturor aspectelor vizuale, de la personaje și decoruri la medii, culori, sau chiar lumina și interfața de utilizator.
 
 25
 00:03:05,160 --> 00:03:29,190
-Dani: Everything is aligning within unified vision. (Kai: M-hm.) And maybe you could think, okay then, so you spend your day modeling and doing cool 3D or 2D art. And yes... and no. Because the art director is also tasked with guiding and supervising the team of artists. And this can include reviewing our work, providing feedback, ensuring the game's vision remains consistent. And the most important part...
+Dani: Totul se aliniază în cadrul unei viziuni unitare. (Kai: Îhî.) Și poate v-ați putea gândi, bine atunci, deci vă petreceți ziua modelând și făcând artă 3D sau 2D. Și da... și nu. Pentru că directorul artistic are, de asemenea, sarcina de a ghida și supraveghea echipa de artiști. Iar acest lucru poate include analizarea muncii noastre, acordarea de feedback, asigurarea că viziunea jocului rămâne consecventă. Și cea mai importantă parte...
 
 26
 00:03:29,210 --> 00:03:42,220
-Dani: I need to be capable of motivating and steering the amazing team of artists with different specialties we have here at Alkimia. So, I could go hours and hours because, you know, art is my passion, but I think you get the point.
+Dani: Trebuie să fiu capabil să motivez și să conduc echipa uimitoare de artiști cu diferite specializări pe care o avem aici la Alkimia. Aș putea continua ore în șir pentru că, știți, arta este pasiunea mea, dar cred că ați înțeles ideea.
 
 27
 00:03:42,250 --> 00:03:45,020
-Kai: Yes, absolutely. Thank you.
+Kai: Da, absolut. Mulțumesc.
 
 28
 00:03:45,040 --> 00:03:53,100
-Reinhard: So, this episode might be a bit challenging since we'll have to talk about visual aspects in a podcast. How do we go about this?
+Reinhard: Deci, acest episod ar putea fi un pic provocator, deoarece va trebui să vorbim despre aspectele vizuale într-un podcast. Cum abordăm acest subiect?
 
 29
 00:03:53,120 --> 00:03:59,120
-Dani: Well, some visual material is already out there. So we can talk about that and people can look at it while we do.
+Dani: Ei bine, unele materiale vizuale există deja. Așa că putem vorbi despre asta, iar oamenii se pot uita la ele în timp ce noi vorbim.
 
 30
 00:03:59,180 --> 00:04:04,160
-Kai: Yeah. Great idea. For example, the Old Mine was shown in the Old Mine teaser quite a while ago.
+Kai: Da. Excelentă idee. De exemplu, mina veche a fost prezentată în teaserul Minei Vechi cu ceva timp în urmă.
 
 31
 00:04:04,220 --> 00:04:07,090
-Reinhard: We showed off the Old Camp in a trailer too.
+Reinhard: Am arătat și Tabăra Veche într-un trailer.
 
 32
 00:04:07,120 --> 00:04:09,030
-Dani: Yeah, that's a good starting point.
+Dani: Da, acesta e un bun punct de plecare.
 
 33
 00:04:09,050 --> 00:04:19,040
-Kai: So, we are in the Old Camp - in the castle, to be precise - so why not use this to explain the creation process of, for example, the characters and the armors and your role in it?
+Kai: Așadar, ne aflăm în Tabăra Veche - în castel, mai exact - așa că de ce să nu ne folosim de acest lucru pentru a explica procesul de creare, de exemplu, a personajelor și armurilor și rolul tău în acest proces?
 
 34
 00:04:19,060 --> 00:04:38,250
-Dani: So, well, everything starts with a complete analysis of what was previously done. Remember that we are doing a very faithful remake. So first we need to understand the decisions made back in the day and if those can work in today's world. So we are trying to modernize what should be modernized, but maintaining the essence of what should be maintained.
+Dani: Deci, ei bine, totul începe cu o analiză completă a ceea ce a fost făcut anterior. Amintiți-vă că facem un remake foarte fidel. Deci, mai întâi trebuie să înțelegem deciziile luate în trecut și dacă acestea pot funcționa în lumea de astăzi. Așadar, încercăm să modernizăm ceea ce trebuie modernizat, dar menținând esența a ceea ce trebuie menținut.
 
 35
 00:04:39,000 --> 00:04:59,260
-Dani: I mean, the idea is you will see a shadow and you will recognize it as a shadow. And when we finish that process, an artist starts creating concepts, gathering information, and once the design is approved, we go to the high model phase. Then we bake everything into an in-game model, we texture it. Remember: We are aiming always for very high detail armors.
+Dani: Adică, ideea este că veți vedea o umbră și o veți recunoaște ca fiind o umbră. Și când terminăm acest proces, un artist începe să creeze concepte, să adune informații, iar odată ce designul este aprobat, trecem la faza de modelare înaltă. Apoi coacem totul într-un model în joc, îl texturam. Nu uitați: Ne propunem întotdeauna armuri foarte detaliate.
 
 36
 00:04:59,290 --> 00:05:07,000
-Dani: And once the process is done, we integrate the pieces into the engine where we finish polishing and tweaking the final look.
+Dani: După ce procesul este finalizat, integrăm piesele în motorul jocului, unde finalizăm prelucrarea și ajustarea aspectului final.
 
 37
 00:05:07,020 --> 00:05:12,120
-Kai: And very successfully indeed. It looks fantastic in the game.
+Kai: Și, într-adevăr, cu un rezultat deosebit. Arată fantastic în joc.
 
 38
 00:05:12,140 --> 00:05:16,080
-Reinhard: There we are at the top of the old camp tower.
+Reinhard: Iată-ne în vârful turnului Taberei Vechi.
 
 39
 00:05:16,100 --> 00:05:20,200
-Kai: Oh, wow, look at that. What a view.
+Kai: O, uau, priviți la asta. Ce priveliște.
 
 40
 00:05:20,220 --> 00:05:25,070
-Dani: Yeah, it's pretty neat. Just ignore the missing pieces of landscape over there, right?
+Dani: Da, e destul de frumos. Numai să ignori bucățile lipsă de peisaj de acolo, da?
 
 41
 00:05:25,090 --> 00:05:27,120
