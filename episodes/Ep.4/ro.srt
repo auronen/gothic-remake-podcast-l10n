@@ -160,103 +160,103 @@ Dani: Da, e destul de frumos. Numai să ignori bucățile lipsă de peisaj de ac
 
 41
 00:05:25,090 --> 00:05:27,120
-Kai: (laughs) Sure.
+Kai: (râde) Cu siguranță.
 
 42
 00:05:27,140 --> 00:05:33,200
-Reinhard: Ehm, how many people are actually working in the art department here at Alkimia? And what sort of roles do we have in here?
+Reinhard: Ăăă, câți oameni lucrează efectiv în departamentul de artă aici, la Alkimia? Și ce fel de roluri avem aici?
 
 43
 00:05:33,220 --> 00:06:00,000
-Dani: Yeah, we are a lot of people, man. I mean, more than 30 working as I would define as the in-house team. But at the same time, we are working with different external outsourcing studios. So the number of artists involved in this is pretty high. And about roles here: We have from 2D artist to 3D artist, people who are more into character creation, people into environment, art, tech artists, lighting artists, effects artists, animators, riggers, cinematic artists.
+Dani: Da, suntem o grămadă de oameni. Adică, mai mult de 30 de persoane care lucrează în ceea ce eu aș descrie ca fiind echipa internă. Dar, în același timp, lucrăm cu diferite studiouri externe de outsourcing. Așa că numărul de artiști implicați în proiect este destul de mare. Iar despre roluri: Avem de la artiști 2D la artiști 3D, oameni care se ocupă mai mult de crearea personajelor, oameni care se ocupă de mediu, artă, artiști tehnici, artiști de lumini, artiști de efecte, animatori, riggeri, artiști cinematici.
 
 44
 00:06:00,200 --> 00:06:06,010
-Dani: And the last time, believe me, the ones who save my life day after day: We have two amazing art coordinators.
+Dani: Și pentru ultima dată, credeți-mă, cei care îmi salvează viața zi de zi: Avem doi coordonatori artistici extraordinari.
 
 45
 00:06:06,030 --> 00:06:17,200
-Kai: Yeah, I can imagine getting some of that coordination hassle off of your own personal desk is really helpful. (Dani: Yes.) By the way, from up here you can pretty much see all of the magic barrier.
+Kai: Da, îmi imaginez că este foarte de ajutor să scapi de o parte din bătaia de cap cu coordonarea de pe biroul tău personal. (Dani: Da.) Apropo, de aici de sus poți vedea cam toată bariera magică.
 
 46
 00:06:17,220 --> 00:06:23,210
-Dani: Oh, the barrier, man. It's always there. Like... alive, like... breathing. (Kai: Yeah.) Remembering us we are trapped!
+Dani: O, bariera, omule. E mereu acolo. Parcă... vie, parcă... respiră. (Kai: Da.) Ne amintește că suntem captivi!
 
 47
 00:06:23,230 --> 00:06:26,040
-Kai: Yeah, that that as well.
+Kai: Da, și asta.
 
 48
 00:06:26,060 --> 00:06:33,190
-Reinhard: So, Dani, which specific piece of art for the Gothic 1 Remake are you most proud of - for now?
+Reinhard: Deci, Dani, de ce creație artistică anume pentru Gothic 1 Remake ești cel mai mândru, până acum?
 
 49
 00:06:33,210 --> 00:06:47,160
-Dani: Well, all of the pieces done have a special place in my heart, you know? But I cannot wait to see people walking through the New Camp. The rice fields... I love it! I love that place. And I have a very good feeling about Xardas' tower. You will see.
+Dani: Ei bine, toate creațiile finalizate au un loc special în inima mea, știi? Dar abia aștept să văd oamenii mergând prin Tabăra Nouă. Câmpurile de orez... Le ador! Ador locul acela. Și am un sentiment foarte bun legat de turnul lui Xardas. Veți vedea.
 
 50
 00:06:47,190 --> 00:07:01,100
-Kai: Yeah, I think I know what you mean. I've been in both of Xardas' towers just recently to place some sound effects and... yeah! Yeah yeah yeah yeah. And which part of the asset creation turned out to be the most challenging so far?
+Kai: Da, cred că știu ce vrei să spui. Am fost recent în ambele turnuri ale lui Xardas pentru a adăuga niște efecte sonore și... da! Da, da, da, da. Și care parte a creării materialelor s-a dovedit a fi cea mai dificilă până acum?
 
 51
 00:07:01,130 --> 00:07:18,140
-Dani: The characters, no doubt. We are trying to push our boundaries here. And we will have thousands of characters and we are trying to make each one of them unique. So imagine the work behind this. The good thing is that we have our sister company, Gate 21, helping us with that fight. So I'm convinced together will rise to victory. (Kai: Yeah.)
+Dani: Personajele, fără îndoială. Încercăm să ne depășim limitele aici. Vom avea mii de personaje și încercăm să le facem pe fiecare dintre ele unice. Așa că imaginați-vă munca din spatele acestui lucru. Lucrul bun este că avem compania noastră soră, Gate 21, care ne ajută în această luptă. Așa că sunt convins că împreună ne vom învinge. (Kai: Da.)
 
 52
 00:07:18,180 --> 00:07:32,110
-Reinhard: Thanks. Very interesting. As you all know, the first thing people saw from the remake was the playable teaser. After that, we started from scratch and transitioned over to a new, more dark visual esthetics.
+Reinhard: Mulțumesc. Foarte interesant. După cum știți cu toții, primul lucru pe care oamenii l-au văzut din remake a fost teaserul jucabil. După aceea, am început de la zero și am trecut la o nouă estetică vizuală, mai întunecată.
 
 53
 00:07:32,130 --> 00:07:33,200
-Dani: Yeah, completely.
+Dani: Da, în totalitate.
 
 54
 00:07:33,220 --> 00:07:37,180
-Reinhard: What was the process like and how would you describe the new style?
+Reinhard: Cum a fost procesul și cum ai descrie noul stil?
 
 55
 00:07:37,200 --> 00:07:57,210
-Dani: Yeah, on the PT - well, the Playable Teaser - we were trying to move things into a different direction. I think it has been said, but we wanted to discover the limits and see what people wanted and how far we should go. Was there a remake or was a complete reimagination of the story more in line with a modern and colorful and cheery approach?
+Dani: Da, pe PT - ei bine, Playable Teaser - am încercat să mutăm lucrurile într-o direcție diferită. Cred că s-a mai spus, dar am vrut să descoperim limitele și să vedem ce vor oamenii și cât de departe ar trebui să mergem. A fost vorba de un remake sau de o reimaginare completă a poveștii, mai în ton cu o abordare modernă, colorată și veselă?
 
 56
 00:07:57,240 --> 00:08:22,180
-Dani: Or maybe we should go deeper into the darkness, gritty, believable and moody atmosphere of the original has, respecting what made Gothic so special? Well, now the answer should be clear because we asked the community and they showed us the right path. So this time we're going for something darker. Definitely more grounded, realistic, even gritty. I wouldn't say depressive, but definitely not lush or cheer as the PT was.
+Dani: Sau poate ar trebui să mergem mai adânc în atmosfera întunecată, curajoasă, credibilă și mohorâtă a originalului, respectând ceea ce a făcut Gothic atât de special? Ei bine, acum răspunsul ar trebui să fie clar pentru că am întrebat comunitatea și ne-au arătat calea cea bună. Așa că, de data aceasta, ne îndreptăm spre ceva mai întunecat. Cu siguranță mai bine ancorat, mai realist, chiar mai dur. Nu aș spune depresiv, dar cu siguranță nu luxuriant sau vesel cum a fost PT.
 
 57
 00:08:22,210 --> 00:08:36,000
-Dani: We want to enhance the original feeling and and as you saw in the trailers, we are following that path, but we have still work to do until we nail the perfect atmosphere. Listening to the fans is an important part here and believe me, we do!
+Dani: Vrem să îmbunătățim sentimentul original și, după cum ați văzut în trailere, urmăm această cale, dar mai avem de lucru până când vom crea atmosfera perfectă. Să îi asculți pe fani e un lucru important aici și credeți-mă, o facem!
 
 58
 00:08:36,020 --> 00:08:37,000
-Kai: Oh yeah.
+Kai: O, da.
 
 59
 00:08:37,020 --> 00:08:50,400
-Dani: In terms of style, I would say we are pursuing a "heightened realism", something that feels believable with a very high detail frequency, but that not means necessarily it's real. It just feels like it is.
+Dani: În ceea ce privește stilul, aș spune că urmărim un „realism accentuat”, ceva care pare credibil cu o frecvență foarte ridicată a detaliilor, dar asta nu înseamnă neapărat că este real. Doar se simte că este.
 
 60
 00:08:50,500 --> 00:08:56,140
-Kai: Heightened Realism! Okay, gotta put that in my vocabulary book. Do you have like an art Bible?
+Kai: Realism accentuat! Bine, trebuie să adaug asta în vocabularul meu. Aveți un fel de Biblie a artei?
 
 61
 00:08:56,160 --> 00:08:57,160
-Dani: Of course we have it.
+Dani: Bineînțeles că o avem.
 
 62
 00:08:57,190 --> 00:09:00,110
-Kai: Okay. What's that? And what's covered by it?
+Kai: Bine. Ce este asta? Și ce cuprinde?
 
 63
 00:09:00,130 --> 00:09:18,260
-Dani: Sure. I mean, we have in an art bible. And in that bible we cover the use of color, the main shapes for elements, the way we decorate, the visual strategies we use to create environments, the types of materials... It's a very complex document. And the good part is that it's an evolving document that grows naturally with the game.
+Dani: Sigur. Adică, avem o biblie a artei. Și în acea biblie acoperim utilizarea culorilor, formele principale pentru elemente, modul în care decorăm, strategiile vizuale pe care le folosim pentru a crea medii, tipurile de materiale... E un document foarte complex. Iar partea bună este că e un document care evoluează și care crește în mod natural odată cu jocul.
 
 64
 00:09:18,280 --> 00:09:26,030
-Kai: That's super interesting! Can you give us an example of something that's in the art bible, and how you translate it into the actual game?
+Kai: Asta e foarte interesant! Poți să ne dai un exemplu de ceva care se află în biblia artistică și felul în care îl transpuneți în jocul real?
 
 65
 00:09:26,050 --> 00:09:47,290
-Dani: Sure. For example, in the art bible we define different strategies of color use or even decoration placement in a way that the viewer can feel the environment are bigger than they really are. And, of course, this is not something we invented. It's something that has been used in theme parks since John Hench defined "The Art of the Show" in the 60s.
+Dani: Sigur. De exemplu, în biblia artei definim diferite strategii de utilizare a culorilor sau chiar de plasare a decorațiunilor astfel încât privitorul să simtă că mediul este mai mare decât este în realitate. Și, desigur, nu e un lucru inventat de noi. Este ceva care a fost folosit în parcurile tematice încă de când John Hench a definit „The Art of the Show” în anii '60.
 
 66
 00:09:48,010 --> 00:09:56,080
