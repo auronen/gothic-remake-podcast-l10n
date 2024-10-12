@@ -92,7 +92,7 @@ Kai: Ce face mai exact un director artistic?
 
 24
 00:02:32,060 --> 00:03:05,140
-Dani: Ei bine. Bună întrebare. În general, am putea spune că directorul artistic al unui joc video este motorul din spatele esteticii jocului. Dar mai mult decât atât, munca unui director artistic constă în elaborarea și realizarea coerenței în viziunea estetică a jocului. În cazul nostru, aș spune că lucrez în cadrul unei echipe incredibile de artiști și sunt responsabil doar pentru definirea și supravegherea direcției vizuale a jocului, sau pentru garantarea tuturor aspectelor vizuale, de la personaje și decoruri la medii, culori, sau chiar lumina și interfața de utilizator.
+Dani: Ei bine. Bună întrebare. În general, am putea spune că directorul artistic al unui joc video este motorul din spatele esteticii jocului. Dar mai mult decât atât, munca unui director artistic constă în a crea coerență în viziunea estetică a jocului. În cazul nostru, aș spune că lucrez cu o echipă incredibile de artiști și sunt responsabil doar pentru definirea și supervizarea direcției vizuale a jocului, sau pentru garantarea tuturor aspectelor vizuale, de la personaje și decoruri la medii, culori, sau chiar lumina și interfața de utilizator.
 
 25
 00:03:05,160 --> 00:03:29,190
@@ -456,397 +456,397 @@ Dani: Pentru cei care ne ascultă acum: Dacă mergeți pe Google Images și cău
 
 115
 00:14:42,260 --> 00:14:50,050
-Reinhard: So we are using a modular approach to level building, right? What does that mean and how did we apply that to the Old Mine?
+Reinhard: Deci, folosim o abordare modulară pentru realizarea nivelului, corect? Ce înseamnă asta și cum am aplicat-o la mina veche?
 
 116
 00:14:50,070 --> 00:15:11,230
-Dani: Never underestimate the power of a simple wood plank. So basically, almost all we model and design is going to be used in different places - scaled, rotated. The modern graphic engine kind of asks you to be smart and be modular. So we created the Old Mine with seven different types of rock and ten different assets of wood structure.
+Dani: Nu subestimați niciodată puterea unei simple scânduri de lemn. Deci, practic, aproape tot ceea ce modelăm și proiectăm va fi utilizat în locuri diferite - scalat, rotit. Motorul grafic modern îți cam cere să fii inteligent și modular. Așa că am creat Mina Veche cu șapte tipuri diferite de rocă și zece resurse diferite de structură de lemn.
 
 117
 00:15:11,250 --> 00:15:20,000
-Dani: So you can imagine how many memory and textures we are saving here. So give us three different wood planks and we will create a world for you.
+Dani: Așa că vă puteți imagina cât de multă memorie și cât de multe texturi economisim aici. Deci, dați-ne trei scânduri de lemn diferite și vom crea o lume pentru voi.
 
 118
 00:15:20,030 --> 00:15:22,060
-Kai: Awesome (Reinhard: Guys, we have to go up here!)
+Kai: Minunat (Reinhard: Băieți, trebuie să urcăm aici!)
 
 119
 00:15:22,120 --> 00:15:23,210
-Dani: Yes. Follow me.
+Dani: Da. Urmați-mă.
 
 120
 00:15:23,230 --> 00:15:26,090
-Kai: Wait, is it safe to use the ladders?
+Kai: Așteaptă, e sigur să folosim scările?
 
 121
 00:15:26,120 --> 00:15:28,220
-Reinhard: Kai! It's not 2001 anymore.
+Reinhard: Kai! Nu mai suntem în 2001.
 
 122
 00:15:28,240 --> 00:15:29,800
-Kai: Hm, okay.
+Kai: Hm, bine.
 
 123
 00:15:33,150 --> 00:15:36,000
-Kai: It works like a charm. Nice!
+Kai: Funcționează de minune. Frumos!
 
 124
 00:15:36,020 --> 00:15:46,040
-Reinhard: I told you, our programing team - and especially Andre (Taulien) - already spent countless of hours on making sure ladder climbing won't be a disaster like in 2001.
+Reinhard: Ți-am spus, echipa noastră de programare - în special Andre (Taulien) - a petrecut deja nenumărate ore pentru a se asigura că urcarea pe scări nu va fi un dezastru ca în 2001.
 
 125
 00:15:46,050 --> 00:15:54,000
-Kai: Okay. Back in the Old Camp, Javi mentioned a new wall climbing feature. Will players be able to use that feature somewhere here in the Old Mine?
+Kai: Bine. În tabăra veche, Javi a menționat o nouă funcție de cățărare pe pereți. Vor putea jucătorii să folosească funcția respectivă undeva aici, în Mina Veche?
 
 126
 00:15:54,070 --> 00:16:01,270
-Reinhard: Not so much in the Old Mine, actually, but there are mountain areas where real climbing is another form of traversal.
+Reinhard: Nu atât de mult în mina veche, de fapt, dar există zone montane în care cățărarea propriu-zisă e o altă formă de traversare.
 
 127
 00:16:01,290 --> 00:16:11,030
-Kai: Now that I'm here in person, I have to say that the recreation of the Old Mine is really just perfect. Very true to the original, but enhanced in a really convincing and intriguing way.
+Kai: Acum că sunt aici în persoană, trebuie să spun că reconstituirea Minei Vechi este chiar perfectă. Foarte fidelă originalului, dar îmbunătățită într-un mod foarte convingător și intrigant.
 
 128
 00:16:11,060 --> 00:16:11,270
-Dani: Thanks.
+Dani: Mulțumesc.
 
 129
 00:16:12,000 --> 00:16:18,700
-Kai: Really, it's great! What was your process of designing the new Old Mine? How did you decide what to keep and what to extend?
+Kai: Pe bune, e minunată! Care a fost procesul vostru de proiectare a noii Mine Vechi? Cum ați decis ce să păstrați și ce să extindeți?
 
 130
 00:16:18,700 --> 00:16:42,140
-Dani: Well, we always start with blockouts made by the design team. We meet all together since this is always a joint effort so we can share the same vision. They provide those blockouts and then we create a task force of artist to work on that specific environment. They gather references, they create the first layer, as we called it, the "nature layer", where we place all the natural rock formations ground and so...
+Dani: Întotdeauna începem cu blockout-uri făcute de echipa de design. Ne întrunim cu toții, de vreme ce este vorba întotdeauna de un efort comun, astfel încât să putem împărtăși aceeași viziune. Ei ne oferă aceste schițe și apoi creăm un grup de lucru format din artiști care să lucreze la acel mediu specific. Aceștia adună referințe, creează primul strat, așa cum l-am numit noi, „stratul naturii”, în care plasăm toate formațiunile naturale de roci la sol și așa mai departe...
 
 131
 00:16:42,140 --> 00:17:06,250
-Dani: And once approved, we go to the "structures layer" where we design all the man-made constructions. (Kai: Mhm.) In recreating those spaces, it's very, very important to be constantly seeing and analyzing the original environments and detecting the landmarks. Walt Disney call those the "winnies" in his parks. But imagine those focal points that fans will remember when playing.
+Dani: Și odată aprobate, trecem la „stratul de structuri” unde concepem toate construcțiile făcute de om. (Kai: Îhî.) În recrearea acestor spații, e foarte, foarte important să vedem și să analizăm constant mediile originale și să detectăm reperele. Walt Disney le numea pe acestea „winnies” în parcurile sale. Dar imaginează-ți acele puncte cheie de care fanii își vor aminti atunci când se vor juca.
 
 132
 00:17:07,000 --> 00:17:22,040
-Dani: I mean, maybe you don't remember exactly the position of the intricate pasarels that descend into the Old Mine, but I'm sure you remember the oven at the end... (Kai: Yeah!) ... and the Orc slave... (Kai: Yeah.) So those things should be there in our design too.
+Dani: Adică, poate că nu vă amintiți exact poziția pasarelelor complexe care coboară în Mina Veche, dar sunt sigur că vă amintiți cuptorul de la sfârșit... (Kai: Da!) ... și sclavul Orc... (Kai: Da.) Deci, aceste lucruri ar trebui să fie acolo și în designul nostru.
 
 133
 00:17:22,060 --> 00:17:24,290
-Kai: Gotcha! And how many people were involved in building the Old Mine?
+Kai: Am înțeles! Și câți oameni au fost implicați în construirea Minei Vechi?
 
 134
 00:17:24,290 --> 00:17:36,020
-Dani: If I remember well, we assembled a task force of six artists that were involved in the artistic side of the mine, from creation of the environment to the placing of ambient particle and sound effects.
+Dani: Dacă îmi amintesc bine, am format un grup de lucru format din șase artiști care au fost implicați în partea artistică a minei, de la crearea mediului la plasarea particulelor ambientale și a efectelor sonore.
 
 135
 00:17:36,080 --> 00:17:40,040
-Kai: All right. Thanks for the INSIGHT. We're now approaching the OUTSIDE.
+Kai: În regulă. Mulțumesc pentru informații. Ne apropiem acum de exterior.
 
 136
 00:17:40,100 --> 00:17:43,180
-Reinhard: Wow, Kai.
+Reinhard: Uau, Kai.
 
 137
 00:17:43,200 --> 00:17:45,090
-Kai: (Inhales)... Aah, fresh air.
+Kai: (Inhalează)... Aah, aer proaspăt.
 
 138
 00:17:45,090 --> 00:17:48,100
-Reinhard: Yeah. I suggest we walk back to the Old Camp.
+Reinhard: Da. Propun să ne întoarcem în Tabăra Veche.
 
 139
 00:17:48,120 --> 00:17:55,220
-Dani: Yeah. Let's walk. I'll guide you for a bit, but then I have to take a different path. I have some things to do in the New Camp.
+Dani: Da. Hai să mergem. Te voi conduce un pic, dar apoi trebuie să o iau pe o altă cale. Am niște lucruri de făcut în Tabăra Nouă.
 
 140
 00:17:55,240 --> 00:17:58,230
-Kai: interesting. Has the camp already been finished?
+Kai: Interesant. A fost deja terminată tabăra?
 
 141
 00:17:58,250 --> 00:18:10,060
-Dani: Well, I cannot wait for you to see it, but answering your question: Yes! It's done. Maybe some lighting artist is there giving the final touches here and there, but I consider it done.
+Dani: Ei bine, abia aștept să o vezi, dar îți răspund la întrebare: Da! Este gata. Poate că vreun artist de lumini este acolo și mai face ultimele retușuri pe ici pe colo, dar eu consider că e gata.
 
 142
 00:18:10,130 --> 00:18:12,150
-Reinhard: Kai, if you want, you can go with Dani.
+Reinhard: Kai, dacă vrei, poți merge cu Dani.
 
 143
 00:18:12,160 --> 00:18:13,200
-Kai: Yes. Okay.
+Kai: Da. În regulă.
 
 144
 00:18:13,210 --> 00:18:16,140
-Reinhard: I have to go back to the Old Camp and hand over that letter.
+Reinhard: Trebuie să mă întorc la Tabăra Veche și să predau acea scrisoare.
 
 145
 00:18:16,190 --> 00:18:18,060
-Kai: Oh, yeah. The letter!
+Kai: O, da. Scrisoarea!
 
 146
 00:18:18,130 --> 00:18:21,120
-Reinhard: Yes, but I can pick you up at the New Camp this afternoon.
+Reinhard: Da, dar te pot lua de la Tabăra Nouă în după-amiaza asta.
 
 147
 00:18:21,150 --> 00:18:29,240
-Kai: Okay. Sounds good. Although I'm very curious who that letter is for. You've been making such a big secret out of it for a while now.
+Kai: În regulă. Sună bine. Deși sunt foarte curios pentru cine este scrisoarea aia. Ai făcut un mare secret din asta de ceva vreme.
 
 148
 00:18:29,260 --> 00:18:36,160
-Reinhard: Well, yeah. It contains some significant news, but I want the person to get them first before anyone else gets them.
+Reinhard: Ei bine, da. Conține câteva știri importante, dar vreau ca persoana respectivă să le primească prima, înainte să le primească altcineva.
 
 149
 00:18:36,180 --> 00:18:38,170
-Dani: Interesting.
+Dani: Interesant.
 
 150
 00:18:38,200 --> 00:18:40,070
-Kai: Yes, very.
+Kai: Da, foarte.
 
 151
 00:18:40,090 --> 00:18:47,080
-Reinhard: You know what? I'll accompany you to the New Camp and we can go meet the recipient in the old camp together afterwards.
+Reinhard: Știi ce? Te voi însoți în Tabăra Nouă și, după aceea, ne putem întâlni împreună cu destinatarul în Tabăra Veche.
 
 152
 00:18:47,110 --> 00:18:55,020
-Kai: Yes. Perfect. Thank you. I'll text Timur. I think he's in the New Camp. He can meet us there with the community questions.
+Kai: Da. Perfect. Mulțumesc. Îi voi trimite un mesaj lui Timur. Cred că e în Tabăra Nouă. Ne poate întâlni acolo pentru întrebările comunității.
 
 153
 00:18:55,070 --> 00:18:56,070
-Dani: All right. Thanks.
+Dani: Foarte bine. Mulțumesc.
 
 154
 00:18:56,100 --> 00:19:13,010
-Kai: So, Dani, looking at this picturesque landscape, what's your approach to world design? How realistic do you want it to be - versus, like, stylized and artistic? I know we've talked about the design process and your art bible earlier, but this question is more about your artistic influences and inspirations.
+Kai: Deci, Dani, uitându-te la acest peisaj pitoresc, care este abordarea ta față de designul lumii? Cât de realist vrei să fie - față de stilizat și artistic? Știu că am vorbit mai devreme despre procesul de creație și despre biblia voastră artistică, dar întrebarea asta este mai mult despre influențele și inspirațiile voastre artistice.
 
 155
 00:19:13,040 --> 00:19:32,100
-Dani: That's a good question, Kai. And it's something that me and Elena, you know, she's my right hand here in the team... we have debated it a lot. Where are the limits of realism? Are these or that asset falling into the stylized realm? It's something that you should be aware of constantly. As I said before, we are rooting for...
+Dani: Asta e o întrebare bună, Kai. Și este ceva ce eu și Elena, știi, ea este mâna mea dreaptă aici în echipă... am dezbătut mult. Unde sunt limitele realismului? Resursele acestea sau acelea se încadrează în domeniul stilizat? Este ceva de care trebuie să fii conștient în mod constant. După cum am mai spus, noi tindem spre...
 
 156
 00:19:32,110 --> 00:19:51,250
-Dani: ... what we call heightened realism. And this choice gives us the opportunity to work in a realistic way when we talk about materials, shape, color, light... but at the same time give us room to move into a slightly degree of stylization when we talk about magic, gods and all the fantasy themed related content.
+Dani: ... ceea ce numim realism accentuat. Iar această alegere ne oferă posibilitatea de a lucra într-un stil realist atunci când vorbim despre materiale, formă, culoare, lumină... dar, în același timp, ne oferă spațiu pentru a trece la un grad ușor de stilizare atunci când vorbim despre magie, zei și tot conținutul legat de tematica fantasy.
 
 157
 00:19:51,270 --> 00:19:52,200
-Kai: M-hm. Understood.
+Kai: M-hm. Înțeles.
 
 158
 00:19:52,230 --> 00:20:14,240
-Dani: I would say we need to be believable. (Kai: Yeah.) Always moving inside the limits of what is Gothic and what is not. But we should not go too real to that point where we ask ourselves if this or that design could really happen in the 12th century Europe parameters. And about references: I will pass two hours talking about references, man, but let's stay with the baroque painters. (Kai: Sure.)
+Dani: Aș spune că trebuie să fim credibili. (Kai: Da.) Să ne mișcăm mereu în limitele a ceea ce este Gothic și a ceea ce nu este. Dar nu ar trebui să devenim prea realiști până în punctul în care să ne întrebăm dacă acest sau acel design ar putea exista cu adevărat în parametrii Europei secolului al XII-lea. Și despre referințe: Aș putea vorbi două ore despre referințe, omule, dar să rămânem la pictorii baroci. (Kai: Sigur.)
 
 159
 00:20:14,260 --> 00:20:41,170
-Dani: The way they understood the light, the dramatic effect, the theatrical composition, the play between bright and dark... I think Caravaggio and Velazquez are good examples of that. Their paintings feel real, but they were dramatic, staged and definitive. Not realistic, but they were believable. The same with artists like Claude Lorrain and his landscapes. I mean, better stop here because - Kai - I could be hours talking about the old masters and how much we should learn from them.
+Dani: Modul în care ei înțelegeau lumina, efectul dramatic, compoziția teatrală, jocul dintre lumină și întuneric... Cred că Caravaggio și Velazquez sunt exemple bune în acest sens. Picturile lor par reale, dar erau dramatice, puse în scenă și definitive. Nu erau realiste, dar erau credibile. La fel și cu artiști precum Claude Lorrain și peisajele sale. Adică, mai bine mă opresc aici pentru că - Kai - aș putea sta ore întregi să vorbesc despre vechii maeștri și despre cât de multe ar trebui să învățăm de la ei.
 
 160
 00:20:41,180 --> 00:20:47,240
-Kai: Yeah. Seems so. I guess that's a topic for its very own, like, spinoff episode.
+Kai: Da, așa este. Se pare că da. Cred că ăsta e un subiect pentru propriul său episod, ca un spinoff.
 
 161
 00:20:47,270 --> 00:20:50,080
-Dani: There, you can see the New Camp behind that corner.
+Dani: Acolo, poți vedea Tabăra Nouă după colțul acela.
 
 162
 00:20:50,140 --> 00:20:57,100
-Kai: Yes. Can't wait to see it. But before we get there and you'll be busy with other things, I have a few questions about characters and animations.
+Kai: Da. Abia aștept să îl văd. Dar înainte să ajungem acolo și să fiți ocupați cu alte lucruri, am câteva întrebări despre personaje și animații.
 
 163
 00:20:57,170 --> 00:21:02,270
-Dani: Sure. You'll have to talk to Gerard for detailed questions about animations, but I'll see what I can do.
+Dani: Sigur. Va trebui să vorbești cu Gerard pentru întrebări detaliate despre animații, dar voi vedea ce pot face.
 
 164
 00:21:03,000 --> 00:21:23,260
-Kai: Thanks. First about characters: The original game had a bit of a cartoonish character style. Vivid colors, exaggerated face shapes, distinctive silhouettes, and so on. What's the plan for the remake? The characters I've seen are clearly distinguishable and super real. It's easy to tell which camp they're from and what they are, although everything seems to be a little toned down.
+Kai: Mulțumesc. În primul rând despre personaje: Jocul original a avut un pic de stil al personajelor de desene animate. Culori vii, forme exagerate ale feței, siluete distinctive și așa mai departe. Care este planul pentru remake? Personajele pe care le-am văzut sunt clar diferențiabile și super reale. Este ușor de spus din ce tabără provin și ce sunt, deși totul pare să fie un pic mai estompat.
 
 165
 00:21:24,030 --> 00:21:47,300
-Dani: Sure, you will be able to recognize the characters for sure. I mean, don't worry about that. We are respecting as much as possible the original design. So a guru will look like a guru and a shadow like a shadow. The challenge here was to recreate those memorable characters in a new way that felt totally respectful of the original, but at the same time offers a fresh version and I'm very happy with all the work the team did. You will see!
+Dani: Sigur, veți putea recunoaște personajele cu siguranță. Adică, nu vă faceți griji în privința asta. Noi respectăm cât mai mult posibil designul original. Deci un guru va arăta ca un guru și o umbră ca o umbră. Provocarea aici a fost să recreăm aceste personaje memorabile într-un mod nou, care să se simtă în totalitate respectuos față de original, dar în același timp să ofere o versiune proaspătă și sunt foarte mulțumit de toată munca depusă de echipă. Veți vedea!
 
 166
 00:21:47,300 --> 00:21:48,400
-Kai: Hm, okay.
+Kai: Hm, în regulă.
 
 167
 00:21:48,400 --> 00:21:54,210
-Reinhard: Dani, you've described the modular approach to building locations. Would you like to shed some light on the modular approach for characters?
+Reinhard: Dani, ai descris abordarea modulară pentru construirea locațiilor. Ai dori să ne lămurești cu privire la abordarea modulară pentru personaje?
 
 168
 00:21:54,270 --> 00:22:20,020
-Dani: Well, that's a very complex topic because as you can imagine, dressing 600 characters is not the easiest thing in the world. (Kai: No.) But we are using "Mutable", an epic technology designed for creating modular characters, clothes and armor pieces, and it has been a hard fight. But luckily pieces finally are coming together. 600 different faces, a lot of different hairstyles, beards, and thousands of small pieces of armor and cloth.
+Dani: Ei bine, ăsta e un subiect foarte complex pentru că, după cum vă puteți imagina, a îmbrăca 600 de personaje nu e cel mai ușor lucru din lume. (Kai: Nu.) Dar noi folosim „Mutable”, o tehnologie genială concepută pentru a crea personaje modulare, haine și piese de armură, și a fost o luptă grea. Dar, din fericire, lucrurile se potrivesc în cele din urmă. 600 de fețe diferite, o mulțime de coafuri diferite, bărbi și mii de piese mici de armură și pânză.
 
 169
 00:22:20,040 --> 00:22:24,240
-Dani: Now we see the light at the end of the tunnel, but we could say this has been a very fun ride.
+Dani: Acum vedem lumina de la capătul tunelului, dar am putea spune că a fost o călătorie foarte distractivă.
 
 170
 00:22:24,270 --> 00:22:31,270
-Kai: And that's good to hear. The rice fields, just like I remember them. But what's that? That's new!
+Kai: Și asta mă bucur să aud. Lanurile de orez, exact așa cum mi le amintesc. Dar ce e asta? Asta e nou!
 
 171
 00:22:32,000 --> 00:22:34,130
-Reinhard: Shhh! We don't want to talk about that now.
+Reinhard: Shhh! Nu vrem să vorbim despre asta acum.
 
 172
 00:22:34,140 --> 00:22:40,000
-Kai: Right! But ... wow, is that the Ricelord... (Dani: Oh, yes!) Wow. Interesting. Why did y...
+Kai: Corect! Dar... uau, ăsta e Lordul Orezului... (Dani: O, da!) Uau. Interesant. De ce ai...
 
 173
 00:22:40,000 --> 00:22:43,180
-Reinhard: Kai! Shh! This hasn't been released for publication just yet.
+Reinhard: Kai! Șșș! Acest lucru nu a fost dat publicității încă.
 
 174
 00:22:43,230 --> 00:22:56,120
-Kai: Okay, okay! So quick question about the faces in particular. How do you make so many different faces and make them look so good? I know you've already touched on that in the previous episode, but maybe you can elaborate a little bit.
+Kai: Bine, bine! Deci, întrebare rapidă despre fețe în special. Cum reușești să faci atât de multe fețe diferite și să le faci să arate atât de bine? Știu că ai abordat deja acest subiect în episodul anterior, dar poate poți detalia puțin.
 
 175
 00:22:56,180 --> 00:23:17,210
-Dani: Yeah, luckily we are not alone in this fight. I mean, we have the support of the nice folks at Gate 21. They are a sister company that specializes in creating faces. So together we have been working on those characters. They developed a very specific tool that lets us create dozens of different faces, mixing them, having details, changing manually specific traits...
+Dani: Da, din fericire nu suntem singuri în această luptă. Adică, avem sprijinul oamenilor simpatici de la Gate 21. Ei sunt o companie soră care este specializată în crearea de fețe. Așa că împreună am lucrat la aceste personaje. Ei au dezvoltat un instrument foarte specific care ne permite să creăm zeci de fețe diferite, să le amestecăm, să avem detalii, să schimbăm manual trăsături specifice...
 
 176
 00:23:17,230 --> 00:23:25,120
-Dani: But of course, not all the models were done using this tech. More than 100 were fully manually worked on until the very last detail.
+Dani: Dar, desigur, nu toate modelele au fost realizate folosind această tehnologie. Mai mult de 100 au fost lucrate manual până la ultimul detaliu.
 
 177
 00:23:25,120 --> 00:23:26,250
-Kai: Whoa! 100, that's crazy!
+Kai: Uau! 100, asta e o nebunie!
 
 178
 00:23:26,260 --> 00:23:44,270
-Dani: Imagine we have two tiers of characters! The tier A and the tier B. Tier A are the most important characters. Those 100 characters are designed, rigged and created fully manually. And then we have the tier B characters. Those are done using this amazing technology that helps in the process.
+Dani: Imaginați-vă că avem două niveluri de personaje! Nivelul A și nivelul B. Nivelul A sunt cele mai importante personaje. Aceste 100 de personaje sunt proiectate, aranjate și create complet manual. Și apoi avem personajele de nivel B. Acestea sunt create folosind această tehnologie uimitoare care ajută în proces.
 
 179
 00:23:45,000 --> 00:24:03,210
-Kai: Okay, that makes sense. Now about animations. I'll ask Gerard all the details, but you will let us know what your general process and pipeline is for making like people and creatures move. Are you handcrafting keyframe animations? Motion or performance capturing? Procedural animations? Fancy deep learning stuff?
+Kai: Bine, asta are sens. Acum, despre animații. Îl voi întreba pe Gerard toate detaliile, dar ne vei spune care este procesul general și procesul vostru pentru a face ca oamenii și creaturile să se miște. Creați manual animații cu cadre cheie? Captura de mișcare? Animații procedurale? Lucruri sofisticate de deep learning?
 
 180
 00:24:03,240 --> 00:24:26,300
-Dani: Yeah, I'm sure Gerard can be more specific on that topic, but I can tell you we are using all of those cases you mentioned. (Kai: Aha.) Handcrafted keyframe animations? Check. Procedural? Check. Motion capture? Well, you should see the actors screaming and fighting in the recording zone. It's pretty crazy when an Amazon guy enters the studio to deliver something and is received by a guy is screaming, holding a weapon.
+Dani: Da, sunt sigur că Gerard poate fi mai specific pe acest subiect, dar pot să vă spun că folosim toate cazurile pe care le-ați menționat. (Kai: Aha.) Animații realizate manual cu cadre cheie? Verificat. Procedurale? Verificat. Captură de mișcare? Ei bine, ar trebui să vezi actorii țipând și luptându-se în zona de înregistrare. Este destul de nebunesc când un tip de la Amazon intră în studio pentru a livra ceva și este primit de un tip care țipă, ținând o armă.
 
 181
 00:24:26,300 --> 00:24:39,110
-Dani: And deep learning stuff? Also check. It's a complicated process because we have tons of creatures, characters, complicated environments and interactions, but in the end, we hope everything will turn out all right.
+Dani: Și chestii de deep learning? De asemenea, verificat. E un proces complicat pentru că avem o mulțime de creaturi, personaje, medii și interacțiuni complicate, dar, în cele din urmă, sperăm că totul va ieși bine.
 
 182
 00:24:39,130 --> 00:24:41,200
-Kai: Ha! Caught your little Gothic 2 quote there!
+Kai: Ha! Am remarcat micul tău citat din Gothic 2 acolo!
 
 183
 00:24:41,220 --> 00:24:44,050
-Reinhard: All right. Here we are in the New Camp cave.
+Reinhard: În regulă. Iată-ne în peștera Taberei Noi.
 
 184
 00:24:44,060 --> 00:24:53,250
-Kai: Yes. Wonderful! Gosh, it means so much to me. Seeing all these places recreated so accurately and yet improved in such a fantastic way.
+Kai: Da. Minunat! Doamne, înseamnă atât de mult pentru mine. Să văd toate aceste locuri recreate atât de exact și totuși îmbunătățite într-un mod atât de fantastic.
 
 185
 00:24:53,280 --> 00:24:56,020
-Dani: Thank you so much. I'm glad you like it.
+Dani: Mulțumesc foarte mult. Mă bucur că îți place.
 
 186
 00:24:56,040 --> 00:24:57,000
-Kai: I love it!
+Kai: O ador!
 
 187
 00:24:57,070 --> 00:25:01,270
-Dani: And apparently you've already made new music, right? I can hear it playing in the background.
+Dani: Și se pare că ai făcut deja muzică nouă, nu? O aud cum cântă în fundal.
 
 188
 00:25:02,030 --> 00:25:02,140
-Kai: Yeah.
+Kai: Da.
 
 189
 00:25:02,180 --> 00:25:05,060
-Reinhard: Shall we end this episode with some music?
+Reinhard: Să încheiem acest episod cu puțină muzică?
 
 190
 00:25:05,090 --> 00:25:17,000
-Kai: Okay, let's do it. But first we have to meet Timur for some community questions, right? (Dani and Reinhard: Oh, yeah.) Oh, there he is. Hey, Timur! (Timur: Hey Kai.) So what's going on in the community?
+Kai: Bine, hai s-o facem. Dar mai întâi trebuie să ne întâlnim cu Timur pentru câteva întrebări din partea comunității, nu? (Dani și Reinhard: Oh, da.) Oh, iată-l. Hei, Timur! (Timur: Hei Kai.) Deci, ce se întâmplă în comunitate?
 
 191
 00:25:17,020 --> 00:25:22,000
-Reinhard: Our community's dying to find out more about the game. I have some questions prepared.
+Reinhard: Comunitatea noastră moare de nerăbdare să afle mai multe despre joc. Am pregătit câteva întrebări.
 
 192
 00:25:22,060 --> 00:25:23,200
-Kai: That's great. Bring it on.
+Kai: Excelent. Dă-i drumul.
 
 193
 00:25:23,220 --> 00:25:37,060
-Reinhard: So here is a question from our moderator, Drago. Will the items that the player equips appear on the character itself? Secifically rings or amulets? Like, ... in original they were invisible.
+Reinhard: Iată deci o întrebare din partea moderatorului nostru, Drago. Obiectele pe care jucătorul le echipează vor apărea pe personajul însuși? În special inelele sau amuletele? Adică, ... în original erau invizibile.
 
 194
 00:25:37,080 --> 00:25:38,080
-Kai: Reinhard, go for it.
+Kai: Reinhard, dă-i drumul.
 
 195
 00:25:38,100 --> 00:25:57,800
-Reinhard: Okay, so ... The thing is, I mean rings and amulets, you usually don't really see them because there's always some piece of cloth and armor above them. So you won't necessarily see those. But for all other things that kind of are like a little bigger, you will see them on the character. (Kai: Nice!)
+Reinhard: Bine, deci... Chestia este că, de obicei, inelele și amuletele nu prea se văd pentru că deasupra lor se află întotdeauna o bucată de pânză și armură. Așa că nu le veți vedea neapărat. Dar pentru toate celelalte lucruri care sunt un pic mai mari, le veți vedea pe personaj. (Kai: Frumos!)
 
 196
 00:25:57,800 --> 00:26:04,150
-Timur: Yeah, thank you. And one of the most popular questions in our community is: When is the gameplay footage coming?
+Timur: Da, mulțumesc. Și una dintre cele mai populare întrebări în comunitatea noastră este: Când vor apărea secvențele de gameplay?
 
 197
 00:26:04,150 --> 00:26:10,250
-Reinhard: Oh, yeah. Gameplay. So the idea is to show it at, like, the THQ Nordic Showcase in August.
+Reinhard: O, da. Gameplay. Ideea este să îl arătăm la THQ Nordic Showcase în august.
 
 198
 00:26:10,270 --> 00:26:12,170
-Kai: Oh, yes. Finally.
+Kai: O, da. În sfârșit.
 
 199
 00:26:12,190 --> 00:26:35,060
-Reinhard: Oh, I'm sure they will love it. And one more question from our moderator LurkerShnig: How will the dialog system work? Will there be a smooth transition between the moment when you press an action button and when the dialog begins? (Reinhard: So...) Or will it be closer to Elex, for example?
+Reinhard: O, sunt sigur că le va plăcea. Și încă o întrebare din partea moderatorului nostru LurkerShnig: Cum va funcționa sistemul de dialog? Va exista o tranziție lină între momentul în care apeși un buton de acțiune și momentul în care începe dialogul? (Reinhard: Deci...) Sau va fi mai aproape de Elex, de exemplu?
 
 200
 00:26:35,080 --> 00:26:54,900
-Reinhard: Going from gameplay to a dialog scene will be smooth and seamless. So we don't have any like fake scene that we set up, but we are applying some tricks. So for example, we use like very special lighting conditions and we obviously have a special rule set for the cameras so that we capture the emotions and the characters in the best possible way.
+Reinhard: Trecerea de la gameplay la o scenă de dialog va fi lină și fără cusur. Așadar, nu avem nicio scenă falsă pe care să o creăm, dar aplicăm câteva trucuri. De exemplu, folosim condiții de iluminare foarte speciale și, evident, avem un set de reguli speciale pentru camere, astfel încât să surprindem emoțiile și personajele în cel mai bun mod posibil.
 
 201
 00:26:54,900 --> 00:27:02,000
-Timur: Thank you for the answer. By the way, we have never heard about this one: When is the gameplay footage coming?
+Timur: Mulțumesc pentru răspuns. Apropo, nu am auzit nimic despre asta: Când vine secvența de gameplay?
 
 202
 00:27:02,000 --> 00:27:25,180
-Reinhard: Oh yeah, it's August. We're showing it in August at the THQ Nordic Showcase.
+Reinhard: O, da, în august. Îl prezentăm în august la THQ Nordic Showcase.
 
 203
 00:27:06,000 --> 00:27:20,200
-Timur: Oh, okay. And one more question from our active user Hombre: "How will the diary or the journal look like? Will it be closer to Gothic 1 or 2 or something closer to Gothic 3?"
+Timur: O, bine. Și încă o întrebare de la utilizatorul nostru activ Hombre: „Cum va arăta jurnalul? Va fi mai aproape de Gothic 1 sau 2 sau ceva mai asemănător cu Gothic 3?”
 
 204
 00:27:20,300 --> 00:27:35,190
-Reinhard: I would say the diary is kind of like inspired by Gothic 1 and 2. So it's not like just a copy of what we just heard, like in Gothic three, but it's in some ways it's, the hero is really taking actual notes.
+Reinhard: Aș spune că jurnalul este inspirat de Gothic 1 și 2. Deci nu este doar o copie a ceea ce tocmai am auzit, ca în Gothic 3, ci, într-un fel, eroul chiar ia notițe.
 
 205
 00:27:35,210 --> 00:27:36,100
-Kai: Interesting.
+Kai: Interesant.
 
 206
 00:27:36,100 --> 00:27:42,700
-Timur: Yeah, great! Oh, and before I forget... When is the gameplay footage dropping?
+Timur: Da, minunat! O, și înainte să uit... Când apare materialul cu gameplay?
 
 207
 00:27:42,700 --> 00:27:53,150
-Reinhard: Right, gameplay footage! So we are showing our gameplay footage for the very first time to the public in August this year at the THQ Nordic Showcase. Tune in!
+Reinhard: Exact, materialul cu gameplay! Deci, în luna august a acestui an, în cadrul THQ Nordic Showcase, vom prezenta pentru prima dată publicului secvențe de gameplay. Fiți pe fază!
 
 208
 00:27:53,170 --> 00:27:59,220
-Kai: So I guess we'll see you all there then in the livestream. Timur, thanks a lot for bringing those questions.
+Kai: Așadar, cred că ne vom vedea cu toții acolo la transmisia live. Timur, mulțumesc mult pentru că ne-ai transmis întrebările.
 
 209
 00:27:59,240 --> 00:28:00,170
-Timur: Yeah. Thank you.
+Timur: Da. Mulțumesc.
 
 210
 00:28:00,240 --> 00:28:03,060
-Kai: Dani, thank you so much for your time. That was great.
+Kai: Dani, îți mulțumim foarte mult pentru timpul acordat. A fost minunat.
 
 211
 00:28:03,060 --> 00:28:04,190
-Dani: Thank you. And likewise.
+Dani: Mulțumesc. De asemenea.
 
 212
 00:28:04,200 --> 00:28:10,070
-Reinhard: Okay, turn up the music. I'll show you around. Thanks. See you all in the next episode.
+Reinhard: Bine, dă drumul la muzică. Îți voi arăta împrejurimile. Mulțumesc. Ne vedem cu toții în episodul următor.
 
 213
 00:28:10,300 --> 00:28:14,000
-All: Bye bye, everyone. Take care.
+All: La revedere tuturor. Aveți grijă de voi.
 
