@@ -4,7 +4,7 @@ Xardas: Capitolul patru.
 
 2
 00:00:30,150 --> 00:00:54,030
-Reinhard: Bine ați venit la podcastul Gothic 1 Remake. Sunt Reinhard Pollice și, pentru cei care mă ascultă pentru prima dată, sunt fondatorul și directorul de studio al Alkimia Interactive. Și îl aștept pe compozitorul nostru, Kai Rosenkranz. Sunt în castelul Taberei Vechi, iar Kai ar trebui să fie aici în orice moment. În timp ce așteptăm... Permiteți-mi să încep prin a vă spune mulțumesc tuturor ascultătorilor.
+Reinhard: Bine ați venit la podcastul Gothic 1 Remake. Sunt Reinhard Pollice și, pentru cei care ne ascultă pentru prima dată, sunt fondatorul și directorul de studio al Alkimia Interactive. Și îl aștept pe compozitorul nostru, Kai Rosenkranz. Sunt în castelul Taberei Vechi, iar Kai ar trebui să fie aici în orice moment. În timp ce așteptăm... Permiteți-mi să încep prin a vă spune mulțumesc tuturor ascultătorilor.
 
 3
 00:00:54,060 --> 00:01:06,240
@@ -56,7 +56,7 @@ Dani: Dar în ce colibă dormi?
 
 15
 00:01:51,000 --> 00:01:56,000
-Kai: Știu că era o cabană pentru mine lângă arenă, dar Mud a ajuns să fie foarte insistent.
+Kai: Știu că era o colibă pentru mine lângă arenă, dar Mud a ajuns să fie foarte insistent.
 
 16
 00:01:56,050 --> 00:02:02,270
@@ -92,11 +92,11 @@ Kai: Ce face mai exact un director artistic?
 
 24
 00:02:32,060 --> 00:03:05,140
-Dani: Ei bine. Bună întrebare. În general, am putea spune că directorul artistic al unui joc video este motorul din spatele esteticii jocului. Dar mai mult decât atât, munca unui director artistic constă în a crea coerență în viziunea estetică a jocului. În cazul nostru, aș spune că lucrez cu o echipă incredibile de artiști și sunt responsabil doar pentru definirea și supervizarea direcției vizuale a jocului, sau pentru garantarea tuturor aspectelor vizuale, de la personaje și decoruri la medii, culori, sau chiar lumina și interfața de utilizator.
+Dani: Ei bine. Bună întrebare. În general, am putea spune că directorul artistic al unui joc video este motorul din spatele esteticii jocului. Dar mai mult decât atât, munca unui director artistic constă în a crea coerență în viziunea estetică a jocului. În cazul nostru, aș spune că lucrez cu o echipă incredibilă de artiști și sunt responsabil doar pentru definirea și supervizarea direcției vizuale a jocului, sau pentru garantarea tuturor aspectelor vizuale, de la personaje și decoruri la medii, culori, sau chiar lumina și interfața de utilizator.
 
 25
 00:03:05,160 --> 00:03:29,190
-Dani: Totul se aliniază în cadrul unei viziuni unitare. (Kai: Îhî.) Și poate v-ați putea gândi, bine atunci, deci vă petreceți ziua modelând și făcând artă 3D sau 2D. Și da... și nu. Pentru că directorul artistic are, de asemenea, sarcina de a ghida și supraveghea echipa de artiști. Iar acest lucru poate include analizarea muncii noastre, acordarea de feedback, asigurarea că viziunea jocului rămâne consecventă. Și cea mai importantă parte...
+Dani: Totul se aliniază în cadrul unei viziuni unitare. (Kai: Îhî.) Și poate v-ați putea gândi, bine atunci, deci îți petreci ziua modelând și făcând artă 3D sau 2D. Și da... și nu. Pentru că directorul artistic are, de asemenea, sarcina de a ghida și supraveghea echipa de artiști. Iar acest lucru poate include analizarea muncii noastre, acordarea de feedback, asigurarea că viziunea jocului rămâne consecventă. Și cea mai importantă parte...
 
 26
 00:03:29,210 --> 00:03:42,220
@@ -116,7 +116,7 @@ Dani: Ei bine, unele materiale vizuale există deja. Așa că putem vorbi despre
 
 30
 00:03:59,180 --> 00:04:04,160
-Kai: Da. Excelentă idee. De exemplu, mina veche a fost prezentată în teaserul Minei Vechi cu ceva timp în urmă.
+Kai: Da. Excelentă idee. De exemplu, Mina Veche a fost prezentată în teaserul Minei Vechi cu ceva timp în urmă.
 
 31
 00:04:04,220 --> 00:04:07,090
@@ -132,15 +132,15 @@ Kai: Așadar, ne aflăm în Tabăra Veche - în castel, mai exact - așa că de 
 
 34
 00:04:19,060 --> 00:04:38,250
-Dani: Deci, ei bine, totul începe cu o analiză completă a ceea ce a fost făcut anterior. Amintiți-vă că facem un remake foarte fidel. Deci, mai întâi trebuie să înțelegem deciziile luate în trecut și dacă acestea pot funcționa în lumea de astăzi. Așadar, încercăm să modernizăm ceea ce trebuie modernizat, dar menținând esența a ceea ce trebuie menținut.
+Dani: Ei bine, totul începe cu o analiză completă a ceea ce a fost făcut anterior. Amintiți-vă că facem un remake foarte fidel. Deci, mai întâi trebuie să înțelegem deciziile luate în trecut și dacă acestea pot funcționa în lumea de astăzi. Așadar, încercăm să modernizăm ceea ce trebuie modernizat, dar menținând esența a ceea ce trebuie menținut.
 
 35
 00:04:39,000 --> 00:04:59,260
-Dani: Adică, ideea este că veți vedea o umbră și o veți recunoaște ca fiind o umbră. Și când terminăm acest proces, un artist începe să creeze concepte, să adune informații, iar odată ce designul este aprobat, trecem la faza de modelare înaltă. Apoi coacem totul într-un model în joc, îl texturam. Nu uitați: Ne propunem întotdeauna armuri foarte detaliate.
+Dani: Adică, ideea este că veți vedea o umbră și o veți recunoaște ca fiind o umbră. Și când terminăm acest proces, un artist începe să creeze concepte, să adune informații, iar odată ce designul este aprobat, trecem la faza de modelare înaltă. Apoi coacem totul într-un model în joc, îl texturizăm. Nu uitați: ne propunem întotdeauna armuri foarte detaliate.
 
 36
 00:04:59,290 --> 00:05:07,000
-Dani: După ce procesul este finalizat, integrăm piesele în motorul jocului, unde finalizăm prelucrarea și ajustarea aspectului final.
+Dani: După ce procesul este finalizat, integrăm piesele în motorul jocului, unde finalizăm șlefuirea și ajustarea aspectului final.
 
 37
 00:05:07,020 --> 00:05:12,120
@@ -172,7 +172,7 @@ Dani: Da, suntem o grămadă de oameni. Adică, mai mult de 30 de persoane care 
 
 44
 00:06:00,200 --> 00:06:06,010
-Dani: Și pentru ultima dată, credeți-mă, cei care îmi salvează viața zi de zi: Avem doi coordonatori artistici extraordinari.
+Dani: Și pentru ultima dată, credeți-mă, cei care îmi salvează viața zi de zi: avem doi coordonatori artistici extraordinari.
 
 45
 00:06:06,030 --> 00:06:17,200
@@ -188,7 +188,7 @@ Kai: Da, și asta.
 
 48
 00:06:26,060 --> 00:06:33,190
-Reinhard: Deci, Dani, de ce creație artistică anume pentru Gothic 1 Remake ești cel mai mândru, până acum?
+Reinhard: Deci, Dani, de care dintre creațiile artistice făcute special pentru Gothic 1 Remake ești cel mai mândru, până acum?
 
 49
 00:06:33,210 --> 00:06:47,160
@@ -200,7 +200,7 @@ Kai: Da, cred că știu ce vrei să spui. Am fost recent în ambele turnuri ale 
 
 51
 00:07:01,130 --> 00:07:18,140
-Dani: Personajele, fără îndoială. Încercăm să ne depășim limitele aici. Vom avea mii de personaje și încercăm să le facem pe fiecare dintre ele unice. Așa că imaginați-vă munca din spatele acestui lucru. Lucrul bun este că avem compania noastră soră, Gate 21, care ne ajută în această luptă. Așa că sunt convins că împreună ne vom învinge. (Kai: Da.)
+Dani: Personajele, fără îndoială. Încercăm să ne depășim limitele aici. Vom avea mii de personaje și încercăm să le facem pe fiecare dintre ele unice. Așa că imaginați-vă munca din spatele acestui lucru. Lucrul bun este că avem compania noastră soră, Gate 21, care ne ajută în această luptă. Așa că sunt convins că împreună vom învinge. (Kai: Da.)
 
 52
 00:07:18,180 --> 00:07:32,110
@@ -216,11 +216,11 @@ Reinhard: Cum a fost procesul și cum ai descrie noul stil?
 
 55
 00:07:37,200 --> 00:07:57,210
-Dani: Da, pe PT - ei bine, Playable Teaser - am încercat să mutăm lucrurile într-o direcție diferită. Cred că s-a mai spus, dar am vrut să descoperim limitele și să vedem ce vor oamenii și cât de departe ar trebui să mergem. A fost vorba de un remake sau de o reimaginare completă a poveștii, mai în ton cu o abordare modernă, colorată și veselă?
+Dani: Da, în PT - ei bine, Playable Teaser - am încercat să mutăm lucrurile într-o direcție diferită. Cred că s-a mai spus, dar am vrut să descoperim limitele și să vedem ce vor oamenii și cât de departe ar trebui să mergem. A fost vorba de un remake sau de o reimaginare completă a poveștii, mai în ton cu o abordare modernă, colorată și veselă?
 
 56
 00:07:57,240 --> 00:08:22,180
-Dani: Sau poate ar trebui să mergem mai adânc în atmosfera întunecată, curajoasă, credibilă și mohorâtă a originalului, respectând ceea ce a făcut Gothic atât de special? Ei bine, acum răspunsul ar trebui să fie clar pentru că am întrebat comunitatea și ne-au arătat calea cea bună. Așa că, de data aceasta, ne îndreptăm spre ceva mai întunecat. Cu siguranță mai bine ancorat, mai realist, chiar mai dur. Nu aș spune depresiv, dar cu siguranță nu luxuriant sau vesel cum a fost PT.
+Dani: Sau poate ar trebui să mergem mai în profunzime în atmosfera întunecată, curajoasă, credibilă și mohorâtă a originalului, respectând ceea ce a făcut Gothic atât de special? Ei bine, acum răspunsul ar trebui să fie clar pentru că am întrebat comunitatea și ne-au arătat calea cea bună. Așa că, de data aceasta, ne îndreptăm spre ceva mai întunecat. Cu siguranță mai bine ancorat, mai realist, chiar mai dur. Nu aș spune depresiv, dar cu siguranță nu luxuriant sau vesel cum a fost PT.
 
 57
 00:08:22,210 --> 00:08:36,000
@@ -252,7 +252,7 @@ Dani: Sigur. Adică, avem o biblie a artei. Și în acea biblie acoperim utiliza
 
 64
 00:09:18,280 --> 00:09:26,030
-Kai: Asta e foarte interesant! Poți să ne dai un exemplu de ceva care se află în biblia artistică și felul în care îl transpuneți în jocul real?
+Kai: Asta e foarte interesant! Poți să ne dai un exemplu de ceva care se află în biblia artei și felul în care transpuneți asta în joc?
 
 65
 00:09:26,050 --> 00:09:47,290
@@ -296,7 +296,7 @@ Dani: Biomurile vor fi la fel ca în original. Și, desigur, am vrut să eviden�
 
 75
 00:10:58,300 --> 00:11:03,190
-Dani: Dar, știi tu, totul se află în interiorul barierei magice. Deci, această magie afectează cumva biomurile? Vom vedea.
+Dani: Dar, știi tu, totul se află în interiorul barierei magice. Deci, afectează această magie cumva biomurile? Vom vedea.
 
 76
 00:11:03,210 --> 00:11:10,130
@@ -316,7 +316,7 @@ Dani: Poate ar trebui să mergem la Mina Veche în timp ce vorbim despre asta. O
 
 80
 00:11:52,080 --> 00:11:54,100
-Kai: Dar ăsta e un drum lung prin ploaie.
+Kai: Dar asta ar însemna un drum lung prin ploaie.
 
 81
 00:11:54,180 --> 00:11:56,290
@@ -496,11 +496,11 @@ Reinhard: Ți-am spus, echipa noastră de programare - în special Andre (Taulie
 
 125
 00:15:46,050 --> 00:15:54,000
-Kai: Bine. În tabăra veche, Javi a menționat o nouă funcție de cățărare pe pereți. Vor putea jucătorii să folosească funcția respectivă undeva aici, în Mina Veche?
+Kai: Bine. În Tabăra Veche, Javi a menționat o nouă funcție de cățărare. Vor putea jucătorii să folosească funcția respectivă undeva aici, în Mina Veche?
 
 126
 00:15:54,070 --> 00:16:01,270
-Reinhard: Nu atât de mult în mina veche, de fapt, dar există zone montane în care cățărarea propriu-zisă e o altă formă de traversare.
+Reinhard: Nu atât de mult în Mina Veche, de fapt, dar există zone montane în care cățărarea propriu-zisă e o altă formă de traversare.
 
 127
 00:16:01,290 --> 00:16:11,030
@@ -616,7 +616,7 @@ Kai: Deci, Dani, uitându-te la acest peisaj pitoresc, care este abordarea ta fa
 
 155
 00:19:13,040 --> 00:19:32,100
-Dani: Asta e o întrebare bună, Kai. Și este ceva ce eu și Elena, știi, ea este mâna mea dreaptă aici în echipă... am dezbătut mult. Unde sunt limitele realismului? Resursele acestea sau acelea se încadrează în domeniul stilizat? Este ceva de care trebuie să fii conștient în mod constant. După cum am mai spus, noi tindem spre...
+Dani: Asta e o întrebare bună, Kai. Și este ceva ce eu și Elena, știi, ea este mâna mea dreaptă aici în echipă... am dezbătut mult. Unde sunt limitele realismului? Resursele acestea sau acelea se încadrează în domeniul stilizat? E ceva de care trebuie să fii conștient în mod constant. După cum am mai spus, noi tindem spre...
 
 156
 00:19:32,110 --> 00:19:51,250
@@ -644,7 +644,7 @@ Dani: Acolo, poți vedea Tabăra Nouă după colțul acela.
 
 162
 00:20:50,140 --> 00:20:57,100
-Kai: Da. Abia aștept să îl văd. Dar înainte să ajungem acolo și să fiți ocupați cu alte lucruri, am câteva întrebări despre personaje și animații.
+Kai: Da. Abia aștept s-o văd. Dar înainte să ajungem acolo și să aveți alte lucruri de făcut, am câteva întrebări despre personaje și animații.
 
 163
 00:20:57,170 --> 00:21:02,270
@@ -652,7 +652,7 @@ Dani: Sigur. Va trebui să vorbești cu Gerard pentru întrebări detaliate desp
 
 164
 00:21:03,000 --> 00:21:23,260
-Kai: Mulțumesc. În primul rând despre personaje: Jocul original a avut un pic de stil al personajelor de desene animate. Culori vii, forme exagerate ale feței, siluete distinctive și așa mai departe. Care este planul pentru remake? Personajele pe care le-am văzut sunt clar diferențiabile și super reale. Este ușor de spus din ce tabără provin și ce sunt, deși totul pare să fie un pic mai estompat.
+Kai: Mulțumesc. În primul rând despre personaje: Jocul original a avut un pic de stil de desene animate pentru personaje. Culori vii, forme exagerate ale feței, siluete distinctive și așa mai departe. Care este planul pentru remake? Personajele pe care le-am văzut sunt clar diferențiabile și super reale. Este ușor de spus din ce tabără provin și ce sunt, deși totul pare să fie un pic mai estompat.
 
 165
 00:21:24,030 --> 00:21:47,300
@@ -680,7 +680,7 @@ Kai: Și asta mă bucur să aud. Lanurile de orez, exact așa cum mi le amintesc
 
 171
 00:22:32,000 --> 00:22:34,130
-Reinhard: Shhh! Nu vrem să vorbim despre asta acum.
+Reinhard: Șșșt! Nu vrem să vorbim despre asta acum.
 
 172
 00:22:34,140 --> 00:22:40,000
@@ -688,7 +688,7 @@ Kai: Corect! Dar... uau, ăsta e Lordul Orezului... (Dani: O, da!) Uau. Interesa
 
 173
 00:22:40,000 --> 00:22:43,180
-Reinhard: Kai! Șșș! Acest lucru nu a fost dat publicității încă.
+Reinhard: Kai! Șșșt! Acest lucru nu a fost dat publicității încă.
 
 174
 00:22:43,230 --> 00:22:56,120
@@ -716,7 +716,7 @@ Kai: Bine, asta are sens. Acum, despre animații. Îl voi întreba pe Gerard toa
 
 180
 00:24:03,240 --> 00:24:26,300
-Dani: Da, sunt sigur că Gerard poate fi mai specific pe acest subiect, dar pot să vă spun că folosim toate cazurile pe care le-ați menționat. (Kai: Aha.) Animații realizate manual cu cadre cheie? Verificat. Procedurale? Verificat. Captură de mișcare? Ei bine, ar trebui să vezi actorii țipând și luptându-se în zona de înregistrare. Este destul de nebunesc când un tip de la Amazon intră în studio pentru a livra ceva și este primit de un tip care țipă, ținând o armă.
+Dani: Da, sunt sigur că Gerard poate fi mai specific pe acest subiect, dar pot să vă spun că folosim toate cazurile pe care le-ați menționat. (Kai: Aha.) Animații realizate manual cu cadre cheie? Verificat. Procedurale? Verificat. Captură de mișcare? Ei bine, ar trebui să vezi actorii țipând și luptându-se în zona de înregistrare. E destul de nebunesc când un tip de la Amazon intră în studio pentru a livra ceva și este primit de un tip care țipă, ținând o armă.
 
 181
 00:24:26,300 --> 00:24:39,110
@@ -756,7 +756,7 @@ Reinhard: Să încheiem acest episod cu puțină muzică?
 
 190
 00:25:05,090 --> 00:25:17,000
-Kai: Bine, hai s-o facem. Dar mai întâi trebuie să ne întâlnim cu Timur pentru câteva întrebări din partea comunității, nu? (Dani și Reinhard: Oh, da.) Oh, iată-l. Hei, Timur! (Timur: Hei Kai.) Deci, ce se întâmplă în comunitate?
+Kai: Bine, hai s-o facem. Dar mai întâi trebuie să ne întâlnim cu Timur pentru câteva întrebări din partea comunității, nu? (Dani și Reinhard: Oh, da.) O, iată-l. Hei, Timur! (Timur: Hei Kai.) Deci, ce se întâmplă în comunitate?
 
 191
 00:25:17,020 --> 00:25:22,000
@@ -776,7 +776,7 @@ Kai: Reinhard, dă-i drumul.
 
 195
 00:25:38,100 --> 00:25:57,800
-Reinhard: Bine, deci... Chestia este că, de obicei, inelele și amuletele nu prea se văd pentru că deasupra lor se află întotdeauna o bucată de pânză și armură. Așa că nu le veți vedea neapărat. Dar pentru toate celelalte lucruri care sunt un pic mai mari, le veți vedea pe personaj. (Kai: Frumos!)
+Reinhard: Bine, deci... Chestia este că, de obicei, inelele și amuletele nu prea se văd pentru că deasupra lor se află întotdeauna o bucată de pânză și armură. Așa că nu le veți vedea neapărat. Dar toate celelalte lucruri care sunt un pic mai mari le veți vedea pe personaj. (Kai: Frumos!)
 
 196
 00:25:57,800 --> 00:26:04,150
@@ -804,7 +804,7 @@ Timur: Mulțumesc pentru răspuns. Apropo, nu am auzit nimic despre asta: Când 
 
 202
 00:27:02,000 --> 00:27:25,180
-Reinhard: O, da, în august. Îl prezentăm în august la THQ Nordic Showcase.
+Reinhard: O, da, în august. O arătăm în august la THQ Nordic Showcase.
 
 203
 00:27:06,000 --> 00:27:20,200
@@ -848,5 +848,5 @@ Reinhard: Bine, dă drumul la muzică. Îți voi arăta împrejurimile. Mulțume
 
 213
 00:28:10,300 --> 00:28:14,000
-All: La revedere tuturor. Aveți grijă de voi.
+Toți: La revedere tuturor. Aveți grijă de voi.
 
